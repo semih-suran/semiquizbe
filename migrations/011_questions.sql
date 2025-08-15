@@ -1,0 +1,23 @@
+CREATE TABLE IF NOT EXISTS questions (
+  id text PRIMARY KEY,
+  country_code varchar(8) NOT NULL,
+  question text NOT NULL,
+  options_json jsonb NOT NULL,
+  correct_option_id text NOT NULL,
+  explanation text,
+  source_url_json jsonb,
+  category text,
+  difficulty text,
+  time_limit_seconds int NOT NULL CHECK (time_limit_seconds BETWEEN 5 AND 120),
+  language text,
+  tags_json jsonb DEFAULT '[]'::jsonb,
+  created_by text,
+  created_at timestamptz NOT NULL DEFAULT now(),
+  updated_at timestamptz NOT NULL DEFAULT now(),
+  version int NOT NULL DEFAULT 1,
+  usage_count bigint NOT NULL DEFAULT 0,
+  correct_count bigint NOT NULL DEFAULT 0,
+  avg_response_ms double precision DEFAULT 0,
+  flag_count int NOT NULL DEFAULT 0,
+  review_status text DEFAULT 'pending'
+);
