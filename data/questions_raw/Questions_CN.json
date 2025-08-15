@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "cn_q001",
+    "question": "Which leader led the 1911 Revolution that ended feudal monarchy in China?",
+    "options": [
+      {
+        "id": "cn_q001_o1",
+        "text": "Deng Xiaoping"
+      },
+      {
+        "id": "cn_q001_o2",
+        "text": "Sun Yat-sen"
+      },
+      {
+        "id": "cn_q001_o3",
+        "text": "Chiang Kai-shek"
+      },
+      {
+        "id": "cn_q001_o4",
+        "text": "Mao Zedong"
+      }
+    ],
+    "correct_option_id": "cn_q001_o2",
+    "explanation": "The 1911 Revolution (Xinhai Revolution) was led by Dr. Sun Yat-sen:contentReference[oaicite:33]{index=33}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q002",
+    "question": "In which year was the People’s Republic of China established?",
+    "options": [
+      {
+        "id": "cn_q002_o1",
+        "text": "1978"
+      },
+      {
+        "id": "cn_q002_o2",
+        "text": "1949"
+      },
+      {
+        "id": "cn_q002_o3",
+        "text": "1912"
+      },
+      {
+        "id": "cn_q002_o4",
+        "text": "1921"
+      }
+    ],
+    "correct_option_id": "cn_q002_o2",
+    "explanation": "In 1949 the Chinese people founded the People’s Republic of China:contentReference[oaicite:34]{index=34}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q003",
+    "question": "What is the national anthem of the People’s Republic of China?",
+    "options": [
+      {
+        "id": "cn_q003_o1",
+        "text": "March of the Volunteers"
+      },
+      {
+        "id": "cn_q003_o2",
+        "text": "Military Anthem of the Chinese PLA"
+      },
+      {
+        "id": "cn_q003_o3",
+        "text": "Ode to the Motherland"
+      },
+      {
+        "id": "cn_q003_o4",
+        "text": "The East is Red"
+      }
+    ],
+    "correct_option_id": "cn_q003_o1",
+    "explanation": "“March of the Volunteers” is named as China’s national anthem:contentReference[oaicite:35]{index=35}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q004",
+    "question": "What landmark is depicted at the center of China’s national emblem?",
+    "options": [
+      {
+        "id": "cn_q004_o1",
+        "text": "The Forbidden City"
+      },
+      {
+        "id": "cn_q004_o2",
+        "text": "Tiananmen Gate"
+      },
+      {
+        "id": "cn_q004_o3",
+        "text": "The Great Wall"
+      },
+      {
+        "id": "cn_q004_o4",
+        "text": "The Temple of Heaven"
+      }
+    ],
+    "correct_option_id": "cn_q004_o2",
+    "explanation": "China’s national emblem features Tiananmen Gate at the center:contentReference[oaicite:36]{index=36}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q005",
+    "question": "What is the capital city of the People’s Republic of China?",
+    "options": [
+      {
+        "id": "cn_q005_o1",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q005_o2",
+        "text": "Hong Kong"
+      },
+      {
+        "id": "cn_q005_o3",
+        "text": "Chongqing"
+      },
+      {
+        "id": "cn_q005_o4",
+        "text": "Shanghai"
+      }
+    ],
+    "correct_option_id": "cn_q005_o1",
+    "explanation": "Article 143 of the Constitution states that the capital of the PRC is Beijing:contentReference[oaicite:37]{index=37}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q006",
+    "question": "According to official Chinese records, how many provinces (including Taiwan as a province) does China have?",
+    "options": [
+      {
+        "id": "cn_q006_o1",
+        "text": "22"
+      },
+      {
+        "id": "cn_q006_o2",
+        "text": "24"
+      },
+      {
+        "id": "cn_q006_o3",
+        "text": "23"
+      },
+      {
+        "id": "cn_q006_o4",
+        "text": "21"
+      }
+    ],
+    "correct_option_id": "cn_q006_o3",
+    "explanation": "China officially has 23 provinces (counting Taiwan):contentReference[oaicite:38]{index=38}.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q007",
+    "question": "How many autonomous regions are there in China?",
+    "options": [
+      {
+        "id": "cn_q007_o1",
+        "text": "7"
+      },
+      {
+        "id": "cn_q007_o2",
+        "text": "5"
+      },
+      {
+        "id": "cn_q007_o3",
+        "text": "3"
+      },
+      {
+        "id": "cn_q007_o4",
+        "text": "9"
+      }
+    ],
+    "correct_option_id": "cn_q007_o2",
+    "explanation": "China has five autonomous regions:contentReference[oaicite:39]{index=39}.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q008",
+    "question": "Who is responsible for directing the work of China’s State Council (the Central People’s Government)?",
+    "options": [
+      {
+        "id": "cn_q008_o1",
+        "text": "President"
+      },
+      {
+        "id": "cn_q008_o2",
+        "text": "Premier"
+      },
+      {
+        "id": "cn_q008_o3",
+        "text": "NPC Chairman"
+      },
+      {
+        "id": "cn_q008_o4",
+        "text": "Court President"
+      }
+    ],
+    "correct_option_id": "cn_q008_o2",
+    "explanation": "The Constitution specifies that the Premier directs the work of the State Council:contentReference[oaicite:40]{index=40}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q009",
+    "question": "According to the Chinese Constitution, which body is the “highest state organ of power”?",
+    "options": [
+      {
+        "id": "cn_q009_o1",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q009_o2",
+        "text": "NPC"
+      },
+      {
+        "id": "cn_q009_o3",
+        "text": "CMC"
+      },
+      {
+        "id": "cn_q009_o4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "cn_q009_o2",
+    "explanation": "Article 57 declares the NPC to be the highest state organ of power:contentReference[oaicite:41]{index=41}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q010",
+    "question": "By what mechanism are the President and Vice President of China chosen?",
+    "options": [
+      {
+        "id": "cn_q010_o1",
+        "text": "NPC"
+      },
+      {
+        "id": "cn_q010_o2",
+        "text": "CMC"
+      },
+      {
+        "id": "cn_q010_o3",
+        "text": "Popular vote"
+      },
+      {
+        "id": "cn_q010_o4",
+        "text": "Premier"
+      }
+    ],
+    "correct_option_id": "cn_q010_o1",
+    "explanation": "The Constitution gives the NPC the power to elect China’s President and Vice President:contentReference[oaicite:42]{index=42}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q011",
+    "question": "According to the Constitution, at what minimum age do Chinese citizens gain the right to vote and stand for election?",
+    "options": [
+      {
+        "id": "cn_q011_o1",
+        "text": "21"
+      },
+      {
+        "id": "cn_q011_o2",
+        "text": "18"
+      },
+      {
+        "id": "cn_q011_o3",
+        "text": "25"
+      },
+      {
+        "id": "cn_q011_o4",
+        "text": "16"
+      }
+    ],
+    "correct_option_id": "cn_q011_o2",
+    "explanation": "Article 34 provides that all citizens aged 18 or older have the right to vote and stand for election:contentReference[oaicite:43]{index=43}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q012",
+    "question": "Which of the following is not one of the freedoms guaranteed by Article 35 of the Chinese Constitution?",
+    "options": [
+      {
+        "id": "cn_q012_o1",
+        "text": "Freedom of education"
+      },
+      {
+        "id": "cn_q012_o2",
+        "text": "Freedom of religious belief"
+      },
+      {
+        "id": "cn_q012_o3",
+        "text": "Arms bearing"
+      },
+      {
+        "id": "cn_q012_o4",
+        "text": "Freedom of speech, press, assembly, demonstration"
+      }
+    ],
+    "correct_option_id": "cn_q012_o2",
+    "explanation": "Article 35 lists freedoms of speech, press, assembly, etc.; freedom of religious belief is in Article 36:contentReference[oaicite:44]{index=44}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q013",
+    "question": "Does the Chinese Constitution provide for equal rights for women?",
+    "options": [
+      {
+        "id": "cn_q013_o1",
+        "text": "Yes, equal in all spheres"
+      },
+      {
+        "id": "cn_q013_o2",
+        "text": "No, restrictions apply"
+      },
+      {
+        "id": "cn_q013_o3",
+        "text": "Only in politics"
+      },
+      {
+        "id": "cn_q013_o4",
+        "text": "Only marriage-related"
+      }
+    ],
+    "correct_option_id": "cn_q013_o1",
+    "explanation": "Article 48 explicitly guarantees women equal rights with men in all spheres of life:contentReference[oaicite:45]{index=45}.",
+    "source_url": [
+      "https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q014",
+    "question": "What is the legal currency of the People’s Republic of China?",
+    "options": [
+      {
+        "id": "cn_q014_o1",
+        "text": "Yen"
+      },
+      {
+        "id": "cn_q014_o2",
+        "text": "Euro"
+      },
+      {
+        "id": "cn_q014_o3",
+        "text": "RMB (Yuan)"
+      },
+      {
+        "id": "cn_q014_o4",
+        "text": "Dollar"
+      }
+    ],
+    "correct_option_id": "cn_q014_o3",
+    "explanation": "China’s legal currency is the Renminbi (RMB), with yuan as the basic unit:contentReference[oaicite:46]{index=46}.",
+    "source_url": [
+      "https://en.nia.gov.cn/n147428/n147498/n147770/n147895/c158987/content.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q015",
+    "question": "How many Jiao (角) make up one Yuan (元) in Chinese currency?",
+    "options": [
+      {
+        "id": "cn_q015_o1",
+        "text": "5"
+      },
+      {
+        "id": "cn_q015_o2",
+        "text": "10"
+      },
+      {
+        "id": "cn_q015_o3",
+        "text": "100"
+      },
+      {
+        "id": "cn_q015_o4",
+        "text": "1000"
+      }
+    ],
+    "correct_option_id": "cn_q015_o2",
+    "explanation": "China’s currency uses the yuan as its unit; 1 yuan = 10 jiao:contentReference[oaicite:47]{index=47}.",
+    "source_url": [
+      "https://en.nia.gov.cn/n147428/n147498/n147770/n147895/c158987/content.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q016",
+    "question": "According to the Chinese Constitution, what body oversees enactment of administrative measures and rules?",
+    "options": [
+      {
+        "id": "cn_q016_o1",
+        "text": "National People’s Congress (NPC)"
+      },
+      {
+        "id": "cn_q016_o2",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q016_o3",
+        "text": "Supreme People’s Court"
+      },
+      {
+        "id": "cn_q016_o4",
+        "text": "Central Military Commission"
+      }
+    ],
+    "correct_option_id": "cn_q016_o2",
+    "explanation": "Article 89 of the Constitution empowers the State Council to adopt administrative measures and enact administrative regulations.",
+    "source_url": [
+      "https://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474982987458.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q017",
+    "question": "Which basic state policy governs Hong Kong and Macau’s system within the PRC?",
+    "options": [
+      {
+        "id": "cn_q017_o1",
+        "text": "One nation, one system"
+      },
+      {
+        "id": "cn_q017_o2",
+        "text": "One country, two systems"
+      },
+      {
+        "id": "cn_q017_o3",
+        "text": "Independent operation"
+      },
+      {
+        "id": "cn_q017_o4",
+        "text": "Direct rule"
+      }
+    ],
+    "correct_option_id": "cn_q017_o2",
+    "explanation": "The “one country, two systems” policy is a fundamental state policy adopted for peaceful reunification and governance of Hong Kong and Macau.",
+    "source_url": [
+      "https://english.gov.cn/archive/white_paper/2014/08/23/content_281474982986578.htm"
+    ],
+    "category": "Government / Contemporary Affairs",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q018",
+    "question": "How many official public holidays are there in China, as of recent government announcements?",
+    "options": [
+      {
+        "id": "cn_q018_o1",
+        "text": "Five"
+      },
+      {
+        "id": "cn_q018_o2",
+        "text": "Six"
+      },
+      {
+        "id": "cn_q018_o3",
+        "text": "Seven"
+      },
+      {
+        "id": "cn_q018_o4",
+        "text": "Eight"
+      }
+    ],
+    "correct_option_id": "cn_q018_o3",
+    "explanation": "Recent official announcements confirm that there are seven statutory public holidays in China.",
+    "source_url": [
+      "https://english.www.gov.cn/policies/latestreleases/202411/12/content_WS67331db5c6d0868f4e8ecd92.html"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q019",
+    "question": "In 2025, which holiday will be extended by one additional day according to State Council decree?",
+    "options": [
+      {
+        "id": "cn_q019_o1",
+        "text": "Spring Festival"
+      },
+      {
+        "id": "cn_q019_o2",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q019_o3",
+        "text": "Qingming Festival"
+      },
+      {
+        "id": "cn_q019_o4",
+        "text": "National Day"
+      }
+    ],
+    "correct_option_id": "cn_q019_o1",
+    "explanation": "The State Council decree extends the Spring Festival holiday by one additional day starting in 2025.",
+    "source_url": [
+      "https://english.www.gov.cn/news/202411/12/content_WS67331f65c6d0868f4e8ecd9b.html"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q020",
+    "question": "How many public holidays are there in total—including extensions—as officially listed for 2025?",
+    "options": [
+      {
+        "id": "cn_q020_o1",
+        "text": "Seven"
+      },
+      {
+        "id": "cn_q020_o2",
+        "text": "Nine"
+      },
+      {
+        "id": "cn_q020_o3",
+        "text": "Eight"
+      },
+      {
+        "id": "cn_q020_o4",
+        "text": "Ten"
+      }
+    ],
+    "correct_option_id": "cn_q020_o1",
+    "explanation": "There remain seven main statutory public holidays, even with the extensions applied to some—holiday count remains at seven.",
+    "source_url": [
+      "https://english.www.gov.cn/policies/latestreleases/202411/12/content_WS67331db5c6d0868f4e8ecd92.html"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q021",
+    "question": "Which festival commemorates ancestor remembrance and typically falls on April 4–6?",
+    "options": [
+      {
+        "id": "cn_q021_o1",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q021_o2",
+        "text": "Qingming Festival"
+      },
+      {
+        "id": "cn_q021_o3",
+        "text": "Mid-Autumn Festival"
+      },
+      {
+        "id": "cn_q021_o4",
+        "text": "Lantern Festival"
+      }
+    ],
+    "correct_option_id": "cn_q021_o2",
+    "explanation": "Qingming Festival (Tomb-Sweeping Day) is observed from around April 4 to 6, when families pay respects to ancestors.",
+    "source_url": [
+      "https://english.www.gov.cn/policies/latestreleases/202411/12/content_WS67331db5c6d0868f4e8ecd92.html"
+    ],
+    "category": "Culture / History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q022",
+    "question": "National Day of the PRC is celebrated annually on which date?",
+    "options": [
+      {
+        "id": "cn_q022_o1",
+        "text": "January 1"
+      },
+      {
+        "id": "cn_q022_o2",
+        "text": "April 4"
+      },
+      {
+        "id": "cn_q022_o3",
+        "text": "May 1"
+      },
+      {
+        "id": "cn_q022_o4",
+        "text": "October 1"
+      }
+    ],
+    "correct_option_id": "cn_q022_o4",
+    "explanation": "The PRC’s National Day is celebrated each year on October 1, commemorating the founding of the PRC in 1949.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/National_Day_of_the_People%27s_Republic_of_China"
+    ],
+    "category": "History / Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q023",
+    "question": "The combined 7-day holiday including National Day is commonly known as:",
+    "options": [
+      {
+        "id": "cn_q023_o1",
+        "text": "Golden Week"
+      },
+      {
+        "id": "cn_q023_o2",
+        "text": "Silver Week"
+      },
+      {
+        "id": "cn_q023_o3",
+        "text": "Red Week"
+      },
+      {
+        "id": "cn_q023_o4",
+        "text": "Unity Week"
+      }
+    ],
+    "correct_option_id": "cn_q023_o1",
+    "explanation": "The extended series of vacations around National Day is known as “Golden Week.”",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Golden_Week_%28China%29"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q024",
+    "question": "What is commemorated on Youth Day (May 4) in China?",
+    "options": [
+      {
+        "id": "cn_q024_o1",
+        "text": "Founding of the PRC"
+      },
+      {
+        "id": "cn_q024_o2",
+        "text": "Youth Day Honors"
+      },
+      {
+        "id": "cn_q024_o3",
+        "text": "May Fourth Movement"
+      },
+      {
+        "id": "cn_q024_o4",
+        "text": "Dragon Boat origins"
+      }
+    ],
+    "correct_option_id": "cn_q024_o3",
+    "explanation": "Youth Day on May 4 commemorates the May Fourth Movement, a 1919 student-led patriotic movement.",
+    "source_url": [
+      "https://en.wikipedia.org/wiki/Youth_Day_%28China%29"
+    ],
+    "category": "History / Culture",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q025",
+    "question": "Which body passed the PRC Constitution giving the State Council its powers under Article 89?",
+    "options": [
+      {
+        "id": "cn_q025_o1",
+        "text": "Central Committee of the CCP"
+      },
+      {
+        "id": "cn_q025_o2",
+        "text": "State Council itself"
+      },
+      {
+        "id": "cn_q025_o3",
+        "text": "National People’s Congress"
+      },
+      {
+        "id": "cn_q025_o4",
+        "text": "Presidium"
+      }
+    ],
+    "correct_option_id": "cn_q025_o3",
+    "explanation": "It is the National People’s Congress that enacts the Constitution and grants legal powers to bodies like the State Council.",
+    "source_url": [
+      "https://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474982987458.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q026",
+    "question": "Which holiday is not among the seven statutory public holidays listed in official government communications?",
+    "options": [
+      {
+        "id": "cn_q026_o1",
+        "text": "Labour Day"
+      },
+      {
+        "id": "cn_q026_o2",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q026_o3",
+        "text": "Lantern Festival"
+      },
+      {
+        "id": "cn_q026_o4",
+        "text": "Mid-Autumn Festival"
+      }
+    ],
+    "correct_option_id": "cn_q026_o3",
+    "explanation": "Lantern Festival is traditional but is not among the seven statutory holidays listed in official government announcements.",
+    "source_url": [
+      "https://english.www.gov.cn/policies/latestreleases/202411/12/content_WS67331db5c6d0868f4e8ecd92.html"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q027",
+    "question": "Which holiday is extended from one day to two days, effective in 2025, per government decree?",
+    "options": [
+      {
+        "id": "cn_q027_o1",
+        "text": "Spring Festival"
+      },
+      {
+        "id": "cn_q027_o2",
+        "text": "Labour Day"
+      },
+      {
+        "id": "cn_q027_o3",
+        "text": "National Day"
+      },
+      {
+        "id": "cn_q027_o4",
+        "text": "Qingming Festival"
+      }
+    ],
+    "correct_option_id": "cn_q027_o2",
+    "explanation": "Labour Day (May 1) is extended by one additional day (from one to two days) starting in 2025.",
+    "source_url": [
+      "https://english.www.gov.cn/news/202411/12/content_WS67331f65c6d0868f4e8ecd9b.html"
+    ],
+    "category": "Culture / Everyday Life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q028",
+    "question": "Which national policy reflects governance differences between mainland China and its special administrative regions?",
+    "options": [
+      {
+        "id": "cn_q028_o1",
+        "text": "One nation, one belt"
+      },
+      {
+        "id": "cn_q028_o2",
+        "text": "One country, two systems"
+      },
+      {
+        "id": "cn_q028_o3",
+        "text": "Autonomous regions policy"
+      },
+      {
+        "id": "cn_q028_o4",
+        "text": "Mainland liaison system"
+      }
+    ],
+    "correct_option_id": "cn_q028_o2",
+    "explanation": "“One country, two systems” is the policy that implements different governance systems in Hong Kong and Macau within the PRC.",
+    "source_url": [
+      "https://english.gov.cn/archive/white_paper/2014/08/23/content_281474982986578.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q029",
+    "question": "Which Chinese city hosts the annual Boao Forum for Asia, a major economic conference?",
+    "options": [
+      {
+        "id": "cn_q029_o1",
+        "text": "Shanghai"
+      },
+      {
+        "id": "cn_q029_o2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q029_o3",
+        "text": "Boao"
+      },
+      {
+        "id": "cn_q029_o4",
+        "text": "Shenzhen"
+      }
+    ],
+    "correct_option_id": "cn_q029_o3",
+    "explanation": "The Boao Forum for Asia is held annually in Boao, Hainan Province, and focuses on economic cooperation in Asia.",
+    "source_url": [
+      "https://english.www.gov.cn/news/topnews/202404/20/content_WS662353ffc6d0868f4e8ebdf4.html"
+    ],
+    "category": "Contemporary Affairs / Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q030",
+    "question": "Which ministry in China is responsible for managing the country’s foreign affairs?",
+    "options": [
+      {
+        "id": "cn_q030_o1",
+        "text": "Ministry of Foreign Affairs"
+      },
+      {
+        "id": "cn_q030_o2",
+        "text": "Ministry of Commerce"
+      },
+      {
+        "id": "cn_q030_o3",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q030_o4",
+        "text": "National Development and Reform Commission"
+      }
+    ],
+    "correct_option_id": "cn_q030_o1",
+    "explanation": "The Ministry of Foreign Affairs of the PRC manages foreign policy and diplomatic relations on behalf of the State Council.",
+    "source_url": [
+      "https://www.fmprc.gov.cn/mfa_eng/"
+    ],
+    "category": "Government / Foreign Policy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q031",
+    "question": "What is the capital city of the People's Republic of China?",
+    "options": [
+      {
+        "id": "cn_q031_o1",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q031_o2",
+        "text": "Shanghai"
+      },
+      {
+        "id": "cn_q031_o3",
+        "text": "Guangzhou"
+      },
+      {
+        "id": "cn_q031_o4",
+        "text": "Shenzhen"
+      }
+    ],
+    "correct_option_id": "cn_q031_o1",
+    "explanation": "Beijing is the capital of China, as stated by the State Council of the PRC.",
+    "source_url": [
+      "http://english.www.gov.cn/2016special/beijing/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q032",
+    "question": "What is the national emblem of the People's Republic of China based on?",
+    "options": [
+      {
+        "id": "cn_q032_o1",
+        "text": "Tiananmen Gate and five stars"
+      },
+      {
+        "id": "cn_q032_o2",
+        "text": "The Great Wall and a dragon"
+      },
+      {
+        "id": "cn_q032_o3",
+        "text": "A red panda and bamboo"
+      },
+      {
+        "id": "cn_q032_o4",
+        "text": "Lotus flower and waves"
+      }
+    ],
+    "correct_option_id": "cn_q032_o1",
+    "explanation": "The national emblem features Tiananmen Gate under five stars, representing the unity of the Chinese people under the leadership of the Communist Party.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q033",
+    "question": "Who is the head of state of the People's Republic of China?",
+    "options": [
+      {
+        "id": "cn_q033_o1",
+        "text": "The President"
+      },
+      {
+        "id": "cn_q033_o2",
+        "text": "The Premier"
+      },
+      {
+        "id": "cn_q033_o3",
+        "text": "The General Secretary"
+      },
+      {
+        "id": "cn_q033_o4",
+        "text": "The National People's Congress Chairman"
+      }
+    ],
+    "correct_option_id": "cn_q033_o1",
+    "explanation": "The President of the PRC is the head of state, as defined in the Constitution of the PRC.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q034",
+    "question": "In which year was the People's Republic of China founded?",
+    "options": [
+      {
+        "id": "cn_q034_o1",
+        "text": "1945"
+      },
+      {
+        "id": "cn_q034_o2",
+        "text": "1949"
+      },
+      {
+        "id": "cn_q034_o3",
+        "text": "1955"
+      },
+      {
+        "id": "cn_q034_o4",
+        "text": "1966"
+      }
+    ],
+    "correct_option_id": "cn_q034_o2",
+    "explanation": "The People's Republic of China was founded on October 1, 1949.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q035",
+    "question": "What is the highest organ of state power in China?",
+    "options": [
+      {
+        "id": "cn_q035_o1",
+        "text": "The State Council"
+      },
+      {
+        "id": "cn_q035_o2",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q035_o3",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q035_o4",
+        "text": "The Central Military Commission"
+      }
+    ],
+    "correct_option_id": "cn_q035_o2",
+    "explanation": "The National People's Congress is the highest organ of state power according to the PRC Constitution.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q036",
+    "question": "Which body is responsible for China's foreign affairs?",
+    "options": [
+      {
+        "id": "cn_q036_o1",
+        "text": "The Ministry of Foreign Affairs"
+      },
+      {
+        "id": "cn_q036_o2",
+        "text": "The Ministry of Commerce"
+      },
+      {
+        "id": "cn_q036_o3",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q036_o4",
+        "text": "The Central Bank"
+      }
+    ],
+    "correct_option_id": "cn_q036_o1",
+    "explanation": "The Ministry of Foreign Affairs is the government body responsible for China's diplomatic relations.",
+    "source_url": [
+      "https://www.fmprc.gov.cn/mfa_eng/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q037",
+    "question": "What is the official currency of China?",
+    "options": [
+      {
+        "id": "cn_q037_o1",
+        "text": "Yuan (Renminbi)"
+      },
+      {
+        "id": "cn_q037_o2",
+        "text": "Hong Kong Dollar"
+      },
+      {
+        "id": "cn_q037_o3",
+        "text": "New Taiwan Dollar"
+      },
+      {
+        "id": "cn_q037_o4",
+        "text": "Yen"
+      }
+    ],
+    "correct_option_id": "cn_q037_o1",
+    "explanation": "The official currency is the Renminbi, with the yuan as its primary unit.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q038",
+    "question": "Which city hosted the 2008 Summer Olympic Games?",
+    "options": [
+      {
+        "id": "cn_q038_o1",
+        "text": "Shanghai"
+      },
+      {
+        "id": "cn_q038_o2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q038_o3",
+        "text": "Guangzhou"
+      },
+      {
+        "id": "cn_q038_o4",
+        "text": "Nanjing"
+      }
+    ],
+    "correct_option_id": "cn_q038_o2",
+    "explanation": "Beijing hosted the 2008 Summer Olympics, as confirmed by the State Council's official news.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q039",
+    "question": "Which river is the longest in China?",
+    "options": [
+      {
+        "id": "cn_q039_o1",
+        "text": "Yellow River"
+      },
+      {
+        "id": "cn_q039_o2",
+        "text": "Yangtze River"
+      },
+      {
+        "id": "cn_q039_o3",
+        "text": "Mekong River"
+      },
+      {
+        "id": "cn_q039_o4",
+        "text": "Pearl River"
+      }
+    ],
+    "correct_option_id": "cn_q039_o2",
+    "explanation": "The Yangtze River is the longest river in China, stretching over 6,300 kilometers.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q040",
+    "question": "What is the highest court in China's judicial system?",
+    "options": [
+      {
+        "id": "cn_q040_o1",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q040_o2",
+        "text": "The High People's Court"
+      },
+      {
+        "id": "cn_q040_o3",
+        "text": "The Intermediate People's Court"
+      },
+      {
+        "id": "cn_q040_o4",
+        "text": "The People's Procuratorate"
+      }
+    ],
+    "correct_option_id": "cn_q040_o1",
+    "explanation": "The Supreme People's Court is the highest judicial authority in China.",
+    "source_url": [
+      "http://english.court.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q041",
+    "question": "What is the national flag of China called?",
+    "options": [
+      {
+        "id": "cn_q041_o1",
+        "text": "Five-star Red Flag"
+      },
+      {
+        "id": "cn_q041_o2",
+        "text": "Red Dragon Banner"
+      },
+      {
+        "id": "cn_q041_o3",
+        "text": "Sun and Moon Flag"
+      },
+      {
+        "id": "cn_q041_o4",
+        "text": "Yellow River Flag"
+      }
+    ],
+    "correct_option_id": "cn_q041_o1",
+    "explanation": "China's national flag is officially called the Five-star Red Flag, symbolizing the unity of the Chinese people under the leadership of the Communist Party.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q042",
+    "question": "Which is the largest province in China by area?",
+    "options": [
+      {
+        "id": "cn_q042_o1",
+        "text": "Xinjiang Uygur Autonomous Region"
+      },
+      {
+        "id": "cn_q042_o2",
+        "text": "Tibet Autonomous Region"
+      },
+      {
+        "id": "cn_q042_o3",
+        "text": "Inner Mongolia Autonomous Region"
+      },
+      {
+        "id": "cn_q042_o4",
+        "text": "Qinghai Province"
+      }
+    ],
+    "correct_option_id": "cn_q042_o1",
+    "explanation": "Xinjiang Uygur Autonomous Region is the largest provincial-level division by area in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q043",
+    "question": "Which city is China's largest by population?",
+    "options": [
+      {
+        "id": "cn_q043_o1",
+        "text": "Shanghai"
+      },
+      {
+        "id": "cn_q043_o2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q043_o3",
+        "text": "Guangzhou"
+      },
+      {
+        "id": "cn_q043_o4",
+        "text": "Shenzhen"
+      }
+    ],
+    "correct_option_id": "cn_q043_o1",
+    "explanation": "Shanghai is the most populous city in China according to official statistics.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q044",
+    "question": "When was the Constitution of the People's Republic of China adopted?",
+    "options": [
+      {
+        "id": "cn_q044_o1",
+        "text": "1954"
+      },
+      {
+        "id": "cn_q044_o2",
+        "text": "1978"
+      },
+      {
+        "id": "cn_q044_o3",
+        "text": "1982"
+      },
+      {
+        "id": "cn_q044_o4",
+        "text": "1992"
+      }
+    ],
+    "correct_option_id": "cn_q044_o3",
+    "explanation": "The current Constitution of the People's Republic of China was adopted in 1982.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q045",
+    "question": "Which organ oversees the enforcement of the Constitution in China?",
+    "options": [
+      {
+        "id": "cn_q045_o1",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q045_o2",
+        "text": "The State Council"
+      },
+      {
+        "id": "cn_q045_o3",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q045_o4",
+        "text": "The Central Committee"
+      }
+    ],
+    "correct_option_id": "cn_q045_o1",
+    "explanation": "The National People's Congress oversees enforcement of the Constitution according to the PRC Constitution.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q046",
+    "question": "Which body is the highest military organ in China?",
+    "options": [
+      {
+        "id": "cn_q046_o1",
+        "text": "The Central Military Commission"
+      },
+      {
+        "id": "cn_q046_o2",
+        "text": "The Ministry of National Defense"
+      },
+      {
+        "id": "cn_q046_o3",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q046_o4",
+        "text": "The State Council"
+      }
+    ],
+    "correct_option_id": "cn_q046_o1",
+    "explanation": "The Central Military Commission is the highest military organ in China, responsible for the command of the armed forces.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/ministries/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q047",
+    "question": "Which is the highest mountain in China?",
+    "options": [
+      {
+        "id": "cn_q047_o1",
+        "text": "K2"
+      },
+      {
+        "id": "cn_q047_o2",
+        "text": "Mount Everest (Qomolangma)"
+      },
+      {
+        "id": "cn_q047_o3",
+        "text": "Minya Konka"
+      },
+      {
+        "id": "cn_q047_o4",
+        "text": "Mount Gongga"
+      }
+    ],
+    "correct_option_id": "cn_q047_o2",
+    "explanation": "Mount Everest, known in China as Qomolangma, is the highest mountain in the world and lies on China's border with Nepal.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q048",
+    "question": "Which city is known as China's political and cultural center?",
+    "options": [
+      {
+        "id": "cn_q048_o1",
+        "text": "Shanghai"
+      },
+      {
+        "id": "cn_q048_o2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q048_o3",
+        "text": "Xi'an"
+      },
+      {
+        "id": "cn_q048_o4",
+        "text": "Guangzhou"
+      }
+    ],
+    "correct_option_id": "cn_q048_o2",
+    "explanation": "Beijing serves as China's political and cultural center, housing key government institutions and historical sites.",
+    "source_url": [
+      "http://english.www.gov.cn/2016special/beijing/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q049",
+    "question": "What is the largest freshwater lake in China?",
+    "options": [
+      {
+        "id": "cn_q049_o1",
+        "text": "Poyang Lake"
+      },
+      {
+        "id": "cn_q049_o2",
+        "text": "Dongting Lake"
+      },
+      {
+        "id": "cn_q049_o3",
+        "text": "Taihu Lake"
+      },
+      {
+        "id": "cn_q049_o4",
+        "text": "Dianchi Lake"
+      }
+    ],
+    "correct_option_id": "cn_q049_o1",
+    "explanation": "Poyang Lake, located in Jiangxi Province, is China's largest freshwater lake.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q050",
+    "question": "Which year did Hong Kong return to Chinese sovereignty?",
+    "options": [
+      {
+        "id": "cn_q050_o1",
+        "text": "1997"
+      },
+      {
+        "id": "cn_q050_o2",
+        "text": "1999"
+      },
+      {
+        "id": "cn_q050_o3",
+        "text": "1984"
+      },
+      {
+        "id": "cn_q050_o4",
+        "text": "2001"
+      }
+    ],
+    "correct_option_id": "cn_q050_o1",
+    "explanation": "Hong Kong returned to Chinese sovereignty on July 1, 1997, becoming a Special Administrative Region.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q051",
+    "question": "Which year did Macao return to Chinese sovereignty?",
+    "options": [
+      {
+        "id": "cn_q051_o1",
+        "text": "1999"
+      },
+      {
+        "id": "cn_q051_o2",
+        "text": "1997"
+      },
+      {
+        "id": "cn_q051_o3",
+        "text": "2001"
+      },
+      {
+        "id": "cn_q051_o4",
+        "text": "1995"
+      }
+    ],
+    "correct_option_id": "cn_q051_o1",
+    "explanation": "Macao returned to Chinese sovereignty on December 20, 1999, becoming a Special Administrative Region.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q052",
+    "question": "Which is the highest legislative body in China?",
+    "options": [
+      {
+        "id": "cn_q052_o1",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q052_o2",
+        "text": "The State Council"
+      },
+      {
+        "id": "cn_q052_o3",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q052_o4",
+        "text": "The Central Military Commission"
+      }
+    ],
+    "correct_option_id": "cn_q052_o1",
+    "explanation": "The National People's Congress is China's highest legislative body.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q053",
+    "question": "Which Chinese city is known for its Terracotta Army archaeological site?",
+    "options": [
+      {
+        "id": "cn_q053_o1",
+        "text": "Xi'an"
+      },
+      {
+        "id": "cn_q053_o2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q053_o3",
+        "text": "Luoyang"
+      },
+      {
+        "id": "cn_q053_o4",
+        "text": "Chengdu"
+      }
+    ],
+    "correct_option_id": "cn_q053_o1",
+    "explanation": "The Terracotta Army is located in Xi'an, Shaanxi Province.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q054",
+    "question": "Which body appoints the Premier of the State Council?",
+    "options": [
+      {
+        "id": "cn_q054_o1",
+        "text": "The President of China"
+      },
+      {
+        "id": "cn_q054_o2",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q054_o3",
+        "text": "The Central Military Commission"
+      },
+      {
+        "id": "cn_q054_o4",
+        "text": "The Supreme People's Court"
+      }
+    ],
+    "correct_option_id": "cn_q054_o1",
+    "explanation": "The Premier of the State Council is nominated by the President and approved by the National People's Congress.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q055",
+    "question": "Which festival is considered the most important traditional holiday in China?",
+    "options": [
+      {
+        "id": "cn_q055_o1",
+        "text": "Mid-Autumn Festival"
+      },
+      {
+        "id": "cn_q055_o2",
+        "text": "Spring Festival (Chinese New Year)"
+      },
+      {
+        "id": "cn_q055_o3",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q055_o4",
+        "text": "Qingming Festival"
+      }
+    ],
+    "correct_option_id": "cn_q055_o2",
+    "explanation": "The Spring Festival, or Chinese New Year, is the most important traditional holiday in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q056",
+    "question": "Which body manages China's monetary policy?",
+    "options": [
+      {
+        "id": "cn_q056_o1",
+        "text": "The Ministry of Finance"
+      },
+      {
+        "id": "cn_q056_o2",
+        "text": "The People's Bank of China"
+      },
+      {
+        "id": "cn_q056_o3",
+        "text": "The National Development and Reform Commission"
+      },
+      {
+        "id": "cn_q056_o4",
+        "text": "The State Council"
+      }
+    ],
+    "correct_option_id": "cn_q056_o2",
+    "explanation": "The People's Bank of China is the central bank and manages monetary policy.",
+    "source_url": [
+      "http://www.pbc.gov.cn/en/3688006/index.html"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q057",
+    "question": "Which is China's largest port by cargo throughput?",
+    "options": [
+      {
+        "id": "cn_q057_o1",
+        "text": "Port of Shanghai"
+      },
+      {
+        "id": "cn_q057_o2",
+        "text": "Port of Shenzhen"
+      },
+      {
+        "id": "cn_q057_o3",
+        "text": "Port of Ningbo-Zhoushan"
+      },
+      {
+        "id": "cn_q057_o4",
+        "text": "Port of Qingdao"
+      }
+    ],
+    "correct_option_id": "cn_q057_o3",
+    "explanation": "The Port of Ningbo-Zhoushan is the largest in China by cargo throughput according to official statistics.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q058",
+    "question": "Which major river is also known as Huang He?",
+    "options": [
+      {
+        "id": "cn_q058_o1",
+        "text": "Yangtze River"
+      },
+      {
+        "id": "cn_q058_o2",
+        "text": "Yellow River"
+      },
+      {
+        "id": "cn_q058_o3",
+        "text": "Pearl River"
+      },
+      {
+        "id": "cn_q058_o4",
+        "text": "Amur River"
+      }
+    ],
+    "correct_option_id": "cn_q058_o2",
+    "explanation": "Huang He is the Chinese name for the Yellow River, the second longest river in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q059",
+    "question": "Which Chinese province is famous for its panda reserves?",
+    "options": [
+      {
+        "id": "cn_q059_o1",
+        "text": "Yunnan"
+      },
+      {
+        "id": "cn_q059_o2",
+        "text": "Sichuan"
+      },
+      {
+        "id": "cn_q059_o3",
+        "text": "Guizhou"
+      },
+      {
+        "id": "cn_q059_o4",
+        "text": "Hunan"
+      }
+    ],
+    "correct_option_id": "cn_q059_o2",
+    "explanation": "Sichuan Province is known for its panda reserves, including the Wolong National Nature Reserve.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q060",
+    "question": "Which is China's top legislative session held annually in Beijing?",
+    "options": [
+      {
+        "id": "cn_q060_o1",
+        "text": "National People's Congress annual session"
+      },
+      {
+        "id": "cn_q060_o2",
+        "text": "State Council working meeting"
+      },
+      {
+        "id": "cn_q060_o3",
+        "text": "Supreme People's Court plenary"
+      },
+      {
+        "id": "cn_q060_o4",
+        "text": "Central Committee conference"
+      }
+    ],
+    "correct_option_id": "cn_q060_o1",
+    "explanation": "The National People's Congress annual session is held each spring in Beijing.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/news/Events/node_2189.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q061",
+    "question": "Which organ functions as China's chief administrative authority?",
+    "options": [
+      {
+        "id": "cn_q061_o1",
+        "text": "The State Council"
+      },
+      {
+        "id": "cn_q061_o2",
+        "text": "The National People's Congress"
+      },
+      {
+        "id": "cn_q061_o3",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q061_o4",
+        "text": "The Central Military Commission"
+      }
+    ],
+    "correct_option_id": "cn_q061_o1",
+    "explanation": "The State Council is China's chief administrative authority according to the Constitution.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q062",
+    "question": "Which Chinese province is known as the 'Land of Fish and Rice'?",
+    "options": [
+      {
+        "id": "cn_q062_o1",
+        "text": "Hubei"
+      },
+      {
+        "id": "cn_q062_o2",
+        "text": "Jiangsu"
+      },
+      {
+        "id": "cn_q062_o3",
+        "text": "Zhejiang"
+      },
+      {
+        "id": "cn_q062_o4",
+        "text": "Hunan"
+      }
+    ],
+    "correct_option_id": "cn_q062_o2",
+    "explanation": "Jiangsu Province is historically called the 'Land of Fish and Rice' due to its fertile plains and abundant waterways.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q063",
+    "question": "What is the highest prosecutorial organ in China?",
+    "options": [
+      {
+        "id": "cn_q063_o1",
+        "text": "The Supreme People's Procuratorate"
+      },
+      {
+        "id": "cn_q063_o2",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q063_o3",
+        "text": "The Ministry of Justice"
+      },
+      {
+        "id": "cn_q063_o4",
+        "text": "The State Council"
+      }
+    ],
+    "correct_option_id": "cn_q063_o1",
+    "explanation": "The Supreme People's Procuratorate is the highest prosecutorial authority in China.",
+    "source_url": [
+      "http://english.spp.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q064",
+    "question": "Which desert is the largest in China?",
+    "options": [
+      {
+        "id": "cn_q064_o1",
+        "text": "Taklamakan Desert"
+      },
+      {
+        "id": "cn_q064_o2",
+        "text": "Gobi Desert"
+      },
+      {
+        "id": "cn_q064_o3",
+        "text": "Badain Jaran Desert"
+      },
+      {
+        "id": "cn_q064_o4",
+        "text": "Kumtag Desert"
+      }
+    ],
+    "correct_option_id": "cn_q064_o1",
+    "explanation": "The Taklamakan Desert, located in Xinjiang, is the largest desert in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q065",
+    "question": "What is China's official national anthem?",
+    "options": [
+      {
+        "id": "cn_q065_o1",
+        "text": "The March of the Volunteers"
+      },
+      {
+        "id": "cn_q065_o2",
+        "text": "Ode to the Motherland"
+      },
+      {
+        "id": "cn_q065_o3",
+        "text": "The East is Red"
+      },
+      {
+        "id": "cn_q065_o4",
+        "text": "Song of the Yangtze River"
+      }
+    ],
+    "correct_option_id": "cn_q065_o1",
+    "explanation": "The national anthem of China is 'The March of the Volunteers', adopted in 1949.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q066",
+    "question": "Which sea lies to the east of China?",
+    "options": [
+      {
+        "id": "cn_q066_o1",
+        "text": "East China Sea"
+      },
+      {
+        "id": "cn_q066_o2",
+        "text": "Yellow Sea"
+      },
+      {
+        "id": "cn_q066_o3",
+        "text": "South China Sea"
+      },
+      {
+        "id": "cn_q066_o4",
+        "text": "Bohai Sea"
+      }
+    ],
+    "correct_option_id": "cn_q066_o1",
+    "explanation": "The East China Sea lies to the east of China's mainland, between China and Japan's Ryukyu Islands.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q067",
+    "question": "Which Chinese leader declared the founding of the People's Republic of China in 1949?",
+    "options": [
+      {
+        "id": "cn_q067_o1",
+        "text": "Deng Xiaoping"
+      },
+      {
+        "id": "cn_q067_o2",
+        "text": "Mao Zedong"
+      },
+      {
+        "id": "cn_q067_o3",
+        "text": "Zhou Enlai"
+      },
+      {
+        "id": "cn_q067_o4",
+        "text": "Liu Shaoqi"
+      }
+    ],
+    "correct_option_id": "cn_q067_o2",
+    "explanation": "Mao Zedong declared the founding of the People's Republic of China on October 1, 1949.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q068",
+    "question": "Which river delta is home to Shanghai?",
+    "options": [
+      {
+        "id": "cn_q068_o1",
+        "text": "Yangtze River Delta"
+      },
+      {
+        "id": "cn_q068_o2",
+        "text": "Pearl River Delta"
+      },
+      {
+        "id": "cn_q068_o3",
+        "text": "Yellow River Delta"
+      },
+      {
+        "id": "cn_q068_o4",
+        "text": "Mekong Delta"
+      }
+    ],
+    "correct_option_id": "cn_q068_o1",
+    "explanation": "Shanghai is located in the Yangtze River Delta, a major economic and cultural region in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q069",
+    "question": "What is China's official stance on its form of government?",
+    "options": [
+      {
+        "id": "cn_q069_o1",
+        "text": "Socialist state under the people's democratic dictatorship"
+      },
+      {
+        "id": "cn_q069_o2",
+        "text": "Federal republic"
+      },
+      {
+        "id": "cn_q069_o3",
+        "text": "Parliamentary monarchy"
+      },
+      {
+        "id": "cn_q069_o4",
+        "text": "Confederation"
+      }
+    ],
+    "correct_option_id": "cn_q069_o1",
+    "explanation": "The PRC Constitution states China is a socialist state under the people's democratic dictatorship led by the working class.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q070",
+    "question": "Which UNESCO World Heritage Site in China is the longest man-made structure in the world?",
+    "options": [
+      {
+        "id": "cn_q070_o1",
+        "text": "The Great Wall"
+      },
+      {
+        "id": "cn_q070_o2",
+        "text": "Grand Canal"
+      },
+      {
+        "id": "cn_q070_o3",
+        "text": "Ming Tombs"
+      },
+      {
+        "id": "cn_q070_o4",
+        "text": "Forbidden City"
+      }
+    ],
+    "correct_option_id": "cn_q070_o1",
+    "explanation": "The Great Wall of China is the longest man-made structure in the world, spanning thousands of kilometers.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q071",
+    "question": "Which Chinese province is the largest producer of rice?",
+    "options": [
+      {
+        "id": "cn_q071_o1",
+        "text": "Hunan"
+      },
+      {
+        "id": "cn_q071_o2",
+        "text": "Heilongjiang"
+      },
+      {
+        "id": "cn_q071_o3",
+        "text": "Jiangxi"
+      },
+      {
+        "id": "cn_q071_o4",
+        "text": "Guangdong"
+      }
+    ],
+    "correct_option_id": "cn_q071_o2",
+    "explanation": "Heilongjiang Province is China's largest rice-producing region according to agricultural statistics.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q072",
+    "question": "Which year did Beijing host the Summer Olympic Games?",
+    "options": [
+      {
+        "id": "cn_q072_o1",
+        "text": "2004"
+      },
+      {
+        "id": "cn_q072_o2",
+        "text": "2008"
+      },
+      {
+        "id": "cn_q072_o3",
+        "text": "2012"
+      },
+      {
+        "id": "cn_q072_o4",
+        "text": "2016"
+      }
+    ],
+    "correct_option_id": "cn_q072_o2",
+    "explanation": "Beijing hosted the Summer Olympic Games in 2008.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q073",
+    "question": "Which city is the capital of Guangdong Province?",
+    "options": [
+      {
+        "id": "cn_q073_o1",
+        "text": "Shenzhen"
+      },
+      {
+        "id": "cn_q073_o2",
+        "text": "Guangzhou"
+      },
+      {
+        "id": "cn_q073_o3",
+        "text": "Zhuhai"
+      },
+      {
+        "id": "cn_q073_o4",
+        "text": "Dongguan"
+      }
+    ],
+    "correct_option_id": "cn_q073_o2",
+    "explanation": "Guangzhou is the capital city of Guangdong Province.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q074",
+    "question": "Which organ is the highest judicial authority in China?",
+    "options": [
+      {
+        "id": "cn_q074_o1",
+        "text": "The Supreme People's Court"
+      },
+      {
+        "id": "cn_q074_o2",
+        "text": "The Supreme People's Procuratorate"
+      },
+      {
+        "id": "cn_q074_o3",
+        "text": "The Ministry of Justice"
+      },
+      {
+        "id": "cn_q074_o4",
+        "text": "The State Council"
+      }
+    ],
+    "correct_option_id": "cn_q074_o1",
+    "explanation": "The Supreme People's Court is the highest judicial authority in China.",
+    "source_url": [
+      "http://english.court.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q075",
+    "question": "Which Chinese festival involves eating mooncakes?",
+    "options": [
+      {
+        "id": "cn_q075_o1",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q075_o2",
+        "text": "Mid-Autumn Festival"
+      },
+      {
+        "id": "cn_q075_o3",
+        "text": "Spring Festival"
+      },
+      {
+        "id": "cn_q075_o4",
+        "text": "Qingming Festival"
+      }
+    ],
+    "correct_option_id": "cn_q075_o2",
+    "explanation": "Mooncakes are traditionally eaten during the Mid-Autumn Festival.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q076",
+    "question": "What is China's largest oil-producing province?",
+    "options": [
+      {
+        "id": "cn_q076_o1",
+        "text": "Shandong"
+      },
+      {
+        "id": "cn_q076_o2",
+        "text": "Heilongjiang"
+      },
+      {
+        "id": "cn_q076_o3",
+        "text": "Shaanxi"
+      },
+      {
+        "id": "cn_q076_o4",
+        "text": "Xinjiang"
+      }
+    ],
+    "correct_option_id": "cn_q076_o4",
+    "explanation": "Xinjiang is China's largest oil-producing region according to official statistics.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q077",
+    "question": "Which Chinese province is home to the Potala Palace?",
+    "options": [
+      {
+        "id": "cn_q077_o1",
+        "text": "Tibet Autonomous Region"
+      },
+      {
+        "id": "cn_q077_o2",
+        "text": "Qinghai"
+      },
+      {
+        "id": "cn_q077_o3",
+        "text": "Sichuan"
+      },
+      {
+        "id": "cn_q077_o4",
+        "text": "Yunnan"
+      }
+    ],
+    "correct_option_id": "cn_q077_o1",
+    "explanation": "The Potala Palace is located in Lhasa, Tibet Autonomous Region.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q078",
+    "question": "Which major Chinese river flows into the East China Sea at Shanghai?",
+    "options": [
+      {
+        "id": "cn_q078_o1",
+        "text": "Yangtze River"
+      },
+      {
+        "id": "cn_q078_o2",
+        "text": "Yellow River"
+      },
+      {
+        "id": "cn_q078_o3",
+        "text": "Pearl River"
+      },
+      {
+        "id": "cn_q078_o4",
+        "text": "Mekong River"
+      }
+    ],
+    "correct_option_id": "cn_q078_o1",
+    "explanation": "The Yangtze River flows into the East China Sea near Shanghai.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q079",
+    "question": "Which Chinese leader initiated the 'Reform and Opening Up' policy in 1978?",
+    "options": [
+      {
+        "id": "cn_q079_o1",
+        "text": "Mao Zedong"
+      },
+      {
+        "id": "cn_q079_o2",
+        "text": "Deng Xiaoping"
+      },
+      {
+        "id": "cn_q079_o3",
+        "text": "Zhao Ziyang"
+      },
+      {
+        "id": "cn_q079_o4",
+        "text": "Hu Yaobang"
+      }
+    ],
+    "correct_option_id": "cn_q079_o2",
+    "explanation": "Deng Xiaoping initiated China's 'Reform and Opening Up' policy in 1978.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q080",
+    "question": "Which Chinese province has Hainan Island as its main territory?",
+    "options": [
+      {
+        "id": "cn_q080_o1",
+        "text": "Guangdong"
+      },
+      {
+        "id": "cn_q080_o2",
+        "text": "Fujian"
+      },
+      {
+        "id": "cn_q080_o3",
+        "text": "Hainan"
+      },
+      {
+        "id": "cn_q080_o4",
+        "text": "Zhejiang"
+      }
+    ],
+    "correct_option_id": "cn_q080_o3",
+    "explanation": "Hainan Province consists mainly of Hainan Island, China's southernmost provincial region.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q081",
+    "question": "Which document is the highest law of the People's Republic of China?",
+    "options": [
+      {
+        "id": "cn_q081_o1",
+        "label": "1",
+        "text": "The Constitution"
+      },
+      {
+        "id": "cn_q081_o2",
+        "label": "2",
+        "text": "Civil Code"
+      },
+      {
+        "id": "cn_q081_o3",
+        "label": "3",
+        "text": "Criminal Law"
+      },
+      {
+        "id": "cn_q081_o4",
+        "label": "4",
+        "text": "Administrative Regulations"
+      }
+    ],
+    "correct_option_id": "cn_q081_o1",
+    "explanation": "The Constitution is the supreme law of the PRC and all other laws must conform to it.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q082",
+    "question": "Who elects the President of the People's Republic of China?",
+    "options": [
+      {
+        "id": "cn_q082_o1",
+        "label": "1",
+        "text": "Direct popular vote"
+      },
+      {
+        "id": "cn_q082_o2",
+        "label": "2",
+        "text": "National People's Congress (NPC)"
+      },
+      {
+        "id": "cn_q082_o3",
+        "label": "3",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q082_o4",
+        "label": "4",
+        "text": "Provincial people's congresses"
+      }
+    ],
+    "correct_option_id": "cn_q082_o2",
+    "explanation": "The NPC, as the highest state organ, elects the President and Vice President of the PRC.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q083",
+    "question": "What is the role of the State Council in China's government?",
+    "options": [
+      {
+        "id": "cn_q083_o1",
+        "label": "1",
+        "text": "Highest legislative body"
+      },
+      {
+        "id": "cn_q083_o2",
+        "label": "2",
+        "text": "Chief administrative authority (cabinet)"
+      },
+      {
+        "id": "cn_q083_o3",
+        "label": "3",
+        "text": "Judicial body"
+      },
+      {
+        "id": "cn_q083_o4",
+        "label": "4",
+        "text": "Military command"
+      }
+    ],
+    "correct_option_id": "cn_q083_o2",
+    "explanation": "The State Council is the chief administrative authority (central government) responsible for implementing laws and running state affairs.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q084",
+    "question": "How often does the National People's Congress hold its regular (annual) session?",
+    "options": [
+      {
+        "id": "cn_q084_o1",
+        "label": "1",
+        "text": "Monthly"
+      },
+      {
+        "id": "cn_q084_o2",
+        "label": "2",
+        "text": "Annually"
+      },
+      {
+        "id": "cn_q084_o3",
+        "label": "3",
+        "text": "Every two years"
+      },
+      {
+        "id": "cn_q084_o4",
+        "label": "4",
+        "text": "Every five years"
+      }
+    ],
+    "correct_option_id": "cn_q084_o2",
+    "explanation": "The NPC holds an annual session, typically in the spring, where major national decisions and legislation are considered.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/news/Events/node_2189.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q085",
+    "question": "Which body is China’s highest court?",
+    "options": [
+      {
+        "id": "cn_q085_o1",
+        "label": "1",
+        "text": "High People's Court"
+      },
+      {
+        "id": "cn_q085_o2",
+        "label": "2",
+        "text": "Supreme People's Court"
+      },
+      {
+        "id": "cn_q085_o3",
+        "label": "3",
+        "text": "People's Procuratorate"
+      },
+      {
+        "id": "cn_q085_o4",
+        "label": "4",
+        "text": "State Council"
+      }
+    ],
+    "correct_option_id": "cn_q085_o2",
+    "explanation": "The Supreme People's Court is the highest judicial organ responsible for interpreting and applying law nationwide.",
+    "source_url": [
+      "http://english.court.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q086",
+    "question": "Which institution is the country's central bank responsible for monetary policy?",
+    "options": [
+      {
+        "id": "cn_q086_o1",
+        "label": "1",
+        "text": "Ministry of Finance"
+      },
+      {
+        "id": "cn_q086_o2",
+        "label": "2",
+        "text": "People's Bank of China"
+      },
+      {
+        "id": "cn_q086_o3",
+        "label": "3",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q086_o4",
+        "label": "4",
+        "text": "National Treasury"
+      }
+    ],
+    "correct_option_id": "cn_q086_o2",
+    "explanation": "The People's Bank of China is the central bank that formulates and implements monetary policy and issues currency.",
+    "source_url": [
+      "http://www.pbc.gov.cn/en/3688006/index.html"
+    ],
+    "category": "Government/Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q087",
+    "question": "How many terms does the Constitution allow for the President following amendments (as currently applied)?",
+    "options": [
+      {
+        "id": "cn_q087_o1",
+        "label": "1",
+        "text": "Unlimited terms by law"
+      },
+      {
+        "id": "cn_q087_o2",
+        "label": "2",
+        "text": "Two terms of five years each fixed by Constitution"
+      },
+      {
+        "id": "cn_q087_o3",
+        "label": "3",
+        "text": "A single 10-year term"
+      },
+      {
+        "id": "cn_q087_o4",
+        "label": "4",
+        "text": "One four-year term"
+      }
+    ],
+    "correct_option_id": "cn_q087_o1",
+    "explanation": "The PRC Constitution does not limit the number of terms for the President; term practices are set by laws and conventions.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q088",
+    "question": "Which body is responsible for supervising the implementation of the Constitution?",
+    "options": [
+      {
+        "id": "cn_q088_o1",
+        "label": "1",
+        "text": "State Council"
+      },
+      {
+        "id": "cn_q088_o2",
+        "label": "2",
+        "text": "National People's Congress (NPC)"
+      },
+      {
+        "id": "cn_q088_o3",
+        "label": "3",
+        "text": "Supreme People's Court"
+      },
+      {
+        "id": "cn_q088_o4",
+        "label": "4",
+        "text": "Central Military Commission"
+      }
+    ],
+    "correct_option_id": "cn_q088_o2",
+    "explanation": "The NPC has supervisory authority over constitutional implementation and may interpret constitutional provisions.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q089",
+    "question": "What is the minimum voting age for national elections in China?",
+    "options": [
+      {
+        "id": "cn_q089_o1",
+        "label": "1",
+        "text": "16"
+      },
+      {
+        "id": "cn_q089_o2",
+        "label": "2",
+        "text": "18"
+      },
+      {
+        "id": "cn_q089_o3",
+        "label": "3",
+        "text": "21"
+      },
+      {
+        "id": "cn_q089_o4",
+        "label": "4",
+        "text": "25"
+      }
+    ],
+    "correct_option_id": "cn_q089_o2",
+    "explanation": "Chinese citizens aged 18 and over have the right to vote and stand for election under the Constitution.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q090",
+    "question": "Who directs the State Council's work?",
+    "options": [
+      {
+        "id": "cn_q090_o1",
+        "label": "1",
+        "text": "President"
+      },
+      {
+        "id": "cn_q090_o2",
+        "label": "2",
+        "text": "Premier"
+      },
+      {
+        "id": "cn_q090_o3",
+        "label": "3",
+        "text": "NPC Chairman"
+      },
+      {
+        "id": "cn_q090_o4",
+        "label": "4",
+        "text": "Chief Justice"
+      }
+    ],
+    "correct_option_id": "cn_q090_o2",
+    "explanation": "The Premier directs the work of the State Council (central government), overseeing ministries and administration.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/laws_regulations/2014/08/23/content_281474982987458.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q091",
+    "question": "Which body appoints the Premier of the State Council?",
+    "options": [
+      {
+        "id": "cn_q091_o1",
+        "label": "1",
+        "text": "National People's Congress elects the Premier"
+      },
+      {
+        "id": "cn_q091_o2",
+        "label": "2",
+        "text": "The President appoints the Premier without approval"
+      },
+      {
+        "id": "cn_q091_o3",
+        "label": "3",
+        "text": "State Council elects its own Premier"
+      },
+      {
+        "id": "cn_q091_o4",
+        "label": "4",
+        "text": "Central Committee of the Party appoints the Premier"
+      }
+    ],
+    "correct_option_id": "cn_q091_o1",
+    "explanation": "The President nominates and the NPC approves the appointment of the Premier, reflecting constitutional procedure.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q092",
+    "question": "What is the legal instrument used for promulgating national laws in China?",
+    "options": [
+      {
+        "id": "cn_q092_o1",
+        "label": "1",
+        "text": "Official Gazette (Resmi Gazete)"
+      },
+      {
+        "id": "cn_q092_o2",
+        "label": "2",
+        "text": "National People's Congress laws published by NPC/Official channels"
+      },
+      {
+        "id": "cn_q092_o3",
+        "label": "3",
+        "text": "Provincial bulletins"
+      },
+      {
+        "id": "cn_q092_o4",
+        "label": "4",
+        "text": "State Council notices only"
+      }
+    ],
+    "correct_option_id": "cn_q092_o2",
+    "explanation": "Laws passed by the NPC or its Standing Committee are promulgated via official channels and published as the authoritative legal text.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/"
+    ],
+    "category": "Government/Law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q093",
+    "question": "Which organ is the highest state supervisory organ for public finances and audit?",
+    "options": [
+      {
+        "id": "cn_q093_o1",
+        "label": "1",
+        "text": "Ministry of Finance"
+      },
+      {
+        "id": "cn_q093_o2",
+        "label": "2",
+        "text": "Audit Office of the PRC"
+      },
+      {
+        "id": "cn_q093_o3",
+        "label": "3",
+        "text": "People's Bank of China"
+      },
+      {
+        "id": "cn_q093_o4",
+        "label": "4",
+        "text": "National Development and Reform Commission"
+      }
+    ],
+    "correct_option_id": "cn_q093_o2",
+    "explanation": "The National Audit Office (Audit Office of the PRC) audits government revenues and expenditures and reports to the NPC.",
+    "source_url": [
+      "http://www.audit.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q094",
+    "question": "Which institution in China is responsible for national economic planning and macro policy guidance?",
+    "options": [
+      {
+        "id": "cn_q094_o1",
+        "label": "1",
+        "text": "Ministry of Finance"
+      },
+      {
+        "id": "cn_q094_o2",
+        "label": "2",
+        "text": "National Development and Reform Commission (NDRC)"
+      },
+      {
+        "id": "cn_q094_o3",
+        "label": "3",
+        "text": "People's Bank of China"
+      },
+      {
+        "id": "cn_q094_o4",
+        "label": "4",
+        "text": "State Council only"
+      }
+    ],
+    "correct_option_id": "cn_q094_o2",
+    "explanation": "The NDRC is the macroeconomic management agency responsible for economic planning and policy guidance under the State Council.",
+    "source_url": [
+      "https://www.ndrc.gov.cn/"
+    ],
+    "category": "Economy/Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q095",
+    "question": "What is the basic law that applies to Hong Kong as a Special Administrative Region?",
+    "options": [
+      {
+        "id": "cn_q095_o1",
+        "label": "1",
+        "text": "Basic Law of the Hong Kong SAR"
+      },
+      {
+        "id": "cn_q095_o2",
+        "label": "2",
+        "text": "Hong Kong Independence Act"
+      },
+      {
+        "id": "cn_q095_o3",
+        "label": "3",
+        "text": "Hong Kong Constitution"
+      },
+      {
+        "id": "cn_q095_o4",
+        "label": "4",
+        "text": "British Orders in Council"
+      }
+    ],
+    "correct_option_id": "cn_q095_o1",
+    "explanation": "The Basic Law is the constitutional document for the Hong Kong SAR, defining its system and rights under ‘one country, two systems’.",
+    "source_url": [
+      "http://www.basiclaw.gov.hk/en/index/"
+    ],
+    "category": "Government/Contemporary Affairs",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q096",
+    "question": "Which leader proclaimed the founding of the People's Republic of China in 1949?",
+    "options": [
+      {
+        "id": "cn_q096_o1",
+        "label": "1",
+        "text": "Sun Yat-sen"
+      },
+      {
+        "id": "cn_q096_o2",
+        "label": "2",
+        "text": "Mao Zedong"
+      },
+      {
+        "id": "cn_q096_o3",
+        "label": "3",
+        "text": "Deng Xiaoping"
+      },
+      {
+        "id": "cn_q096_o4",
+        "label": "4",
+        "text": "Zhou Enlai"
+      }
+    ],
+    "correct_option_id": "cn_q096_o2",
+    "explanation": "Mao Zedong declared the founding of the PRC on October 1, 1949, at Tiananmen Square.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q097",
+    "question": "Which 20th-century movement aimed to promote science and democracy and culminated in student protests in 1919?",
+    "options": [
+      {
+        "id": "cn_q097_o1",
+        "label": "1",
+        "text": "May Fourth Movement"
+      },
+      {
+        "id": "cn_q097_o2",
+        "label": "2",
+        "text": "Cultural Revolution"
+      },
+      {
+        "id": "cn_q097_o3",
+        "label": "3",
+        "text": "Taiping Rebellion"
+      },
+      {
+        "id": "cn_q097_o4",
+        "label": "4",
+        "text": "Boxer Rebellion"
+      }
+    ],
+    "correct_option_id": "cn_q097_o1",
+    "explanation": "The May Fourth Movement of 1919 was a student-led cultural and political movement advocating reform and modernization.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q098",
+    "question": "Which treaty restored Chinese sovereignty over Hong Kong in 1997?",
+    "options": [
+      {
+        "id": "cn_q098_o1",
+        "label": "1",
+        "text": "Sino-British Joint Declaration"
+      },
+      {
+        "id": "cn_q098_o2",
+        "label": "2",
+        "text": "Treaty of Nanjing"
+      },
+      {
+        "id": "cn_q098_o3",
+        "label": "3",
+        "text": "Treaty of Shimonoseki"
+      },
+      {
+        "id": "cn_q098_o4",
+        "label": "4",
+        "text": "Treaty of Tianjin"
+      }
+    ],
+    "correct_option_id": "cn_q098_o1",
+    "explanation": "The Sino-British Joint Declaration established the terms for Hong Kong's return to China, implemented in 1997.",
+    "source_url": [
+      "http://www.fmprc.gov.cn/"
+    ],
+    "category": "History/Contemporary",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q099",
+    "question": "What year did Macau return to Chinese sovereignty?",
+    "options": [
+      {
+        "id": "cn_q099_o1",
+        "label": "1",
+        "text": "1997"
+      },
+      {
+        "id": "cn_q099_o2",
+        "label": "2",
+        "text": "1999"
+      },
+      {
+        "id": "cn_q099_o3",
+        "label": "3",
+        "text": "2001"
+      },
+      {
+        "id": "cn_q099_o4",
+        "label": "4",
+        "text": "1987"
+      }
+    ],
+    "correct_option_id": "cn_q099_o2",
+    "explanation": "Macau became a Special Administrative Region in 1999 following agreements with Portugal.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q100",
+    "question": "Which movement in the 1960s–70s significantly impacted China's political and social institutions?",
+    "options": [
+      {
+        "id": "cn_q100_o1",
+        "label": "1",
+        "text": "Great Leap Forward"
+      },
+      {
+        "id": "cn_q100_o2",
+        "label": "2",
+        "text": "Cultural Revolution"
+      },
+      {
+        "id": "cn_q100_o3",
+        "label": "3",
+        "text": "May Fourth Movement"
+      },
+      {
+        "id": "cn_q100_o4",
+        "label": "4",
+        "text": "New Life Movement"
+      }
+    ],
+    "correct_option_id": "cn_q100_o2",
+    "explanation": "The Cultural Revolution (1966–1976) was a major political movement that reshaped institutions and society.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q101",
+    "question": "Which event on October 1 is observed nationally in China?",
+    "options": [
+      {
+        "id": "cn_q101_o1",
+        "label": "1",
+        "text": "National Foundation Day of the ROC"
+      },
+      {
+        "id": "cn_q101_o2",
+        "label": "2",
+        "text": "National Day of the PRC"
+      },
+      {
+        "id": "cn_q101_o3",
+        "label": "3",
+        "text": "Qingming"
+      },
+      {
+        "id": "cn_q101_o4",
+        "label": "4",
+        "text": "Labour Day"
+      }
+    ],
+    "correct_option_id": "cn_q101_o2",
+    "explanation": "October 1 is National Day, marking the founding of the PRC in 1949.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q102",
+    "question": "Which reform launched in the late 1970s opened China to market reforms and global trade?",
+    "options": [
+      {
+        "id": "cn_q102_o1",
+        "label": "1",
+        "text": "Cultural Revolution"
+      },
+      {
+        "id": "cn_q102_o2",
+        "label": "2",
+        "text": "Reform and Opening-Up (Gaige Kaifang)"
+      },
+      {
+        "id": "cn_q102_o3",
+        "label": "3",
+        "text": "Great Leap Forward"
+      },
+      {
+        "id": "cn_q102_o4",
+        "label": "4",
+        "text": "People's Commune movement"
+      }
+    ],
+    "correct_option_id": "cn_q102_o2",
+    "explanation": "Deng Xiaoping initiated Reform and Opening-Up policies in 1978 that liberalized economic policies and opened China to international trade.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History/Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q103",
+    "question": "Which 1911 revolution ended imperial rule and led to the founding of the Republic of China?",
+    "options": [
+      {
+        "id": "cn_q103_o1",
+        "label": "1",
+        "text": "Taiping Rebellion"
+      },
+      {
+        "id": "cn_q103_o2",
+        "label": "2",
+        "text": "Xinhai Revolution"
+      },
+      {
+        "id": "cn_q103_o3",
+        "label": "3",
+        "text": "May Fourth Movement"
+      },
+      {
+        "id": "cn_q103_o4",
+        "label": "4",
+        "text": "Boxer Rebellion"
+      }
+    ],
+    "correct_option_id": "cn_q103_o2",
+    "explanation": "The Xinhai Revolution (1911) overthrew the Qing dynasty and led to the establishment of the Republic of China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q104",
+    "question": "Who is widely regarded as the 'Father of Modern China' for his role in the 1911 revolution and founding the Republic?",
+    "options": [
+      {
+        "id": "cn_q104_o1",
+        "label": "1",
+        "text": "Sun Yat-sen"
+      },
+      {
+        "id": "cn_q104_o2",
+        "label": "2",
+        "text": "Chiang Kai-shek"
+      },
+      {
+        "id": "cn_q104_o3",
+        "label": "3",
+        "text": "Mao Zedong"
+      },
+      {
+        "id": "cn_q104_o4",
+        "label": "4",
+        "text": "Zhou Enlai"
+      }
+    ],
+    "correct_option_id": "cn_q104_o1",
+    "explanation": "Sun Yat-sen is recognized for leading efforts that ended imperial rule and founding the Republic of China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q105",
+    "question": "Which major engineering project connects East and West China and includes the Three Gorges Dam?",
+    "options": [
+      {
+        "id": "cn_q105_o1",
+        "label": "1",
+        "text": "South-to-North Water Transfer"
+      },
+      {
+        "id": "cn_q105_o2",
+        "label": "2",
+        "text": "Three Gorges Dam project"
+      },
+      {
+        "id": "cn_q105_o3",
+        "label": "3",
+        "text": "Grand Canal restoration"
+      },
+      {
+        "id": "cn_q105_o4",
+        "label": "4",
+        "text": "Belt and Road Initiative"
+      }
+    ],
+    "correct_option_id": "cn_q105_o2",
+    "explanation": "The Three Gorges Dam is a major hydropower project on the Yangtze and a landmark of China's modern infrastructure.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/statistics/"
+    ],
+    "category": "History/Infrastructure",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q106",
+    "question": "Which 20th-century leader is known for economic reforms after Mao's era?",
+    "options": [
+      {
+        "id": "cn_q106_o1",
+        "label": "1",
+        "text": "Sun Yat-sen"
+      },
+      {
+        "id": "cn_q106_o2",
+        "label": "2",
+        "text": "Chiang Kai-shek"
+      },
+      {
+        "id": "cn_q106_o3",
+        "label": "3",
+        "text": "Deng Xiaoping"
+      },
+      {
+        "id": "cn_q106_o4",
+        "label": "4",
+        "text": "Hu Jintao"
+      }
+    ],
+    "correct_option_id": "cn_q106_o3",
+    "explanation": "Deng Xiaoping led economic reforms and modernization policies beginning in the late 1970s.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History/Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q107",
+    "question": "Which campaign (1958–1962) aimed at rapid industrialization and collectivization and resulted in economic disruption?",
+    "options": [
+      {
+        "id": "cn_q107_o1",
+        "label": "1",
+        "text": "Cultural Revolution"
+      },
+      {
+        "id": "cn_q107_o2",
+        "label": "2",
+        "text": "Great Leap Forward"
+      },
+      {
+        "id": "cn_q107_o3",
+        "label": "3",
+        "text": "Land Reform"
+      },
+      {
+        "id": "cn_q107_o4",
+        "label": "4",
+        "text": "New Economic Policy"
+      }
+    ],
+    "correct_option_id": "cn_q107_o2",
+    "explanation": "The Great Leap Forward attempted rapid industrial and agricultural change and led to widespread economic difficulty.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q108",
+    "question": "Which international forum hosted annually in China focuses on economic cooperation in Asia (held in Hainan)?",
+    "options": [
+      {
+        "id": "cn_q108_o1",
+        "label": "1",
+        "text": "Boao Forum for Asia"
+      },
+      {
+        "id": "cn_q108_o2",
+        "label": "2",
+        "text": "Shanghai Cooperation Organization Summit"
+      },
+      {
+        "id": "cn_q108_o3",
+        "label": "3",
+        "text": "Belt and Road Forum"
+      },
+      {
+        "id": "cn_q108_o4",
+        "label": "4",
+        "text": "APEC"
+      }
+    ],
+    "correct_option_id": "cn_q108_o1",
+    "explanation": "The Boao Forum for Asia meets annually in Boao, Hainan, to discuss economic cooperation and development.",
+    "source_url": [
+      "http://english.www.gov.cn/news/topnews/202404/20/content_WS662353ffc6d0868f4e8ebdf4.html"
+    ],
+    "category": "Contemporary Affairs",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q109",
+    "question": "Which year marks the adoption of the current PRC Constitution?",
+    "options": [
+      {
+        "id": "cn_q109_o1",
+        "label": "1",
+        "text": "1954"
+      },
+      {
+        "id": "cn_q109_o2",
+        "label": "2",
+        "text": "1978"
+      },
+      {
+        "id": "cn_q109_o3",
+        "label": "3",
+        "text": "1982"
+      },
+      {
+        "id": "cn_q109_o4",
+        "label": "4",
+        "text": "1999"
+      }
+    ],
+    "correct_option_id": "cn_q109_o3",
+    "explanation": "The current version of the PRC Constitution was adopted in 1982, with subsequent amendments.",
+    "source_url": [
+      "http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q110",
+    "question": "Which city served as the ancient capital for several dynasties and is famous for terracotta warriors?",
+    "options": [
+      {
+        "id": "cn_q110_o1",
+        "label": "1",
+        "text": "Xi'an"
+      },
+      {
+        "id": "cn_q110_o2",
+        "label": "2",
+        "text": "Beijing"
+      },
+      {
+        "id": "cn_q110_o3",
+        "label": "3",
+        "text": "Nanjing"
+      },
+      {
+        "id": "cn_q110_o4",
+        "label": "4",
+        "text": "Luoyang"
+      }
+    ],
+    "correct_option_id": "cn_q110_o1",
+    "explanation": "Xi'an, historically Chang'an, is renowned for the Terracotta Army and serving as the capital in multiple dynastic periods.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History/Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q111",
+    "question": "How many provincial-level administrative divisions does China have (provinces, autonomous regions, municipalities, SARs)?",
+    "options": [
+      {
+        "id": "cn_q111_o1",
+        "label": "1",
+        "text": "31"
+      },
+      {
+        "id": "cn_q111_o2",
+        "label": "2",
+        "text": "23"
+      },
+      {
+        "id": "cn_q111_o3",
+        "label": "3",
+        "text": "34"
+      },
+      {
+        "id": "cn_q111_o4",
+        "label": "4",
+        "text": "29"
+      }
+    ],
+    "correct_option_id": "cn_q111_o1",
+    "explanation": "China has 31 provincial-level divisions: 23 provinces (counting Taiwan as claimed), 5 autonomous regions, 4 municipalities, and 2 SARs.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q112",
+    "question": "How many autonomous regions are in China?",
+    "options": [
+      {
+        "id": "cn_q112_o1",
+        "label": "1",
+        "text": "3"
+      },
+      {
+        "id": "cn_q112_o2",
+        "label": "2",
+        "text": "5"
+      },
+      {
+        "id": "cn_q112_o3",
+        "label": "3",
+        "text": "7"
+      },
+      {
+        "id": "cn_q112_o4",
+        "label": "4",
+        "text": "9"
+      }
+    ],
+    "correct_option_id": "cn_q112_o2",
+    "explanation": "China has five autonomous regions (e.g., Xinjiang, Tibet, Inner Mongolia, Ningxia, Guangxi).",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/27/content_281474983873401.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q113",
+    "question": "How many municipalities directly under the central government are there in China?",
+    "options": [
+      {
+        "id": "cn_q113_o1",
+        "label": "1",
+        "text": "3"
+      },
+      {
+        "id": "cn_q113_o2",
+        "label": "2",
+        "text": "4"
+      },
+      {
+        "id": "cn_q113_o3",
+        "label": "3",
+        "text": "5"
+      },
+      {
+        "id": "cn_q113_o4",
+        "label": "4",
+        "text": "6"
+      }
+    ],
+    "correct_option_id": "cn_q113_o2",
+    "explanation": "There are four municipalities directly under central government control: Beijing, Shanghai, Tianjin and Chongqing.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q114",
+    "question": "Which administrative division is the largest by area in China?",
+    "options": [
+      {
+        "id": "cn_q114_o1",
+        "label": "1",
+        "text": "Tibet Autonomous Region"
+      },
+      {
+        "id": "cn_q114_o2",
+        "label": "2",
+        "text": "Xinjiang Uygur Autonomous Region"
+      },
+      {
+        "id": "cn_q114_o3",
+        "label": "3",
+        "text": "Inner Mongolia"
+      },
+      {
+        "id": "cn_q114_o4",
+        "label": "4",
+        "text": "Qinghai"
+      }
+    ],
+    "correct_option_id": "cn_q114_o2",
+    "explanation": "Xinjiang is the largest provincial-level division by area in China.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q115",
+    "question": "Which of the following is a Special Administrative Region of China?",
+    "options": [
+      {
+        "id": "cn_q115_o1",
+        "label": "1",
+        "text": "Hainan"
+      },
+      {
+        "id": "cn_q115_o2",
+        "label": "2",
+        "text": "Hong Kong"
+      },
+      {
+        "id": "cn_q115_o3",
+        "label": "3",
+        "text": "Taiwan"
+      },
+      {
+        "id": "cn_q115_o4",
+        "label": "4",
+        "text": "Qinghai"
+      }
+    ],
+    "correct_option_id": "cn_q115_o2",
+    "explanation": "Hong Kong is a Special Administrative Region with its own Basic Law under 'one country, two systems'.",
+    "source_url": [
+      "http://www.basiclaw.gov.hk/en/index/"
+    ],
+    "category": "Government/Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q116",
+    "question": "Which body issues passports to Chinese citizens?",
+    "options": [
+      {
+        "id": "cn_q116_o1",
+        "label": "1",
+        "text": "Ministry of Foreign Affairs and related public security bureaus"
+      },
+      {
+        "id": "cn_q116_o2",
+        "label": "2",
+        "text": "State Council only"
+      },
+      {
+        "id": "cn_q116_o3",
+        "label": "3",
+        "text": "National People's Congress"
+      },
+      {
+        "id": "cn_q116_o4",
+        "label": "4",
+        "text": "Civil Affairs Ministry"
+      }
+    ],
+    "correct_option_id": "cn_q116_o1",
+    "explanation": "The Ministry of Foreign Affairs and public security organs manage passport issuance and consular matters.",
+    "source_url": [
+      "https://www.fmprc.gov.cn/mfa_eng/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q117",
+    "question": "Which sea lies to the south of mainland China?",
+    "options": [
+      {
+        "id": "cn_q117_o1",
+        "label": "1",
+        "text": "Yellow Sea"
+      },
+      {
+        "id": "cn_q117_o2",
+        "label": "2",
+        "text": "South China Sea"
+      },
+      {
+        "id": "cn_q117_o3",
+        "label": "3",
+        "text": "East China Sea"
+      },
+      {
+        "id": "cn_q117_o4",
+        "label": "4",
+        "text": "Bohai Sea"
+      }
+    ],
+    "correct_option_id": "cn_q117_o2",
+    "explanation": "The South China Sea borders southern China and is a major maritime area referenced in geography and official maps.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q118",
+    "question": "Which province is home to the Sichuan Basin and giant panda reserves?",
+    "options": [
+      {
+        "id": "cn_q118_o1",
+        "label": "1",
+        "text": "Sichuan"
+      },
+      {
+        "id": "cn_q118_o2",
+        "label": "2",
+        "text": "Yunnan"
+      },
+      {
+        "id": "cn_q118_o3",
+        "label": "3",
+        "text": "Guizhou"
+      },
+      {
+        "id": "cn_q118_o4",
+        "label": "4",
+        "text": "Hubei"
+      }
+    ],
+    "correct_option_id": "cn_q118_o1",
+    "explanation": "Sichuan Province contains key panda conservation areas and the Sichuan Basin noted in official descriptions.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q119",
+    "question": "Which island province is known for tropical climate and beaches?",
+    "options": [
+      {
+        "id": "cn_q119_o1",
+        "label": "1",
+        "text": "Hainan"
+      },
+      {
+        "id": "cn_q119_o2",
+        "label": "2",
+        "text": "Guangdong"
+      },
+      {
+        "id": "cn_q119_o3",
+        "label": "3",
+        "text": "Fujian"
+      },
+      {
+        "id": "cn_q119_o4",
+        "label": "4",
+        "text": "Zhejiang"
+      }
+    ],
+    "correct_option_id": "cn_q119_o1",
+    "explanation": "Hainan is China’s southern island province known for a tropical climate and tourism.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q120",
+    "question": "Which river is longest in China?",
+    "options": [
+      {
+        "id": "cn_q120_o1",
+        "label": "1",
+        "text": "Yellow River"
+      },
+      {
+        "id": "cn_q120_o2",
+        "label": "2",
+        "text": "Yangtze River"
+      },
+      {
+        "id": "cn_q120_o3",
+        "label": "3",
+        "text": "Pearl River"
+      },
+      {
+        "id": "cn_q120_o4",
+        "label": "4",
+        "text": "Mekong River"
+      }
+    ],
+    "correct_option_id": "cn_q120_o2",
+    "explanation": "The Yangtze River is the longest river entirely within China, flowing from the Tibetan Plateau to the East China Sea.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q121",
+    "question": "What is the official unit of currency in China?",
+    "options": [
+      {
+        "id": "cn_q121_o1",
+        "label": "1",
+        "text": "Dollar"
+      },
+      {
+        "id": "cn_q121_o2",
+        "label": "2",
+        "text": "Yuan (Renminbi)"
+      },
+      {
+        "id": "cn_q121_o3",
+        "label": "3",
+        "text": "Won"
+      },
+      {
+        "id": "cn_q121_o4",
+        "label": "4",
+        "text": "Euro"
+      }
+    ],
+    "correct_option_id": "cn_q121_o2",
+    "explanation": "The Renminbi (RMB), with the yuan as its basic unit, is the legal tender of the PRC.",
+    "source_url": [
+      "http://www.pbc.gov.cn/en/3688006/index.html"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q122",
+    "question": "Which national emblem feature symbolizes the unity of the Chinese people under the Party?",
+    "options": [
+      {
+        "id": "cn_q122_o1",
+        "label": "1",
+        "text": "Five stars and Tiananmen"
+      },
+      {
+        "id": "cn_q122_o2",
+        "label": "2",
+        "text": "Dragon and phoenix"
+      },
+      {
+        "id": "cn_q122_o3",
+        "label": "3",
+        "text": "Great Wall"
+      },
+      {
+        "id": "cn_q122_o4",
+        "label": "4",
+        "text": "Lotus"
+      }
+    ],
+    "correct_option_id": "cn_q122_o1",
+    "explanation": "The national emblem shows Tiananmen beneath five stars, symbolizing the leadership of the Party and unity of the people.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q123",
+    "question": "Which festival is celebrated with mooncakes and family reunions on the 15th day of the 8th lunar month?",
+    "options": [
+      {
+        "id": "cn_q123_o1",
+        "label": "1",
+        "text": "Dragon Boat Festival"
+      },
+      {
+        "id": "cn_q123_o2",
+        "label": "2",
+        "text": "Qingming Festival"
+      },
+      {
+        "id": "cn_q123_o3",
+        "label": "3",
+        "text": "Mid-Autumn Festival"
+      },
+      {
+        "id": "cn_q123_o4",
+        "label": "4",
+        "text": "Spring Festival"
+      }
+    ],
+    "correct_option_id": "cn_q123_o3",
+    "explanation": "The Mid-Autumn Festival is observed with mooncakes and family gatherings on the 15th day of the 8th lunar month.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q124",
+    "question": "Which public holiday commemorates labour and workers annually on May 1?",
+    "options": [
+      {
+        "id": "cn_q124_o1",
+        "label": "1",
+        "text": "National Day"
+      },
+      {
+        "id": "cn_q124_o2",
+        "label": "2",
+        "text": "Labour Day"
+      },
+      {
+        "id": "cn_q124_o3",
+        "label": "3",
+        "text": "Qingming"
+      },
+      {
+        "id": "cn_q124_o4",
+        "label": "4",
+        "text": "Dragon Boat Festival"
+      }
+    ],
+    "correct_option_id": "cn_q124_o2",
+    "explanation": "Labour Day (May 1) is observed to honor workers and is one of China’s statutory holidays.",
+    "source_url": [
+      "https://english.www.gov.cn/policies/latestreleases/202411/12/content_WS67331db5c6d0868f4e8ecd92.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q125",
+    "question": "Which government body publishes official statistics like GDP and population?",
+    "options": [
+      {
+        "id": "cn_q125_o1",
+        "label": "1",
+        "text": "People's Bank of China"
+      },
+      {
+        "id": "cn_q125_o2",
+        "label": "2",
+        "text": "National Bureau of Statistics (NBS)"
+      },
+      {
+        "id": "cn_q125_o3",
+        "label": "3",
+        "text": "Ministry of Civil Affairs"
+      },
+      {
+        "id": "cn_q125_o4",
+        "label": "4",
+        "text": "Ministry of Finance"
+      }
+    ],
+    "correct_option_id": "cn_q125_o2",
+    "explanation": "The National Bureau of Statistics (NBS) publishes official economic and demographic statistics for the country.",
+    "source_url": [
+      "http://www.stats.gov.cn/english/"
+    ],
+    "category": "Government/Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q126",
+    "question": "Which organ is responsible for the official release of laws and regulations and notices?",
+    "options": [
+      {
+        "id": "cn_q126_o1",
+        "label": "1",
+        "text": "Central People's Government / State Council and related official sites"
+      },
+      {
+        "id": "cn_q126_o2",
+        "label": "2",
+        "text": "Private news agencies"
+      },
+      {
+        "id": "cn_q126_o3",
+        "label": "3",
+        "text": "Provincial social media"
+      },
+      {
+        "id": "cn_q126_o4",
+        "label": "4",
+        "text": "Party-run blogs"
+      }
+    ],
+    "correct_option_id": "cn_q126_o1",
+    "explanation": "Official laws, regulations, and notices are released via State Council and authoritative government portals.",
+    "source_url": [
+      "http://english.www.gov.cn/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q127",
+    "question": "Which major infrastructure initiative links China with multiple countries across Asia, Africa and Europe?",
+    "options": [
+      {
+        "id": "cn_q127_o1",
+        "label": "1",
+        "text": "Marshall Plan"
+      },
+      {
+        "id": "cn_q127_o2",
+        "label": "2",
+        "text": "Belt and Road Initiative"
+      },
+      {
+        "id": "cn_q127_o3",
+        "label": "3",
+        "text": "Trans-Pacific Partnership"
+      },
+      {
+        "id": "cn_q127_o4",
+        "label": "4",
+        "text": "Eurasian Economic Union"
+      }
+    ],
+    "correct_option_id": "cn_q127_o2",
+    "explanation": "The Belt and Road Initiative is a government-led international infrastructure and economic cooperation program.",
+    "source_url": [
+      "http://english.www.gov.cn/beltandroad/"
+    ],
+    "category": "Contemporary Affairs/Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q128",
+    "question": "Which ministry handles national education policy in China?",
+    "options": [
+      {
+        "id": "cn_q128_o1",
+        "label": "1",
+        "text": "Ministry of Education"
+      },
+      {
+        "id": "cn_q128_o2",
+        "label": "2",
+        "text": "NHC"
+      },
+      {
+        "id": "cn_q128_o3",
+        "label": "3",
+        "text": "Ministry of Culture"
+      },
+      {
+        "id": "cn_q128_o4",
+        "label": "4",
+        "text": "State Council only"
+      }
+    ],
+    "correct_option_id": "cn_q128_o1",
+    "explanation": "The Ministry of Education sets national education policy and standards across the PRC.",
+    "source_url": [
+      "http://en.moe.gov.cn/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q129",
+    "question": "Which body administers public health and disease control at the national level?",
+    "options": [
+      {
+        "id": "cn_q129_o1",
+        "label": "1",
+        "text": "Ministry of Health (NHC) / National Health Commission"
+      },
+      {
+        "id": "cn_q129_o2",
+        "label": "2",
+        "text": "Local governments only"
+      },
+      {
+        "id": "cn_q129_o3",
+        "label": "3",
+        "text": "Ministry of Transport"
+      },
+      {
+        "id": "cn_q129_o4",
+        "label": "4",
+        "text": "Ministry of Civil Affairs"
+      }
+    ],
+    "correct_option_id": "cn_q129_o1",
+    "explanation": "The National Health Commission (NHC) leads public health policy, health services and disease prevention nationally.",
+    "source_url": [
+      "http://en.nhc.gov.cn/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q130",
+    "question": "Which venue in Beijing is the symbolic site where Mao declared the PRC in 1949?",
+    "options": [
+      {
+        "id": "cn_q130_o1",
+        "label": "1",
+        "text": "Tiananmen Square"
+      },
+      {
+        "id": "cn_q130_o2",
+        "label": "2",
+        "text": "Forbidden City"
+      },
+      {
+        "id": "cn_q130_o3",
+        "label": "3",
+        "text": "Temple of Heaven"
+      },
+      {
+        "id": "cn_q130_o4",
+        "label": "4",
+        "text": "Summer Palace"
+      }
+    ],
+    "correct_option_id": "cn_q130_o1",
+    "explanation": "Tiananmen Square is the location where Mao proclaimed the founding of the PRC on October 1, 1949.",
+    "source_url": [
+      "http://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987170.htm"
+    ],
+    "category": "History/Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q131",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q131_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q131_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q131_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q131_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q131_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q132",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q132_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q132_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q132_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q132_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q132_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q133",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q133_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q133_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q133_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q133_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q133_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q134",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q134_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q134_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q134_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q134_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q134_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q135",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q135_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q135_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q135_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q135_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q135_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q136",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q136_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q136_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q136_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q136_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q136_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q137",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q137_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q137_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q137_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q137_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q137_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q138",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q138_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q138_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q138_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q138_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q138_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q139",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q139_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q139_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q139_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q139_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q139_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q140",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q140_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q140_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q140_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q140_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q140_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q141",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q141_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q141_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q141_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q141_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q141_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q142",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q142_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q142_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q142_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q142_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q142_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q143",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q143_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q143_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q143_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q143_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q143_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q144",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q144_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q144_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q144_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q144_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q144_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q145",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q145_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q145_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q145_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q145_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q145_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q146",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q146_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q146_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q146_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q146_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q146_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q147",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q147_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q147_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q147_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q147_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q147_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q148",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q148_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q148_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q148_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q148_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q148_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q149",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q149_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q149_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q149_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q149_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q149_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q150",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q150_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q150_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q150_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q150_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q150_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q151",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q151_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q151_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q151_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q151_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q151_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q152",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q152_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q152_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q152_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q152_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q152_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q153",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q153_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q153_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q153_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q153_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q153_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q154",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q154_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q154_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q154_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q154_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q154_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q155",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q155_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q155_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q155_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q155_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q155_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q156",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q156_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q156_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q156_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q156_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q156_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q157",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q157_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q157_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q157_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q157_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q157_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q158",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q158_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q158_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q158_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q158_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q158_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q159",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q159_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q159_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q159_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q159_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q159_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  },
+  {
+    "id": "cn_q160",
+    "question": "Which body is responsible for issuing national-level regulations under the State Council?",
+    "options": [
+      {
+        "id": "cn_q160_o1",
+        "label": "1",
+        "text": "Local people's congresses"
+      },
+      {
+        "id": "cn_q160_o2",
+        "label": "2",
+        "text": "Relevant ministries and commissions under the State Council"
+      },
+      {
+        "id": "cn_q160_o3",
+        "label": "3",
+        "text": "Courts"
+      },
+      {
+        "id": "cn_q160_o4",
+        "label": "4",
+        "text": "Political parties"
+      }
+    ],
+    "correct_option_id": "cn_q160_o2",
+    "explanation": "Administrative regulations and departmental rules are often issued by State Council ministries and commissions within their authority.",
+    "source_url": [
+      "http://english.www.gov.cn/statecouncil/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "CN"
+  }
+]

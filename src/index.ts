@@ -1,18 +1,13 @@
-import express from 'express';
-import cors from 'cors';
-import dotenv from 'dotenv';
+import pool from './config/db';
+import redis from './config/redis';
 
-dotenv.config();
+// Quick test for Postgres
+pool.query('SELECT 1+1 AS two')
+  .then(res => console.log('Postgres test:', res.rows))
+  .catch(err => console.error('Postgres error:', err));
 
-const app = express();
-app.use(cors());
-app.use(express.json());
-
-app.get('/ping', (req, res) => {
-  res.json({ message: 'pong' });
-});
-
-const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on http://localhost:${PORT}`);
-});
+// Quick test for Redis
+redis.set('ping', 'pong')
+  .then(() => redis.get('ping'))
+  .then(val => console.log('Redis test:', val))
+  .catch(err => console.error('Redis error:', err));
