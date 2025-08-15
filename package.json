@@ -4,7 +4,8 @@
   "description": "/repo-root\r ├─ backend/                     # NestJS (TypeScript)\r │  ├─ src/\r │  │  ├─ modules/\r │  │  │  ├─ auth/\r │  │  │  ├─ sessions/\r │  │  │  ├─ questions/\r │  │  │  ├─ leaderboards/\r │  │  │  ├─ admin/\r │  │  ├─ common/\r │  │  ├─ main.ts\r │  ├─ migrations/\r │  ├─ test/\r │  ├─ package.json\r ├─ mobile/                       # React Native (TypeScript)\r │  ├─ src/\r │  │  ├─ screens/\r │  │  ├─ services/\r │  │  ├─ auth/\r │  ├─ android/\r ├─ admin-ui/                     # React (TypeScript) for admin\r ├─ tools/\r │  ├─ import-questions/          # CLI import script\r ├─ infra/\r │  ├─ docker-compose.yml\r │  ├─ k8s/\r └─ README.md",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest --runInBand --detectOpenHandles",
+    "test:watch": "jest --watch",
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
@@ -30,13 +31,18 @@
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
+    "@types/jest": "^30.0.0",
     "@types/node": "^24.3.0",
     "@types/pg": "^8.15.5",
+    "@types/supertest": "^6.0.3",
     "eslint": "^9.33.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
+    "jest": "^30.0.5",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
+    "supertest": "^7.1.4",
+    "ts-jest": "^29.4.1",
     "ts-node": "^10.9.2",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.2"
