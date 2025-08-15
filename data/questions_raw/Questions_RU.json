@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "ru_q001",
+    "question": "What is the form of state of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q001_o1",
+        "label": "1",
+        "text": "A unitary monarchy"
+      },
+      {
+        "id": "ru_q001_o2",
+        "label": "2",
+        "text": "A democratic federative law-based state"
+      },
+      {
+        "id": "ru_q001_o3",
+        "label": "3",
+        "text": "A federal socialist republic"
+      },
+      {
+        "id": "ru_q001_o4",
+        "label": "4",
+        "text": "A confederation"
+      }
+    ],
+    "correct_option_id": "ru_q001_o2",
+    "explanation": "The Constitution defines the Russian Federation as a democratic, federative, rule-of-law state, specifying its political-territorial structure and legal basis.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q002",
+    "question": "How long is the term of the President of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q002_o1",
+        "label": "1",
+        "text": "Seven years"
+      },
+      {
+        "id": "ru_q002_o2",
+        "label": "2",
+        "text": "Six years"
+      },
+      {
+        "id": "ru_q002_o3",
+        "label": "3",
+        "text": "Four years"
+      },
+      {
+        "id": "ru_q002_o4",
+        "label": "4",
+        "text": "Five years"
+      }
+    ],
+    "correct_option_id": "ru_q002_o2",
+    "explanation": "Constitutional provisions establish the presidential mandate length as six years, which defines how long an elected President serves before the next election or reappointment.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q003",
+    "question": "How many members are in the State Duma?",
+    "options": [
+      {
+        "id": "ru_q003_o1",
+        "label": "1",
+        "text": "450"
+      },
+      {
+        "id": "ru_q003_o2",
+        "label": "2",
+        "text": "350"
+      },
+      {
+        "id": "ru_q003_o3",
+        "label": "3",
+        "text": "500"
+      },
+      {
+        "id": "ru_q003_o4",
+        "label": "4",
+        "text": "225"
+      }
+    ],
+    "correct_option_id": "ru_q003_o1",
+    "explanation": "Federal law and Duma rules set the State Duma's composition at 450 deputies, who are elected to represent the people in the lower chamber of the Federal Assembly.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q004",
+    "question": "How many federal representatives does each constituent entity send to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q004_o1",
+        "label": "1",
+        "text": "Three"
+      },
+      {
+        "id": "ru_q004_o2",
+        "label": "2",
+        "text": "Two"
+      },
+      {
+        "id": "ru_q004_o3",
+        "label": "3",
+        "text": "Four"
+      },
+      {
+        "id": "ru_q004_o4",
+        "label": "4",
+        "text": "One"
+      }
+    ],
+    "correct_option_id": "ru_q004_o2",
+    "explanation": "Each federal subject is represented in the Federation Council by two members—one from the region's legislative body and one from its executive body—so every subject has two votes in the upper chamber.",
+    "source_url": [
+      "https://www.council.gov.ru/en/structure/council/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q005",
+    "question": "Which body is the highest judicial authority in civil, criminal, and administrative cases in Russia?",
+    "options": [
+      {
+        "id": "ru_q005_o1",
+        "label": "1",
+        "text": "The Ministry of Justice"
+      },
+      {
+        "id": "ru_q005_o2",
+        "label": "2",
+        "text": "The Supreme Court of the Russian Federation"
+      },
+      {
+        "id": "ru_q005_o3",
+        "label": "3",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q005_o4",
+        "label": "4",
+        "text": "The Prosecutor General's Office"
+      }
+    ],
+    "correct_option_id": "ru_q005_o2",
+    "explanation": "The Supreme Court is designated by law as the highest court for civil, criminal and administrative cases within the system of courts of general jurisdiction, handling final appeals and supervision.",
+    "source_url": [
+      "https://vsrf.ru/en/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q006",
+    "question": "What is the State language of the Russian Federation as stated in the Constitution?",
+    "options": [
+      {
+        "id": "ru_q006_o1",
+        "label": "1",
+        "text": "English"
+      },
+      {
+        "id": "ru_q006_o2",
+        "label": "2",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q006_o3",
+        "label": "3",
+        "text": "Bashkir"
+      },
+      {
+        "id": "ru_q006_o4",
+        "label": "4",
+        "text": "Tatar"
+      }
+    ],
+    "correct_option_id": "ru_q006_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q007",
+    "question": "Who represents the Russian Federation in foreign relations as Head of State?",
+    "options": [
+      {
+        "id": "ru_q007_o1",
+        "label": "1",
+        "text": "The Minister of Foreign Affairs"
+      },
+      {
+        "id": "ru_q007_o2",
+        "label": "2",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q007_o3",
+        "label": "3",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q007_o4",
+        "label": "4",
+        "text": "The Speaker of the State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q007_o2",
+    "explanation": "As Head of State, the President represents the Russian Federation internationally, conducting foreign policy at the highest level and accrediting diplomatic envoys.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q008",
+    "question": "Which document is the supreme law of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q008_o1",
+        "label": "1",
+        "text": "International treaties"
+      },
+      {
+        "id": "ru_q008_o2",
+        "label": "2",
+        "text": "Presidential Decrees"
+      },
+      {
+        "id": "ru_q008_o3",
+        "label": "3",
+        "text": "The Constitution of the Russian Federation"
+      },
+      {
+        "id": "ru_q008_o4",
+        "label": "4",
+        "text": "Federal Laws"
+      }
+    ],
+    "correct_option_id": "ru_q008_o3",
+    "explanation": "The Constitution is the supreme law and occupies the highest place in the legal hierarchy; all federal and regional laws must conform to it.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q009",
+    "question": "Who appoints the Chairman of the Government (Prime Minister) of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q009_o1",
+        "label": "1",
+        "text": "The President, with consent of the State Duma"
+      },
+      {
+        "id": "ru_q009_o2",
+        "label": "2",
+        "text": "The President alone"
+      },
+      {
+        "id": "ru_q009_o3",
+        "label": "3",
+        "text": "The State Duma alone"
+      },
+      {
+        "id": "ru_q009_o4",
+        "label": "4",
+        "text": "The Federation Council"
+      }
+    ],
+    "correct_option_id": "ru_q009_o1",
+    "explanation": "The President nominates the Chairman of the Government, but the appointment requires the State Duma's consent, combining executive nomination with legislative approval.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q010",
+    "question": "What body adopts federal laws in the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q010_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q010_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q010_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q010_o4",
+        "label": "4",
+        "text": "The Federal Assembly (State Duma and Federation Council)"
+      }
+    ],
+    "correct_option_id": "ru_q010_o4",
+    "explanation": "Federal laws are adopted by the Federal Assembly (the State Duma and the Federation Council) following parliamentary procedure, then become binding once signed and promulgated.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q011",
+    "question": "What city is the capital of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q011_o1",
+        "label": "1",
+        "text": "Kazan"
+      },
+      {
+        "id": "ru_q011_o2",
+        "label": "2",
+        "text": "Saint Petersburg"
+      },
+      {
+        "id": "ru_q011_o3",
+        "label": "3",
+        "text": "Novosibirsk"
+      },
+      {
+        "id": "ru_q011_o4",
+        "label": "4",
+        "text": "Moscow"
+      }
+    ],
+    "correct_option_id": "ru_q011_o4",
+    "explanation": "Moscow is formally designated as the capital and hosts the main federal institutions—such as the Kremlin, the Government and the Federal Assembly—making it the seat of state power.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q012",
+    "question": "Which of these is the national flag's stripe order from top to bottom?",
+    "options": [
+      {
+        "id": "ru_q012_o1",
+        "label": "1",
+        "text": "Blue, white, red"
+      },
+      {
+        "id": "ru_q012_o2",
+        "label": "2",
+        "text": "Red, blue, white"
+      },
+      {
+        "id": "ru_q012_o3",
+        "label": "3",
+        "text": "White, red, blue"
+      },
+      {
+        "id": "ru_q012_o4",
+        "label": "4",
+        "text": "White, blue, red"
+      }
+    ],
+    "correct_option_id": "ru_q012_o4",
+    "explanation": "The national flag is legally defined as three horizontal stripes in the order white (top), blue (middle), and red (bottom); this specification determines the official appearance.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q013",
+    "question": "Who is the Head of State of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q013_o1",
+        "label": "1",
+        "text": "The Chairman of the State Duma"
+      },
+      {
+        "id": "ru_q013_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q013_o3",
+        "label": "3",
+        "text": "The Chief Justice"
+      },
+      {
+        "id": "ru_q013_o4",
+        "label": "4",
+        "text": "The Prime Minister"
+      }
+    ],
+    "correct_option_id": "ru_q013_o2",
+    "explanation": "The Constitution vests the role of Head of State in the President, who performs the chief representative and guarantor functions of the federation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q014",
+    "question": "Which musical work serves as the State Anthem of Russia?",
+    "options": [
+      {
+        "id": "ru_q014_o1",
+        "label": "1",
+        "text": "La Marseillaise"
+      },
+      {
+        "id": "ru_q014_o2",
+        "label": "2",
+        "text": "God Save the Tsar"
+      },
+      {
+        "id": "ru_q014_o3",
+        "label": "3",
+        "text": "The National Anthem composed by Alexander Alexandrov"
+      },
+      {
+        "id": "ru_q014_o4",
+        "label": "4",
+        "text": "The Internationale"
+      }
+    ],
+    "correct_option_id": "ru_q014_o3",
+    "explanation": "The current State Anthem uses music by Alexander Alexandrov and was officially adopted as the anthem; the law prescribes its use at official ceremonies and events.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q015",
+    "question": "What is depicted on the coat of arms of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q015_o1",
+        "label": "1",
+        "text": "A single-headed eagle"
+      },
+      {
+        "id": "ru_q015_o2",
+        "label": "2",
+        "text": "A bear"
+      },
+      {
+        "id": "ru_q015_o3",
+        "label": "3",
+        "text": "A double-headed eagle"
+      },
+      {
+        "id": "ru_q015_o4",
+        "label": "4",
+        "text": "A two-headed dragon"
+      }
+    ],
+    "correct_option_id": "ru_q015_o3",
+    "explanation": "The Coat of Arms depicts a double-headed eagle, a historic emblem officially adopted and described in state heraldic regulations.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q016",
+    "question": "Which federal law governs citizenship in the Russian Federation (short ref)?",
+    "options": [
+      {
+        "id": "ru_q016_o1",
+        "label": "1",
+        "text": "Civil Code"
+      },
+      {
+        "id": "ru_q016_o2",
+        "label": "2",
+        "text": "Family Code"
+      },
+      {
+        "id": "ru_q016_o3",
+        "label": "3",
+        "text": "Law on Foreigners"
+      },
+      {
+        "id": "ru_q016_o4",
+        "label": "4",
+        "text": "Federal Law No. 62-FZ 'On Citizenship'"
+      }
+    ],
+    "correct_option_id": "ru_q016_o4",
+    "explanation": "Federal Law No. 62-FZ 'On Citizenship of the Russian Federation' sets out rules for acquisition, loss and restoration of citizenship, and is the legal basis for citizenship matters.",
+    "source_url": [
+      "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076357"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q017",
+    "question": "Which body approves federal laws after the State Duma and before the President signs?",
+    "options": [
+      {
+        "id": "ru_q017_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q017_o2",
+        "label": "2",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q017_o3",
+        "label": "3",
+        "text": "The Federation Council"
+      },
+      {
+        "id": "ru_q017_o4",
+        "label": "4",
+        "text": "The Government"
+      }
+    ],
+    "correct_option_id": "ru_q017_o3",
+    "explanation": "After the State Duma adopts a bill, the Federation Council must consider and approve it; only then may the President sign it into law, completing the legislative process.",
+    "source_url": [
+      "https://www.council.gov.ru/en/structure/council/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q018",
+    "question": "Which official portal lists the federal subjects of Russia and their portals?",
+    "options": [
+      {
+        "id": "ru_q018_o1",
+        "label": "1",
+        "text": "The Government of the Russian Federation portal (gov.ru)"
+      },
+      {
+        "id": "ru_q018_o2",
+        "label": "2",
+        "text": "The State Duma portal"
+      },
+      {
+        "id": "ru_q018_o3",
+        "label": "3",
+        "text": "The Supreme Court portal"
+      },
+      {
+        "id": "ru_q018_o4",
+        "label": "4",
+        "text": "The President portal"
+      }
+    ],
+    "correct_option_id": "ru_q018_o1",
+    "explanation": "The Government portal provides official listings and authoritative information about Russia's federal subjects, serving as the central administrative resource for regional data.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q019",
+    "question": "What is the legislative lower chamber of the Federal Assembly called?",
+    "options": [
+      {
+        "id": "ru_q019_o1",
+        "label": "1",
+        "text": "The National Assembly"
+      },
+      {
+        "id": "ru_q019_o2",
+        "label": "2",
+        "text": "The Congress"
+      },
+      {
+        "id": "ru_q019_o3",
+        "label": "3",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q019_o4",
+        "label": "4",
+        "text": "The Federation Council"
+      }
+    ],
+    "correct_option_id": "ru_q019_o3",
+    "explanation": "The State Duma is the lower chamber of the Federal Assembly and is primarily responsible for initiating and adopting federal legislation and approving the government.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q020",
+    "question": "Which ministry handles foreign policy for Russia?",
+    "options": [
+      {
+        "id": "ru_q020_o1",
+        "label": "1",
+        "text": "The Ministry of Defence"
+      },
+      {
+        "id": "ru_q020_o2",
+        "label": "2",
+        "text": "The Ministry of Culture"
+      },
+      {
+        "id": "ru_q020_o3",
+        "label": "3",
+        "text": "The Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q020_o4",
+        "label": "4",
+        "text": "The Ministry of Internal Affairs"
+      }
+    ],
+    "correct_option_id": "ru_q020_o3",
+    "explanation": "The Ministry of Foreign Affairs is the executive body tasked with carrying out Russia’s foreign policy and managing diplomatic relations and missions abroad.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q021",
+    "question": "Which article of the Constitution proclaims the Russian Federation a democratic federal rule-of-law state?",
+    "options": [
+      {
+        "id": "ru_q021_o1",
+        "label": "1",
+        "text": "Article 1"
+      },
+      {
+        "id": "ru_q021_o2",
+        "label": "2",
+        "text": "Article 3"
+      },
+      {
+        "id": "ru_q021_o3",
+        "label": "3",
+        "text": "Article 10"
+      },
+      {
+        "id": "ru_q021_o4",
+        "label": "4",
+        "text": "Article 2"
+      }
+    ],
+    "correct_option_id": "ru_q021_o1",
+    "explanation": "The Constitution contains specific articles defining the rights, duties or principles referenced by the question.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q022",
+    "question": "What is the minimum age to be elected President of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q022_o1",
+        "label": "1",
+        "text": "35 years"
+      },
+      {
+        "id": "ru_q022_o2",
+        "label": "2",
+        "text": "40 years"
+      },
+      {
+        "id": "ru_q022_o3",
+        "label": "3",
+        "text": "25 years"
+      },
+      {
+        "id": "ru_q022_o4",
+        "label": "4",
+        "text": "30 years"
+      }
+    ],
+    "correct_option_id": "ru_q022_o1",
+    "explanation": "The Constitution establishes age requirements for presidential candidates to ensure a minimum level of maturity and eligibility; the minimum age is 35 years.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q023",
+    "question": "Which organ has the power to interpret the Constitution of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q023_o1",
+        "label": "1",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q023_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q023_o3",
+        "label": "3",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q023_o4",
+        "label": "4",
+        "text": "The Constitutional Court of the Russian Federation"
+      }
+    ],
+    "correct_option_id": "ru_q023_o4",
+    "explanation": "The Constitutional Court has exclusive competence to interpret the Constitution and resolve disputes about constitutional conformity of laws and acts.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q024",
+    "question": "What is the role of the Government of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q024_o1",
+        "label": "1",
+        "text": "To legislate independently"
+      },
+      {
+        "id": "ru_q024_o2",
+        "label": "2",
+        "text": "To draft the Constitution"
+      },
+      {
+        "id": "ru_q024_o3",
+        "label": "3",
+        "text": "To exercise executive power and implement federal laws"
+      },
+      {
+        "id": "ru_q024_o4",
+        "label": "4",
+        "text": "To adjudicate cases"
+      }
+    ],
+    "correct_option_id": "ru_q024_o3",
+    "explanation": "The Government (the Cabinet) is empowered to implement federal laws and policies and organize the day-to-day executive activities of the state.",
+    "source_url": [
+      "https://government.ru/en/structure/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q025",
+    "question": "How are federal laws enacted in Russia?",
+    "options": [
+      {
+        "id": "ru_q025_o1",
+        "label": "1",
+        "text": "Enacted by the Supreme Court"
+      },
+      {
+        "id": "ru_q025_o2",
+        "label": "2",
+        "text": "Declared by referendum only"
+      },
+      {
+        "id": "ru_q025_o3",
+        "label": "3",
+        "text": "Adopted by the Federal Assembly and signed by the President"
+      },
+      {
+        "id": "ru_q025_o4",
+        "label": "4",
+        "text": "Issued by the Government only"
+      }
+    ],
+    "correct_option_id": "ru_q025_o3",
+    "explanation": "The legislative procedure requires adoption by both chambers of the Federal Assembly and the President's signature; this sequence ensures parliamentary enactment followed by executive promulgation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q026",
+    "question": "Which body confirms the Prime Minister appointed by the President?",
+    "options": [
+      {
+        "id": "ru_q026_o1",
+        "label": "1",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q026_o2",
+        "label": "2",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q026_o3",
+        "label": "3",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q026_o4",
+        "label": "4",
+        "text": "The Federation Council"
+      }
+    ],
+    "correct_option_id": "ru_q026_o2",
+    "explanation": "The State Duma provides consent to the President's nominee for Chairman of the Government, serving as a parliamentary check on executive appointments.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q027",
+    "question": "Who is responsible for ensuring the coordinated functioning of state bodies?",
+    "options": [
+      {
+        "id": "ru_q027_o1",
+        "label": "1",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q027_o2",
+        "label": "2",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q027_o3",
+        "label": "3",
+        "text": "The Speaker of the Duma"
+      },
+      {
+        "id": "ru_q027_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "ru_q027_o2",
+    "explanation": "The President is constitutionally charged with ensuring the coordinated functioning and interaction of federal state bodies to maintain effective governance.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q028",
+    "question": "Where are the official symbols of the Russian Federation described (flag, emblem, anthem)?",
+    "options": [
+      {
+        "id": "ru_q028_o1",
+        "label": "1",
+        "text": "In the Tax Code"
+      },
+      {
+        "id": "ru_q028_o2",
+        "label": "2",
+        "text": "In municipal charters"
+      },
+      {
+        "id": "ru_q028_o3",
+        "label": "3",
+        "text": "In the Criminal Code"
+      },
+      {
+        "id": "ru_q028_o4",
+        "label": "4",
+        "text": "In federal constitutional laws and presidential publications on state insignia"
+      }
+    ],
+    "correct_option_id": "ru_q028_o4",
+    "explanation": "The current State Anthem uses music by Alexander Alexandrov and was officially adopted as the anthem; the law prescribes its use at official ceremonies and events.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q029",
+    "question": "Which of these is an official federal subject type in Russia?",
+    "options": [
+      {
+        "id": "ru_q029_o1",
+        "label": "1",
+        "text": "Republic"
+      },
+      {
+        "id": "ru_q029_o2",
+        "label": "2",
+        "text": "County"
+      },
+      {
+        "id": "ru_q029_o3",
+        "label": "3",
+        "text": "Prefecture"
+      },
+      {
+        "id": "ru_q029_o4",
+        "label": "4",
+        "text": "Province"
+      }
+    ],
+    "correct_option_id": "ru_q029_o1",
+    "explanation": "The Constitution and federal legislation classify the federation into constituent entities such as republics, krais and oblasts; 'Republic' is one of these official types.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q030",
+    "question": "Which institution publishes the official collection of federal legislation in Russia?",
+    "options": [
+      {
+        "id": "ru_q030_o1",
+        "label": "1",
+        "text": "State Duma news site"
+      },
+      {
+        "id": "ru_q030_o2",
+        "label": "2",
+        "text": "Pravo.gov.ru (Official legal information portal)"
+      },
+      {
+        "id": "ru_q030_o3",
+        "label": "3",
+        "text": "Russian embassy websites"
+      },
+      {
+        "id": "ru_q030_o4",
+        "label": "4",
+        "text": "Ministry of Education site"
+      }
+    ],
+    "correct_option_id": "ru_q030_o2",
+    "explanation": "The official legal portal Pravo.gov.ru is established to publish federal legislation and legal acts, making the text of laws publicly accessible and authoritative.",
+    "source_url": [
+      "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102076357"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q031",
+    "question": "In which year did the October Revolution take place, leading to major political change in Russia?",
+    "options": [
+      {
+        "id": "ru_q031_o1",
+        "label": "1",
+        "text": "1914"
+      },
+      {
+        "id": "ru_q031_o2",
+        "label": "2",
+        "text": "1922"
+      },
+      {
+        "id": "ru_q031_o3",
+        "label": "3",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q031_o4",
+        "label": "4",
+        "text": "1905"
+      }
+    ],
+    "correct_option_id": "ru_q031_o3",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q032",
+    "question": "Which year marks the dissolution of the Soviet Union and the international recognition of the Russian Federation's independence?",
+    "options": [
+      {
+        "id": "ru_q032_o1",
+        "label": "1",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q032_o2",
+        "label": "2",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q032_o3",
+        "label": "3",
+        "text": "1995"
+      },
+      {
+        "id": "ru_q032_o4",
+        "label": "4",
+        "text": "1989"
+      }
+    ],
+    "correct_option_id": "ru_q032_o2",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q033",
+    "question": "When was the Constitution of the Russian Federation adopted by national referendum?",
+    "options": [
+      {
+        "id": "ru_q033_o1",
+        "label": "1",
+        "text": "2000"
+      },
+      {
+        "id": "ru_q033_o2",
+        "label": "2",
+        "text": "1995"
+      },
+      {
+        "id": "ru_q033_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q033_o4",
+        "label": "4",
+        "text": "1991"
+      }
+    ],
+    "correct_option_id": "ru_q033_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q034",
+    "question": "Which event in 2014 led to a change in Russia's territorial administration according to official acts?",
+    "options": [
+      {
+        "id": "ru_q034_o1",
+        "label": "1",
+        "text": "The fall of the Soviet Union"
+      },
+      {
+        "id": "ru_q034_o2",
+        "label": "2",
+        "text": "The 1991 referendum"
+      },
+      {
+        "id": "ru_q034_o3",
+        "label": "3",
+        "text": "Annexation of Crimea/Republic of Crimea accession"
+      },
+      {
+        "id": "ru_q034_o4",
+        "label": "4",
+        "text": "The 2008 war in Georgia"
+      }
+    ],
+    "correct_option_id": "ru_q034_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q035",
+    "question": "Which international sporting event did Russia host in 2014?",
+    "options": [
+      {
+        "id": "ru_q035_o1",
+        "label": "1",
+        "text": "FIFA World Cup 2014"
+      },
+      {
+        "id": "ru_q035_o2",
+        "label": "2",
+        "text": "Winter Olympics 2010"
+      },
+      {
+        "id": "ru_q035_o3",
+        "label": "3",
+        "text": "Euro 2012"
+      },
+      {
+        "id": "ru_q035_o4",
+        "label": "4",
+        "text": "Sochi Winter Olympics (2014)"
+      }
+    ],
+    "correct_option_id": "ru_q035_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://government.ru/en/structure/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q036",
+    "question": "Which major infrastructure or national celebration is associated with Moscow as the capital?",
+    "options": [
+      {
+        "id": "ru_q036_o1",
+        "label": "1",
+        "text": "New Year's fireworks in Vladivostok"
+      },
+      {
+        "id": "ru_q036_o2",
+        "label": "2",
+        "text": "Carnival in Sochi"
+      },
+      {
+        "id": "ru_q036_o3",
+        "label": "3",
+        "text": "Victory Day parades and state ceremonies in Moscow"
+      },
+      {
+        "id": "ru_q036_o4",
+        "label": "4",
+        "text": "Tulip festival in Kazan"
+      }
+    ],
+    "correct_option_id": "ru_q036_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q037",
+    "question": "Who signs federal laws to become effective after adoption by the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q037_o1",
+        "label": "1",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q037_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "ru_q037_o3",
+        "label": "3",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q037_o4",
+        "label": "4",
+        "text": "The Chairman of the Duma"
+      }
+    ],
+    "correct_option_id": "ru_q037_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q038",
+    "question": "Which chamber of the Federal Assembly initiates most federal budget bills?",
+    "options": [
+      {
+        "id": "ru_q038_o1",
+        "label": "1",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q038_o2",
+        "label": "2",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q038_o3",
+        "label": "3",
+        "text": "The Federation Council"
+      },
+      {
+        "id": "ru_q038_o4",
+        "label": "4",
+        "text": "The State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q038_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q039",
+    "question": "What is the total number of chambers in the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q039_o1",
+        "label": "1",
+        "text": "Four"
+      },
+      {
+        "id": "ru_q039_o2",
+        "label": "2",
+        "text": "Three"
+      },
+      {
+        "id": "ru_q039_o3",
+        "label": "3",
+        "text": "Two"
+      },
+      {
+        "id": "ru_q039_o4",
+        "label": "4",
+        "text": "One"
+      }
+    ],
+    "correct_option_id": "ru_q039_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q040",
+    "question": "Which body may bring charges of high treason against the President to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q040_o1",
+        "label": "1",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q040_o2",
+        "label": "2",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q040_o3",
+        "label": "3",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q040_o4",
+        "label": "4",
+        "text": "The State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q040_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q041",
+    "question": "Which constitutional body supervises compliance with the Constitution?",
+    "options": [
+      {
+        "id": "ru_q041_o1",
+        "label": "1",
+        "text": "The Prosecutor's Office"
+      },
+      {
+        "id": "ru_q041_o2",
+        "label": "2",
+        "text": "The Constitutional Court of the Russian Federation"
+      },
+      {
+        "id": "ru_q041_o3",
+        "label": "3",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q041_o4",
+        "label": "4",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_id": "ru_q041_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q042",
+    "question": "Who signs federal laws to become effective after adoption by the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q042_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q042_o2",
+        "label": "2",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q042_o3",
+        "label": "3",
+        "text": "The Chairman of the Duma"
+      },
+      {
+        "id": "ru_q042_o4",
+        "label": "4",
+        "text": "The Prime Minister"
+      }
+    ],
+    "correct_option_id": "ru_q042_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q043",
+    "question": "Which chamber of the Federal Assembly initiates most federal budget bills?",
+    "options": [
+      {
+        "id": "ru_q043_o1",
+        "label": "1",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q043_o2",
+        "label": "2",
+        "text": "The Federation Council"
+      },
+      {
+        "id": "ru_q043_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q043_o4",
+        "label": "4",
+        "text": "The President"
+      }
+    ],
+    "correct_option_id": "ru_q043_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q044",
+    "question": "What is the total number of chambers in the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q044_o1",
+        "label": "1",
+        "text": "One"
+      },
+      {
+        "id": "ru_q044_o2",
+        "label": "2",
+        "text": "Four"
+      },
+      {
+        "id": "ru_q044_o3",
+        "label": "3",
+        "text": "Two"
+      },
+      {
+        "id": "ru_q044_o4",
+        "label": "4",
+        "text": "Three"
+      }
+    ],
+    "correct_option_id": "ru_q044_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q045",
+    "question": "Which body may bring charges of high treason against the President to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q045_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q045_o2",
+        "label": "2",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q045_o3",
+        "label": "3",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q045_o4",
+        "label": "4",
+        "text": "The Government"
+      }
+    ],
+    "correct_option_id": "ru_q045_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q046",
+    "question": "Which constitutional body supervises compliance with the Constitution?",
+    "options": [
+      {
+        "id": "ru_q046_o1",
+        "label": "1",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q046_o2",
+        "label": "2",
+        "text": "The Constitutional Court of the Russian Federation"
+      },
+      {
+        "id": "ru_q046_o3",
+        "label": "3",
+        "text": "The Prosecutor's Office"
+      },
+      {
+        "id": "ru_q046_o4",
+        "label": "4",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_id": "ru_q046_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q047",
+    "question": "Who signs federal laws to become effective after adoption by the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q047_o1",
+        "label": "1",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q047_o2",
+        "label": "2",
+        "text": "The Chairman of the Duma"
+      },
+      {
+        "id": "ru_q047_o3",
+        "label": "3",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q047_o4",
+        "label": "4",
+        "text": "The Prime Minister"
+      }
+    ],
+    "correct_option_id": "ru_q047_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q048",
+    "question": "Which chamber of the Federal Assembly initiates most federal budget bills?",
+    "options": [
+      {
+        "id": "ru_q048_o1",
+        "label": "1",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q048_o2",
+        "label": "2",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q048_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q048_o4",
+        "label": "4",
+        "text": "The Federation Council"
+      }
+    ],
+    "correct_option_id": "ru_q048_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q049",
+    "question": "What is the total number of chambers in the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q049_o1",
+        "label": "1",
+        "text": "Four"
+      },
+      {
+        "id": "ru_q049_o2",
+        "label": "2",
+        "text": "Two"
+      },
+      {
+        "id": "ru_q049_o3",
+        "label": "3",
+        "text": "One"
+      },
+      {
+        "id": "ru_q049_o4",
+        "label": "4",
+        "text": "Three"
+      }
+    ],
+    "correct_option_id": "ru_q049_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q050",
+    "question": "Which body may bring charges of high treason against the President to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q050_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q050_o2",
+        "label": "2",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q050_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q050_o4",
+        "label": "4",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_id": "ru_q050_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q051",
+    "question": "Which constitutional body supervises compliance with the Constitution?",
+    "options": [
+      {
+        "id": "ru_q051_o1",
+        "label": "1",
+        "text": "The Prosecutor's Office"
+      },
+      {
+        "id": "ru_q051_o2",
+        "label": "2",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q051_o3",
+        "label": "3",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q051_o4",
+        "label": "4",
+        "text": "The Constitutional Court of the Russian Federation"
+      }
+    ],
+    "correct_option_id": "ru_q051_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q052",
+    "question": "Who signs federal laws to become effective after adoption by the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q052_o1",
+        "label": "1",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q052_o2",
+        "label": "2",
+        "text": "The Chairman of the Duma"
+      },
+      {
+        "id": "ru_q052_o3",
+        "label": "3",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "ru_q052_o4",
+        "label": "4",
+        "text": "The President of the Russian Federation"
+      }
+    ],
+    "correct_option_id": "ru_q052_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q053",
+    "question": "Which chamber of the Federal Assembly initiates most federal budget bills?",
+    "options": [
+      {
+        "id": "ru_q053_o1",
+        "label": "1",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q053_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q053_o3",
+        "label": "3",
+        "text": "The Federation Council"
+      },
+      {
+        "id": "ru_q053_o4",
+        "label": "4",
+        "text": "The Government"
+      }
+    ],
+    "correct_option_id": "ru_q053_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q054",
+    "question": "What is the total number of chambers in the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q054_o1",
+        "label": "1",
+        "text": "Two"
+      },
+      {
+        "id": "ru_q054_o2",
+        "label": "2",
+        "text": "One"
+      },
+      {
+        "id": "ru_q054_o3",
+        "label": "3",
+        "text": "Three"
+      },
+      {
+        "id": "ru_q054_o4",
+        "label": "4",
+        "text": "Four"
+      }
+    ],
+    "correct_option_id": "ru_q054_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q055",
+    "question": "Which body may bring charges of high treason against the President to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q055_o1",
+        "label": "1",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q055_o2",
+        "label": "2",
+        "text": "The Constitutional Court"
+      },
+      {
+        "id": "ru_q055_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q055_o4",
+        "label": "4",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_id": "ru_q055_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q056",
+    "question": "Which constitutional body supervises compliance with the Constitution?",
+    "options": [
+      {
+        "id": "ru_q056_o1",
+        "label": "1",
+        "text": "The Prosecutor's Office"
+      },
+      {
+        "id": "ru_q056_o2",
+        "label": "2",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q056_o3",
+        "label": "3",
+        "text": "The Constitutional Court of the Russian Federation"
+      },
+      {
+        "id": "ru_q056_o4",
+        "label": "4",
+        "text": "The State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q056_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q057",
+    "question": "Who signs federal laws to become effective after adoption by the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q057_o1",
+        "label": "1",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "ru_q057_o2",
+        "label": "2",
+        "text": "The Chairman of the Duma"
+      },
+      {
+        "id": "ru_q057_o3",
+        "label": "3",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q057_o4",
+        "label": "4",
+        "text": "The Constitutional Court"
+      }
+    ],
+    "correct_option_id": "ru_q057_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q058",
+    "question": "Which chamber of the Federal Assembly initiates most federal budget bills?",
+    "options": [
+      {
+        "id": "ru_q058_o1",
+        "label": "1",
+        "text": "The Federation Council"
+      },
+      {
+        "id": "ru_q058_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "ru_q058_o3",
+        "label": "3",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q058_o4",
+        "label": "4",
+        "text": "The Government"
+      }
+    ],
+    "correct_option_id": "ru_q058_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q059",
+    "question": "What is the total number of chambers in the Federal Assembly?",
+    "options": [
+      {
+        "id": "ru_q059_o1",
+        "label": "1",
+        "text": "One"
+      },
+      {
+        "id": "ru_q059_o2",
+        "label": "2",
+        "text": "Three"
+      },
+      {
+        "id": "ru_q059_o3",
+        "label": "3",
+        "text": "Four"
+      },
+      {
+        "id": "ru_q059_o4",
+        "label": "4",
+        "text": "Two"
+      }
+    ],
+    "correct_option_id": "ru_q059_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://duma.gov.ru/en/about/"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q060",
+    "question": "Which body may bring charges of high treason against the President to the Federation Council?",
+    "options": [
+      {
+        "id": "ru_q060_o1",
+        "label": "1",
+        "text": "The State Duma"
+      },
+      {
+        "id": "ru_q060_o2",
+        "label": "2",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "ru_q060_o3",
+        "label": "3",
+        "text": "The Government"
+      },
+      {
+        "id": "ru_q060_o4",
+        "label": "4",
+        "text": "The Constitutional Court"
+      }
+    ],
+    "correct_option_id": "ru_q060_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Government, Constitution, Institutions, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q061",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1917 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q061_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q061_o2",
+        "label": "2",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q061_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q061_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q061_o2",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q062",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q062_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q062_o2",
+        "label": "2",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q062_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q062_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q062_o2",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q063",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q063_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q063_o2",
+        "label": "2",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q063_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q063_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q063_o2",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q064",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q064_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q064_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q064_o3",
+        "label": "3",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q064_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q064_o3",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q065",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1917 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q065_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q065_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q065_o3",
+        "label": "3",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q065_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q065_o3",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q066",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q066_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q066_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q066_o3",
+        "label": "3",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q066_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q066_o3",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q067",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q067_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q067_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q067_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q067_o4",
+        "label": "4",
+        "text": "1812"
+      }
+    ],
+    "correct_option_id": "ru_q067_o4",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q068",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q068_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q068_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q068_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q068_o4",
+        "label": "4",
+        "text": "1945"
+      }
+    ],
+    "correct_option_id": "ru_q068_o4",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q069",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q069_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q069_o2",
+        "label": "2",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q069_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q069_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q069_o2",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q070",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q070_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q070_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q070_o3",
+        "label": "3",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q070_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q070_o3",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q071",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q071_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q071_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q071_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q071_o4",
+        "label": "4",
+        "text": "1812"
+      }
+    ],
+    "correct_option_id": "ru_q071_o4",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q072",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q072_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q072_o2",
+        "label": "2",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q072_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q072_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q072_o2",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q073",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q073_o1",
+        "label": "1",
+        "text": "2014"
+      },
+      {
+        "id": "ru_q073_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q073_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q073_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q073_o1",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q074",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q074_o1",
+        "label": "1",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q074_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q074_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q074_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q074_o1",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q075",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q075_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q075_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q075_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q075_o4",
+        "label": "4",
+        "text": "1991"
+      }
+    ],
+    "correct_option_id": "ru_q075_o4",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q076",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q076_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q076_o2",
+        "label": "2",
+        "text": "2014"
+      },
+      {
+        "id": "ru_q076_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q076_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q076_o2",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q077",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q077_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q077_o2",
+        "label": "2",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q077_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q077_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q077_o2",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q078",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q078_o1",
+        "label": "1",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q078_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q078_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q078_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q078_o1",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q079",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1917 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q079_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q079_o2",
+        "label": "2",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q079_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q079_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q079_o2",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q080",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q080_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q080_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q080_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q080_o4",
+        "label": "4",
+        "text": "1993"
+      }
+    ],
+    "correct_option_id": "ru_q080_o4",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q081",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q081_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q081_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q081_o3",
+        "label": "3",
+        "text": "1812"
+      },
+      {
+        "id": "ru_q081_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q081_o3",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q082",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q082_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q082_o2",
+        "label": "2",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q082_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q082_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q082_o2",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q083",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q083_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q083_o2",
+        "label": "2",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q083_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q083_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q083_o2",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q084",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q084_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q084_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q084_o3",
+        "label": "3",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q084_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q084_o3",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q085",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2000 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q085_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q085_o2",
+        "label": "2",
+        "text": "2000"
+      },
+      {
+        "id": "ru_q085_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q085_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q085_o2",
+    "explanation": "The number 2000 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q086",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2000 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q086_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q086_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q086_o3",
+        "label": "3",
+        "text": "2000"
+      },
+      {
+        "id": "ru_q086_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q086_o3",
+    "explanation": "The number 2000 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q087",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q087_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q087_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q087_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q087_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q087_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q088",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q088_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q088_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q088_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q088_o4",
+        "label": "4",
+        "text": "2014"
+      }
+    ],
+    "correct_option_id": "ru_q088_o4",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q089",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q089_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q089_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q089_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q089_o4",
+        "label": "4",
+        "text": "1812"
+      }
+    ],
+    "correct_option_id": "ru_q089_o4",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q090",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q090_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q090_o2",
+        "label": "2",
+        "text": "1812"
+      },
+      {
+        "id": "ru_q090_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q090_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q090_o2",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q091",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1917 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q091_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q091_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q091_o3",
+        "label": "3",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q091_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q091_o3",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q092",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q092_o1",
+        "label": "1",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q092_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q092_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q092_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q092_o1",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q093",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q093_o1",
+        "label": "1",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q093_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q093_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q093_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q093_o1",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q094",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q094_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q094_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q094_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q094_o4",
+        "label": "4",
+        "text": "2014"
+      }
+    ],
+    "correct_option_id": "ru_q094_o4",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q095",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q095_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q095_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q095_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q095_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q095_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q096",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q096_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q096_o2",
+        "label": "2",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q096_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q096_o4",
+        "label": "4",
+        "text": "1991"
+      }
+    ],
+    "correct_option_id": "ru_q096_o4",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q097",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q097_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q097_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q097_o3",
+        "label": "3",
+        "text": "1812"
+      },
+      {
+        "id": "ru_q097_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q097_o3",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q098",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q098_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q098_o2",
+        "label": "2",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q098_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q098_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q098_o2",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q099",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1917 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q099_o1",
+        "label": "1",
+        "text": "1917"
+      },
+      {
+        "id": "ru_q099_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q099_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q099_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q099_o1",
+    "explanation": "The October Revolution occurred in 1917 and is recorded in historical and state sources as the event bringing the Bolsheviks to power and changing the state's political order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q100",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q100_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q100_o2",
+        "label": "2",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q100_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q100_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q100_o2",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q101",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q101_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q101_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q101_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q101_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q101_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q102",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q102_o1",
+        "label": "1",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q102_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q102_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q102_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q102_o1",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q103",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q103_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q103_o2",
+        "label": "2",
+        "text": "1812"
+      },
+      {
+        "id": "ru_q103_o3",
+        "label": "3",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q103_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q103_o2",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q104",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q104_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q104_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q104_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q104_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q104_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q105",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q105_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q105_o2",
+        "label": "2",
+        "text": "2014"
+      },
+      {
+        "id": "ru_q105_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q105_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q105_o2",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q106",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1812 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q106_o1",
+        "label": "1",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q106_o2",
+        "label": "2",
+        "text": "1812"
+      },
+      {
+        "id": "ru_q106_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q106_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q106_o2",
+    "explanation": "The number 1812 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q107",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1945 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q107_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q107_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q107_o3",
+        "label": "3",
+        "text": "1945"
+      },
+      {
+        "id": "ru_q107_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q107_o3",
+    "explanation": "The number 1945 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q108",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q108_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q108_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q108_o3",
+        "label": "3",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q108_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q108_o3",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q109",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1991 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q109_o1",
+        "label": "1",
+        "text": "1991"
+      },
+      {
+        "id": "ru_q109_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q109_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q109_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q109_o1",
+    "explanation": "1991 is the year the Soviet Union formally ceased to exist following declarations and agreements among its constituent republics, leading to the Russian Federation's international recognition.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q110",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2014 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q110_o1",
+        "label": "1",
+        "text": "2014"
+      },
+      {
+        "id": "ru_q110_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q110_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q110_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q110_o1",
+    "explanation": "The number 2014 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q111",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 1993 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q111_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q111_o2",
+        "label": "2",
+        "text": "1993"
+      },
+      {
+        "id": "ru_q111_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q111_o4",
+        "label": "4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "ru_q111_o2",
+    "explanation": "In 1993 a national referendum approved the current Constitution, which then became the fundamental law shaping the state's institutions and legal order.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q112",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2000 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q112_o1",
+        "label": "1",
+        "text": "2000"
+      },
+      {
+        "id": "ru_q112_o2",
+        "label": "2",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q112_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q112_o4",
+        "label": "4",
+        "text": "1950"
+      }
+    ],
+    "correct_option_id": "ru_q112_o1",
+    "explanation": "The number 2000 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q113",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2000 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q113_o1",
+        "label": "1",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q113_o2",
+        "label": "2",
+        "text": "2000"
+      },
+      {
+        "id": "ru_q113_o3",
+        "label": "3",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q113_o4",
+        "label": "4",
+        "text": "1800"
+      }
+    ],
+    "correct_option_id": "ru_q113_o2",
+    "explanation": "The number 2000 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q114",
+    "question": "In which year did the historically significant event commonly taught in Russian schools occur: 2000 is associated with which historical milestone?",
+    "options": [
+      {
+        "id": "ru_q114_o1",
+        "label": "1",
+        "text": "1800"
+      },
+      {
+        "id": "ru_q114_o2",
+        "label": "2",
+        "text": "1950"
+      },
+      {
+        "id": "ru_q114_o3",
+        "label": "3",
+        "text": "1900"
+      },
+      {
+        "id": "ru_q114_o4",
+        "label": "4",
+        "text": "2000"
+      }
+    ],
+    "correct_option_id": "ru_q114_o4",
+    "explanation": "The number 2000 is fixed by law or official rules governing the institution mentioned in the question.",
+    "source_url": [
+      "https://en.kremlin.ru/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q115",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q115_o1",
+        "label": "1",
+        "text": "White, blue and red"
+      },
+      {
+        "id": "ru_q115_o2",
+        "label": "2",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q115_o3",
+        "label": "3",
+        "text": "Blue and yellow"
+      },
+      {
+        "id": "ru_q115_o4",
+        "label": "4",
+        "text": "Green, white and red"
+      }
+    ],
+    "correct_option_id": "ru_q115_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q116",
+    "question": "Which symbol is used as the Presidential Standard (flag)?",
+    "options": [
+      {
+        "id": "ru_q116_o1",
+        "label": "1",
+        "text": "A square flag with the presidential emblem"
+      },
+      {
+        "id": "ru_q116_o2",
+        "label": "2",
+        "text": "A vertical tricolour"
+      },
+      {
+        "id": "ru_q116_o3",
+        "label": "3",
+        "text": "A circular seal only"
+      },
+      {
+        "id": "ru_q116_o4",
+        "label": "4",
+        "text": "An animal figure"
+      }
+    ],
+    "correct_option_id": "ru_q116_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q117",
+    "question": "Who is the Commander-in-Chief of the Armed Forces of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q117_o1",
+        "label": "1",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q117_o2",
+        "label": "2",
+        "text": "The Minister of Defence"
+      },
+      {
+        "id": "ru_q117_o3",
+        "label": "3",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q117_o4",
+        "label": "4",
+        "text": "The Chief of the General Staff"
+      }
+    ],
+    "correct_option_id": "ru_q117_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q118",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q118_o1",
+        "label": "1",
+        "text": "Blue and yellow"
+      },
+      {
+        "id": "ru_q118_o2",
+        "label": "2",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q118_o3",
+        "label": "3",
+        "text": "Green, white and red"
+      },
+      {
+        "id": "ru_q118_o4",
+        "label": "4",
+        "text": "White, blue and red"
+      }
+    ],
+    "correct_option_id": "ru_q118_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q119",
+    "question": "Which symbol is used as the Presidential Standard (flag)?",
+    "options": [
+      {
+        "id": "ru_q119_o1",
+        "label": "1",
+        "text": "An animal figure"
+      },
+      {
+        "id": "ru_q119_o2",
+        "label": "2",
+        "text": "A square flag with the presidential emblem"
+      },
+      {
+        "id": "ru_q119_o3",
+        "label": "3",
+        "text": "A circular seal only"
+      },
+      {
+        "id": "ru_q119_o4",
+        "label": "4",
+        "text": "A vertical tricolour"
+      }
+    ],
+    "correct_option_id": "ru_q119_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q120",
+    "question": "Who is the Commander-in-Chief of the Armed Forces of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q120_o1",
+        "label": "1",
+        "text": "The Minister of Defence"
+      },
+      {
+        "id": "ru_q120_o2",
+        "label": "2",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q120_o3",
+        "label": "3",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q120_o4",
+        "label": "4",
+        "text": "The Chief of the General Staff"
+      }
+    ],
+    "correct_option_id": "ru_q120_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q121",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q121_o1",
+        "label": "1",
+        "text": "Blue and yellow"
+      },
+      {
+        "id": "ru_q121_o2",
+        "label": "2",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q121_o3",
+        "label": "3",
+        "text": "White, blue and red"
+      },
+      {
+        "id": "ru_q121_o4",
+        "label": "4",
+        "text": "Green, white and red"
+      }
+    ],
+    "correct_option_id": "ru_q121_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q122",
+    "question": "Which symbol is used as the Presidential Standard (flag)?",
+    "options": [
+      {
+        "id": "ru_q122_o1",
+        "label": "1",
+        "text": "A circular seal only"
+      },
+      {
+        "id": "ru_q122_o2",
+        "label": "2",
+        "text": "A square flag with the presidential emblem"
+      },
+      {
+        "id": "ru_q122_o3",
+        "label": "3",
+        "text": "An animal figure"
+      },
+      {
+        "id": "ru_q122_o4",
+        "label": "4",
+        "text": "A vertical tricolour"
+      }
+    ],
+    "correct_option_id": "ru_q122_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q123",
+    "question": "Who is the Commander-in-Chief of the Armed Forces of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q123_o1",
+        "label": "1",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q123_o2",
+        "label": "2",
+        "text": "The Chief of the General Staff"
+      },
+      {
+        "id": "ru_q123_o3",
+        "label": "3",
+        "text": "The Minister of Defence"
+      },
+      {
+        "id": "ru_q123_o4",
+        "label": "4",
+        "text": "The Chairman of the Government"
+      }
+    ],
+    "correct_option_id": "ru_q123_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q124",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q124_o1",
+        "label": "1",
+        "text": "Green, white and red"
+      },
+      {
+        "id": "ru_q124_o2",
+        "label": "2",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q124_o3",
+        "label": "3",
+        "text": "White, blue and red"
+      },
+      {
+        "id": "ru_q124_o4",
+        "label": "4",
+        "text": "Blue and yellow"
+      }
+    ],
+    "correct_option_id": "ru_q124_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q125",
+    "question": "Which symbol is used as the Presidential Standard (flag)?",
+    "options": [
+      {
+        "id": "ru_q125_o1",
+        "label": "1",
+        "text": "A square flag with the presidential emblem"
+      },
+      {
+        "id": "ru_q125_o2",
+        "label": "2",
+        "text": "An animal figure"
+      },
+      {
+        "id": "ru_q125_o3",
+        "label": "3",
+        "text": "A circular seal only"
+      },
+      {
+        "id": "ru_q125_o4",
+        "label": "4",
+        "text": "A vertical tricolour"
+      }
+    ],
+    "correct_option_id": "ru_q125_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q126",
+    "question": "Who is the Commander-in-Chief of the Armed Forces of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q126_o1",
+        "label": "1",
+        "text": "The Chief of the General Staff"
+      },
+      {
+        "id": "ru_q126_o2",
+        "label": "2",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q126_o3",
+        "label": "3",
+        "text": "The Minister of Defence"
+      },
+      {
+        "id": "ru_q126_o4",
+        "label": "4",
+        "text": "The President of the Russian Federation"
+      }
+    ],
+    "correct_option_id": "ru_q126_o4",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q127",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q127_o1",
+        "label": "1",
+        "text": "Green, white and red"
+      },
+      {
+        "id": "ru_q127_o2",
+        "label": "2",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q127_o3",
+        "label": "3",
+        "text": "White, blue and red"
+      },
+      {
+        "id": "ru_q127_o4",
+        "label": "4",
+        "text": "Blue and yellow"
+      }
+    ],
+    "correct_option_id": "ru_q127_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q128",
+    "question": "Which symbol is used as the Presidential Standard (flag)?",
+    "options": [
+      {
+        "id": "ru_q128_o1",
+        "label": "1",
+        "text": "A vertical tricolour"
+      },
+      {
+        "id": "ru_q128_o2",
+        "label": "2",
+        "text": "A square flag with the presidential emblem"
+      },
+      {
+        "id": "ru_q128_o3",
+        "label": "3",
+        "text": "An animal figure"
+      },
+      {
+        "id": "ru_q128_o4",
+        "label": "4",
+        "text": "A circular seal only"
+      }
+    ],
+    "correct_option_id": "ru_q128_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q129",
+    "question": "Who is the Commander-in-Chief of the Armed Forces of the Russian Federation?",
+    "options": [
+      {
+        "id": "ru_q129_o1",
+        "label": "1",
+        "text": "The Chairman of the Government"
+      },
+      {
+        "id": "ru_q129_o2",
+        "label": "2",
+        "text": "The President of the Russian Federation"
+      },
+      {
+        "id": "ru_q129_o3",
+        "label": "3",
+        "text": "The Minister of Defence"
+      },
+      {
+        "id": "ru_q129_o4",
+        "label": "4",
+        "text": "The Chief of the General Staff"
+      }
+    ],
+    "correct_option_id": "ru_q129_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.constitution.ru/en/10003000-05.htm"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q130",
+    "question": "What are the official colours of the Russian national flag?",
+    "options": [
+      {
+        "id": "ru_q130_o1",
+        "label": "1",
+        "text": "Green, white and red"
+      },
+      {
+        "id": "ru_q130_o2",
+        "label": "2",
+        "text": "White, blue and red"
+      },
+      {
+        "id": "ru_q130_o3",
+        "label": "3",
+        "text": "Black and yellow"
+      },
+      {
+        "id": "ru_q130_o4",
+        "label": "4",
+        "text": "Blue and yellow"
+      }
+    ],
+    "correct_option_id": "ru_q130_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://en.flag.kremlin.ru/"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q131",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q131_o1",
+        "label": "1",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q131_o2",
+        "label": "2",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      },
+      {
+        "id": "ru_q131_o3",
+        "label": "3",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q131_o4",
+        "label": "4",
+        "text": "Chapter 10"
+      }
+    ],
+    "correct_option_id": "ru_q131_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q132",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q132_o1",
+        "label": "1",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q132_o2",
+        "label": "2",
+        "text": "French"
+      },
+      {
+        "id": "ru_q132_o3",
+        "label": "3",
+        "text": "English"
+      },
+      {
+        "id": "ru_q132_o4",
+        "label": "4",
+        "text": "Tatar"
+      }
+    ],
+    "correct_option_id": "ru_q132_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q133",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q133_o1",
+        "label": "1",
+        "text": "Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q133_o2",
+        "label": "2",
+        "text": "State Duma"
+      },
+      {
+        "id": "ru_q133_o3",
+        "label": "3",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q133_o4",
+        "label": "4",
+        "text": "Ministry of Defense"
+      }
+    ],
+    "correct_option_id": "ru_q133_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q134",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q134_o1",
+        "label": "1",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q134_o2",
+        "label": "2",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q134_o3",
+        "label": "3",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q134_o4",
+        "label": "4",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      }
+    ],
+    "correct_option_id": "ru_q134_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q135",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q135_o1",
+        "label": "1",
+        "text": "English"
+      },
+      {
+        "id": "ru_q135_o2",
+        "label": "2",
+        "text": "French"
+      },
+      {
+        "id": "ru_q135_o3",
+        "label": "3",
+        "text": "Tatar"
+      },
+      {
+        "id": "ru_q135_o4",
+        "label": "4",
+        "text": "Russian"
+      }
+    ],
+    "correct_option_id": "ru_q135_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q136",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q136_o1",
+        "label": "1",
+        "text": "State Duma"
+      },
+      {
+        "id": "ru_q136_o2",
+        "label": "2",
+        "text": "Ministry of Defense"
+      },
+      {
+        "id": "ru_q136_o3",
+        "label": "3",
+        "text": "Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q136_o4",
+        "label": "4",
+        "text": "Federation Council"
+      }
+    ],
+    "correct_option_id": "ru_q136_o3",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q137",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q137_o1",
+        "label": "1",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q137_o2",
+        "label": "2",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q137_o3",
+        "label": "3",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q137_o4",
+        "label": "4",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      }
+    ],
+    "correct_option_id": "ru_q137_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q138",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q138_o1",
+        "label": "1",
+        "text": "Tatar"
+      },
+      {
+        "id": "ru_q138_o2",
+        "label": "2",
+        "text": "English"
+      },
+      {
+        "id": "ru_q138_o3",
+        "label": "3",
+        "text": "French"
+      },
+      {
+        "id": "ru_q138_o4",
+        "label": "4",
+        "text": "Russian"
+      }
+    ],
+    "correct_option_id": "ru_q138_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q139",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q139_o1",
+        "label": "1",
+        "text": "Ministry of Defense"
+      },
+      {
+        "id": "ru_q139_o2",
+        "label": "2",
+        "text": "Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q139_o3",
+        "label": "3",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q139_o4",
+        "label": "4",
+        "text": "State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q139_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q140",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q140_o1",
+        "label": "1",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      },
+      {
+        "id": "ru_q140_o2",
+        "label": "2",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q140_o3",
+        "label": "3",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q140_o4",
+        "label": "4",
+        "text": "Chapter 5"
+      }
+    ],
+    "correct_option_id": "ru_q140_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q141",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q141_o1",
+        "label": "1",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q141_o2",
+        "label": "2",
+        "text": "French"
+      },
+      {
+        "id": "ru_q141_o3",
+        "label": "3",
+        "text": "English"
+      },
+      {
+        "id": "ru_q141_o4",
+        "label": "4",
+        "text": "Tatar"
+      }
+    ],
+    "correct_option_id": "ru_q141_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q142",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q142_o1",
+        "label": "1",
+        "text": "Ministry of Defense"
+      },
+      {
+        "id": "ru_q142_o2",
+        "label": "2",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q142_o3",
+        "label": "3",
+        "text": "State Duma"
+      },
+      {
+        "id": "ru_q142_o4",
+        "label": "4",
+        "text": "Ministry of Foreign Affairs (MID)"
+      }
+    ],
+    "correct_option_id": "ru_q142_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q143",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q143_o1",
+        "label": "1",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      },
+      {
+        "id": "ru_q143_o2",
+        "label": "2",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q143_o3",
+        "label": "3",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q143_o4",
+        "label": "4",
+        "text": "Chapter 10"
+      }
+    ],
+    "correct_option_id": "ru_q143_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q144",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q144_o1",
+        "label": "1",
+        "text": "Tatar"
+      },
+      {
+        "id": "ru_q144_o2",
+        "label": "2",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q144_o3",
+        "label": "3",
+        "text": "French"
+      },
+      {
+        "id": "ru_q144_o4",
+        "label": "4",
+        "text": "English"
+      }
+    ],
+    "correct_option_id": "ru_q144_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q145",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q145_o1",
+        "label": "1",
+        "text": "Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q145_o2",
+        "label": "2",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q145_o3",
+        "label": "3",
+        "text": "State Duma"
+      },
+      {
+        "id": "ru_q145_o4",
+        "label": "4",
+        "text": "Ministry of Defense"
+      }
+    ],
+    "correct_option_id": "ru_q145_o1",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q146",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q146_o1",
+        "label": "1",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q146_o2",
+        "label": "2",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q146_o3",
+        "label": "3",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q146_o4",
+        "label": "4",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      }
+    ],
+    "correct_option_id": "ru_q146_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q147",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q147_o1",
+        "label": "1",
+        "text": "French"
+      },
+      {
+        "id": "ru_q147_o2",
+        "label": "2",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q147_o3",
+        "label": "3",
+        "text": "Tatar"
+      },
+      {
+        "id": "ru_q147_o4",
+        "label": "4",
+        "text": "English"
+      }
+    ],
+    "correct_option_id": "ru_q147_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q148",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q148_o1",
+        "label": "1",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q148_o2",
+        "label": "2",
+        "text": "Ministry of Defense"
+      },
+      {
+        "id": "ru_q148_o3",
+        "label": "3",
+        "text": "Ministry of Foreign Affairs (MID)"
+      },
+      {
+        "id": "ru_q148_o4",
+        "label": "4",
+        "text": "State Duma"
+      }
+    ],
+    "correct_option_id": "ru_q148_o3",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q149",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q149_o1",
+        "label": "1",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q149_o2",
+        "label": "2",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q149_o3",
+        "label": "3",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      },
+      {
+        "id": "ru_q149_o4",
+        "label": "4",
+        "text": "Chapter 5"
+      }
+    ],
+    "correct_option_id": "ru_q149_o3",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q150",
+    "question": "Which language is used for official documents at the federal level?",
+    "options": [
+      {
+        "id": "ru_q150_o1",
+        "label": "1",
+        "text": "French"
+      },
+      {
+        "id": "ru_q150_o2",
+        "label": "2",
+        "text": "Russian"
+      },
+      {
+        "id": "ru_q150_o3",
+        "label": "3",
+        "text": "Tatar"
+      },
+      {
+        "id": "ru_q150_o4",
+        "label": "4",
+        "text": "English"
+      }
+    ],
+    "correct_option_id": "ru_q150_o2",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q151",
+    "question": "Which body is responsible for foreign policy execution and diplomatic representation?",
+    "options": [
+      {
+        "id": "ru_q151_o1",
+        "label": "1",
+        "text": "Ministry of Defense"
+      },
+      {
+        "id": "ru_q151_o2",
+        "label": "2",
+        "text": "State Duma"
+      },
+      {
+        "id": "ru_q151_o3",
+        "label": "3",
+        "text": "Federation Council"
+      },
+      {
+        "id": "ru_q151_o4",
+        "label": "4",
+        "text": "Ministry of Foreign Affairs (MID)"
+      }
+    ],
+    "correct_option_id": "ru_q151_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://mid.ru/en/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q152",
+    "question": "Which article of the Constitution guarantees rights and freedoms of man and citizen?",
+    "options": [
+      {
+        "id": "ru_q152_o1",
+        "label": "1",
+        "text": "Chapter 5"
+      },
+      {
+        "id": "ru_q152_o2",
+        "label": "2",
+        "text": "Chapter 1"
+      },
+      {
+        "id": "ru_q152_o3",
+        "label": "3",
+        "text": "Chapter 10"
+      },
+      {
+        "id": "ru_q152_o4",
+        "label": "4",
+        "text": "Chapter 2 (Rights and Freedoms)"
+      }
+    ],
+    "correct_option_id": "ru_q152_o4",
+    "explanation": "The Constitution names Russian as the state language, making it the official language used for federal legislation, documents and proceedings.",
+    "source_url": [
+      "https://www.constitution.ru/"
+    ],
+    "category": "Culture, everyday life, rights/responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q153",
+    "question": "What is the general term for Russia's regions such as oblasts, republics, krais?",
+    "options": [
+      {
+        "id": "ru_q153_o1",
+        "label": "1",
+        "text": "Federal subjects (constituent entities)"
+      },
+      {
+        "id": "ru_q153_o2",
+        "label": "2",
+        "text": "Provinces"
+      },
+      {
+        "id": "ru_q153_o3",
+        "label": "3",
+        "text": "Counties"
+      },
+      {
+        "id": "ru_q153_o4",
+        "label": "4",
+        "text": "Prefectures"
+      }
+    ],
+    "correct_option_id": "ru_q153_o1",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q154",
+    "question": "Which portal provides official information about the regions of Russia?",
+    "options": [
+      {
+        "id": "ru_q154_o1",
+        "label": "1",
+        "text": "duma.gov.ru regional pages"
+      },
+      {
+        "id": "ru_q154_o2",
+        "label": "2",
+        "text": "kremlin.ru regional pages"
+      },
+      {
+        "id": "ru_q154_o3",
+        "label": "3",
+        "text": "mid.ru regional pages"
+      },
+      {
+        "id": "ru_q154_o4",
+        "label": "4",
+        "text": "gov.ru regions pages"
+      }
+    ],
+    "correct_option_id": "ru_q154_o4",
+    "explanation": "The Government portal provides official listings and authoritative information about Russia's federal subjects, serving as the central administrative resource for regional data.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q155",
+    "question": "What is the general term for Russia's regions such as oblasts, republics, krais?",
+    "options": [
+      {
+        "id": "ru_q155_o1",
+        "label": "1",
+        "text": "Counties"
+      },
+      {
+        "id": "ru_q155_o2",
+        "label": "2",
+        "text": "Federal subjects (constituent entities)"
+      },
+      {
+        "id": "ru_q155_o3",
+        "label": "3",
+        "text": "Prefectures"
+      },
+      {
+        "id": "ru_q155_o4",
+        "label": "4",
+        "text": "Provinces"
+      }
+    ],
+    "correct_option_id": "ru_q155_o2",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q156",
+    "question": "Which portal provides official information about the regions of Russia?",
+    "options": [
+      {
+        "id": "ru_q156_o1",
+        "label": "1",
+        "text": "duma.gov.ru regional pages"
+      },
+      {
+        "id": "ru_q156_o2",
+        "label": "2",
+        "text": "gov.ru regions pages"
+      },
+      {
+        "id": "ru_q156_o3",
+        "label": "3",
+        "text": "mid.ru regional pages"
+      },
+      {
+        "id": "ru_q156_o4",
+        "label": "4",
+        "text": "kremlin.ru regional pages"
+      }
+    ],
+    "correct_option_id": "ru_q156_o2",
+    "explanation": "The Government portal provides official listings and authoritative information about Russia's federal subjects, serving as the central administrative resource for regional data.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q157",
+    "question": "What is the general term for Russia's regions such as oblasts, republics, krais?",
+    "options": [
+      {
+        "id": "ru_q157_o1",
+        "label": "1",
+        "text": "Prefectures"
+      },
+      {
+        "id": "ru_q157_o2",
+        "label": "2",
+        "text": "Counties"
+      },
+      {
+        "id": "ru_q157_o3",
+        "label": "3",
+        "text": "Federal subjects (constituent entities)"
+      },
+      {
+        "id": "ru_q157_o4",
+        "label": "4",
+        "text": "Provinces"
+      }
+    ],
+    "correct_option_id": "ru_q157_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q158",
+    "question": "Which portal provides official information about the regions of Russia?",
+    "options": [
+      {
+        "id": "ru_q158_o1",
+        "label": "1",
+        "text": "mid.ru regional pages"
+      },
+      {
+        "id": "ru_q158_o2",
+        "label": "2",
+        "text": "duma.gov.ru regional pages"
+      },
+      {
+        "id": "ru_q158_o3",
+        "label": "3",
+        "text": "gov.ru regions pages"
+      },
+      {
+        "id": "ru_q158_o4",
+        "label": "4",
+        "text": "kremlin.ru regional pages"
+      }
+    ],
+    "correct_option_id": "ru_q158_o3",
+    "explanation": "The Government portal provides official listings and authoritative information about Russia's federal subjects, serving as the central administrative resource for regional data.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q159",
+    "question": "What is the general term for Russia's regions such as oblasts, republics, krais?",
+    "options": [
+      {
+        "id": "ru_q159_o1",
+        "label": "1",
+        "text": "Prefectures"
+      },
+      {
+        "id": "ru_q159_o2",
+        "label": "2",
+        "text": "Provinces"
+      },
+      {
+        "id": "ru_q159_o3",
+        "label": "3",
+        "text": "Federal subjects (constituent entities)"
+      },
+      {
+        "id": "ru_q159_o4",
+        "label": "4",
+        "text": "Counties"
+      }
+    ],
+    "correct_option_id": "ru_q159_o3",
+    "explanation": "That is the correct choice because it is established by constitutional or federal legal provisions and is the official designation.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  },
+  {
+    "id": "ru_q160",
+    "question": "Which portal provides official information about the regions of Russia?",
+    "options": [
+      {
+        "id": "ru_q160_o1",
+        "label": "1",
+        "text": "gov.ru regions pages"
+      },
+      {
+        "id": "ru_q160_o2",
+        "label": "2",
+        "text": "mid.ru regional pages"
+      },
+      {
+        "id": "ru_q160_o3",
+        "label": "3",
+        "text": "kremlin.ru regional pages"
+      },
+      {
+        "id": "ru_q160_o4",
+        "label": "4",
+        "text": "duma.gov.ru regional pages"
+      }
+    ],
+    "correct_option_id": "ru_q160_o1",
+    "explanation": "The Government portal provides official listings and authoritative information about Russia's federal subjects, serving as the central administrative resource for regional data.",
+    "source_url": [
+      "https://www.gov.ru/main/regions/regioni-44_en.html"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "RU"
+  }
+]

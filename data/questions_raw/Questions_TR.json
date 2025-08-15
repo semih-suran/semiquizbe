@@ -1,0 +1,5282 @@
+[
+  {
+    "id": "tr_q001",
+    "question": "What is the official language of Turkey?",
+    "options": [
+      {
+        "id": "tr_q001_o1",
+        "text": "English"
+      },
+      {
+        "id": "tr_q001_o2",
+        "text": "Arabic"
+      },
+      {
+        "id": "tr_q001_o3",
+        "text": "Kurdish"
+      },
+      {
+        "id": "tr_q001_o4",
+        "text": "Turkish"
+      }
+    ],
+    "correct_option_id": "tr_q001_o4",
+    "explanation": "Article 3 of the Turkish Constitution explicitly states that “Its language is Turkish.”:contentReference[oaicite:20]{index=20}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q002",
+    "question": "Which city is the capital of Turkey?",
+    "options": [
+      {
+        "id": "tr_q002_o1",
+        "text": "Istanbul"
+      },
+      {
+        "id": "tr_q002_o2",
+        "text": "Ankara"
+      },
+      {
+        "id": "tr_q002_o3",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q002_o4",
+        "text": "Antalya"
+      }
+    ],
+    "correct_option_id": "tr_q002_o2",
+    "explanation": "The Constitution (Article 3) specifies “Its capital is Ankara.”:contentReference[oaicite:21]{index=21}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q003",
+    "question": "What design is featured on the flag of Turkey?",
+    "options": [
+      {
+        "id": "tr_q003_o1",
+        "text": "A white star and crescent on a red background"
+      },
+      {
+        "id": "tr_q003_o2",
+        "text": "A blue cross on a white background"
+      },
+      {
+        "id": "tr_q003_o3",
+        "text": "Three horizontal stripes (red, white, blue)"
+      },
+      {
+        "id": "tr_q003_o4",
+        "text": "A red dragon on a green background"
+      }
+    ],
+    "correct_option_id": "tr_q003_o1",
+    "explanation": "Article 3 of the Constitution describes the flag as “a white crescent and star on a red background.”:contentReference[oaicite:22]{index=22}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q004",
+    "question": "What is the national anthem of Turkey called?",
+    "options": [
+      {
+        "id": "tr_q004_o1",
+        "text": "“Eternal Homeland”"
+      },
+      {
+        "id": "tr_q004_o2",
+        "text": "“Independence March”"
+      },
+      {
+        "id": "tr_q004_o3",
+        "text": "“Land and Water”"
+      },
+      {
+        "id": "tr_q004_o4",
+        "text": "“March of Peace”"
+      }
+    ],
+    "correct_option_id": "tr_q004_o2",
+    "explanation": "The Constitution (Article 3) names Turkey’s anthem as the “Independence March.”:contentReference[oaicite:23]{index=23}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q005",
+    "question": "According to the Turkish Constitution, Turkey is a ____.",
+    "options": [
+      {
+        "id": "tr_q005_o1",
+        "text": "Monarchy"
+      },
+      {
+        "id": "tr_q005_o2",
+        "text": "Republic"
+      },
+      {
+        "id": "tr_q005_o3",
+        "text": "Federation"
+      },
+      {
+        "id": "tr_q005_o4",
+        "text": "Empire"
+      }
+    ],
+    "correct_option_id": "tr_q005_o2",
+    "explanation": "Article 1 of the Constitution clearly states “The State of Turkey is a Republic.”:contentReference[oaicite:24]{index=24}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q006",
+    "question": "Which describes the Republic of Turkey per its Constitution?",
+    "options": [
+      {
+        "id": "tr_q006_o1",
+        "text": "Monarchy governed by divine right"
+      },
+      {
+        "id": "tr_q006_o2",
+        "text": "Democratic, secular and social state governed by rule of law"
+      },
+      {
+        "id": "tr_q006_o3",
+        "text": "Theocratic state under religious law"
+      },
+      {
+        "id": "tr_q006_o4",
+        "text": "Socialist dictatorship"
+      }
+    ],
+    "correct_option_id": "tr_q006_o2",
+    "explanation": "Article 2 defines Turkey as “a democratic, secular and social state governed by rule of law.”:contentReference[oaicite:25]{index=25}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q007",
+    "question": "According to Article 10 of Turkey’s Constitution, which is true about all citizens?",
+    "options": [
+      {
+        "id": "tr_q007_o1",
+        "text": "They must serve in the military for life"
+      },
+      {
+        "id": "tr_q007_o2",
+        "text": "They are equal before the law without discrimination on language, race, etc."
+      },
+      {
+        "id": "tr_q007_o3",
+        "text": "They must pay tribute to the President"
+      },
+      {
+        "id": "tr_q007_o4",
+        "text": "They are required to join a political party"
+      }
+    ],
+    "correct_option_id": "tr_q007_o2",
+    "explanation": "Article 10 guarantees “Everyone is equal before the law without distinction as to language, race, … religion and sect, or any such grounds.”:contentReference[oaicite:26]{index=26}",
+    "source_url": [
+      "https://www.anayasa.gov.tr/media/7258/anayasa_eng.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q008",
+    "question": "On what date was the Republic of Turkey proclaimed?",
+    "options": [
+      {
+        "id": "tr_q008_o1",
+        "text": "October 29, 1923"
+      },
+      {
+        "id": "tr_q008_o2",
+        "text": "April 23, 1920"
+      },
+      {
+        "id": "tr_q008_o3",
+        "text": "November 10, 1938"
+      },
+      {
+        "id": "tr_q008_o4",
+        "text": "May 19, 1919"
+      }
+    ],
+    "correct_option_id": "tr_q008_o1",
+    "explanation": "The Grand National Assembly proclaimed the Republic on October 29, 1923:contentReference[oaicite:27]{index=27}, which is now celebrated as Republic Day.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/visitors-guide"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q009",
+    "question": "Who was the first President of Turkey?",
+    "options": [
+      {
+        "id": "tr_q009_o1",
+        "text": "İsmet İnönü"
+      },
+      {
+        "id": "tr_q009_o2",
+        "text": "Turgut Özal"
+      },
+      {
+        "id": "tr_q009_o3",
+        "text": "Mustafa Kemal Atatürk"
+      },
+      {
+        "id": "tr_q009_o4",
+        "text": "Süleyman Demirel"
+      }
+    ],
+    "correct_option_id": "tr_q009_o3",
+    "explanation": "Mustafa Kemal Atatürk was elected as the Republic’s first President on October 29, 1923:contentReference[oaicite:28]{index=28}.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/visitors-guide"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q010",
+    "question": "What foreign policy principle did Atatürk formulate?",
+    "options": [
+      {
+        "id": "tr_q010_o1",
+        "text": "\"Workers of the world unite\""
+      },
+      {
+        "id": "tr_q010_o2",
+        "text": "\"Peace at Home, Peace in the World\""
+      },
+      {
+        "id": "tr_q010_o3",
+        "text": "\"Ask not what your country can do for you\""
+      },
+      {
+        "id": "tr_q010_o4",
+        "text": "\"Blood and Iron\""
+      }
+    ],
+    "correct_option_id": "tr_q010_o2",
+    "explanation": "Turkey’s official sources note that Atatürk’s guiding foreign policy motto was “Peace at Home, Peace in the World.”:contentReference[oaicite:29]{index=29}",
+    "source_url": [
+      "https://www.turkiye.gov.tr/visitors-guide"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q011",
+    "question": "What is the capital city of Turkey?",
+    "options": [
+      {
+        "id": "tr_q011_o1",
+        "text": "Istanbul"
+      },
+      {
+        "id": "tr_q011_o2",
+        "text": "Ankara"
+      },
+      {
+        "id": "tr_q011_o3",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q011_o4",
+        "text": "Bursa"
+      }
+    ],
+    "correct_option_id": "tr_q011_o2",
+    "explanation": "Ankara has been the capital city of Turkey since 1923, following the establishment of the Republic.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q012",
+    "question": "Who was the founder of the Republic of Turkey?",
+    "options": [
+      {
+        "id": "tr_q012_o1",
+        "text": "Ismet Inönü"
+      },
+      {
+        "id": "tr_q012_o2",
+        "text": "Mustafa Kemal Atatürk"
+      },
+      {
+        "id": "tr_q012_o3",
+        "text": "Süleyman Demirel"
+      },
+      {
+        "id": "tr_q012_o4",
+        "text": "Turgut Özal"
+      }
+    ],
+    "correct_option_id": "tr_q012_o2",
+    "explanation": "Mustafa Kemal Atatürk founded the Republic of Turkey in 1923 and served as its first president.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q013",
+    "question": "In which year was the Republic of Turkey proclaimed?",
+    "options": [
+      {
+        "id": "tr_q013_o1",
+        "text": "1919"
+      },
+      {
+        "id": "tr_q013_o2",
+        "text": "1920"
+      },
+      {
+        "id": "tr_q013_o3",
+        "text": "1923"
+      },
+      {
+        "id": "tr_q013_o4",
+        "text": "1925"
+      }
+    ],
+    "correct_option_id": "tr_q013_o3",
+    "explanation": "The Republic of Turkey was officially proclaimed on 29 October 1923.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q014",
+    "question": "What is the national anthem of Turkey?",
+    "options": [
+      {
+        "id": "tr_q014_o1",
+        "text": "İstiklal Marşı"
+      },
+      {
+        "id": "tr_q014_o2",
+        "text": "Mehter Marşı"
+      },
+      {
+        "id": "tr_q014_o3",
+        "text": "Anadolu Marşı"
+      },
+      {
+        "id": "tr_q014_o4",
+        "text": "Cumhuriyet Marşı"
+      }
+    ],
+    "correct_option_id": "tr_q014_o1",
+    "explanation": "The İstiklal Marşı (Independence March) is Turkey's national anthem, officially adopted in 1921.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/state-symbols/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q015",
+    "question": "What is the legislative body of Turkey called?",
+    "options": [
+      {
+        "id": "tr_q015_o1",
+        "text": "Turkish Parliament"
+      },
+      {
+        "id": "tr_q015_o2",
+        "text": "Grand National Assembly of Turkey"
+      },
+      {
+        "id": "tr_q015_o3",
+        "text": "Turkish National Council"
+      },
+      {
+        "id": "tr_q015_o4",
+        "text": "Council of State"
+      }
+    ],
+    "correct_option_id": "tr_q015_o2",
+    "explanation": "The Grand National Assembly of Turkey is the unicameral legislative body of the country.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q016",
+    "question": "Which body in Turkey has the power to enact laws?",
+    "options": [
+      {
+        "id": "tr_q016_o1",
+        "text": "Council of Ministers"
+      },
+      {
+        "id": "tr_q016_o2",
+        "text": "Grand National Assembly of Turkey"
+      },
+      {
+        "id": "tr_q016_o3",
+        "text": "Constitutional Court"
+      },
+      {
+        "id": "tr_q016_o4",
+        "text": "Presidency"
+      }
+    ],
+    "correct_option_id": "tr_q016_o2",
+    "explanation": "Legislative power in Turkey is exercised by the Grand National Assembly of Turkey.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q017",
+    "question": "What is the highest court in Turkey for constitutional review?",
+    "options": [
+      {
+        "id": "tr_q017_o1",
+        "text": "Court of Cassation"
+      },
+      {
+        "id": "tr_q017_o2",
+        "text": "Council of State"
+      },
+      {
+        "id": "tr_q017_o3",
+        "text": "Constitutional Court"
+      },
+      {
+        "id": "tr_q017_o4",
+        "text": "Court of Accounts"
+      }
+    ],
+    "correct_option_id": "tr_q017_o3",
+    "explanation": "The Constitutional Court is the highest body for constitutional review in Turkey.",
+    "source_url": [
+      "https://www.anayasa.gov.tr/en/"
+    ],
+    "category": "Law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q018",
+    "question": "Which sea lies to the north of Turkey?",
+    "options": [
+      {
+        "id": "tr_q018_o1",
+        "text": "Aegean Sea"
+      },
+      {
+        "id": "tr_q018_o2",
+        "text": "Mediterranean Sea"
+      },
+      {
+        "id": "tr_q018_o3",
+        "text": "Black Sea"
+      },
+      {
+        "id": "tr_q018_o4",
+        "text": "Marmara Sea"
+      }
+    ],
+    "correct_option_id": "tr_q018_o3",
+    "explanation": "The Black Sea lies to the north of Turkey, bordering several provinces.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q019",
+    "question": "On which date is Turkey's Republic Day celebrated?",
+    "options": [
+      {
+        "id": "tr_q019_o1",
+        "text": "23 April"
+      },
+      {
+        "id": "tr_q019_o2",
+        "text": "19 May"
+      },
+      {
+        "id": "tr_q019_o3",
+        "text": "29 October"
+      },
+      {
+        "id": "tr_q019_o4",
+        "text": "30 August"
+      }
+    ],
+    "correct_option_id": "tr_q019_o3",
+    "explanation": "Republic Day is celebrated annually on 29 October to commemorate the proclamation of the Republic in 1923.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q020",
+    "question": "Which city is considered the cultural and economic hub of Turkey?",
+    "options": [
+      {
+        "id": "tr_q020_o1",
+        "text": "Ankara"
+      },
+      {
+        "id": "tr_q020_o2",
+        "text": "Istanbul"
+      },
+      {
+        "id": "tr_q020_o3",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q020_o4",
+        "text": "Antalya"
+      }
+    ],
+    "correct_option_id": "tr_q020_o2",
+    "explanation": "Istanbul is Turkey's largest city and serves as its cultural and economic hub.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q021",
+    "question": "Who was the second President of Turkey?",
+    "options": [
+      {
+        "id": "tr_q021_o1",
+        "text": "Mustafa Kemal Atatürk"
+      },
+      {
+        "id": "tr_q021_o2",
+        "text": "Celal Bayar"
+      },
+      {
+        "id": "tr_q021_o3",
+        "text": "Ismet Inönü"
+      },
+      {
+        "id": "tr_q021_o4",
+        "text": "Adnan Menderes"
+      }
+    ],
+    "correct_option_id": "tr_q021_o3",
+    "explanation": "Ismet Inönü served as the second President of Turkey from 1938 to 1950.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/presidents/periods/2/ismet-inonu/biography/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q022",
+    "question": "What is the currency of Turkey?",
+    "options": [
+      {
+        "id": "tr_q022_o1",
+        "text": "Lira"
+      },
+      {
+        "id": "tr_q022_o2",
+        "text": "Dinar"
+      },
+      {
+        "id": "tr_q022_o3",
+        "text": "Rial"
+      },
+      {
+        "id": "tr_q022_o4",
+        "text": "Pound"
+      }
+    ],
+    "correct_option_id": "tr_q022_o1",
+    "explanation": "The official currency of Turkey is the Turkish Lira.",
+    "source_url": [
+      "https://www.tcmb.gov.tr/wps/wcm/connect/EN/TCMB+EN/Main+Menu/Core+Functions/Banknotes/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q023",
+    "question": "What is the highest mountain in Turkey?",
+    "options": [
+      {
+        "id": "tr_q023_o1",
+        "text": "Mount Erciyes"
+      },
+      {
+        "id": "tr_q023_o2",
+        "text": "Mount Ararat"
+      },
+      {
+        "id": "tr_q023_o3",
+        "text": "Mount Süphan"
+      },
+      {
+        "id": "tr_q023_o4",
+        "text": "Mount Kaçkar"
+      }
+    ],
+    "correct_option_id": "tr_q023_o2",
+    "explanation": "Mount Ararat is the highest mountain in Turkey, with an elevation of 5,137 meters.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q024",
+    "question": "Which Turkish city is famous for its fairy chimneys in Cappadocia?",
+    "options": [
+      {
+        "id": "tr_q024_o1",
+        "text": "Nevşehir"
+      },
+      {
+        "id": "tr_q024_o2",
+        "text": "Konya"
+      },
+      {
+        "id": "tr_q024_o3",
+        "text": "Kayseri"
+      },
+      {
+        "id": "tr_q024_o4",
+        "text": "Eskişehir"
+      }
+    ],
+    "correct_option_id": "tr_q024_o1",
+    "explanation": "Nevşehir province is home to Cappadocia, known for its unique fairy chimney rock formations.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113930/cappadocia.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q025",
+    "question": "Which Turkish leader introduced the Latin alphabet to replace Ottoman script?",
+    "options": [
+      {
+        "id": "tr_q025_o1",
+        "text": "Ismet Inönü"
+      },
+      {
+        "id": "tr_q025_o2",
+        "text": "Mustafa Kemal Atatürk"
+      },
+      {
+        "id": "tr_q025_o3",
+        "text": "Celal Bayar"
+      },
+      {
+        "id": "tr_q025_o4",
+        "text": "Turgut Özal"
+      }
+    ],
+    "correct_option_id": "tr_q025_o2",
+    "explanation": "Mustafa Kemal Atatürk initiated the language reform in 1928, replacing the Ottoman script with the Latin alphabet.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q026",
+    "question": "Which strait connects the Black Sea to the Sea of Marmara?",
+    "options": [
+      {
+        "id": "tr_q026_o1",
+        "text": "Bosporus Strait"
+      },
+      {
+        "id": "tr_q026_o2",
+        "text": "Dardanelles"
+      },
+      {
+        "id": "tr_q026_o3",
+        "text": "Hormuz Strait"
+      },
+      {
+        "id": "tr_q026_o4",
+        "text": "Strait of Gibraltar"
+      }
+    ],
+    "correct_option_id": "tr_q026_o1",
+    "explanation": "The Bosporus Strait connects the Black Sea to the Sea of Marmara.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q027",
+    "question": "What is the smallest province in Turkey by area?",
+    "options": [
+      {
+        "id": "tr_q027_o1",
+        "text": "Yalova"
+      },
+      {
+        "id": "tr_q027_o2",
+        "text": "Bartın"
+      },
+      {
+        "id": "tr_q027_o3",
+        "text": "Kilis"
+      },
+      {
+        "id": "tr_q027_o4",
+        "text": "Bayburt"
+      }
+    ],
+    "correct_option_id": "tr_q027_o3",
+    "explanation": "Kilis is the smallest province in Turkey by area.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q028",
+    "question": "Which empire ruled over most of modern-day Turkey before the Republic?",
+    "options": [
+      {
+        "id": "tr_q028_o1",
+        "text": "Byzantine Empire"
+      },
+      {
+        "id": "tr_q028_o2",
+        "text": "Ottoman Empire"
+      },
+      {
+        "id": "tr_q028_o3",
+        "text": "Persian Empire"
+      },
+      {
+        "id": "tr_q028_o4",
+        "text": "Seljuk Empire"
+      }
+    ],
+    "correct_option_id": "tr_q028_o2",
+    "explanation": "The Ottoman Empire ruled over most of modern-day Turkey until its dissolution in 1922.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q029",
+    "question": "Which Turkish city is known for the whirling dervishes?",
+    "options": [
+      {
+        "id": "tr_q029_o1",
+        "text": "Konya"
+      },
+      {
+        "id": "tr_q029_o2",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q029_o3",
+        "text": "Edirne"
+      },
+      {
+        "id": "tr_q029_o4",
+        "text": "Sivas"
+      }
+    ],
+    "correct_option_id": "tr_q029_o1",
+    "explanation": "Konya is famous for the Mevlevi Order and the whirling dervishes tradition.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113927/mevlevi-order.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q030",
+    "question": "What is the official language of Turkey?",
+    "options": [
+      {
+        "id": "tr_q030_o1",
+        "text": "Kurdish"
+      },
+      {
+        "id": "tr_q030_o2",
+        "text": "Turkish"
+      },
+      {
+        "id": "tr_q030_o3",
+        "text": "Arabic"
+      },
+      {
+        "id": "tr_q030_o4",
+        "text": "English"
+      }
+    ],
+    "correct_option_id": "tr_q030_o2",
+    "explanation": "Turkish is the official language of Turkey, as stated in the Constitution.",
+    "source_url": [
+      "https://www.anayasa.gov.tr/en/legislation/turkish-constitution/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q031",
+    "question": "Which body in Turkey oversees the fairness of elections and referendums?",
+    "options": [
+      {
+        "id": "tr_q031_o1",
+        "text": "Supreme Electoral Council"
+      },
+      {
+        "id": "tr_q031_o2",
+        "text": "Council of State"
+      },
+      {
+        "id": "tr_q031_o3",
+        "text": "Constitutional Court"
+      },
+      {
+        "id": "tr_q031_o4",
+        "text": "Ministry of Interior"
+      }
+    ],
+    "correct_option_id": "tr_q031_o1",
+    "explanation": "The Supreme Electoral Council (Yüksek Seçim Kurulu) is responsible for overseeing the fairness of elections in Turkey.",
+    "source_url": [
+      "https://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/English"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q032",
+    "question": "Which Turkish city is famous for its thermal springs and travertine terraces at Pamukkale?",
+    "options": [
+      {
+        "id": "tr_q032_o1",
+        "text": "Denizli"
+      },
+      {
+        "id": "tr_q032_o2",
+        "text": "Afyonkarahisar"
+      },
+      {
+        "id": "tr_q032_o3",
+        "text": "Manisa"
+      },
+      {
+        "id": "tr_q032_o4",
+        "text": "Aydın"
+      }
+    ],
+    "correct_option_id": "tr_q032_o1",
+    "explanation": "Pamukkale's thermal springs and travertine terraces are located in Denizli province.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113941/pamukkale.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q033",
+    "question": "Which organization is responsible for the official statistics of Turkey?",
+    "options": [
+      {
+        "id": "tr_q033_o1",
+        "text": "State Planning Organization"
+      },
+      {
+        "id": "tr_q033_o2",
+        "text": "Turkish Statistical Institute"
+      },
+      {
+        "id": "tr_q033_o3",
+        "text": "Ministry of Finance"
+      },
+      {
+        "id": "tr_q033_o4",
+        "text": "Central Bank of Turkey"
+      }
+    ],
+    "correct_option_id": "tr_q033_o2",
+    "explanation": "The Turkish Statistical Institute (Türkiye İstatistik Kurumu) is the official provider of statistical data in Turkey.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q034",
+    "question": "Which is the largest lake in Turkey?",
+    "options": [
+      {
+        "id": "tr_q034_o1",
+        "text": "Lake Eğirdir"
+      },
+      {
+        "id": "tr_q034_o2",
+        "text": "Lake Van"
+      },
+      {
+        "id": "tr_q034_o3",
+        "text": "Lake Tuz"
+      },
+      {
+        "id": "tr_q034_o4",
+        "text": "Lake Beyşehir"
+      }
+    ],
+    "correct_option_id": "tr_q034_o2",
+    "explanation": "Lake Van is the largest lake in Turkey, located in the eastern region.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q035",
+    "question": "Which historical building in Istanbul served as both a church and a mosque before becoming a museum?",
+    "options": [
+      {
+        "id": "tr_q035_o1",
+        "text": "Topkapi Palace"
+      },
+      {
+        "id": "tr_q035_o2",
+        "text": "Blue Mosque"
+      },
+      {
+        "id": "tr_q035_o3",
+        "text": "Hagia Sophia"
+      },
+      {
+        "id": "tr_q035_o4",
+        "text": "Dolmabahçe Palace"
+      }
+    ],
+    "correct_option_id": "tr_q035_o3",
+    "explanation": "Hagia Sophia has served as a church, a mosque, and later as a museum, reflecting Turkey's layered history.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113956/istanbul.html"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q036",
+    "question": "What is the name of the national intelligence agency of Turkey?",
+    "options": [
+      {
+        "id": "tr_q036_o1",
+        "text": "Milli Güvenlik Kurulu"
+      },
+      {
+        "id": "tr_q036_o2",
+        "text": "Emniyet Genel Müdürlüğü"
+      },
+      {
+        "id": "tr_q036_o3",
+        "text": "Milli İstihbarat Teşkilatı"
+      },
+      {
+        "id": "tr_q036_o4",
+        "text": "Jandarma Genel Komutanlığı"
+      }
+    ],
+    "correct_option_id": "tr_q036_o3",
+    "explanation": "Milli İstihbarat Teşkilatı (MİT) is Turkey's national intelligence organization.",
+    "source_url": [
+      "https://www.mit.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q037",
+    "question": "Which peninsula in Turkey is known as the location of the ancient city of Troy?",
+    "options": [
+      {
+        "id": "tr_q037_o1",
+        "text": "Gallipoli Peninsula"
+      },
+      {
+        "id": "tr_q037_o2",
+        "text": "Datça Peninsula"
+      },
+      {
+        "id": "tr_q037_o3",
+        "text": "Biga Peninsula"
+      },
+      {
+        "id": "tr_q037_o4",
+        "text": "Bodrum Peninsula"
+      }
+    ],
+    "correct_option_id": "tr_q037_o3",
+    "explanation": "The ancient city of Troy is located on the Biga Peninsula in northwestern Turkey.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113944/troy.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q038",
+    "question": "Which famous battle in 1915 was a defining moment in Turkish history during World War I?",
+    "options": [
+      {
+        "id": "tr_q038_o1",
+        "text": "Battle of Sakarya"
+      },
+      {
+        "id": "tr_q038_o2",
+        "text": "Battle of Gallipoli"
+      },
+      {
+        "id": "tr_q038_o3",
+        "text": "Battle of Dumlupınar"
+      },
+      {
+        "id": "tr_q038_o4",
+        "text": "Battle of Malazgirt"
+      }
+    ],
+    "correct_option_id": "tr_q038_o2",
+    "explanation": "The Battle of Gallipoli in 1915 was a significant campaign in World War I and a key event in Turkish history.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113952/gallipoli.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q039",
+    "question": "Which city in Turkey is known as the capital of hazelnut production?",
+    "options": [
+      {
+        "id": "tr_q039_o1",
+        "text": "Giresun"
+      },
+      {
+        "id": "tr_q039_o2",
+        "text": "Trabzon"
+      },
+      {
+        "id": "tr_q039_o3",
+        "text": "Ordu"
+      },
+      {
+        "id": "tr_q039_o4",
+        "text": "Samsun"
+      }
+    ],
+    "correct_option_id": "tr_q039_o3",
+    "explanation": "Ordu province is the largest producer of hazelnuts in Turkey and the world.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q040",
+    "question": "Which UNESCO World Heritage site in Turkey is known for its rock-hewn churches and cave dwellings?",
+    "options": [
+      {
+        "id": "tr_q040_o1",
+        "text": "Cappadocia"
+      },
+      {
+        "id": "tr_q040_o2",
+        "text": "Nemrut Dağı"
+      },
+      {
+        "id": "tr_q040_o3",
+        "text": "Safranbolu"
+      },
+      {
+        "id": "tr_q040_o4",
+        "text": "Ephesus"
+      }
+    ],
+    "correct_option_id": "tr_q040_o1",
+    "explanation": "Cappadocia is a UNESCO World Heritage site famed for its rock-hewn churches, cave dwellings, and fairy chimneys.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/357/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q041",
+    "question": "Which is the largest island of Turkey?",
+    "options": [
+      {
+        "id": "tr_q041_o1",
+        "text": "Gökçeada"
+      },
+      {
+        "id": "tr_q041_o2",
+        "text": "Bozcaada"
+      },
+      {
+        "id": "tr_q041_o3",
+        "text": "Marmara Island"
+      },
+      {
+        "id": "tr_q041_o4",
+        "text": "Büyükada"
+      }
+    ],
+    "correct_option_id": "tr_q041_o1",
+    "explanation": "Gökçeada, located in the Aegean Sea, is the largest island in Turkey.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q042",
+    "question": "Which Ottoman Sultan conquered Constantinople in 1453?",
+    "options": [
+      {
+        "id": "tr_q042_o1",
+        "text": "Suleiman the Magnificent"
+      },
+      {
+        "id": "tr_q042_o2",
+        "text": "Mehmed II"
+      },
+      {
+        "id": "tr_q042_o3",
+        "text": "Selim I"
+      },
+      {
+        "id": "tr_q042_o4",
+        "text": "Bayezid II"
+      }
+    ],
+    "correct_option_id": "tr_q042_o2",
+    "explanation": "Mehmed II, also known as Mehmed the Conqueror, captured Constantinople in 1453.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113956/istanbul.html"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q043",
+    "question": "Which city is home to the Mausoleum of Atatürk?",
+    "options": [
+      {
+        "id": "tr_q043_o1",
+        "text": "Ankara"
+      },
+      {
+        "id": "tr_q043_o2",
+        "text": "Istanbul"
+      },
+      {
+        "id": "tr_q043_o3",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q043_o4",
+        "text": "Bursa"
+      }
+    ],
+    "correct_option_id": "tr_q043_o1",
+    "explanation": "The Mausoleum of Atatürk, known as Anıtkabir, is located in Ankara.",
+    "source_url": [
+      "https://www.anitkabir.tsk.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q044",
+    "question": "Which Turkish river is the longest within the country?",
+    "options": [
+      {
+        "id": "tr_q044_o1",
+        "text": "Kızılırmak"
+      },
+      {
+        "id": "tr_q044_o2",
+        "text": "Sakarya"
+      },
+      {
+        "id": "tr_q044_o3",
+        "text": "Fırat"
+      },
+      {
+        "id": "tr_q044_o4",
+        "text": "Dicle"
+      }
+    ],
+    "correct_option_id": "tr_q044_o1",
+    "explanation": "The Kızılırmak River is the longest river entirely within Turkey.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q045",
+    "question": "Which Turkish port city is known for its role in the War of Independence and its International Fair?",
+    "options": [
+      {
+        "id": "tr_q045_o1",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q045_o2",
+        "text": "Mersin"
+      },
+      {
+        "id": "tr_q045_o3",
+        "text": "Trabzon"
+      },
+      {
+        "id": "tr_q045_o4",
+        "text": "Antalya"
+      }
+    ],
+    "correct_option_id": "tr_q045_o1",
+    "explanation": "Izmir is a major port city significant in the War of Independence and known for the Izmir International Fair.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113957/izmir.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q046",
+    "question": "Which plain in southern Turkey is one of the most fertile agricultural regions?",
+    "options": [
+      {
+        "id": "tr_q046_o1",
+        "text": "Konya Plain"
+      },
+      {
+        "id": "tr_q046_o2",
+        "text": "Çukurova Plain"
+      },
+      {
+        "id": "tr_q046_o3",
+        "text": "Harran Plain"
+      },
+      {
+        "id": "tr_q046_o4",
+        "text": "Gediz Plain"
+      }
+    ],
+    "correct_option_id": "tr_q046_o2",
+    "explanation": "The Çukurova Plain in southern Turkey is among the most fertile agricultural areas in the country.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q047",
+    "question": "Which famous archaeological site in southeastern Turkey is considered one of the oldest temples in the world?",
+    "options": [
+      {
+        "id": "tr_q047_o1",
+        "text": "Ephesus"
+      },
+      {
+        "id": "tr_q047_o2",
+        "text": "Göbekli Tepe"
+      },
+      {
+        "id": "tr_q047_o3",
+        "text": "Hattusa"
+      },
+      {
+        "id": "tr_q047_o4",
+        "text": "Nemrut Dağı"
+      }
+    ],
+    "correct_option_id": "tr_q047_o2",
+    "explanation": "Göbekli Tepe is an archaeological site dating back to around 9600 BCE, regarded as one of the oldest temples.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/1572/"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q048",
+    "question": "Which Turkish holiday commemorates the start of the War of Independence and Youth and Sports Day?",
+    "options": [
+      {
+        "id": "tr_q048_o1",
+        "text": "19 May"
+      },
+      {
+        "id": "tr_q048_o2",
+        "text": "23 April"
+      },
+      {
+        "id": "tr_q048_o3",
+        "text": "30 August"
+      },
+      {
+        "id": "tr_q048_o4",
+        "text": "1 September"
+      }
+    ],
+    "correct_option_id": "tr_q048_o1",
+    "explanation": "19 May is celebrated as the Commemoration of Atatürk, Youth and Sports Day, marking the start of the War of Independence.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/president-of-the-republic-of-turkey/general-information/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q049",
+    "question": "Which province in Turkey is famous for producing pistachios?",
+    "options": [
+      {
+        "id": "tr_q049_o1",
+        "text": "Gaziantep"
+      },
+      {
+        "id": "tr_q049_o2",
+        "text": "Mardin"
+      },
+      {
+        "id": "tr_q049_o3",
+        "text": "Şanlıurfa"
+      },
+      {
+        "id": "tr_q049_o4",
+        "text": "Adıyaman"
+      }
+    ],
+    "correct_option_id": "tr_q049_o1",
+    "explanation": "Gaziantep is renowned for its pistachio production and its use in baklava.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q050",
+    "question": "Which Turkish region is famous for the ancient city of Ephesus?",
+    "options": [
+      {
+        "id": "tr_q050_o1",
+        "text": "Aegean Region"
+      },
+      {
+        "id": "tr_q050_o2",
+        "text": "Marmara Region"
+      },
+      {
+        "id": "tr_q050_o3",
+        "text": "Central Anatolia Region"
+      },
+      {
+        "id": "tr_q050_o4",
+        "text": "Southeastern Anatolia Region"
+      }
+    ],
+    "correct_option_id": "tr_q050_o1",
+    "explanation": "Ephesus, an ancient Greek city, is located in the Aegean Region near Izmir.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/1018/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q051",
+    "question": "Which Turkish lake is known for its high salinity and is one of the largest hypersaline lakes in the world?",
+    "options": [
+      {
+        "id": "tr_q051_o1",
+        "text": "Lake Tuz"
+      },
+      {
+        "id": "tr_q051_o2",
+        "text": "Lake Van"
+      },
+      {
+        "id": "tr_q051_o3",
+        "text": "Lake Eğirdir"
+      },
+      {
+        "id": "tr_q051_o4",
+        "text": "Lake Beyşehir"
+      }
+    ],
+    "correct_option_id": "tr_q051_o1",
+    "explanation": "Lake Tuz, located in Central Anatolia, is a large hypersaline lake and one of the largest salt lakes in the world.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q052",
+    "question": "Which Turkish city is renowned for its whirling dervishes and as the home of Rumi?",
+    "options": [
+      {
+        "id": "tr_q052_o1",
+        "text": "Konya"
+      },
+      {
+        "id": "tr_q052_o2",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q052_o3",
+        "text": "Kayseri"
+      },
+      {
+        "id": "tr_q052_o4",
+        "text": "Sivas"
+      }
+    ],
+    "correct_option_id": "tr_q052_o1",
+    "explanation": "Konya is the city associated with the Mevlevi Order and the poet Rumi, known for the whirling dervishes.",
+    "source_url": [
+      "https://whc.unesco.org/en/tentativelists/5720/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q053",
+    "question": "Which Turkish strait connects the Aegean Sea to the Sea of Marmara?",
+    "options": [
+      {
+        "id": "tr_q053_o1",
+        "text": "Bosphorus"
+      },
+      {
+        "id": "tr_q053_o2",
+        "text": "Dardanelles"
+      },
+      {
+        "id": "tr_q053_o3",
+        "text": "Suez"
+      },
+      {
+        "id": "tr_q053_o4",
+        "text": "Hormuz"
+      }
+    ],
+    "correct_option_id": "tr_q053_o2",
+    "explanation": "The Dardanelles Strait connects the Aegean Sea to the Sea of Marmara and has strategic historical significance.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q054",
+    "question": "Which Turkish festival is dedicated to oil wrestling and is considered one of the oldest sports events in the world?",
+    "options": [
+      {
+        "id": "tr_q054_o1",
+        "text": "Kırkpınar Oil Wrestling Festival"
+      },
+      {
+        "id": "tr_q054_o2",
+        "text": "Camel Wrestling Festival"
+      },
+      {
+        "id": "tr_q054_o3",
+        "text": "Mevlana Festival"
+      },
+      {
+        "id": "tr_q054_o4",
+        "text": "Hıdırellez Festival"
+      }
+    ],
+    "correct_option_id": "tr_q054_o1",
+    "explanation": "The Kırkpınar Oil Wrestling Festival in Edirne is considered one of the world's oldest continuous sporting events.",
+    "source_url": [
+      "https://whc.unesco.org/en/lists/00386/"
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q055",
+    "question": "Which former Ottoman capital is famous for its silk trade and historic mosques like the Ulu Cami?",
+    "options": [
+      {
+        "id": "tr_q055_o1",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q055_o2",
+        "text": "Edirne"
+      },
+      {
+        "id": "tr_q055_o3",
+        "text": "Istanbul"
+      },
+      {
+        "id": "tr_q055_o4",
+        "text": "Konya"
+      }
+    ],
+    "correct_option_id": "tr_q055_o1",
+    "explanation": "Bursa, a former Ottoman capital, is known for its silk trade and historical sites such as the Ulu Cami.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/1452/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q056",
+    "question": "Which sea borders Turkey to the north?",
+    "options": [
+      {
+        "id": "tr_q056_o1",
+        "text": "Mediterranean Sea"
+      },
+      {
+        "id": "tr_q056_o2",
+        "text": "Aegean Sea"
+      },
+      {
+        "id": "tr_q056_o3",
+        "text": "Black Sea"
+      },
+      {
+        "id": "tr_q056_o4",
+        "text": "Sea of Marmara"
+      }
+    ],
+    "correct_option_id": "tr_q056_o3",
+    "explanation": "The Black Sea borders Turkey to the north, providing important ports such as Trabzon and Samsun.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q057",
+    "question": "Which Turkish province is famous for Mount Ararat, believed to be the resting place of Noah's Ark?",
+    "options": [
+      {
+        "id": "tr_q057_o1",
+        "text": "Van"
+      },
+      {
+        "id": "tr_q057_o2",
+        "text": "Ağrı"
+      },
+      {
+        "id": "tr_q057_o3",
+        "text": "Kars"
+      },
+      {
+        "id": "tr_q057_o4",
+        "text": "Erzurum"
+      }
+    ],
+    "correct_option_id": "tr_q057_o2",
+    "explanation": "Mount Ararat, located in Ağrı Province, is traditionally associated with the story of Noah's Ark.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113958/agri.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q058",
+    "question": "Which ancient city in Turkey is famous for its Library of Celsus?",
+    "options": [
+      {
+        "id": "tr_q058_o1",
+        "text": "Ephesus"
+      },
+      {
+        "id": "tr_q058_o2",
+        "text": "Pergamon"
+      },
+      {
+        "id": "tr_q058_o3",
+        "text": "Aspendos"
+      },
+      {
+        "id": "tr_q058_o4",
+        "text": "Side"
+      }
+    ],
+    "correct_option_id": "tr_q058_o1",
+    "explanation": "Ephesus is renowned for its ancient structures, including the Library of Celsus, one of the best-preserved Roman buildings.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/1018/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q059",
+    "question": "Which is the official currency of Turkey?",
+    "options": [
+      {
+        "id": "tr_q059_o1",
+        "text": "Lira"
+      },
+      {
+        "id": "tr_q059_o2",
+        "text": "Euro"
+      },
+      {
+        "id": "tr_q059_o3",
+        "text": "Dollar"
+      },
+      {
+        "id": "tr_q059_o4",
+        "text": "Pound"
+      }
+    ],
+    "correct_option_id": "tr_q059_o1",
+    "explanation": "The official currency of Turkey is the Turkish lira (TRY).",
+    "source_url": [
+      "https://www.tcmb.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q060",
+    "question": "Which Turkish coastal city is known as the 'Turkish Riviera' for its beaches and resorts?",
+    "options": [
+      {
+        "id": "tr_q060_o1",
+        "text": "Antalya"
+      },
+      {
+        "id": "tr_q060_o2",
+        "text": "Bodrum"
+      },
+      {
+        "id": "tr_q060_o3",
+        "text": "Marmaris"
+      },
+      {
+        "id": "tr_q060_o4",
+        "text": "Kuşadası"
+      }
+    ],
+    "correct_option_id": "tr_q060_o1",
+    "explanation": "Antalya is referred to as the 'Turkish Riviera' due to its stunning beaches, luxury resorts, and historical sites.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113959/antalya.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q061",
+    "question": "Which mountain range runs parallel to Turkey's Black Sea coast?",
+    "options": [
+      {
+        "id": "tr_q061_o1",
+        "text": "Taurus Mountains"
+      },
+      {
+        "id": "tr_q061_o2",
+        "text": "Pontic Mountains"
+      },
+      {
+        "id": "tr_q061_o3",
+        "text": "Kaçkar Mountains"
+      },
+      {
+        "id": "tr_q061_o4",
+        "text": "Zagros Mountains"
+      }
+    ],
+    "correct_option_id": "tr_q061_o2",
+    "explanation": "The Pontic Mountains (Kuzey Anadolu Dağları) run parallel to the Black Sea coast of northern Turkey.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q062",
+    "question": "Which city served as the Ottoman capital immediately before Constantinople?",
+    "options": [
+      {
+        "id": "tr_q062_o1",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q062_o2",
+        "text": "Edirne"
+      },
+      {
+        "id": "tr_q062_o3",
+        "text": "Iznik"
+      },
+      {
+        "id": "tr_q062_o4",
+        "text": "Ankara"
+      }
+    ],
+    "correct_option_id": "tr_q062_o2",
+    "explanation": "Edirne was the Ottoman capital before Constantinople was conquered in 1453.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/751/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q063",
+    "question": "Which Turkish region is the primary producer of tea in the country?",
+    "options": [
+      {
+        "id": "tr_q063_o1",
+        "text": "Aegean Region"
+      },
+      {
+        "id": "tr_q063_o2",
+        "text": "Marmara Region"
+      },
+      {
+        "id": "tr_q063_o3",
+        "text": "Black Sea Region"
+      },
+      {
+        "id": "tr_q063_o4",
+        "text": "Central Anatolia Region"
+      }
+    ],
+    "correct_option_id": "tr_q063_o3",
+    "explanation": "The Black Sea Region, particularly Rize Province, is the primary producer of tea in Turkey.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q064",
+    "question": "Which famous mosque in Edirne was designed by the Ottoman architect Mimar Sinan?",
+    "options": [
+      {
+        "id": "tr_q064_o1",
+        "text": "Süleymaniye Mosque"
+      },
+      {
+        "id": "tr_q064_o2",
+        "text": "Selimiye Mosque"
+      },
+      {
+        "id": "tr_q064_o3",
+        "text": "Blue Mosque"
+      },
+      {
+        "id": "tr_q064_o4",
+        "text": "Yeni Mosque"
+      }
+    ],
+    "correct_option_id": "tr_q064_o2",
+    "explanation": "Selimiye Mosque in Edirne is a masterpiece by Mimar Sinan and a UNESCO World Heritage Site.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/1366/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q065",
+    "question": "Which body is Turkey's highest administrative court?",
+    "options": [
+      {
+        "id": "tr_q065_o1",
+        "text": "Council of State"
+      },
+      {
+        "id": "tr_q065_o2",
+        "text": "Court of Cassation"
+      },
+      {
+        "id": "tr_q065_o3",
+        "text": "Constitutional Court"
+      },
+      {
+        "id": "tr_q065_o4",
+        "text": "High Election Board"
+      }
+    ],
+    "correct_option_id": "tr_q065_o1",
+    "explanation": "The Council of State (Danıştay) is Turkey's highest administrative court.",
+    "source_url": [
+      "https://www.danistay.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q066",
+    "question": "Which Turkish province is famous for hot air balloon rides over its unique rock formations?",
+    "options": [
+      {
+        "id": "tr_q066_o1",
+        "text": "Nevşehir"
+      },
+      {
+        "id": "tr_q066_o2",
+        "text": "Antalya"
+      },
+      {
+        "id": "tr_q066_o3",
+        "text": "Muğla"
+      },
+      {
+        "id": "tr_q066_o4",
+        "text": "Kars"
+      }
+    ],
+    "correct_option_id": "tr_q066_o1",
+    "explanation": "Nevşehir Province, part of Cappadocia, is famous for its unique landscape and hot air ballooning.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/357/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q067",
+    "question": "What is the name of Turkey's national parliament?",
+    "options": [
+      {
+        "id": "tr_q067_o1",
+        "text": "Grand National Assembly of Turkey"
+      },
+      {
+        "id": "tr_q067_o2",
+        "text": "People's Assembly"
+      },
+      {
+        "id": "tr_q067_o3",
+        "text": "National Council"
+      },
+      {
+        "id": "tr_q067_o4",
+        "text": "Supreme Council"
+      }
+    ],
+    "correct_option_id": "tr_q067_o1",
+    "explanation": "The Grand National Assembly of Turkey is the unicameral legislative body of the country.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q068",
+    "question": "Which Turkish coastal town is famous for its ancient rock tombs carved into cliffs?",
+    "options": [
+      {
+        "id": "tr_q068_o1",
+        "text": "Kaş"
+      },
+      {
+        "id": "tr_q068_o2",
+        "text": "Fethiye"
+      },
+      {
+        "id": "tr_q068_o3",
+        "text": "Bodrum"
+      },
+      {
+        "id": "tr_q068_o4",
+        "text": "Datça"
+      }
+    ],
+    "correct_option_id": "tr_q068_o2",
+    "explanation": "Fethiye is well known for its Lycian rock tombs, including the Tomb of Amyntas.",
+    "source_url": [
+      "https://whc.unesco.org/en/tentativelists/1400/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q069",
+    "question": "Which Turkish dish is made of skewered and grilled cubes of meat, often served with rice or bread?",
+    "options": [
+      {
+        "id": "tr_q069_o1",
+        "text": "Köfte"
+      },
+      {
+        "id": "tr_q069_o2",
+        "text": "Kebap"
+      },
+      {
+        "id": "tr_q069_o3",
+        "text": "Pide"
+      },
+      {
+        "id": "tr_q069_o4",
+        "text": "Lahmacun"
+      }
+    ],
+    "correct_option_id": "tr_q069_o2",
+    "explanation": "Kebap refers to various dishes of skewered and grilled meat in Turkish cuisine.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113991/turkish-cuisine.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q070",
+    "question": "Which Turkish city is home to the famous ancient theater of Aspendos?",
+    "options": [
+      {
+        "id": "tr_q070_o1",
+        "text": "Antalya"
+      },
+      {
+        "id": "tr_q070_o2",
+        "text": "Izmir"
+      },
+      {
+        "id": "tr_q070_o3",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q070_o4",
+        "text": "Adana"
+      }
+    ],
+    "correct_option_id": "tr_q070_o1",
+    "explanation": "Aspendos, near Antalya, is one of the best-preserved ancient theaters in the world.",
+    "source_url": [
+      "https://whc.unesco.org/en/tentativelists/1402/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q071",
+    "question": "Which Turkish city is famous for its terraced thermal springs known as Pamukkale?",
+    "options": [
+      {
+        "id": "tr_q071_o1",
+        "text": "Denizli"
+      },
+      {
+        "id": "tr_q071_o2",
+        "text": "Muğla"
+      },
+      {
+        "id": "tr_q071_o3",
+        "text": "Aydın"
+      },
+      {
+        "id": "tr_q071_o4",
+        "text": "Manisa"
+      }
+    ],
+    "correct_option_id": "tr_q071_o1",
+    "explanation": "Pamukkale's white travertine terraces are located in Denizli Province and are a UNESCO World Heritage Site.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/485/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q072",
+    "question": "Which treaty officially recognized the borders of the modern Republic of Turkey in 1923?",
+    "options": [
+      {
+        "id": "tr_q072_o1",
+        "text": "Treaty of Sèvres"
+      },
+      {
+        "id": "tr_q072_o2",
+        "text": "Treaty of Lausanne"
+      },
+      {
+        "id": "tr_q072_o3",
+        "text": "Treaty of Paris"
+      },
+      {
+        "id": "tr_q072_o4",
+        "text": "Treaty of Ankara"
+      }
+    ],
+    "correct_option_id": "tr_q072_o2",
+    "explanation": "The Treaty of Lausanne, signed in 1923, established the borders of modern Turkey.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q073",
+    "question": "Which Turkish city is famous for producing apricots and hosts an International Apricot Festival?",
+    "options": [
+      {
+        "id": "tr_q073_o1",
+        "text": "Malatya"
+      },
+      {
+        "id": "tr_q073_o2",
+        "text": "Elazığ"
+      },
+      {
+        "id": "tr_q073_o3",
+        "text": "Gaziantep"
+      },
+      {
+        "id": "tr_q073_o4",
+        "text": "Kayseri"
+      }
+    ],
+    "correct_option_id": "tr_q073_o1",
+    "explanation": "Malatya is known as the apricot capital of Turkey and hosts an annual International Apricot Festival.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q074",
+    "question": "What is the name of the ancient underground cities in Cappadocia used for refuge during invasions?",
+    "options": [
+      {
+        "id": "tr_q074_o1",
+        "text": "Ani"
+      },
+      {
+        "id": "tr_q074_o2",
+        "text": "Derinkuyu"
+      },
+      {
+        "id": "tr_q074_o3",
+        "text": "Pergamon"
+      },
+      {
+        "id": "tr_q074_o4",
+        "text": "Assos"
+      }
+    ],
+    "correct_option_id": "tr_q074_o2",
+    "explanation": "Derinkuyu is one of the largest underground cities in Cappadocia, used historically as a refuge.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/357/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q075",
+    "question": "Which Turkish strait separates Europe and Asia and connects the Sea of Marmara to the Black Sea?",
+    "options": [
+      {
+        "id": "tr_q075_o1",
+        "text": "Bosporus"
+      },
+      {
+        "id": "tr_q075_o2",
+        "text": "Dardanelles"
+      },
+      {
+        "id": "tr_q075_o3",
+        "text": "Hormuz"
+      },
+      {
+        "id": "tr_q075_o4",
+        "text": "Kerch"
+      }
+    ],
+    "correct_option_id": "tr_q075_o1",
+    "explanation": "The Bosporus Strait separates Europe and Asia and links the Sea of Marmara to the Black Sea.",
+    "source_url": [
+      "https://www.mfa.gov.tr/turkeys-geographical-location.en.mfa"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q076",
+    "question": "Which Turkish province is home to Mount Nemrut, famous for its giant stone heads?",
+    "options": [
+      {
+        "id": "tr_q076_o1",
+        "text": "Adıyaman"
+      },
+      {
+        "id": "tr_q076_o2",
+        "text": "Şanlıurfa"
+      },
+      {
+        "id": "tr_q076_o3",
+        "text": "Mardin"
+      },
+      {
+        "id": "tr_q076_o4",
+        "text": "Siirt"
+      }
+    ],
+    "correct_option_id": "tr_q076_o1",
+    "explanation": "Mount Nemrut, a UNESCO World Heritage Site, is located in Adıyaman Province.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/448/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q077",
+    "question": "Which Turkish city is the capital of the Hatay Province and known for its diverse cuisine?",
+    "options": [
+      {
+        "id": "tr_q077_o1",
+        "text": "Antakya"
+      },
+      {
+        "id": "tr_q077_o2",
+        "text": "Gaziantep"
+      },
+      {
+        "id": "tr_q077_o3",
+        "text": "Adana"
+      },
+      {
+        "id": "tr_q077_o4",
+        "text": "Mersin"
+      }
+    ],
+    "correct_option_id": "tr_q077_o1",
+    "explanation": "Antakya, the capital of Hatay Province, is famous for its multicultural heritage and cuisine.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113963/hatay.html"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q078",
+    "question": "Which Turkish region is famous for the production of hazelnuts?",
+    "options": [
+      {
+        "id": "tr_q078_o1",
+        "text": "Black Sea Region"
+      },
+      {
+        "id": "tr_q078_o2",
+        "text": "Aegean Region"
+      },
+      {
+        "id": "tr_q078_o3",
+        "text": "Mediterranean Region"
+      },
+      {
+        "id": "tr_q078_o4",
+        "text": "Central Anatolia Region"
+      }
+    ],
+    "correct_option_id": "tr_q078_o1",
+    "explanation": "The Black Sea Region, especially provinces like Ordu and Giresun, is the main producer of hazelnuts in Turkey.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q079",
+    "question": "Which historical peninsula in Istanbul contains major landmarks such as Hagia Sophia and Topkapi Palace?",
+    "options": [
+      {
+        "id": "tr_q079_o1",
+        "text": "Bosphorus Peninsula"
+      },
+      {
+        "id": "tr_q079_o2",
+        "text": "Golden Horn"
+      },
+      {
+        "id": "tr_q079_o3",
+        "text": "Historic Peninsula"
+      },
+      {
+        "id": "tr_q079_o4",
+        "text": "Galata"
+      }
+    ],
+    "correct_option_id": "tr_q079_o3",
+    "explanation": "The Historic Peninsula in Istanbul houses key landmarks like Hagia Sophia, Topkapi Palace, and the Blue Mosque.",
+    "source_url": [
+      "https://whc.unesco.org/en/list/356/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q080",
+    "question": "Which Turkish city is a major center of textile production, especially for towels and bathrobes?",
+    "options": [
+      {
+        "id": "tr_q080_o1",
+        "text": "Denizli"
+      },
+      {
+        "id": "tr_q080_o2",
+        "text": "Bursa"
+      },
+      {
+        "id": "tr_q080_o3",
+        "text": "Gaziantep"
+      },
+      {
+        "id": "tr_q080_o4",
+        "text": "Kayseri"
+      }
+    ],
+    "correct_option_id": "tr_q080_o1",
+    "explanation": "Denizli is a leading textile hub in Turkey, particularly famous for towels and bathrobes.",
+    "source_url": [
+      "https://www.tarimorman.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q081",
+    "question": "Which institution is Turkey's unicameral legislature?",
+    "options": [
+      {
+        "id": "tr_q081_o1",
+        "text": "Grand National Assembly of Turkey",
+        "label": "1"
+      },
+      {
+        "id": "tr_q081_o2",
+        "text": "Senate of the Republic",
+        "label": "2"
+      },
+      {
+        "id": "tr_q081_o3",
+        "text": "Council of Ministers",
+        "label": "3"
+      },
+      {
+        "id": "tr_q081_o4",
+        "text": "Provincial Assembly",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q081_o1",
+    "explanation": "Turkey's single‑chamber parliament is the Grand National Assembly (TBMM), which enacts laws and controls government functions.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q082",
+    "question": "Which article of the Turkish Constitution defines the Republic as a democratic, secular and social state governed by the rule of law?",
+    "options": [
+      {
+        "id": "tr_q082_o1",
+        "text": "Article 1",
+        "label": "1"
+      },
+      {
+        "id": "tr_q082_o2",
+        "text": "Article 2",
+        "label": "2"
+      },
+      {
+        "id": "tr_q082_o3",
+        "text": "Article 3",
+        "label": "3"
+      },
+      {
+        "id": "tr_q082_o4",
+        "text": "Article 4",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q082_o2",
+    "explanation": "Article 2 of the Constitution states Turkey is a democratic, secular and social state governed by the rule of law, defining the state's form.",
+    "source_url": [
+      "https://www.anayasa.gov.tr/en/legislation/turkish-constitution/"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q083",
+    "question": "Who is responsible for appointing ministers in the Turkish presidential system?",
+    "options": [
+      {
+        "id": "tr_q083_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "tr_q083_o2",
+        "text": "The Grand National Assembly",
+        "label": "2"
+      },
+      {
+        "id": "tr_q083_o3",
+        "text": "The Constitutional Court",
+        "label": "3"
+      },
+      {
+        "id": "tr_q083_o4",
+        "text": "The Prime Minister",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q083_o1",
+    "explanation": "Under the presidential system, the President appoints and dismisses ministers who form the Council of Ministers (cabinet).",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q084",
+    "question": "What is the minimum voting age in Turkish national elections?",
+    "options": [
+      {
+        "id": "tr_q084_o1",
+        "text": "16",
+        "label": "1"
+      },
+      {
+        "id": "tr_q084_o2",
+        "text": "17",
+        "label": "2"
+      },
+      {
+        "id": "tr_q084_o3",
+        "text": "18",
+        "label": "3"
+      },
+      {
+        "id": "tr_q084_o4",
+        "text": "21",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q084_o3",
+    "explanation": "Turkish law sets the voting age at 18 for national elections, meaning citizens 18 and over may vote.",
+    "source_url": [
+      "https://www.ysk.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q085",
+    "question": "Which body supervises and administers elections and referendums in Turkey?",
+    "options": [
+      {
+        "id": "tr_q085_o1",
+        "text": "Supreme Electoral Council (YSK)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q085_o2",
+        "text": "Ministry of Interior",
+        "label": "2"
+      },
+      {
+        "id": "tr_q085_o3",
+        "text": "Grand National Assembly",
+        "label": "3"
+      },
+      {
+        "id": "tr_q085_o4",
+        "text": "Constitutional Court",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q085_o1",
+    "explanation": "The Supreme Electoral Council (Yüksek Seçim Kurulu) is the official organ charged with administering and supervising elections and referendums.",
+    "source_url": [
+      "https://www.ysk.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q086",
+    "question": "Which official organ can review the constitutionality of laws in Turkey?",
+    "options": [
+      {
+        "id": "tr_q086_o1",
+        "text": "Constitutional Court",
+        "label": "1"
+      },
+      {
+        "id": "tr_q086_o2",
+        "text": "Council of State",
+        "label": "2"
+      },
+      {
+        "id": "tr_q086_o3",
+        "text": "Court of Cassation",
+        "label": "3"
+      },
+      {
+        "id": "tr_q086_o4",
+        "text": "Public Prosecutor",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q086_o1",
+    "explanation": "The Constitutional Court is the highest authority for constitutional review and may annul laws that conflict with the Constitution.",
+    "source_url": [
+      "https://www.anayasa.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q087",
+    "question": "How long is a parliamentary term in Turkey (since changes to the system)?",
+    "options": [
+      {
+        "id": "tr_q087_o1",
+        "text": "3 years",
+        "label": "1"
+      },
+      {
+        "id": "tr_q087_o2",
+        "text": "4 years",
+        "label": "2"
+      },
+      {
+        "id": "tr_q087_o3",
+        "text": "5 years",
+        "label": "3"
+      },
+      {
+        "id": "tr_q087_o4",
+        "text": "6 years",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q087_o3",
+    "explanation": "General elections for the Grand National Assembly are held every five years under current election law provisions.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q088",
+    "question": "Which Turkish official is the head of state and government in the presidential system?",
+    "options": [
+      {
+        "id": "tr_q088_o1",
+        "text": "Prime Minister",
+        "label": "1"
+      },
+      {
+        "id": "tr_q088_o2",
+        "text": "Speaker of the Assembly",
+        "label": "2"
+      },
+      {
+        "id": "tr_q088_o3",
+        "text": "President",
+        "label": "3"
+      },
+      {
+        "id": "tr_q088_o4",
+        "text": "Chief Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q088_o3",
+    "explanation": "In Turkey's presidential system the President serves as both head of state and head of government, holding executive authority.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q089",
+    "question": "Which official website provides the full, authoritative text of the Turkish Constitution?",
+    "options": [
+      {
+        "id": "tr_q089_o1",
+        "text": "Anayasa.gov.tr",
+        "label": "1"
+      },
+      {
+        "id": "tr_q089_o2",
+        "text": "Tbmm.gov.tr",
+        "label": "2"
+      },
+      {
+        "id": "tr_q089_o3",
+        "text": "Tccb.gov.tr",
+        "label": "3"
+      },
+      {
+        "id": "tr_q089_o4",
+        "text": "Turkiye.gov.tr",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q089_o1",
+    "explanation": "The Constitutional Court website and anayasa.gov.tr host official information and texts of the Constitution and related materials.",
+    "source_url": [
+      "https://www.anayasa.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q090",
+    "question": "Which body approves the national budget submitted by the government in Turkey?",
+    "options": [
+      {
+        "id": "tr_q090_o1",
+        "text": "Grand National Assembly",
+        "label": "1"
+      },
+      {
+        "id": "tr_q090_o2",
+        "text": "Constitutional Court",
+        "label": "2"
+      },
+      {
+        "id": "tr_q090_o3",
+        "text": "Council of State",
+        "label": "3"
+      },
+      {
+        "id": "tr_q090_o4",
+        "text": "Ministry of Finance",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q090_o1",
+    "explanation": "The Grand National Assembly debates and approves the government's budget, exercising parliamentary oversight of public finances.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q091",
+    "question": "Which court is the highest criminal and civil court of appeal in Turkey?",
+    "options": [
+      {
+        "id": "tr_q091_o1",
+        "text": "Constitutional Court",
+        "label": "1"
+      },
+      {
+        "id": "tr_q091_o2",
+        "text": "Council of State",
+        "label": "2"
+      },
+      {
+        "id": "tr_q091_o3",
+        "text": "Court of Cassation (Yargıtay)",
+        "label": "3"
+      },
+      {
+        "id": "tr_q091_o4",
+        "text": "Court of Accounts",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q091_o3",
+    "explanation": "The Court of Cassation (Yargıtay) is the highest court of appeal for civil and criminal cases in Turkey.",
+    "source_url": [
+      "https://www.yargitay.gov.tr/"
+    ],
+    "category": "Law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q092",
+    "question": "Which institution is Turkey's administrative (high administrative court) court of appeal?",
+    "options": [
+      {
+        "id": "tr_q092_o1",
+        "text": "Constitutional Court",
+        "label": "1"
+      },
+      {
+        "id": "tr_q092_o2",
+        "text": "Council of State (Danıştay)",
+        "label": "2"
+      },
+      {
+        "id": "tr_q092_o3",
+        "text": "Court of Cassation",
+        "label": "3"
+      },
+      {
+        "id": "tr_q092_o4",
+        "text": "Supreme Electoral Council",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q092_o2",
+    "explanation": "The Council of State (Danıştay) is the top administrative court, handling disputes involving public administration.",
+    "source_url": [
+      "https://www.danistay.gov.tr/"
+    ],
+    "category": "Law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q093",
+    "question": "Which agency is responsible for Turkey’s central bank and monetary policy?",
+    "options": [
+      {
+        "id": "tr_q093_o1",
+        "text": "Ministry of Finance",
+        "label": "1"
+      },
+      {
+        "id": "tr_q093_o2",
+        "text": "Central Bank of the Republic of Turkey (TCMB)",
+        "label": "2"
+      },
+      {
+        "id": "tr_q093_o3",
+        "text": "Banking Regulation Authority",
+        "label": "3"
+      },
+      {
+        "id": "tr_q093_o4",
+        "text": "Treasury",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q093_o2",
+    "explanation": "The Central Bank of the Republic of Turkey (TCMB) conducts monetary policy, issues banknotes and maintains financial stability.",
+    "source_url": [
+      "https://www.tcmb.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q094",
+    "question": "Which official body keeps population statistics for Turkey?",
+    "options": [
+      {
+        "id": "tr_q094_o1",
+        "text": "Turkish Statistical Institute (TÜİK)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q094_o2",
+        "text": "Ministry of Interior",
+        "label": "2"
+      },
+      {
+        "id": "tr_q094_o3",
+        "text": "Nüfus ve Vatandaşlık İşleri",
+        "label": "3"
+      },
+      {
+        "id": "tr_q094_o4",
+        "text": "Central Bank",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q094_o1",
+    "explanation": "The Turkish Statistical Institute (TÜİK) is the national authority responsible for official statistics including population and economic data.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q095",
+    "question": "Which ministry is responsible for foreign affairs in Turkey?",
+    "options": [
+      {
+        "id": "tr_q095_o1",
+        "text": "Ministry of Interior",
+        "label": "1"
+      },
+      {
+        "id": "tr_q095_o2",
+        "text": "Ministry of Culture",
+        "label": "2"
+      },
+      {
+        "id": "tr_q095_o3",
+        "text": "Ministry of Foreign Affairs (MFA)",
+        "label": "3"
+      },
+      {
+        "id": "tr_q095_o4",
+        "text": "Ministry of Finance",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q095_o3",
+    "explanation": "The Ministry of Foreign Affairs conducts Turkey's external relations and represents the state internationally.",
+    "source_url": [
+      "https://www.mfa.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q096",
+    "question": "Which official site provides visa and consular advice for Turkish citizens and visitors?",
+    "options": [
+      {
+        "id": "tr_q096_o1",
+        "text": "tbmm.gov.tr",
+        "label": "1"
+      },
+      {
+        "id": "tr_q096_o2",
+        "text": "mfa.gov.tr",
+        "label": "2"
+      },
+      {
+        "id": "tr_q096_o3",
+        "text": "tccb.gov.tr",
+        "label": "3"
+      },
+      {
+        "id": "tr_q096_o4",
+        "text": "tuik.gov.tr",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q096_o2",
+    "explanation": "The Ministry of Foreign Affairs publishes consular and travel information including visa requirements and advisories.",
+    "source_url": [
+      "https://www.mfa.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q097",
+    "question": "Which Turkish authority issues Turkish citizenship certificates and handles naturalization?",
+    "options": [
+      {
+        "id": "tr_q097_o1",
+        "text": "Ministry of Interior - General Directorate of Population and Citizenship Affairs",
+        "label": "1"
+      },
+      {
+        "id": "tr_q097_o2",
+        "text": "Ministry of Justice",
+        "label": "2"
+      },
+      {
+        "id": "tr_q097_o3",
+        "text": "Presidency",
+        "label": "3"
+      },
+      {
+        "id": "tr_q097_o4",
+        "text": "Grand National Assembly",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q097_o1",
+    "explanation": "The General Directorate of Population and Citizenship Affairs within the Interior Ministry administers citizenship, registration and naturalization matters.",
+    "source_url": [
+      "https://www.nvi.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q098",
+    "question": "Which official portal provides e‑government services to Turkish citizens (e-Devlet)?",
+    "options": [
+      {
+        "id": "tr_q098_o1",
+        "text": "turkiye.gov.tr",
+        "label": "1"
+      },
+      {
+        "id": "tr_q098_o2",
+        "text": "tbmm.gov.tr",
+        "label": "2"
+      },
+      {
+        "id": "tr_q098_o3",
+        "text": "mfa.gov.tr",
+        "label": "3"
+      },
+      {
+        "id": "tr_q098_o4",
+        "text": "tcmb.gov.tr",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q098_o1",
+    "explanation": "E‑Devlet (turkiye.gov.tr) is the official e‑government portal offering many public services online to citizens and residents.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q099",
+    "question": "Which authority in Turkey is responsible for public health administration at national level?",
+    "options": [
+      {
+        "id": "tr_q099_o1",
+        "text": "Ministry of Health (Sağlık Bakanlığı)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q099_o2",
+        "text": "NHS",
+        "label": "2"
+      },
+      {
+        "id": "tr_q099_o3",
+        "text": "Local councils",
+        "label": "3"
+      },
+      {
+        "id": "tr_q099_o4",
+        "text": "Red Crescent",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q099_o1",
+    "explanation": "The Ministry of Health leads national health policy, planning and public health services across Turkey.",
+    "source_url": [
+      "https://www.saglik.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q100",
+    "question": "Which official institution audits central government accounts in Turkey?",
+    "options": [
+      {
+        "id": "tr_q100_o1",
+        "text": "Court of Accounts (Sayıştay)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q100_o2",
+        "text": "Ministry of Finance",
+        "label": "2"
+      },
+      {
+        "id": "tr_q100_o3",
+        "text": "NAO",
+        "label": "3"
+      },
+      {
+        "id": "tr_q100_o4",
+        "text": "Treasury",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q100_o1",
+    "explanation": "The Court of Accounts (Sayıştay) audits public accounts and reports on public financial management and accountability.",
+    "source_url": [
+      "https://www.sayistay.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q101",
+    "question": "When is Republic Day celebrated in Turkey?",
+    "options": [
+      {
+        "id": "tr_q101_o1",
+        "text": "23 April",
+        "label": "1"
+      },
+      {
+        "id": "tr_q101_o2",
+        "text": "19 May",
+        "label": "2"
+      },
+      {
+        "id": "tr_q101_o3",
+        "text": "30 August",
+        "label": "3"
+      },
+      {
+        "id": "tr_q101_o4",
+        "text": "29 October",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q101_o4",
+    "explanation": "Republic Day is celebrated on 29 October to mark the proclamation of the Republic in 1923.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q102",
+    "question": "Which treaty in 1923 defined the borders of modern Turkey?",
+    "options": [
+      {
+        "id": "tr_q102_o1",
+        "text": "Treaty of Versailles",
+        "label": "1"
+      },
+      {
+        "id": "tr_q102_o2",
+        "text": "Treaty of Lausanne",
+        "label": "2"
+      },
+      {
+        "id": "tr_q102_o3",
+        "text": "Treaty of Sèvres",
+        "label": "3"
+      },
+      {
+        "id": "tr_q102_o4",
+        "text": "Treaty of Paris",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q102_o2",
+    "explanation": "The Treaty of Lausanne (1923) recognized the boundaries and sovereignty of the Republic of Turkey following the War of Independence.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q103",
+    "question": "Who led the Turkish National Movement and became the first President of Turkey?",
+    "options": [
+      {
+        "id": "tr_q103_o1",
+        "text": "İsmet İnönü",
+        "label": "1"
+      },
+      {
+        "id": "tr_q103_o2",
+        "text": "Mustafa Kemal Atatürk",
+        "label": "2"
+      },
+      {
+        "id": "tr_q103_o3",
+        "text": "Celal Bayar",
+        "label": "3"
+      },
+      {
+        "id": "tr_q103_o4",
+        "text": "Mehmet Akif Ersoy",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q103_o2",
+    "explanation": "Mustafa Kemal Atatürk led the independence movement and served as the Republic's first President, founding many reforms.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q104",
+    "question": "Which year did Turkey adopt the Latin alphabet as part of Atatürk's reforms?",
+    "options": [
+      {
+        "id": "tr_q104_o1",
+        "text": "1923",
+        "label": "1"
+      },
+      {
+        "id": "tr_q104_o2",
+        "text": "1928",
+        "label": "2"
+      },
+      {
+        "id": "tr_q104_o3",
+        "text": "1934",
+        "label": "3"
+      },
+      {
+        "id": "tr_q104_o4",
+        "text": "1919",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q104_o2",
+    "explanation": "The language reform introducing the Latin alphabet was enacted in 1928 as part of Atatürk's modernization policies.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q105",
+    "question": "Which national movement's landing is commemorated on 19 May as Youth and Sports Day?",
+    "options": [
+      {
+        "id": "tr_q105_o1",
+        "text": "Declaration of Independence",
+        "label": "1"
+      },
+      {
+        "id": "tr_q105_o2",
+        "text": "Start of the Turkish War of Independence",
+        "label": "2"
+      },
+      {
+        "id": "tr_q105_o3",
+        "text": "Founding of Parliament",
+        "label": "3"
+      },
+      {
+        "id": "tr_q105_o4",
+        "text": "Battle of Gallipoli",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q105_o2",
+    "explanation": "19 May marks Mustafa Kemal Atatürk's landing at Samsun in 1919, regarded as the start of the War of Independence and celebrated as Youth and Sports Day.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q106",
+    "question": "Which battle during World War I became a defining national event and is commemorated at Gallipoli?",
+    "options": [
+      {
+        "id": "tr_q106_o1",
+        "text": "Battle of Gallipoli",
+        "label": "1"
+      },
+      {
+        "id": "tr_q106_o2",
+        "text": "Battle of Sakarya",
+        "label": "2"
+      },
+      {
+        "id": "tr_q106_o3",
+        "text": "Battle of Manzikert",
+        "label": "3"
+      },
+      {
+        "id": "tr_q106_o4",
+        "text": "Battle of Ankara",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q106_o1",
+    "explanation": "The Gallipoli campaign (1915) is a key event in modern Turkish history, remembered for the defense of the peninsula during WWI.",
+    "source_url": [
+      "https://www.ktb.gov.tr/EN-113952/gallipoli.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q107",
+    "question": "Which day is celebrated as National Sovereignty and Children's Day in Turkey?",
+    "options": [
+      {
+        "id": "tr_q107_o1",
+        "text": "29 October",
+        "label": "1"
+      },
+      {
+        "id": "tr_q107_o2",
+        "text": "19 May",
+        "label": "2"
+      },
+      {
+        "id": "tr_q107_o3",
+        "text": "23 April",
+        "label": "3"
+      },
+      {
+        "id": "tr_q107_o4",
+        "text": "30 August",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q107_o3",
+    "explanation": "23 April is National Sovereignty and Children's Day, commemorating the opening of the Grand National Assembly in 1920.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q108",
+    "question": "Which event in Turkish history is associated with 30 August Victory Day?",
+    "options": [
+      {
+        "id": "tr_q108_o1",
+        "text": "Declaration of Republic",
+        "label": "1"
+      },
+      {
+        "id": "tr_q108_o2",
+        "text": "Battle of Dumlupınar victory in 1922",
+        "label": "2"
+      },
+      {
+        "id": "tr_q108_o3",
+        "text": "Atatürk's birth",
+        "label": "3"
+      },
+      {
+        "id": "tr_q108_o4",
+        "text": "Conquest of Constantinople",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q108_o2",
+    "explanation": "30 August commemorates the decisive victory at Dumlupınar in 1922 which was crucial to Turkish independence.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q109",
+    "question": "Which law enacted Atatürk's surname usage and reformed naming conventions in Turkey?",
+    "options": [
+      {
+        "id": "tr_q109_o1",
+        "text": "Surname Law (1934)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q109_o2",
+        "text": "Civil Code (1926)",
+        "label": "2"
+      },
+      {
+        "id": "tr_q109_o3",
+        "text": "Language Law (1928)",
+        "label": "3"
+      },
+      {
+        "id": "tr_q109_o4",
+        "text": "Hat Law (1925)",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q109_o1",
+    "explanation": "The Surname Law of 1934 required citizens to adopt fixed surnames as part of modernization and legal identity reforms.",
+    "source_url": [
+      "https://www.tbmm.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q110",
+    "question": "Which date marks the commemoration of Atatürk's death?",
+    "options": [
+      {
+        "id": "tr_q110_o1",
+        "text": "10 November",
+        "label": "1"
+      },
+      {
+        "id": "tr_q110_o2",
+        "text": "29 October",
+        "label": "2"
+      },
+      {
+        "id": "tr_q110_o3",
+        "text": "23 April",
+        "label": "3"
+      },
+      {
+        "id": "tr_q110_o4",
+        "text": "19 May",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q110_o1",
+    "explanation": "Atatürk is commemorated every year on 10 November, the date of his death in 1938.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q111",
+    "question": "What symbol appears on the Turkish national flag?",
+    "options": [
+      {
+        "id": "tr_q111_o1",
+        "text": "White star and crescent on red",
+        "label": "1"
+      },
+      {
+        "id": "tr_q111_o2",
+        "text": "Red cross on white",
+        "label": "2"
+      },
+      {
+        "id": "tr_q111_o3",
+        "text": "Green crescent on white",
+        "label": "3"
+      },
+      {
+        "id": "tr_q111_o4",
+        "text": "Blue star on red",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q111_o1",
+    "explanation": "The Turkish flag contains a white crescent and star on a red background as specified in official descriptions and state symbolism.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/state-symbols/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q112",
+    "question": "What is the national anthem of Turkey called?",
+    "options": [
+      {
+        "id": "tr_q112_o1",
+        "text": "İstiklal Marşı (Independence March)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q112_o2",
+        "text": "Marseillaise",
+        "label": "2"
+      },
+      {
+        "id": "tr_q112_o3",
+        "text": "The Star-Spangled Banner",
+        "label": "3"
+      },
+      {
+        "id": "tr_q112_o4",
+        "text": "God Save the King",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q112_o1",
+    "explanation": "The İstiklal Marşı (Independence March) is the national anthem of Turkey, adopted in the early republican era.",
+    "source_url": [
+      "https://www.tccb.gov.tr/en/state-symbols/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q113",
+    "question": "How many times is the Turkish flag specified to be flown on official government buildings in guidance? (select the best match)",
+    "options": [
+      {
+        "id": "tr_q113_o1",
+        "text": "On all official days listed",
+        "label": "1"
+      },
+      {
+        "id": "tr_q113_o2",
+        "text": "Only on Republic Day",
+        "label": "2"
+      },
+      {
+        "id": "tr_q113_o3",
+        "text": "Only on national mourning days",
+        "label": "3"
+      },
+      {
+        "id": "tr_q113_o4",
+        "text": "Never",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q113_o1",
+    "explanation": "Government guidance lists specific flag‑flying days and protocol; official guidance requires flying on designated official days.",
+    "source_url": [
+      "https://www.gov.tr/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q114",
+    "question": "Who is the current official head of state (as of publication) identified on the Presidency site?",
+    "options": [
+      {
+        "id": "tr_q114_o1",
+        "text": "Prime Minister",
+        "label": "1"
+      },
+      {
+        "id": "tr_q114_o2",
+        "text": "Speaker of the Assembly",
+        "label": "2"
+      },
+      {
+        "id": "tr_q114_o3",
+        "text": "President",
+        "label": "3"
+      },
+      {
+        "id": "tr_q114_o4",
+        "text": "Chief Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q114_o3",
+    "explanation": "The Presidency website identifies the President as head of state and lists current presidential information and biography.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q115",
+    "question": "Which official site provides guidance on how to register to vote in Turkey?",
+    "options": [
+      {
+        "id": "tr_q115_o1",
+        "text": "turkiye.gov.tr e-Devlet portal",
+        "label": "1"
+      },
+      {
+        "id": "tr_q115_o2",
+        "text": "tbmm.gov.tr",
+        "label": "2"
+      },
+      {
+        "id": "tr_q115_o3",
+        "text": "mfa.gov.tr",
+        "label": "3"
+      },
+      {
+        "id": "tr_q115_o4",
+        "text": "tcmb.gov.tr",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q115_o1",
+    "explanation": "The e‑Devlet (turkiye.gov.tr) portal provides official online services including voter registration information and links to electoral services.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q116",
+    "question": "Which ministry is responsible for culture and tourism in Turkey?",
+    "options": [
+      {
+        "id": "tr_q116_o1",
+        "text": "Ministry of Culture and Tourism",
+        "label": "1"
+      },
+      {
+        "id": "tr_q116_o2",
+        "text": "Ministry of Education",
+        "label": "2"
+      },
+      {
+        "id": "tr_q116_o3",
+        "text": "Ministry of Interior",
+        "label": "3"
+      },
+      {
+        "id": "tr_q116_o4",
+        "text": "Ministry of Trade",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q116_o1",
+    "explanation": "The Ministry of Culture and Tourism (Kültür ve Turizm Bakanlığı) promotes cultural heritage and tourism policy across Turkey.",
+    "source_url": [
+      "https://www.ktb.gov.tr/"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q117",
+    "question": "Under Turkish law, which institution issues national ID cards and registers births and deaths?",
+    "options": [
+      {
+        "id": "tr_q117_o1",
+        "text": "General Directorate of Population and Citizenship Affairs (Nüfus)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q117_o2",
+        "text": "Ministry of Health",
+        "label": "2"
+      },
+      {
+        "id": "tr_q117_o3",
+        "text": "Municipalities",
+        "label": "3"
+      },
+      {
+        "id": "tr_q117_o4",
+        "text": "Ministry of Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q117_o1",
+    "explanation": "The General Directorate of Population and Citizenship Affairs within the Interior Ministry handles civil registration and national identity documents.",
+    "source_url": [
+      "https://www.nvi.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q118",
+    "question": "Which official site gives guidance on passport application procedures in Turkey?",
+    "options": [
+      {
+        "id": "tr_q118_o1",
+        "text": "turkiye.gov.tr and Nüfus Directorate pages",
+        "label": "1"
+      },
+      {
+        "id": "tr_q118_o2",
+        "text": "tbmm.gov.tr",
+        "label": "2"
+      },
+      {
+        "id": "tr_q118_o3",
+        "text": "mfa.gov.tr",
+        "label": "3"
+      },
+      {
+        "id": "tr_q118_o4",
+        "text": "tcmb.gov.tr",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q118_o1",
+    "explanation": "Passport application information and procedures are available via the e‑Devlet portal and Population Directorate webpages.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q119",
+    "question": "Which government body is responsible for national education policy in Turkey?",
+    "options": [
+      {
+        "id": "tr_q119_o1",
+        "text": "Ministry of National Education (MEB)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q119_o2",
+        "text": "Universities Council",
+        "label": "2"
+      },
+      {
+        "id": "tr_q119_o3",
+        "text": "Local councils",
+        "label": "3"
+      },
+      {
+        "id": "tr_q119_o4",
+        "text": "Ministry of Culture",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q119_o1",
+    "explanation": "The Ministry of National Education (Milli Eğitim Bakanlığı) sets national education policy and curriculum in Turkey.",
+    "source_url": [
+      "https://www.meb.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q120",
+    "question": "How many regions is Turkey commonly divided into for statistical and regional purposes (NUTS/TÜİK classifications)?",
+    "options": [
+      {
+        "id": "tr_q120_o1",
+        "text": "7",
+        "label": "1"
+      },
+      {
+        "id": "tr_q120_o2",
+        "text": "12",
+        "label": "2"
+      },
+      {
+        "id": "tr_q120_o3",
+        "text": "81",
+        "label": "3"
+      },
+      {
+        "id": "tr_q120_o4",
+        "text": "26",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q120_o2",
+    "explanation": "For many planning and statistical purposes Turkey uses several regional classifications; one common administrative regional division counts 12 regions.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q121",
+    "question": "How many provinces (il) does Turkey have?",
+    "options": [
+      {
+        "id": "tr_q121_o1",
+        "text": "67",
+        "label": "1"
+      },
+      {
+        "id": "tr_q121_o2",
+        "text": "81",
+        "label": "2"
+      },
+      {
+        "id": "tr_q121_o3",
+        "text": "90",
+        "label": "3"
+      },
+      {
+        "id": "tr_q121_o4",
+        "text": "100",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q121_o2",
+    "explanation": "Turkey is administratively divided into 81 provinces (iller), each with its own governor and local administration.",
+    "source_url": [
+      "https://www.icisleri.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q122",
+    "question": "Which city is the capital of Turkey?",
+    "options": [
+      {
+        "id": "tr_q122_o1",
+        "text": "Istanbul",
+        "label": "1"
+      },
+      {
+        "id": "tr_q122_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q122_o3",
+        "text": "Izmir",
+        "label": "3"
+      },
+      {
+        "id": "tr_q122_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q122_o2",
+    "explanation": "Ankara is the capital city and seat of government of the Republic of Turkey since 1923.",
+    "source_url": [
+      "https://www.tccb.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q123",
+    "question": "Which sea lies to Turkey's north?",
+    "options": [
+      {
+        "id": "tr_q123_o1",
+        "text": "Mediterranean Sea",
+        "label": "1"
+      },
+      {
+        "id": "tr_q123_o2",
+        "text": "Aegean Sea",
+        "label": "2"
+      },
+      {
+        "id": "tr_q123_o3",
+        "text": "Black Sea",
+        "label": "3"
+      },
+      {
+        "id": "tr_q123_o4",
+        "text": "Marmara Sea",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q123_o3",
+    "explanation": "The Black Sea borders Turkey to the north, as shown in official geographic descriptions.",
+    "source_url": [
+      "https://www.mfa.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q124",
+    "question": "What is the official currency of Turkey?",
+    "options": [
+      {
+        "id": "tr_q124_o1",
+        "text": "Turkish lira (TRY)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q124_o2",
+        "text": "Euro (EUR)",
+        "label": "2"
+      },
+      {
+        "id": "tr_q124_o3",
+        "text": "US Dollar (USD)",
+        "label": "3"
+      },
+      {
+        "id": "tr_q124_o4",
+        "text": "Pound (GBP)",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q124_o1",
+    "explanation": "The Turkish lira (TRY) is the national currency issued by the Central Bank of the Republic of Turkey (TCMB).",
+    "source_url": [
+      "https://www.tcmb.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q125",
+    "question": "Which official authority publishes consumer price and inflation statistics in Turkey?",
+    "options": [
+      {
+        "id": "tr_q125_o1",
+        "text": "Turkish Statistical Institute (TÜİK)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q125_o2",
+        "text": "Central Bank only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q125_o3",
+        "text": "Treasury only",
+        "label": "3"
+      },
+      {
+        "id": "tr_q125_o4",
+        "text": "Ministry of Finance only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q125_o1",
+    "explanation": "TÜİK publishes official inflation (CPI) and price statistics as the national statistical authority.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Economy",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q126",
+    "question": "Which official Turkish website provides guidance on paying taxes and taxpayer obligations?",
+    "options": [
+      {
+        "id": "tr_q126_o1",
+        "text": "GOV.TR (e-Devlet) and Ministry of Treasury and Finance pages",
+        "label": "1"
+      },
+      {
+        "id": "tr_q126_o2",
+        "text": "TBMM only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q126_o3",
+        "text": "MFA only",
+        "label": "3"
+      },
+      {
+        "id": "tr_q126_o4",
+        "text": "TCMB only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q126_o1",
+    "explanation": "Official guidance on tax obligations and payment is available via the e‑Devlet portal and the Treasury/Revenue webpages.",
+    "source_url": [
+      "https://www.turkiye.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q127",
+    "question": "Which UNESCO World Heritage site in Turkey is famous for rock‑cut tombs and Hierapolis?",
+    "options": [
+      {
+        "id": "tr_q127_o1",
+        "text": "Göbekli Tepe",
+        "label": "1"
+      },
+      {
+        "id": "tr_q127_o2",
+        "text": "Cappadocia",
+        "label": "2"
+      },
+      {
+        "id": "tr_q127_o3",
+        "text": "Hierapolis‑Pamukkale",
+        "label": "3"
+      },
+      {
+        "id": "tr_q127_o4",
+        "text": "Ephesus",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q127_o3",
+    "explanation": "Hierapolis‑Pamukkale is a UNESCO World Heritage site celebrated for its thermal terraces and ancient ruins.",
+    "source_url": [
+      "https://www.ktb.gov.tr/"
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q128",
+    "question": "Which ancient city on the Aegean coast is renowned for its ruins including the Library of Celsus?",
+    "options": [
+      {
+        "id": "tr_q128_o1",
+        "text": "Ephesus",
+        "label": "1"
+      },
+      {
+        "id": "tr_q128_o2",
+        "text": "Pergamon",
+        "label": "2"
+      },
+      {
+        "id": "tr_q128_o3",
+        "text": "Troy",
+        "label": "3"
+      },
+      {
+        "id": "tr_q128_o4",
+        "text": "Aspendos",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q128_o1",
+    "explanation": "Ephesus is an important archaeological site on the Aegean coast famous for the Library of Celsus and Roman ruins.",
+    "source_url": [
+      "https://www.ktb.gov.tr/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q129",
+    "question": "Which official Turkish institute manages national weather warnings and forecasts?",
+    "options": [
+      {
+        "id": "tr_q129_o1",
+        "text": "Turkish State Meteorological Service (MGM)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q129_o2",
+        "text": "NATO Meteorological Agency",
+        "label": "2"
+      },
+      {
+        "id": "tr_q129_o3",
+        "text": "Turkish Red Crescent",
+        "label": "3"
+      },
+      {
+        "id": "tr_q129_o4",
+        "text": "Ministry of Agriculture",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q129_o1",
+    "explanation": "The Turkish State Meteorological Service (Meteoroloji Genel Müdürlüğü) provides official weather forecasts and warnings.",
+    "source_url": [
+      "https://www.mgm.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q130",
+    "question": "Which Turkish institution is responsible for the management of state highways and major roads?",
+    "options": [
+      {
+        "id": "tr_q130_o1",
+        "text": "General Directorate of Highways (KGM)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q130_o2",
+        "text": "Ministry of Interior",
+        "label": "2"
+      },
+      {
+        "id": "tr_q130_o3",
+        "text": "Municipalities",
+        "label": "3"
+      },
+      {
+        "id": "tr_q130_o4",
+        "text": "Ministry of Transport",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q130_o1",
+    "explanation": "The General Directorate of Highways (Karayolları Genel Müdürlüğü) plans and maintains national roads and highways.",
+    "source_url": [
+      "https://www.kgm.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q131",
+    "question": "Which government body chairs the national disaster and emergency management in Turkey?",
+    "options": [
+      {
+        "id": "tr_q131_o1",
+        "text": "AFAD (Disaster and Emergency Management Presidency)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q131_o2",
+        "text": "Ministry of Health",
+        "label": "2"
+      },
+      {
+        "id": "tr_q131_o3",
+        "text": "Ministry of Interior",
+        "label": "3"
+      },
+      {
+        "id": "tr_q131_o4",
+        "text": "Red Crescent",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q131_o1",
+    "explanation": "AFAD coordinates disaster response and emergency management at the national level in Turkey.",
+    "source_url": [
+      "https://www.afad.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q132",
+    "question": "Which Turkish authority registers and protects cultural heritage and listed monuments?",
+    "options": [
+      {
+        "id": "tr_q132_o1",
+        "text": "Ministry of Culture and Tourism",
+        "label": "1"
+      },
+      {
+        "id": "tr_q132_o2",
+        "text": "Municipalities only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q132_o3",
+        "text": "TÜİK",
+        "label": "3"
+      },
+      {
+        "id": "tr_q132_o4",
+        "text": "TBMM",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q132_o1",
+    "explanation": "The Ministry of Culture and Tourism maintains policies and registers for protection of cultural heritage sites across Turkey.",
+    "source_url": [
+      "https://www.ktb.gov.tr/"
+    ],
+    "category": "Culture",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q133",
+    "question": "Which institution issues official quarantine and public health guidance in Turkey?",
+    "options": [
+      {
+        "id": "tr_q133_o1",
+        "text": "Ministry of Health (Sağlık Bakanlığı)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q133_o2",
+        "text": "TÜİK",
+        "label": "2"
+      },
+      {
+        "id": "tr_q133_o3",
+        "text": "TCMB",
+        "label": "3"
+      },
+      {
+        "id": "tr_q133_o4",
+        "text": "TBMM",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q133_o1",
+    "explanation": "The Ministry of Health issues official public health guidance, including epidemic responses and health regulations.",
+    "source_url": [
+      "https://www.saglik.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q134",
+    "question": "Which official body oversees civil aviation and issues civil pilot licenses in Turkey?",
+    "options": [
+      {
+        "id": "tr_q134_o1",
+        "text": "General Directorate of Civil Aviation (SHGM)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q134_o2",
+        "text": "AFAD",
+        "label": "2"
+      },
+      {
+        "id": "tr_q134_o3",
+        "text": "Ministry of Transport",
+        "label": "3"
+      },
+      {
+        "id": "tr_q134_o4",
+        "text": "TCMB",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q134_o1",
+    "explanation": "The Directorate General of Civil Aviation regulates civil aviation safety, licensing and oversight in Turkey.",
+    "source_url": [
+      "https://web.shgm.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q135",
+    "question": "Which Turkish organ is responsible for arranging presidential elections and announcing results?",
+    "options": [
+      {
+        "id": "tr_q135_o1",
+        "text": "YSK (Supreme Electoral Council)",
+        "label": "1"
+      },
+      {
+        "id": "tr_q135_o2",
+        "text": "TBMM",
+        "label": "2"
+      },
+      {
+        "id": "tr_q135_o3",
+        "text": "TÜİK",
+        "label": "3"
+      },
+      {
+        "id": "tr_q135_o4",
+        "text": "Ministry of Interior",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q135_o1",
+    "explanation": "The Supreme Electoral Council organizes, supervises and announces official election results for presidential and parliamentary contests.",
+    "source_url": [
+      "https://www.ysk.gov.tr/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q136",
+    "question": "Which official source would you use to find Turkish laws and statutory instruments online?",
+    "options": [
+      {
+        "id": "tr_q136_o1",
+        "text": "Resmi Gazete (Official Gazette) and Mevzuat (legislation) services",
+        "label": "1"
+      },
+      {
+        "id": "tr_q136_o2",
+        "text": "TBMM only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q136_o3",
+        "text": "MFA only",
+        "label": "3"
+      },
+      {
+        "id": "tr_q136_o4",
+        "text": "TCMB only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q136_o1",
+    "explanation": "Official legislation and announcements are published in the Official Gazette (Resmî Gazete) and on related government legislation portals.",
+    "source_url": [
+      "https://www.resmigazete.gov.tr/"
+    ],
+    "category": "Law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q137",
+    "question": "Which institution is responsible for marine and coastal safety and search & rescue in Turkey?",
+    "options": [
+      {
+        "id": "tr_q137_o1",
+        "text": "Maritime Affairs and Coast Guard (Sahil Güvenlik) under the Ministry of Interior",
+        "label": "1"
+      },
+      {
+        "id": "tr_q137_o2",
+        "text": "Ministry of Transport only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q137_o3",
+        "text": "Navy only",
+        "label": "3"
+      },
+      {
+        "id": "tr_q137_o4",
+        "text": "AFAD only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q137_o1",
+    "explanation": "The Coast Guard coordinates maritime safety, search and rescue and enforcement under the relevant ministries.",
+    "source_url": [
+      "https://www.sahilguvenlik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q138",
+    "question": "Which Turkish body sets national minimum wage decisions (official announcements)?",
+    "options": [
+      {
+        "id": "tr_q138_o1",
+        "text": "Ministry of Labor and Social Security and official government announcements",
+        "label": "1"
+      },
+      {
+        "id": "tr_q138_o2",
+        "text": "TBMM only",
+        "label": "2"
+      },
+      {
+        "id": "tr_q138_o3",
+        "text": "TÜİK only",
+        "label": "3"
+      },
+      {
+        "id": "tr_q138_o4",
+        "text": "Presidency only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q138_o1",
+    "explanation": "Decisions about the minimum wage are announced as official government measures, coordinated by the Ministry of Labor and Social Security.",
+    "source_url": [
+      "https://www.csgb.gov.tr/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q139",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q139_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q139_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q139_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q139_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q139_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q140",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q140_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q140_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q140_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q140_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q140_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q141",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q141_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q141_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q141_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q141_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q141_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q142",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q142_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q142_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q142_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q142_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q142_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q143",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q143_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q143_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q143_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q143_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q143_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q144",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q144_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q144_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q144_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q144_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q144_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q145",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q145_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q145_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q145_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q145_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q145_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q146",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q146_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q146_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q146_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q146_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q146_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q147",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q147_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q147_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q147_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q147_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q147_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q148",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q148_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q148_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q148_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q148_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q148_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q149",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q149_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q149_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q149_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q149_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q149_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q150",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q150_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q150_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q150_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q150_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q150_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q151",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q151_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q151_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q151_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q151_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q151_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q152",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q152_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q152_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q152_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q152_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q152_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q153",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q153_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q153_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q153_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q153_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q153_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q154",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q154_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q154_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q154_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q154_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q154_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q155",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q155_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q155_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q155_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q155_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q155_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q156",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q156_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q156_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q156_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q156_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q156_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q157",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q157_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q157_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q157_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q157_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q157_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q158",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q158_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q158_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q158_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q158_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q158_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q159",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q159_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q159_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q159_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q159_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q159_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  },
+  {
+    "id": "tr_q160",
+    "question": "Which city is the largest city in Turkey by population?",
+    "options": [
+      {
+        "id": "tr_q160_o1",
+        "text": "Izmir",
+        "label": "1"
+      },
+      {
+        "id": "tr_q160_o2",
+        "text": "Ankara",
+        "label": "2"
+      },
+      {
+        "id": "tr_q160_o3",
+        "text": "Istanbul",
+        "label": "3"
+      },
+      {
+        "id": "tr_q160_o4",
+        "text": "Bursa",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "tr_q160_o3",
+    "explanation": "Istanbul is Turkey's largest city and cultural-economic center by population and metropolitan area size.",
+    "source_url": [
+      "https://www.tuik.gov.tr/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "TR"
+  }
+]

@@ -1,0 +1,5610 @@
+[
+  {
+    "id": "usa_q001",
+    "question": "What is the supreme law of the land in the United States?",
+    "options": [
+      {
+        "id": "usa_q001_o1",
+        "text": "The U.S. Constitution",
+        "label": "1"
+      },
+      {
+        "id": "usa_q001_o2",
+        "text": "Federal statutes",
+        "label": "2"
+      },
+      {
+        "id": "usa_q001_o3",
+        "text": "State constitutions",
+        "label": "3"
+      },
+      {
+        "id": "usa_q001_o4",
+        "text": "Supreme Court opinions",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q001_o1",
+    "explanation": "USCIS civics materials state that the Constitution is the supreme law of the land.",
+    "source_url": [
+      "https://www.uscis.gov/civics-questions-and-answers-2008-version"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q002",
+    "question": "What are the two parts of the U.S. Congress?",
+    "options": [
+      {
+        "id": "usa_q002_o1",
+        "text": "The Senate and the House of Representatives",
+        "label": "1"
+      },
+      {
+        "id": "usa_q002_o2",
+        "text": "The Cabinet and the Senate",
+        "label": "2"
+      },
+      {
+        "id": "usa_q002_o3",
+        "text": "The Supreme Court and the House",
+        "label": "3"
+      },
+      {
+        "id": "usa_q002_o4",
+        "text": "The President and the Senate",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q002_o1",
+    "explanation": "USCIS civics resources identify Congress as consisting of the Senate and the House of Representatives.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q003",
+    "question": "Who makes federal laws in the United States?",
+    "options": [
+      {
+        "id": "usa_q003_o1",
+        "text": "Congress",
+        "label": "1"
+      },
+      {
+        "id": "usa_q003_o2",
+        "text": "The Supreme Court",
+        "label": "2"
+      },
+      {
+        "id": "usa_q003_o3",
+        "text": "The President alone",
+        "label": "3"
+      },
+      {
+        "id": "usa_q003_o4",
+        "text": "State legislatures",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q003_o1",
+    "explanation": "USCIS materials explain that Congress (Senate and House) makes federal laws.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/lesson-plans/L2LegislativeHandout.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q004",
+    "question": "How many U.S. Senators are there?",
+    "options": [
+      {
+        "id": "usa_q004_o1",
+        "text": "100",
+        "label": "1"
+      },
+      {
+        "id": "usa_q004_o2",
+        "text": "50",
+        "label": "2"
+      },
+      {
+        "id": "usa_q004_o3",
+        "text": "435",
+        "label": "3"
+      },
+      {
+        "id": "usa_q004_o4",
+        "text": "9",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q004_o1",
+    "explanation": "USCIS civics resources state there are 100 U.S. Senators (two per state).",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/lesson-plans/Legislative_Branch_answer_key.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q005",
+    "question": "How long is one term for a U.S. Senator?",
+    "options": [
+      {
+        "id": "usa_q005_o1",
+        "text": "6 years",
+        "label": "1"
+      },
+      {
+        "id": "usa_q005_o2",
+        "text": "4 years",
+        "label": "2"
+      },
+      {
+        "id": "usa_q005_o3",
+        "text": "2 years",
+        "label": "3"
+      },
+      {
+        "id": "usa_q005_o4",
+        "text": "8 years",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q005_o1",
+    "explanation": "USCIS civics materials specify that a U.S. Senator serves a six‑year term.",
+    "source_url": [
+      "https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test/100-civics-questions-and-answers-with-mp3-audio-english-version"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q006",
+    "question": "How long is one term for a member of the U.S. House of Representatives?",
+    "options": [
+      {
+        "id": "usa_q006_o1",
+        "text": "2 years",
+        "label": "1"
+      },
+      {
+        "id": "usa_q006_o2",
+        "text": "4 years",
+        "label": "2"
+      },
+      {
+        "id": "usa_q006_o3",
+        "text": "6 years",
+        "label": "3"
+      },
+      {
+        "id": "usa_q006_o4",
+        "text": "8 years",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q006_o1",
+    "explanation": "House.gov states that Representatives serve two‑year terms.",
+    "source_url": [
+      "https://www.house.gov/the-house-explained/first-time-visitors#members"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q007",
+    "question": "Who signs bills to become federal law?",
+    "options": [
+      {
+        "id": "usa_q007_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q007_o2",
+        "text": "The Chief Justice",
+        "label": "2"
+      },
+      {
+        "id": "usa_q007_o3",
+        "text": "The Speaker of the House",
+        "label": "3"
+      },
+      {
+        "id": "usa_q007_o4",
+        "text": "The Vice President",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q007_o1",
+    "explanation": "USCIS and USA.gov explain that the President signs bills into law.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf",
+      "https://www.usa.gov/how-laws-are-made"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q008",
+    "question": "Who has the power to veto bills?",
+    "options": [
+      {
+        "id": "usa_q008_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q008_o2",
+        "text": "The Speaker of the House",
+        "label": "2"
+      },
+      {
+        "id": "usa_q008_o3",
+        "text": "The Senate Majority Leader",
+        "label": "3"
+      },
+      {
+        "id": "usa_q008_o4",
+        "text": "The Chief Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q008_o1",
+    "explanation": "USCIS civics materials list the President as the official who vetoes bills.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q009",
+    "question": "What is the highest court in the United States?",
+    "options": [
+      {
+        "id": "usa_q009_o1",
+        "text": "The Supreme Court",
+        "label": "1"
+      },
+      {
+        "id": "usa_q009_o2",
+        "text": "The Court of Appeals",
+        "label": "2"
+      },
+      {
+        "id": "usa_q009_o3",
+        "text": "The District Court",
+        "label": "3"
+      },
+      {
+        "id": "usa_q009_o4",
+        "text": "The Constitutional Court",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q009_o1",
+    "explanation": "USCIS civics materials identify the Supreme Court as the highest court in the U.S.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q010",
+    "question": "How many justices are on the U.S. Supreme Court?",
+    "options": [
+      {
+        "id": "usa_q010_o1",
+        "text": "9",
+        "label": "1"
+      },
+      {
+        "id": "usa_q010_o2",
+        "text": "7",
+        "label": "2"
+      },
+      {
+        "id": "usa_q010_o3",
+        "text": "11",
+        "label": "3"
+      },
+      {
+        "id": "usa_q010_o4",
+        "text": "12",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q010_o1",
+    "explanation": "The Supreme Court’s official site explains the Court consists of the Chief Justice and eight Associate Justices (nine total).",
+    "source_url": [
+      "https://www.supremecourt.gov/about/constitutional.aspx"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q011",
+    "question": "Who is the Commander in Chief of the U.S. military?",
+    "options": [
+      {
+        "id": "usa_q011_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q011_o2",
+        "text": "The Secretary of Defense",
+        "label": "2"
+      },
+      {
+        "id": "usa_q011_o3",
+        "text": "The Chief Justice",
+        "label": "3"
+      },
+      {
+        "id": "usa_q011_o4",
+        "text": "The Speaker of the House",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q011_o1",
+    "explanation": "USCIS civics materials state the President is Commander in Chief of the military.",
+    "source_url": [
+      "https://www.uscis.gov/civics-questions-and-answers-2008-version"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q012",
+    "question": "How old must citizens be to vote for President in federal elections?",
+    "options": [
+      {
+        "id": "usa_q012_o1",
+        "text": "18 or older",
+        "label": "1"
+      },
+      {
+        "id": "usa_q012_o2",
+        "text": "16 or older",
+        "label": "2"
+      },
+      {
+        "id": "usa_q012_o3",
+        "text": "21 or older",
+        "label": "3"
+      },
+      {
+        "id": "usa_q012_o4",
+        "text": "25 or older",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q012_o1",
+    "explanation": "USCIS and the 26th Amendment confirm the voting age is 18.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf",
+      "https://www.archives.gov/milestone-documents/26th-amendment"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q013",
+    "question": "When was the Declaration of Independence adopted?",
+    "options": [
+      {
+        "id": "usa_q013_o1",
+        "text": "July 4, 1776",
+        "label": "1"
+      },
+      {
+        "id": "usa_q013_o2",
+        "text": "July 2, 1776",
+        "label": "2"
+      },
+      {
+        "id": "usa_q013_o3",
+        "text": "September 17, 1787",
+        "label": "3"
+      },
+      {
+        "id": "usa_q013_o4",
+        "text": "June 21, 1788",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q013_o1",
+    "explanation": "The National Archives notes the Declaration was adopted on July 4, 1776.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/join-the-signers"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q014",
+    "question": "How many amendments does the U.S. Constitution have?",
+    "options": [
+      {
+        "id": "usa_q014_o1",
+        "text": "27",
+        "label": "1"
+      },
+      {
+        "id": "usa_q014_o2",
+        "text": "10",
+        "label": "2"
+      },
+      {
+        "id": "usa_q014_o3",
+        "text": "26",
+        "label": "3"
+      },
+      {
+        "id": "usa_q014_o4",
+        "text": "25",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q014_o1",
+    "explanation": "USCIS and the National Archives list 27 constitutional amendments.",
+    "source_url": [
+      "https://www.uscis.gov/archive/civics-questions-and-answers-for-the-6520-special-consideration",
+      "https://www.archives.gov/founding-docs/amendments-11-27"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q015",
+    "question": "What is the name of the national anthem of the United States?",
+    "options": [
+      {
+        "id": "usa_q015_o1",
+        "text": "The Star-Spangled Banner",
+        "label": "1"
+      },
+      {
+        "id": "usa_q015_o2",
+        "text": "America the Beautiful",
+        "label": "2"
+      },
+      {
+        "id": "usa_q015_o3",
+        "text": "My Country, 'Tis of Thee",
+        "label": "3"
+      },
+      {
+        "id": "usa_q015_o4",
+        "text": "God Bless America",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q015_o1",
+    "explanation": "USA.gov states the national anthem is “The Star‑Spangled Banner.”",
+    "source_url": [
+      "https://www.usa.gov/national-anthem"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q016",
+    "question": "Why does the U.S. flag have 50 stars?",
+    "options": [
+      {
+        "id": "usa_q016_o1",
+        "text": "Because there are 50 states",
+        "label": "1"
+      },
+      {
+        "id": "usa_q016_o2",
+        "text": "Because of 50 years of independence",
+        "label": "2"
+      },
+      {
+        "id": "usa_q016_o3",
+        "text": "For the first 50 presidents",
+        "label": "3"
+      },
+      {
+        "id": "usa_q016_o4",
+        "text": "For the original 50 colonies",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q016_o1",
+    "explanation": "USA.gov explains the 50 stars represent the 50 states.",
+    "source_url": [
+      "https://www.usa.gov/flag"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q017",
+    "question": "Why does the U.S. flag have 13 stripes?",
+    "options": [
+      {
+        "id": "usa_q017_o1",
+        "text": "They represent the 13 original colonies",
+        "label": "1"
+      },
+      {
+        "id": "usa_q017_o2",
+        "text": "They represent the first 13 presidents",
+        "label": "2"
+      },
+      {
+        "id": "usa_q017_o3",
+        "text": "They mark 13 federal districts",
+        "label": "3"
+      },
+      {
+        "id": "usa_q017_o4",
+        "text": "They honor 13 amendments",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q017_o1",
+    "explanation": "USA.gov notes the 13 stripes represent the original colonies.",
+    "source_url": [
+      "https://www.usa.gov/flag"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q018",
+    "question": "What is the capital of the United States?",
+    "options": [
+      {
+        "id": "usa_q018_o1",
+        "text": "Washington, D.C.",
+        "label": "1"
+      },
+      {
+        "id": "usa_q018_o2",
+        "text": "Philadelphia",
+        "label": "2"
+      },
+      {
+        "id": "usa_q018_o3",
+        "text": "New York City",
+        "label": "3"
+      },
+      {
+        "id": "usa_q018_o4",
+        "text": "Boston",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q018_o1",
+    "explanation": "USCIS civics materials identify Washington, D.C., as the capital of the United States.",
+    "source_url": [
+      "https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test/100-civics-questions-and-answers-with-mp3-audio-english-version"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q019",
+    "question": "Which of these states borders Mexico?",
+    "options": [
+      {
+        "id": "usa_q019_o1",
+        "text": "Arizona",
+        "label": "1"
+      },
+      {
+        "id": "usa_q019_o2",
+        "text": "Florida",
+        "label": "2"
+      },
+      {
+        "id": "usa_q019_o3",
+        "text": "Georgia",
+        "label": "3"
+      },
+      {
+        "id": "usa_q019_o4",
+        "text": "Colorado",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q019_o1",
+    "explanation": "USCIS civics materials list Arizona as one of the states that border Mexico.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/questions-and-answers/100q.pdf"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q020",
+    "question": "When is Independence Day celebrated in the United States?",
+    "options": [
+      {
+        "id": "usa_q020_o1",
+        "text": "July 4",
+        "label": "1"
+      },
+      {
+        "id": "usa_q020_o2",
+        "text": "June 14",
+        "label": "2"
+      },
+      {
+        "id": "usa_q020_o3",
+        "text": "November 11",
+        "label": "3"
+      },
+      {
+        "id": "usa_q020_o4",
+        "text": "December 25",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q020_o1",
+    "explanation": "USCIS materials state Independence Day is celebrated on July 4.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/lesson-plans/Intermediate_Symbols_Celebrations_answer_key.pdf"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q021",
+    "question": "What ocean is on the West Coast of the United States?",
+    "options": [
+      {
+        "id": "usa_q021_o1",
+        "text": "Atlantic Ocean",
+        "label": "1"
+      },
+      {
+        "id": "usa_q021_o2",
+        "text": "Pacific Ocean",
+        "label": "2"
+      },
+      {
+        "id": "usa_q021_o3",
+        "text": "Indian Ocean",
+        "label": "3"
+      },
+      {
+        "id": "usa_q021_o4",
+        "text": "Arctic Ocean",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q021_o2",
+    "explanation": "The Pacific Ocean borders the West Coast of the United States, including states like California, Oregon, and Washington.",
+    "source_url": [
+      "https://oceanservice.noaa.gov/facts/pacific.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q022",
+    "question": "Who wrote the Declaration of Independence?",
+    "options": [
+      {
+        "id": "usa_q022_o1",
+        "text": "George Washington",
+        "label": "1"
+      },
+      {
+        "id": "usa_q022_o2",
+        "text": "Thomas Jefferson",
+        "label": "2"
+      },
+      {
+        "id": "usa_q022_o3",
+        "text": "Benjamin Franklin",
+        "label": "3"
+      },
+      {
+        "id": "usa_q022_o4",
+        "text": "John Adams",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q022_o2",
+    "explanation": "Thomas Jefferson was the principal author of the Declaration of Independence in 1776.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/declaration-history"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q023",
+    "question": "Name one U.S. territory.",
+    "options": [
+      {
+        "id": "usa_q023_o1",
+        "text": "Puerto Rico",
+        "label": "1"
+      },
+      {
+        "id": "usa_q023_o2",
+        "text": "Hawaii",
+        "label": "2"
+      },
+      {
+        "id": "usa_q023_o3",
+        "text": "Alaska",
+        "label": "3"
+      },
+      {
+        "id": "usa_q023_o4",
+        "text": "Newfoundland",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q023_o1",
+    "explanation": "Puerto Rico is one of several U.S. territories, along with Guam, American Samoa, U.S. Virgin Islands, and Northern Mariana Islands.",
+    "source_url": [
+      "https://www.doi.gov/oia/islands"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q024",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      {
+        "id": "usa_q024_o1",
+        "text": "John Adams",
+        "label": "1"
+      },
+      {
+        "id": "usa_q024_o2",
+        "text": "Thomas Jefferson",
+        "label": "2"
+      },
+      {
+        "id": "usa_q024_o3",
+        "text": "George Washington",
+        "label": "3"
+      },
+      {
+        "id": "usa_q024_o4",
+        "text": "James Madison",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q024_o3",
+    "explanation": "George Washington served as the first U.S. President from 1789 to 1797.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q025",
+    "question": "When do we celebrate Independence Day?",
+    "options": [
+      {
+        "id": "usa_q025_o1",
+        "text": "July 4",
+        "label": "1"
+      },
+      {
+        "id": "usa_q025_o2",
+        "text": "June 14",
+        "label": "2"
+      },
+      {
+        "id": "usa_q025_o3",
+        "text": "September 17",
+        "label": "3"
+      },
+      {
+        "id": "usa_q025_o4",
+        "text": "October 12",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q025_o1",
+    "explanation": "Independence Day is celebrated on July 4 to commemorate the adoption of the Declaration of Independence.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/declaration"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q026",
+    "question": "Who is in charge of the executive branch?",
+    "options": [
+      {
+        "id": "usa_q026_o1",
+        "text": "The Speaker of the House",
+        "label": "1"
+      },
+      {
+        "id": "usa_q026_o2",
+        "text": "The President",
+        "label": "2"
+      },
+      {
+        "id": "usa_q026_o3",
+        "text": "The Chief Justice",
+        "label": "3"
+      },
+      {
+        "id": "usa_q026_o4",
+        "text": "The Vice President",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q026_o2",
+    "explanation": "The President is the head of the executive branch, responsible for enforcing laws.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/our-government/the-executive-branch/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q027",
+    "question": "How many justices are on the Supreme Court?",
+    "options": [
+      {
+        "id": "usa_q027_o1",
+        "text": "7",
+        "label": "1"
+      },
+      {
+        "id": "usa_q027_o2",
+        "text": "9",
+        "label": "2"
+      },
+      {
+        "id": "usa_q027_o3",
+        "text": "11",
+        "label": "3"
+      },
+      {
+        "id": "usa_q027_o4",
+        "text": "12",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q027_o2",
+    "explanation": "The Supreme Court has nine justices: one Chief Justice and eight Associate Justices.",
+    "source_url": [
+      "https://www.supremecourt.gov/about/faq_general.aspx"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q028",
+    "question": "Who did the United States buy the Louisiana Territory from in 1803?",
+    "options": [
+      {
+        "id": "usa_q028_o1",
+        "text": "Spain",
+        "label": "1"
+      },
+      {
+        "id": "usa_q028_o2",
+        "text": "France",
+        "label": "2"
+      },
+      {
+        "id": "usa_q028_o3",
+        "text": "Britain",
+        "label": "3"
+      },
+      {
+        "id": "usa_q028_o4",
+        "text": "Mexico",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q028_o2",
+    "explanation": "The U.S. purchased the Louisiana Territory from France in 1803, doubling the nation's size.",
+    "source_url": [
+      "https://www.archives.gov/exhibits/american_originals/loupurch.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q029",
+    "question": "During the Cold War, what was the main concern of the United States?",
+    "options": [
+      {
+        "id": "usa_q029_o1",
+        "text": "Environmental pollution",
+        "label": "1"
+      },
+      {
+        "id": "usa_q029_o2",
+        "text": "Communism",
+        "label": "2"
+      },
+      {
+        "id": "usa_q029_o3",
+        "text": "Space exploration",
+        "label": "3"
+      },
+      {
+        "id": "usa_q029_o4",
+        "text": "Trade deficits",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q029_o2",
+    "explanation": "The U.S. was primarily concerned with the spread of communism during the Cold War.",
+    "source_url": [
+      "https://history.state.gov/milestones/1945-1952/cold-war"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q030",
+    "question": "Who vetoes bills?",
+    "options": [
+      {
+        "id": "usa_q030_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q030_o2",
+        "text": "The Speaker of the House",
+        "label": "2"
+      },
+      {
+        "id": "usa_q030_o3",
+        "text": "The Chief Justice",
+        "label": "3"
+      },
+      {
+        "id": "usa_q030_o4",
+        "text": "The Senate Majority Leader",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q030_o1",
+    "explanation": "The President has the constitutional power to veto bills passed by Congress.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/our-government/the-legislative-branch/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q031",
+    "question": "What movement tried to end racial discrimination?",
+    "options": [
+      {
+        "id": "usa_q031_o1",
+        "text": "Civil Rights Movement",
+        "label": "1"
+      },
+      {
+        "id": "usa_q031_o2",
+        "text": "Women's Suffrage Movement",
+        "label": "2"
+      },
+      {
+        "id": "usa_q031_o3",
+        "text": "Labor Movement",
+        "label": "3"
+      },
+      {
+        "id": "usa_q031_o4",
+        "text": "Temperance Movement",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q031_o1",
+    "explanation": "The Civil Rights Movement sought to end racial discrimination and secure equal rights under the law.",
+    "source_url": [
+      "https://www.archives.gov/research/african-americans/civil-rights-movement"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q032",
+    "question": "What is the economic system of the United States?",
+    "options": [
+      {
+        "id": "usa_q032_o1",
+        "text": "Communism",
+        "label": "1"
+      },
+      {
+        "id": "usa_q032_o2",
+        "text": "Capitalist economy",
+        "label": "2"
+      },
+      {
+        "id": "usa_q032_o3",
+        "text": "Socialist economy",
+        "label": "3"
+      },
+      {
+        "id": "usa_q032_o4",
+        "text": "Feudal system",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q032_o2",
+    "explanation": "The U.S. has a capitalist economy, also known as a market economy.",
+    "source_url": [
+      "https://ustr.gov/about-us/policy-offices/press-office/fact-sheets/2020/march/us-economy"
+    ],
+    "category": "Economy",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q033",
+    "question": "What is one responsibility that is only for United States citizens?",
+    "options": [
+      {
+        "id": "usa_q033_o1",
+        "text": "Serving on a jury",
+        "label": "1"
+      },
+      {
+        "id": "usa_q033_o2",
+        "text": "Obeying laws",
+        "label": "2"
+      },
+      {
+        "id": "usa_q033_o3",
+        "text": "Paying taxes",
+        "label": "3"
+      },
+      {
+        "id": "usa_q033_o4",
+        "text": "Attending school",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q033_o1",
+    "explanation": "Only U.S. citizens are required to serve on a jury when called.",
+    "source_url": [
+      "https://www.uscourts.gov/services-forms/jury-service/juror-qualifications"
+    ],
+    "category": "Civics",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q034",
+    "question": "Who signs bills to become laws?",
+    "options": [
+      {
+        "id": "usa_q034_o1",
+        "text": "The President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q034_o2",
+        "text": "The Vice President",
+        "label": "2"
+      },
+      {
+        "id": "usa_q034_o3",
+        "text": "The Speaker of the House",
+        "label": "3"
+      },
+      {
+        "id": "usa_q034_o4",
+        "text": "The Chief Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q034_o1",
+    "explanation": "After a bill passes both houses of Congress, the President signs it into law.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/our-government/the-legislative-branch/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q035",
+    "question": "What did Susan B. Anthony do?",
+    "options": [
+      {
+        "id": "usa_q035_o1",
+        "text": "Fought for women's rights",
+        "label": "1"
+      },
+      {
+        "id": "usa_q035_o2",
+        "text": "Became the first female senator",
+        "label": "2"
+      },
+      {
+        "id": "usa_q035_o3",
+        "text": "Wrote the Declaration of Independence",
+        "label": "3"
+      },
+      {
+        "id": "usa_q035_o4",
+        "text": "Led the Underground Railroad",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q035_o1",
+    "explanation": "Susan B. Anthony was a leader in the women's suffrage movement.",
+    "source_url": [
+      "https://www.womenshistory.org/education-resources/biographies/susan-b-anthony"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q036",
+    "question": "What are the first three words of the Constitution?",
+    "options": [
+      {
+        "id": "usa_q036_o1",
+        "text": "We the People",
+        "label": "1"
+      },
+      {
+        "id": "usa_q036_o2",
+        "text": "In Congress Assembled",
+        "label": "2"
+      },
+      {
+        "id": "usa_q036_o3",
+        "text": "Four score and",
+        "label": "3"
+      },
+      {
+        "id": "usa_q036_o4",
+        "text": "Life, Liberty, Pursuit",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q036_o1",
+    "explanation": "The U.S. Constitution begins with the preamble: 'We the People.'",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q037",
+    "question": "Name one branch or part of the government.",
+    "options": [
+      {
+        "id": "usa_q037_o1",
+        "text": "Legislative",
+        "label": "1"
+      },
+      {
+        "id": "usa_q037_o2",
+        "text": "Parliamentary",
+        "label": "2"
+      },
+      {
+        "id": "usa_q037_o3",
+        "text": "Monarchical",
+        "label": "3"
+      },
+      {
+        "id": "usa_q037_o4",
+        "text": "Colonial",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q037_o1",
+    "explanation": "The three branches of the U.S. government are legislative, executive, and judicial.",
+    "source_url": [
+      "https://www.usa.gov/branches-of-government"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q038",
+    "question": "What do we call the first ten amendments to the Constitution?",
+    "options": [
+      {
+        "id": "usa_q038_o1",
+        "text": "The Bill of Rights",
+        "label": "1"
+      },
+      {
+        "id": "usa_q038_o2",
+        "text": "The Articles of Confederation",
+        "label": "2"
+      },
+      {
+        "id": "usa_q038_o3",
+        "text": "The Federalist Papers",
+        "label": "3"
+      },
+      {
+        "id": "usa_q038_o4",
+        "text": "The Preamble",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q038_o1",
+    "explanation": "The first ten amendments to the Constitution are called the Bill of Rights.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q039",
+    "question": "Who was President during the Great Depression and World War II?",
+    "options": [
+      {
+        "id": "usa_q039_o1",
+        "text": "Franklin D. Roosevelt",
+        "label": "1"
+      },
+      {
+        "id": "usa_q039_o2",
+        "text": "Harry S. Truman",
+        "label": "2"
+      },
+      {
+        "id": "usa_q039_o3",
+        "text": "Herbert Hoover",
+        "label": "3"
+      },
+      {
+        "id": "usa_q039_o4",
+        "text": "Dwight D. Eisenhower",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q039_o1",
+    "explanation": "Franklin D. Roosevelt served as President from 1933 to 1945, leading through the Great Depression and most of World War II.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/presidents/franklin-d-roosevelt/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q040",
+    "question": "What territory did the United States buy from France in 1803?",
+    "options": [
+      {
+        "id": "usa_q040_o1",
+        "text": "Louisiana Territory",
+        "label": "1"
+      },
+      {
+        "id": "usa_q040_o2",
+        "text": "Florida",
+        "label": "2"
+      },
+      {
+        "id": "usa_q040_o3",
+        "text": "Texas",
+        "label": "3"
+      },
+      {
+        "id": "usa_q040_o4",
+        "text": "California",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q040_o1",
+    "explanation": "The U.S. purchased the Louisiana Territory from France in 1803 in what is known as the Louisiana Purchase.",
+    "source_url": [
+      "https://www.archives.gov/exhibits/american_originals/loupurch.html"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q041",
+    "question": "What does the President's Cabinet do?",
+    "options": [
+      {
+        "id": "usa_q041_o1",
+        "text": "Advises the President",
+        "label": "1"
+      },
+      {
+        "id": "usa_q041_o2",
+        "text": "Makes laws",
+        "label": "2"
+      },
+      {
+        "id": "usa_q041_o3",
+        "text": "Elects the President",
+        "label": "3"
+      },
+      {
+        "id": "usa_q041_o4",
+        "text": "Runs the Supreme Court",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q041_o1",
+    "explanation": "The Cabinet advises the President on various policy areas and departments.",
+    "source_url": [
+      "https://www.whitehouse.gov/administration/cabinet/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q042",
+    "question": "What did Martin Luther King, Jr. do?",
+    "options": [
+      {
+        "id": "usa_q042_o1",
+        "text": "Fought for civil rights",
+        "label": "1"
+      },
+      {
+        "id": "usa_q042_o2",
+        "text": "Was the first African American Supreme Court justice",
+        "label": "2"
+      },
+      {
+        "id": "usa_q042_o3",
+        "text": "Served as U.S. President",
+        "label": "3"
+      },
+      {
+        "id": "usa_q042_o4",
+        "text": "Invented the telephone",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q042_o1",
+    "explanation": "Martin Luther King, Jr. was a leader in the Civil Rights Movement who advocated for equality through nonviolent protest.",
+    "source_url": [
+      "https://www.nps.gov/malu/learn/historyculture/mlk.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q043",
+    "question": "What are the two major political parties in the United States?",
+    "options": [
+      {
+        "id": "usa_q043_o1",
+        "text": "Democratic and Republican",
+        "label": "1"
+      },
+      {
+        "id": "usa_q043_o2",
+        "text": "Whig and Federalist",
+        "label": "2"
+      },
+      {
+        "id": "usa_q043_o3",
+        "text": "Labour and Conservative",
+        "label": "3"
+      },
+      {
+        "id": "usa_q043_o4",
+        "text": "Green and Libertarian",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q043_o1",
+    "explanation": "The two major political parties are the Democratic Party and the Republican Party.",
+    "source_url": [
+      "https://www.usa.gov/political-parties"
+    ],
+    "category": "Politics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q044",
+    "question": "What is one right or freedom from the First Amendment?",
+    "options": [
+      {
+        "id": "usa_q044_o1",
+        "text": "Speech",
+        "label": "1"
+      },
+      {
+        "id": "usa_q044_o2",
+        "text": "Bear arms",
+        "label": "2"
+      },
+      {
+        "id": "usa_q044_o3",
+        "text": "Vote",
+        "label": "3"
+      },
+      {
+        "id": "usa_q044_o4",
+        "text": "Trial by jury",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q044_o1",
+    "explanation": "The First Amendment protects freedoms including speech, religion, press, assembly, and petition.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/bill-of-rights-transcript"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q045",
+    "question": "Who was President during World War I?",
+    "options": [
+      {
+        "id": "usa_q045_o1",
+        "text": "Woodrow Wilson",
+        "label": "1"
+      },
+      {
+        "id": "usa_q045_o2",
+        "text": "Theodore Roosevelt",
+        "label": "2"
+      },
+      {
+        "id": "usa_q045_o3",
+        "text": "Warren G. Harding",
+        "label": "3"
+      },
+      {
+        "id": "usa_q045_o4",
+        "text": "Calvin Coolidge",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q045_o1",
+    "explanation": "Woodrow Wilson served as President from 1913 to 1921, including during World War I.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/presidents/woodrow-wilson/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q046",
+    "question": "Name one U.S. state that borders Canada.",
+    "options": [
+      {
+        "id": "usa_q046_o1",
+        "text": "Maine",
+        "label": "1"
+      },
+      {
+        "id": "usa_q046_o2",
+        "text": "Florida",
+        "label": "2"
+      },
+      {
+        "id": "usa_q046_o3",
+        "text": "Texas",
+        "label": "3"
+      },
+      {
+        "id": "usa_q046_o4",
+        "text": "California",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q046_o1",
+    "explanation": "Several U.S. states border Canada, including Maine, Alaska, and Washington.",
+    "source_url": [
+      "https://www.cia.gov/the-world-factbook/countries/united-states/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q047",
+    "question": "What does the Constitution do?",
+    "options": [
+      {
+        "id": "usa_q047_o1",
+        "text": "Sets up the government",
+        "label": "1"
+      },
+      {
+        "id": "usa_q047_o2",
+        "text": "Declares war",
+        "label": "2"
+      },
+      {
+        "id": "usa_q047_o3",
+        "text": "Issues passports",
+        "label": "3"
+      },
+      {
+        "id": "usa_q047_o4",
+        "text": "Prints money",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q047_o1",
+    "explanation": "The Constitution sets up the U.S. government, defines its powers, and protects the rights of the people.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q048",
+    "question": "What is the supreme law of the United States?",
+    "options": [
+      {
+        "id": "usa_q048_o1",
+        "text": "The Constitution",
+        "label": "1"
+      },
+      {
+        "id": "usa_q048_o2",
+        "text": "The Declaration of Independence",
+        "label": "2"
+      },
+      {
+        "id": "usa_q048_o3",
+        "text": "The Bill of Rights",
+        "label": "3"
+      },
+      {
+        "id": "usa_q048_o4",
+        "text": "The Federal Register",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q048_o1",
+    "explanation": "The Constitution is the supreme law of the land, as stated in Article VI of the document itself.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q049",
+    "question": "Which U.S. state was the last to join the Union?",
+    "options": [
+      {
+        "id": "usa_q049_o1",
+        "text": "Hawaii",
+        "label": "1"
+      },
+      {
+        "id": "usa_q049_o2",
+        "text": "Alaska",
+        "label": "2"
+      },
+      {
+        "id": "usa_q049_o3",
+        "text": "Arizona",
+        "label": "3"
+      },
+      {
+        "id": "usa_q049_o4",
+        "text": "New Mexico",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q049_o1",
+    "explanation": "Hawaii became the 50th state on August 21, 1959.",
+    "source_url": [
+      "https://www.archives.gov/legislative/features/statehood"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q050",
+    "question": "What are the first ten amendments to the Constitution called?",
+    "options": [
+      {
+        "id": "usa_q050_o1",
+        "text": "The Preamble",
+        "label": "1"
+      },
+      {
+        "id": "usa_q050_o2",
+        "text": "The Bill of Rights",
+        "label": "2"
+      },
+      {
+        "id": "usa_q050_o3",
+        "text": "The Federalist Papers",
+        "label": "3"
+      },
+      {
+        "id": "usa_q050_o4",
+        "text": "The Articles of Confederation",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q050_o2",
+    "explanation": "The Bill of Rights comprises the first ten amendments, ratified in 1791.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/bill-of-rights"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q051",
+    "question": "How many voting members are in the U.S. House of Representatives?",
+    "options": [
+      {
+        "id": "usa_q051_o1",
+        "text": "100",
+        "label": "1"
+      },
+      {
+        "id": "usa_q051_o2",
+        "text": "435",
+        "label": "2"
+      },
+      {
+        "id": "usa_q051_o3",
+        "text": "535",
+        "label": "3"
+      },
+      {
+        "id": "usa_q051_o4",
+        "text": "438",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q051_o2",
+    "explanation": "There are 435 voting members in the House, as set by law.",
+    "source_url": [
+      "https://www.house.gov/the-house-explained/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q052",
+    "question": "Which ocean is on the East Coast of the United States?",
+    "options": [
+      {
+        "id": "usa_q052_o1",
+        "text": "Pacific Ocean",
+        "label": "1"
+      },
+      {
+        "id": "usa_q052_o2",
+        "text": "Atlantic Ocean",
+        "label": "2"
+      },
+      {
+        "id": "usa_q052_o3",
+        "text": "Arctic Ocean",
+        "label": "3"
+      },
+      {
+        "id": "usa_q052_o4",
+        "text": "Indian Ocean",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q052_o2",
+    "explanation": "The Atlantic Ocean borders the eastern coastline of the United States.",
+    "source_url": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-basins"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q053",
+    "question": "What major event happened on September 11, 2001, in the United States?",
+    "options": [
+      {
+        "id": "usa_q053_o1",
+        "text": "Attack on Pearl Harbor",
+        "label": "1"
+      },
+      {
+        "id": "usa_q053_o2",
+        "text": "Hurricane Katrina",
+        "label": "2"
+      },
+      {
+        "id": "usa_q053_o3",
+        "text": "Terrorist attacks on the U.S.",
+        "label": "3"
+      },
+      {
+        "id": "usa_q053_o4",
+        "text": "The Oklahoma City bombing",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q053_o3",
+    "explanation": "On September 11, 2001, terrorists hijacked four planes, causing massive loss of life and destruction.",
+    "source_url": [
+      "https://www.911memorial.org/learn/resources/911-primer"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q054",
+    "question": "Who signs bills into law in the United States?",
+    "options": [
+      {
+        "id": "usa_q054_o1",
+        "text": "The Chief Justice",
+        "label": "1"
+      },
+      {
+        "id": "usa_q054_o2",
+        "text": "The Vice President",
+        "label": "2"
+      },
+      {
+        "id": "usa_q054_o3",
+        "text": "The Speaker of the House",
+        "label": "3"
+      },
+      {
+        "id": "usa_q054_o4",
+        "text": "The President",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q054_o4",
+    "explanation": "The President signs bills into law after they are passed by Congress.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/our-government/the-legislative-branch/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q055",
+    "question": "Which U.S. war was fought between the North and South?",
+    "options": [
+      {
+        "id": "usa_q055_o1",
+        "text": "The Revolutionary War",
+        "label": "1"
+      },
+      {
+        "id": "usa_q055_o2",
+        "text": "The Civil War",
+        "label": "2"
+      },
+      {
+        "id": "usa_q055_o3",
+        "text": "World War I",
+        "label": "3"
+      },
+      {
+        "id": "usa_q055_o4",
+        "text": "The War of 1812",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q055_o2",
+    "explanation": "The Civil War was fought from 1861 to 1865 between the Union (North) and Confederacy (South).",
+    "source_url": [
+      "https://www.archives.gov/research/alic/reference/civil-war"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q056",
+    "question": "Who did the United States fight in World War II?",
+    "options": [
+      {
+        "id": "usa_q056_o1",
+        "text": "Germany, Italy, and Japan",
+        "label": "1"
+      },
+      {
+        "id": "usa_q056_o2",
+        "text": "Germany, Austria, and Japan",
+        "label": "2"
+      },
+      {
+        "id": "usa_q056_o3",
+        "text": "Germany, Russia, and Italy",
+        "label": "3"
+      },
+      {
+        "id": "usa_q056_o4",
+        "text": "Japan, Russia, and Italy",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q056_o1",
+    "explanation": "The U.S. fought against the Axis Powers: Germany, Italy, and Japan.",
+    "source_url": [
+      "https://www.archives.gov/research/military/ww2"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q057",
+    "question": "Who is considered the 'Father of the Constitution' of the United States?",
+    "options": [
+      {
+        "id": "usa_q057_o1",
+        "text": "George Washington",
+        "label": "1"
+      },
+      {
+        "id": "usa_q057_o2",
+        "text": "James Madison",
+        "label": "2"
+      },
+      {
+        "id": "usa_q057_o3",
+        "text": "Thomas Jefferson",
+        "label": "3"
+      },
+      {
+        "id": "usa_q057_o4",
+        "text": "Benjamin Franklin",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q057_o2",
+    "explanation": "James Madison is known as the 'Father of the Constitution' for his pivotal role in drafting and promoting the U.S. Constitution and Bill of Rights.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q058",
+    "question": "What is the minimum age required to serve as President of the United States?",
+    "options": [
+      {
+        "id": "usa_q058_o1",
+        "text": "30",
+        "label": "1"
+      },
+      {
+        "id": "usa_q058_o2",
+        "text": "35",
+        "label": "2"
+      },
+      {
+        "id": "usa_q058_o3",
+        "text": "40",
+        "label": "3"
+      },
+      {
+        "id": "usa_q058_o4",
+        "text": "25",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q058_o2",
+    "explanation": "The U.S. Constitution requires the President to be at least 35 years old.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript#toc-article-ii"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q059",
+    "question": "Who was the first U.S. Secretary of the Treasury?",
+    "options": [
+      {
+        "id": "usa_q059_o1",
+        "text": "Thomas Jefferson",
+        "label": "1"
+      },
+      {
+        "id": "usa_q059_o2",
+        "text": "Alexander Hamilton",
+        "label": "2"
+      },
+      {
+        "id": "usa_q059_o3",
+        "text": "John Adams",
+        "label": "3"
+      },
+      {
+        "id": "usa_q059_o4",
+        "text": "James Madison",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q059_o2",
+    "explanation": "Alexander Hamilton was appointed the first U.S. Secretary of the Treasury in 1789.",
+    "source_url": [
+      "https://home.treasury.gov/about/history/department-history"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q060",
+    "question": "What is the term length for a member of the U.S. House of Representatives?",
+    "options": [
+      {
+        "id": "usa_q060_o1",
+        "text": "4 years",
+        "label": "1"
+      },
+      {
+        "id": "usa_q060_o2",
+        "text": "6 years",
+        "label": "2"
+      },
+      {
+        "id": "usa_q060_o3",
+        "text": "2 years",
+        "label": "3"
+      },
+      {
+        "id": "usa_q060_o4",
+        "text": "8 years",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q060_o3",
+    "explanation": "Members of the U.S. House of Representatives serve two-year terms.",
+    "source_url": [
+      "https://www.house.gov/the-house-explained"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q061",
+    "question": "Which U.S. national park was the first to be established?",
+    "options": [
+      {
+        "id": "usa_q061_o1",
+        "text": "Yellowstone",
+        "label": "1"
+      },
+      {
+        "id": "usa_q061_o2",
+        "text": "Yosemite",
+        "label": "2"
+      },
+      {
+        "id": "usa_q061_o3",
+        "text": "Grand Canyon",
+        "label": "3"
+      },
+      {
+        "id": "usa_q061_o4",
+        "text": "Everglades",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q061_o1",
+    "explanation": "Yellowstone National Park was established in 1872 as the first U.S. national park.",
+    "source_url": [
+      "https://www.nps.gov/yell/learn/historyculture/index.htm"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q062",
+    "question": "In which U.S. city is the Liberty Bell located?",
+    "options": [
+      {
+        "id": "usa_q062_o1",
+        "text": "New York",
+        "label": "1"
+      },
+      {
+        "id": "usa_q062_o2",
+        "text": "Philadelphia",
+        "label": "2"
+      },
+      {
+        "id": "usa_q062_o3",
+        "text": "Boston",
+        "label": "3"
+      },
+      {
+        "id": "usa_q062_o4",
+        "text": "Washington, D.C.",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q062_o2",
+    "explanation": "The Liberty Bell is located in Philadelphia, Pennsylvania.",
+    "source_url": [
+      "https://www.nps.gov/libe/index.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q063",
+    "question": "Which ocean is on the West Coast of the United States?",
+    "options": [
+      {
+        "id": "usa_q063_o1",
+        "text": "Atlantic Ocean",
+        "label": "1"
+      },
+      {
+        "id": "usa_q063_o2",
+        "text": "Pacific Ocean",
+        "label": "2"
+      },
+      {
+        "id": "usa_q063_o3",
+        "text": "Indian Ocean",
+        "label": "3"
+      },
+      {
+        "id": "usa_q063_o4",
+        "text": "Arctic Ocean",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q063_o2",
+    "explanation": "The Pacific Ocean borders the West Coast of the United States.",
+    "source_url": [
+      "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-basics"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q064",
+    "question": "Which amendment to the Constitution gave women the right to vote?",
+    "options": [
+      {
+        "id": "usa_q064_o1",
+        "text": "15th Amendment",
+        "label": "1"
+      },
+      {
+        "id": "usa_q064_o2",
+        "text": "19th Amendment",
+        "label": "2"
+      },
+      {
+        "id": "usa_q064_o3",
+        "text": "21st Amendment",
+        "label": "3"
+      },
+      {
+        "id": "usa_q064_o4",
+        "text": "26th Amendment",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q064_o2",
+    "explanation": "The 19th Amendment, ratified in 1920, granted women the right to vote.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/amendments-11-27"
+    ],
+    "category": "Law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q065",
+    "question": "Which war was fought by the United States in the 1800s against Mexico?",
+    "options": [
+      {
+        "id": "usa_q065_o1",
+        "text": "Mexican-American War",
+        "label": "1"
+      },
+      {
+        "id": "usa_q065_o2",
+        "text": "Spanish-American War",
+        "label": "2"
+      },
+      {
+        "id": "usa_q065_o3",
+        "text": "War of 1812",
+        "label": "3"
+      },
+      {
+        "id": "usa_q065_o4",
+        "text": "Civil War",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q065_o1",
+    "explanation": "The Mexican-American War took place between 1846 and 1848.",
+    "source_url": [
+      "https://www.archives.gov/research/mexican-american-war"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q066",
+    "question": "What is the name of the U.S. legislative body?",
+    "options": [
+      {
+        "id": "usa_q066_o1",
+        "text": "Congress",
+        "label": "1"
+      },
+      {
+        "id": "usa_q066_o2",
+        "text": "Parliament",
+        "label": "2"
+      },
+      {
+        "id": "usa_q066_o3",
+        "text": "Senate",
+        "label": "3"
+      },
+      {
+        "id": "usa_q066_o4",
+        "text": "House of Representatives",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q066_o1",
+    "explanation": "The U.S. legislative body is Congress, which consists of the Senate and the House of Representatives.",
+    "source_url": [
+      "https://www.congress.gov/about"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q067",
+    "question": "Who was the main author of the Bill of Rights?",
+    "options": [
+      {
+        "id": "usa_q067_o1",
+        "text": "George Mason",
+        "label": "1"
+      },
+      {
+        "id": "usa_q067_o2",
+        "text": "James Madison",
+        "label": "2"
+      },
+      {
+        "id": "usa_q067_o3",
+        "text": "Patrick Henry",
+        "label": "3"
+      },
+      {
+        "id": "usa_q067_o4",
+        "text": "John Jay",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q067_o2",
+    "explanation": "James Madison drafted the Bill of Rights, which was ratified in 1791.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/bill-of-rights"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q068",
+    "question": "What is the minimum age to serve as a U.S. Senator?",
+    "options": [
+      {
+        "id": "usa_q068_o1",
+        "text": "25",
+        "label": "1"
+      },
+      {
+        "id": "usa_q068_o2",
+        "text": "30",
+        "label": "2"
+      },
+      {
+        "id": "usa_q068_o3",
+        "text": "35",
+        "label": "3"
+      },
+      {
+        "id": "usa_q068_o4",
+        "text": "40",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q068_o2",
+    "explanation": "The Constitution requires U.S. Senators to be at least 30 years old.",
+    "source_url": [
+      "https://www.senate.gov/about/origins-foundations/constitution.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q069",
+    "question": "Which U.S. President signed the Civil Rights Act of 1964?",
+    "options": [
+      {
+        "id": "usa_q069_o1",
+        "text": "John F. Kennedy",
+        "label": "1"
+      },
+      {
+        "id": "usa_q069_o2",
+        "text": "Lyndon B. Johnson",
+        "label": "2"
+      },
+      {
+        "id": "usa_q069_o3",
+        "text": "Richard Nixon",
+        "label": "3"
+      },
+      {
+        "id": "usa_q069_o4",
+        "text": "Harry S. Truman",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q069_o2",
+    "explanation": "President Lyndon B. Johnson signed the Civil Rights Act of 1964 into law.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/civil-rights-act"
+    ],
+    "category": "Law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q070",
+    "question": "Which U.S. territory is located in the Caribbean Sea?",
+    "options": [
+      {
+        "id": "usa_q070_o1",
+        "text": "Guam",
+        "label": "1"
+      },
+      {
+        "id": "usa_q070_o2",
+        "text": "American Samoa",
+        "label": "2"
+      },
+      {
+        "id": "usa_q070_o3",
+        "text": "Puerto Rico",
+        "label": "3"
+      },
+      {
+        "id": "usa_q070_o4",
+        "text": "Northern Mariana Islands",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q070_o3",
+    "explanation": "Puerto Rico is a U.S. territory located in the Caribbean Sea.",
+    "source_url": [
+      "https://www.census.gov/programs-surveys/popest/geographies/territories.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q071",
+    "question": "What is the term length for a U.S. Supreme Court Justice?",
+    "options": [
+      {
+        "id": "usa_q071_o1",
+        "text": "10 years",
+        "label": "1"
+      },
+      {
+        "id": "usa_q071_o2",
+        "text": "20 years",
+        "label": "2"
+      },
+      {
+        "id": "usa_q071_o3",
+        "text": "Lifetime",
+        "label": "3"
+      },
+      {
+        "id": "usa_q071_o4",
+        "text": "Until age 70",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q071_o3",
+    "explanation": "U.S. Supreme Court Justices serve lifetime appointments unless they resign, retire, or are removed.",
+    "source_url": [
+      "https://www.supremecourt.gov/about/faq_general.aspx"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q072",
+    "question": "Which U.S. document begins with the words 'We the People'?",
+    "options": [
+      {
+        "id": "usa_q072_o1",
+        "text": "Declaration of Independence",
+        "label": "1"
+      },
+      {
+        "id": "usa_q072_o2",
+        "text": "Bill of Rights",
+        "label": "2"
+      },
+      {
+        "id": "usa_q072_o3",
+        "text": "U.S. Constitution",
+        "label": "3"
+      },
+      {
+        "id": "usa_q072_o4",
+        "text": "Federalist Papers",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q072_o3",
+    "explanation": "The U.S. Constitution begins with the preamble 'We the People.'",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q073",
+    "question": "In what year was the U.S. Constitution ratified?",
+    "options": [
+      {
+        "id": "usa_q073_o1",
+        "text": "1776",
+        "label": "1"
+      },
+      {
+        "id": "usa_q073_o2",
+        "text": "1787",
+        "label": "2"
+      },
+      {
+        "id": "usa_q073_o3",
+        "text": "1789",
+        "label": "3"
+      },
+      {
+        "id": "usa_q073_o4",
+        "text": "1791",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q073_o2",
+    "explanation": "The U.S. Constitution was ratified in 1787.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-history"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q074",
+    "question": "Which branch of the U.S. government has the power to declare war?",
+    "options": [
+      {
+        "id": "usa_q074_o1",
+        "text": "Executive",
+        "label": "1"
+      },
+      {
+        "id": "usa_q074_o2",
+        "text": "Legislative",
+        "label": "2"
+      },
+      {
+        "id": "usa_q074_o3",
+        "text": "Judicial",
+        "label": "3"
+      },
+      {
+        "id": "usa_q074_o4",
+        "text": "Cabinet",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q074_o2",
+    "explanation": "The Legislative Branch, specifically Congress, has the power to declare war.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript#toc-article-i"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q075",
+    "question": "What is the largest state in the United States by land area?",
+    "options": [
+      {
+        "id": "usa_q075_o1",
+        "text": "Texas",
+        "label": "1"
+      },
+      {
+        "id": "usa_q075_o2",
+        "text": "California",
+        "label": "2"
+      },
+      {
+        "id": "usa_q075_o3",
+        "text": "Alaska",
+        "label": "3"
+      },
+      {
+        "id": "usa_q075_o4",
+        "text": "Montana",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q075_o3",
+    "explanation": "Alaska is the largest U.S. state by land area.",
+    "source_url": [
+      "https://www.census.gov/geographies/reference-files/2010/geo/state-area.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q076",
+    "question": "Which U.S. President purchased the Louisiana Territory?",
+    "options": [
+      {
+        "id": "usa_q076_o1",
+        "text": "James Monroe",
+        "label": "1"
+      },
+      {
+        "id": "usa_q076_o2",
+        "text": "Thomas Jefferson",
+        "label": "2"
+      },
+      {
+        "id": "usa_q076_o3",
+        "text": "Andrew Jackson",
+        "label": "3"
+      },
+      {
+        "id": "usa_q076_o4",
+        "text": "John Quincy Adams",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q076_o2",
+    "explanation": "Thomas Jefferson oversaw the Louisiana Purchase in 1803.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q077",
+    "question": "Which U.S. state was the first to ratify the Constitution?",
+    "options": [
+      {
+        "id": "usa_q077_o1",
+        "text": "Delaware",
+        "label": "1"
+      },
+      {
+        "id": "usa_q077_o2",
+        "text": "Pennsylvania",
+        "label": "2"
+      },
+      {
+        "id": "usa_q077_o3",
+        "text": "New Jersey",
+        "label": "3"
+      },
+      {
+        "id": "usa_q077_o4",
+        "text": "Virginia",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q077_o1",
+    "explanation": "Delaware was the first state to ratify the U.S. Constitution on December 7, 1787.",
+    "source_url": [
+      "https://www.archives.gov/state-governments/constitution"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q078",
+    "question": "Who was the first Chief Justice of the United States?",
+    "options": [
+      {
+        "id": "usa_q078_o1",
+        "text": "John Jay",
+        "label": "1"
+      },
+      {
+        "id": "usa_q078_o2",
+        "text": "John Marshall",
+        "label": "2"
+      },
+      {
+        "id": "usa_q078_o3",
+        "text": "Oliver Ellsworth",
+        "label": "3"
+      },
+      {
+        "id": "usa_q078_o4",
+        "text": "Roger B. Taney",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q078_o1",
+    "explanation": "John Jay was appointed the first Chief Justice of the United States in 1789.",
+    "source_url": [
+      "https://www.supremecourt.gov/about/members_text.aspx"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q079",
+    "question": "What is the official residence of the Vice President of the United States?",
+    "options": [
+      {
+        "id": "usa_q079_o1",
+        "text": "The White House",
+        "label": "1"
+      },
+      {
+        "id": "usa_q079_o2",
+        "text": "Naval Observatory",
+        "label": "2"
+      },
+      {
+        "id": "usa_q079_o3",
+        "text": "Blair House",
+        "label": "3"
+      },
+      {
+        "id": "usa_q079_o4",
+        "text": "Camp David",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q079_o2",
+    "explanation": "The Vice President resides at Number One Observatory Circle, located on the grounds of the U.S. Naval Observatory in Washington, D.C.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/vice-president/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q080",
+    "question": "Which U.S. holiday commemorates the end of slavery?",
+    "options": [
+      {
+        "id": "usa_q080_o1",
+        "text": "Independence Day",
+        "label": "1"
+      },
+      {
+        "id": "usa_q080_o2",
+        "text": "Juneteenth National Independence Day",
+        "label": "2"
+      },
+      {
+        "id": "usa_q080_o3",
+        "text": "Martin Luther King Jr. Day",
+        "label": "3"
+      },
+      {
+        "id": "usa_q080_o4",
+        "text": "Labor Day",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "usa_q080_o2",
+    "explanation": "Juneteenth National Independence Day, observed on June 19, commemorates the end of slavery in the United States.",
+    "source_url": [
+      "https://www.congress.gov/bill/117th-congress/senate-bill/475"
+    ],
+    "category": "Culture",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q081",
+    "question": "How long is one term for a U.S. Senator?",
+    "options": [
+      {
+        "id": "usa_q081_o1",
+        "label": "1",
+        "text": "2 years"
+      },
+      {
+        "id": "usa_q081_o2",
+        "label": "2",
+        "text": "4 years"
+      },
+      {
+        "id": "usa_q081_o3",
+        "label": "3",
+        "text": "6 years"
+      },
+      {
+        "id": "usa_q081_o4",
+        "label": "4",
+        "text": "8 years"
+      }
+    ],
+    "correct_option_id": "usa_q081_o3",
+    "explanation": "Senators serve six‑year terms, with approximately one‑third of seats up for election every two years.",
+    "source_url": [
+      "https://www.senate.gov/about/origins-foundations/senate-and-constitution/terms-of-office.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q082",
+    "question": "How long is one term for a Member of the U.S. House of Representatives?",
+    "options": [
+      {
+        "id": "usa_q082_o1",
+        "label": "1",
+        "text": "2 years"
+      },
+      {
+        "id": "usa_q082_o2",
+        "label": "2",
+        "text": "4 years"
+      },
+      {
+        "id": "usa_q082_o3",
+        "label": "3",
+        "text": "6 years"
+      },
+      {
+        "id": "usa_q082_o4",
+        "label": "4",
+        "text": "8 years"
+      }
+    ],
+    "correct_option_id": "usa_q082_o1",
+    "explanation": "Members of the House serve two‑year terms, ensuring frequent accountability to voters.",
+    "source_url": [
+      "https://www.house.gov/the-house-explained/branch/legislative-branch/house-terms-of-office"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q083",
+    "question": "Who is the Commander in Chief of the U.S. armed forces?",
+    "options": [
+      {
+        "id": "usa_q083_o1",
+        "label": "1",
+        "text": "The Secretary of Defense"
+      },
+      {
+        "id": "usa_q083_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "usa_q083_o3",
+        "label": "3",
+        "text": "The Chief of Staff"
+      },
+      {
+        "id": "usa_q083_o4",
+        "label": "4",
+        "text": "Congress"
+      }
+    ],
+    "correct_option_id": "usa_q083_o2",
+    "explanation": "Article II designates the President as Commander in Chief of the Army and Navy and of the state militias when called into federal service.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-2/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q084",
+    "question": "What is the supreme law of the land in the United States?",
+    "options": [
+      {
+        "id": "usa_q084_o1",
+        "label": "1",
+        "text": "The Constitution"
+      },
+      {
+        "id": "usa_q084_o2",
+        "label": "2",
+        "text": "Federal statutes"
+      },
+      {
+        "id": "usa_q084_o3",
+        "label": "3",
+        "text": "State constitutions"
+      },
+      {
+        "id": "usa_q084_o4",
+        "label": "4",
+        "text": "Supreme Court rules"
+      }
+    ],
+    "correct_option_id": "usa_q084_o1",
+    "explanation": "The Constitution is the supreme law; all federal and state laws must conform to it.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q085",
+    "question": "What are the first ten amendments to the U.S. Constitution collectively called?",
+    "options": [
+      {
+        "id": "usa_q085_o1",
+        "label": "1",
+        "text": "The Federalist Papers"
+      },
+      {
+        "id": "usa_q085_o2",
+        "label": "2",
+        "text": "The Bill of Rights"
+      },
+      {
+        "id": "usa_q085_o3",
+        "label": "3",
+        "text": "The Great Compromise"
+      },
+      {
+        "id": "usa_q085_o4",
+        "label": "4",
+        "text": "The Preamble"
+      }
+    ],
+    "correct_option_id": "usa_q085_o2",
+    "explanation": "The first ten amendments, ratified in 1791, protect fundamental liberties and are known as the Bill of Rights.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/bill-of-rights"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q086",
+    "question": "Which branch makes federal laws?",
+    "options": [
+      {
+        "id": "usa_q086_o1",
+        "label": "1",
+        "text": "Executive"
+      },
+      {
+        "id": "usa_q086_o2",
+        "label": "2",
+        "text": "Legislative"
+      },
+      {
+        "id": "usa_q086_o3",
+        "label": "3",
+        "text": "Judicial"
+      },
+      {
+        "id": "usa_q086_o4",
+        "label": "4",
+        "text": "Military"
+      }
+    ],
+    "correct_option_id": "usa_q086_o2",
+    "explanation": "Congress—the legislative branch composed of the Senate and House—writes and passes federal laws.",
+    "source_url": [
+      "https://www.usa.gov/branches-of-government"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q087",
+    "question": "Which branch interprets federal laws and the Constitution?",
+    "options": [
+      {
+        "id": "usa_q087_o1",
+        "label": "1",
+        "text": "Executive"
+      },
+      {
+        "id": "usa_q087_o2",
+        "label": "2",
+        "text": "Legislative"
+      },
+      {
+        "id": "usa_q087_o3",
+        "label": "3",
+        "text": "Judicial"
+      },
+      {
+        "id": "usa_q087_o4",
+        "label": "4",
+        "text": "State governments"
+      }
+    ],
+    "correct_option_id": "usa_q087_o3",
+    "explanation": "The judicial branch, headed by the Supreme Court, interprets laws and the Constitution through judicial review.",
+    "source_url": [
+      "https://www.usa.gov/branches-of-government",
+      "https://www.supremecourt.gov/about/constitutional.aspx"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q088",
+    "question": "What is required for the Senate to approve a treaty negotiated by the President?",
+    "options": [
+      {
+        "id": "usa_q088_o1",
+        "label": "1",
+        "text": "A simple majority"
+      },
+      {
+        "id": "usa_q088_o2",
+        "label": "2",
+        "text": "Three-fifths vote"
+      },
+      {
+        "id": "usa_q088_o3",
+        "label": "3",
+        "text": "Two‑thirds vote"
+      },
+      {
+        "id": "usa_q088_o4",
+        "label": "4",
+        "text": "Unanimous consent"
+      }
+    ],
+    "correct_option_id": "usa_q088_o3",
+    "explanation": "The Constitution requires the advice and consent of the Senate, with a two‑thirds majority of Senators present concurring.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-2/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q089",
+    "question": "Who confirms federal judges nominated by the President?",
+    "options": [
+      {
+        "id": "usa_q089_o1",
+        "label": "1",
+        "text": "The House"
+      },
+      {
+        "id": "usa_q089_o2",
+        "label": "2",
+        "text": "The Senate"
+      },
+      {
+        "id": "usa_q089_o3",
+        "label": "3",
+        "text": "State legislatures"
+      },
+      {
+        "id": "usa_q089_o4",
+        "label": "4",
+        "text": "The Supreme Court"
+      }
+    ],
+    "correct_option_id": "usa_q089_o2",
+    "explanation": "Under Article II, the Senate provides advice and consent on judicial nominations.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-2/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q090",
+    "question": "What is one power of the federal government under the Constitution?",
+    "options": [
+      {
+        "id": "usa_q090_o1",
+        "label": "1",
+        "text": "Issue marriage licenses"
+      },
+      {
+        "id": "usa_q090_o2",
+        "label": "2",
+        "text": "Print and coin money"
+      },
+      {
+        "id": "usa_q090_o3",
+        "label": "3",
+        "text": "Run public schools"
+      },
+      {
+        "id": "usa_q090_o4",
+        "label": "4",
+        "text": "Conduct local elections"
+      }
+    ],
+    "correct_option_id": "usa_q090_o2",
+    "explanation": "The Constitution grants Congress the power to coin money and regulate its value; states may not coin money.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-1/",
+      "https://constitution.congress.gov/constitution/article-1/section-10/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q091",
+    "question": "How many voting members are in the U.S. House of Representatives?",
+    "options": [
+      {
+        "id": "usa_q091_o1",
+        "label": "1",
+        "text": "435"
+      },
+      {
+        "id": "usa_q091_o2",
+        "label": "2",
+        "text": "100"
+      },
+      {
+        "id": "usa_q091_o3",
+        "label": "3",
+        "text": "538"
+      },
+      {
+        "id": "usa_q091_o4",
+        "label": "4",
+        "text": "535"
+      }
+    ],
+    "correct_option_id": "usa_q091_o1",
+    "explanation": "Federal law sets the House’s voting membership at 435 seats apportioned among the states by population.",
+    "source_url": [
+      "https://history.house.gov/Institution/Apportionment/Apportionment/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q092",
+    "question": "How many U.S. Senators does each state have?",
+    "options": [
+      {
+        "id": "usa_q092_o1",
+        "label": "1",
+        "text": "One"
+      },
+      {
+        "id": "usa_q092_o2",
+        "label": "2",
+        "text": "Two"
+      },
+      {
+        "id": "usa_q092_o3",
+        "label": "3",
+        "text": "Three"
+      },
+      {
+        "id": "usa_q092_o4",
+        "label": "4",
+        "text": "Four"
+      }
+    ],
+    "correct_option_id": "usa_q092_o2",
+    "explanation": "Each state is represented by two Senators regardless of population, ensuring equal representation in the Senate.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-1/section-3/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q093",
+    "question": "What fraction of the Senate is elected every two years?",
+    "options": [
+      {
+        "id": "usa_q093_o1",
+        "label": "1",
+        "text": "One‑half"
+      },
+      {
+        "id": "usa_q093_o2",
+        "label": "2",
+        "text": "One‑third"
+      },
+      {
+        "id": "usa_q093_o3",
+        "label": "3",
+        "text": "Two‑thirds"
+      },
+      {
+        "id": "usa_q093_o4",
+        "label": "4",
+        "text": "All"
+      }
+    ],
+    "correct_option_id": "usa_q093_o2",
+    "explanation": "The Senate is a continuing body with staggered terms so roughly one‑third of seats are contested every two years.",
+    "source_url": [
+      "https://www.senate.gov/about/origins-foundations/senate-and-constitution/terms-of-office.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q094",
+    "question": "What is the length of a presidential term?",
+    "options": [
+      {
+        "id": "usa_q094_o1",
+        "label": "1",
+        "text": "2 years"
+      },
+      {
+        "id": "usa_q094_o2",
+        "label": "2",
+        "text": "4 years"
+      },
+      {
+        "id": "usa_q094_o3",
+        "label": "3",
+        "text": "6 years"
+      },
+      {
+        "id": "usa_q094_o4",
+        "label": "4",
+        "text": "8 years"
+      }
+    ],
+    "correct_option_id": "usa_q094_o2",
+    "explanation": "The President serves a four‑year term under Article II and the 22nd Amendment limits a person to two elected terms.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-2/",
+      "https://constitution.congress.gov/constitution/amendment-22/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q095",
+    "question": "Who becomes President if both the President and Vice President can no longer serve?",
+    "options": [
+      {
+        "id": "usa_q095_o1",
+        "label": "1",
+        "text": "Speaker of the House"
+      },
+      {
+        "id": "usa_q095_o2",
+        "label": "2",
+        "text": "President pro tempore"
+      },
+      {
+        "id": "usa_q095_o3",
+        "label": "3",
+        "text": "Secretary of State"
+      },
+      {
+        "id": "usa_q095_o4",
+        "label": "4",
+        "text": "Chief Justice"
+      }
+    ],
+    "correct_option_id": "usa_q095_o1",
+    "explanation": "The Presidential Succession Act places the Speaker of the House next after the Vice President.",
+    "source_url": [
+      "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q096",
+    "question": "Which amendment guarantees freedom of speech, religion, press, assembly, and petition?",
+    "options": [
+      {
+        "id": "usa_q096_o1",
+        "label": "1",
+        "text": "First Amendment"
+      },
+      {
+        "id": "usa_q096_o2",
+        "label": "2",
+        "text": "Second Amendment"
+      },
+      {
+        "id": "usa_q096_o3",
+        "label": "3",
+        "text": "Fourth Amendment"
+      },
+      {
+        "id": "usa_q096_o4",
+        "label": "4",
+        "text": "Tenth Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q096_o1",
+    "explanation": "The First Amendment limits government power by protecting key civil liberties, including speech and religion.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-1/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q097",
+    "question": "Which amendment abolished slavery in the United States?",
+    "options": [
+      {
+        "id": "usa_q097_o1",
+        "label": "1",
+        "text": "13th Amendment"
+      },
+      {
+        "id": "usa_q097_o2",
+        "label": "2",
+        "text": "14th Amendment"
+      },
+      {
+        "id": "usa_q097_o3",
+        "label": "3",
+        "text": "15th Amendment"
+      },
+      {
+        "id": "usa_q097_o4",
+        "label": "4",
+        "text": "19th Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q097_o1",
+    "explanation": "Ratified in 1865, the 13th Amendment prohibits slavery and involuntary servitude, except as punishment for crime.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-13/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q098",
+    "question": "Which amendment granted women the right to vote?",
+    "options": [
+      {
+        "id": "usa_q098_o1",
+        "label": "1",
+        "text": "15th Amendment"
+      },
+      {
+        "id": "usa_q098_o2",
+        "label": "2",
+        "text": "19th Amendment"
+      },
+      {
+        "id": "usa_q098_o3",
+        "label": "3",
+        "text": "24th Amendment"
+      },
+      {
+        "id": "usa_q098_o4",
+        "label": "4",
+        "text": "26th Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q098_o2",
+    "explanation": "Ratified in 1920, the 19th Amendment forbids denying the right to vote on account of sex.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-19/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q099",
+    "question": "Which amendment lowered the voting age to 18?",
+    "options": [
+      {
+        "id": "usa_q099_o1",
+        "label": "1",
+        "text": "15th Amendment"
+      },
+      {
+        "id": "usa_q099_o2",
+        "label": "2",
+        "text": "19th Amendment"
+      },
+      {
+        "id": "usa_q099_o3",
+        "label": "3",
+        "text": "24th Amendment"
+      },
+      {
+        "id": "usa_q099_o4",
+        "label": "4",
+        "text": "26th Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q099_o4",
+    "explanation": "The 26th Amendment, ratified in 1971, guarantees voting rights for citizens 18 years and older.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-26/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q100",
+    "question": "Who signs bills to become federal law?",
+    "options": [
+      {
+        "id": "usa_q100_o1",
+        "label": "1",
+        "text": "The Chief Justice"
+      },
+      {
+        "id": "usa_q100_o2",
+        "label": "2",
+        "text": "The President"
+      },
+      {
+        "id": "usa_q100_o3",
+        "label": "3",
+        "text": "The Speaker of the House"
+      },
+      {
+        "id": "usa_q100_o4",
+        "label": "4",
+        "text": "The Senate Majority Leader"
+      }
+    ],
+    "correct_option_id": "usa_q100_o2",
+    "explanation": "A bill passed by both Houses is presented to the President for signature or veto under Article I, Section 7.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-1/section-7/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q101",
+    "question": "What can Congress do to override a presidential veto?",
+    "options": [
+      {
+        "id": "usa_q101_o1",
+        "label": "1",
+        "text": "Pass by a simple majority"
+      },
+      {
+        "id": "usa_q101_o2",
+        "label": "2",
+        "text": "Pass by two‑thirds in both Houses"
+      },
+      {
+        "id": "usa_q101_o3",
+        "label": "3",
+        "text": "Send the bill to the Supreme Court"
+      },
+      {
+        "id": "usa_q101_o4",
+        "label": "4",
+        "text": "Call a national referendum"
+      }
+    ],
+    "correct_option_id": "usa_q101_o2",
+    "explanation": "A two‑thirds vote in each chamber overrides a veto and the bill becomes law without the President’s signature.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/article-1/section-7/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q102",
+    "question": "What is judicial review?",
+    "options": [
+      {
+        "id": "usa_q102_o1",
+        "label": "1",
+        "text": "The President reviews laws"
+      },
+      {
+        "id": "usa_q102_o2",
+        "label": "2",
+        "text": "Courts determine if laws violate the Constitution"
+      },
+      {
+        "id": "usa_q102_o3",
+        "label": "3",
+        "text": "Congress reviews court decisions"
+      },
+      {
+        "id": "usa_q102_o4",
+        "label": "4",
+        "text": "States review federal laws"
+      }
+    ],
+    "correct_option_id": "usa_q102_o2",
+    "explanation": "Judicial review is the judiciary’s power to invalidate laws that conflict with the Constitution, affirmed in Marbury v. Madison.",
+    "source_url": [
+      "https://www.supremecourt.gov/about/constitutional.aspx",
+      "https://www.archives.gov/milestone-documents/marbury-v-madison"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q103",
+    "question": "What is one responsibility that is only for U.S. citizens?",
+    "options": [
+      {
+        "id": "usa_q103_o1",
+        "label": "1",
+        "text": "Serve on a jury"
+      },
+      {
+        "id": "usa_q103_o2",
+        "label": "2",
+        "text": "Obey laws"
+      },
+      {
+        "id": "usa_q103_o3",
+        "label": "3",
+        "text": "Pay taxes"
+      },
+      {
+        "id": "usa_q103_o4",
+        "label": "4",
+        "text": "Register for Selective Service"
+      }
+    ],
+    "correct_option_id": "usa_q103_o1",
+    "explanation": "Only citizens can be summoned to serve on federal juries; obeying laws and paying taxes apply to many residents.",
+    "source_url": [
+      "https://www.uscis.gov/citizenship/learn-about-citizenship/responsibilities-and-rights"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q104",
+    "question": "What document limits the powers of the federal government and protects individual liberties?",
+    "options": [
+      {
+        "id": "usa_q104_o1",
+        "label": "1",
+        "text": "The Articles of Confederation"
+      },
+      {
+        "id": "usa_q104_o2",
+        "label": "2",
+        "text": "The U.S. Constitution"
+      },
+      {
+        "id": "usa_q104_o3",
+        "label": "3",
+        "text": "The Mayflower Compact"
+      },
+      {
+        "id": "usa_q104_o4",
+        "label": "4",
+        "text": "The Northwest Ordinance"
+      }
+    ],
+    "correct_option_id": "usa_q104_o2",
+    "explanation": "The Constitution creates a government of limited and enumerated powers while safeguarding rights through the Bill of Rights and later amendments.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q105",
+    "question": "How many amendments does the U.S. Constitution have?",
+    "options": [
+      {
+        "id": "usa_q105_o1",
+        "label": "1",
+        "text": "10"
+      },
+      {
+        "id": "usa_q105_o2",
+        "label": "2",
+        "text": "24"
+      },
+      {
+        "id": "usa_q105_o3",
+        "label": "3",
+        "text": "26"
+      },
+      {
+        "id": "usa_q105_o4",
+        "label": "4",
+        "text": "27"
+      }
+    ],
+    "correct_option_id": "usa_q105_o4",
+    "explanation": "The Constitution currently has 27 amendments, from the Bill of Rights through the 27th Amendment on congressional pay.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/amendments-11-27"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q106",
+    "question": "Which branch executes and enforces federal laws?",
+    "options": [
+      {
+        "id": "usa_q106_o1",
+        "label": "1",
+        "text": "Legislative"
+      },
+      {
+        "id": "usa_q106_o2",
+        "label": "2",
+        "text": "Executive"
+      },
+      {
+        "id": "usa_q106_o3",
+        "label": "3",
+        "text": "Judicial"
+      },
+      {
+        "id": "usa_q106_o4",
+        "label": "4",
+        "text": "State governments"
+      }
+    ],
+    "correct_option_id": "usa_q106_o2",
+    "explanation": "The executive branch—headed by the President—implements and enforces federal laws through departments and agencies.",
+    "source_url": [
+      "https://www.usa.gov/branches-of-government"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q107",
+    "question": "Who administers the oath of office to the President of the United States?",
+    "options": [
+      {
+        "id": "usa_q107_o1",
+        "label": "1",
+        "text": "The Chief Justice of the United States"
+      },
+      {
+        "id": "usa_q107_o2",
+        "label": "2",
+        "text": "The Speaker of the House"
+      },
+      {
+        "id": "usa_q107_o3",
+        "label": "3",
+        "text": "The Vice President"
+      },
+      {
+        "id": "usa_q107_o4",
+        "label": "4",
+        "text": "The Secretary of State"
+      }
+    ],
+    "correct_option_id": "usa_q107_o1",
+    "explanation": "By tradition dating to 1797 and consistent with law, the Chief Justice typically administers the presidential oath.",
+    "source_url": [
+      "https://www.senate.gov/about/powers-procedures/inaugurations/oaths-of-office.htm"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q108",
+    "question": "What must the government obtain under the Fourth Amendment to conduct most searches of homes?",
+    "options": [
+      {
+        "id": "usa_q108_o1",
+        "label": "1",
+        "text": "A subpoena"
+      },
+      {
+        "id": "usa_q108_o2",
+        "label": "2",
+        "text": "A search warrant"
+      },
+      {
+        "id": "usa_q108_o3",
+        "label": "3",
+        "text": "Probable cause alone"
+      },
+      {
+        "id": "usa_q108_o4",
+        "label": "4",
+        "text": "No documentation"
+      }
+    ],
+    "correct_option_id": "usa_q108_o2",
+    "explanation": "The Fourth Amendment generally requires a judicially authorized warrant based on probable cause for home searches, subject to limited exceptions.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-4/"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q109",
+    "question": "In what year was the Declaration of Independence adopted?",
+    "options": [
+      {
+        "id": "usa_q109_o1",
+        "label": "1",
+        "text": "1775"
+      },
+      {
+        "id": "usa_q109_o2",
+        "label": "2",
+        "text": "1776"
+      },
+      {
+        "id": "usa_q109_o3",
+        "label": "3",
+        "text": "1781"
+      },
+      {
+        "id": "usa_q109_o4",
+        "label": "4",
+        "text": "1787"
+      }
+    ],
+    "correct_option_id": "usa_q109_o2",
+    "explanation": "The Continental Congress adopted the Declaration on July 4, 1776, announcing the colonies’ independence.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/declaration"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q110",
+    "question": "Which document established the first national government of the United States?",
+    "options": [
+      {
+        "id": "usa_q110_o1",
+        "label": "1",
+        "text": "U.S. Constitution"
+      },
+      {
+        "id": "usa_q110_o2",
+        "label": "2",
+        "text": "Articles of Confederation"
+      },
+      {
+        "id": "usa_q110_o3",
+        "label": "3",
+        "text": "Northwest Ordinance"
+      },
+      {
+        "id": "usa_q110_o4",
+        "label": "4",
+        "text": "Bill of Rights"
+      }
+    ],
+    "correct_option_id": "usa_q110_o2",
+    "explanation": "The Articles of Confederation, ratified during the Revolution, served as the nation’s first constitution before 1789.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/articles-of-confederation"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q111",
+    "question": "Which convention drafted the U.S. Constitution?",
+    "options": [
+      {
+        "id": "usa_q111_o1",
+        "label": "1",
+        "text": "Annapolis Convention"
+      },
+      {
+        "id": "usa_q111_o2",
+        "label": "2",
+        "text": "Philadelphia Convention (1787)"
+      },
+      {
+        "id": "usa_q111_o3",
+        "label": "3",
+        "text": "Albany Congress"
+      },
+      {
+        "id": "usa_q111_o4",
+        "label": "4",
+        "text": "Hartford Convention"
+      }
+    ],
+    "correct_option_id": "usa_q111_o2",
+    "explanation": "Delegates met at Philadelphia in 1787 to draft the Constitution that replaced the Articles of Confederation.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q112",
+    "question": "Which purchase in 1803 doubled the size of the United States?",
+    "options": [
+      {
+        "id": "usa_q112_o1",
+        "label": "1",
+        "text": "Gadsden Purchase"
+      },
+      {
+        "id": "usa_q112_o2",
+        "label": "2",
+        "text": "Louisiana Purchase"
+      },
+      {
+        "id": "usa_q112_o3",
+        "label": "3",
+        "text": "Alaska Purchase"
+      },
+      {
+        "id": "usa_q112_o4",
+        "label": "4",
+        "text": "Oregon Treaty"
+      }
+    ],
+    "correct_option_id": "usa_q112_o2",
+    "explanation": "The Louisiana Purchase from France nearly doubled U.S. territory and opened the continent for westward expansion.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q113",
+    "question": "Which war between 1861 and 1865 was fought between the North and South?",
+    "options": [
+      {
+        "id": "usa_q113_o1",
+        "label": "1",
+        "text": "Mexican–American War"
+      },
+      {
+        "id": "usa_q113_o2",
+        "label": "2",
+        "text": "War of 1812"
+      },
+      {
+        "id": "usa_q113_o3",
+        "label": "3",
+        "text": "Civil War"
+      },
+      {
+        "id": "usa_q113_o4",
+        "label": "4",
+        "text": "Spanish–American War"
+      }
+    ],
+    "correct_option_id": "usa_q113_o3",
+    "explanation": "The American Civil War pitted Union and Confederate states, leading to the abolition of slavery.",
+    "source_url": [
+      "https://www.archives.gov/research/military/civil-war"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q114",
+    "question": "Which amendment guaranteed equal protection of the laws after the Civil War?",
+    "options": [
+      {
+        "id": "usa_q114_o1",
+        "label": "1",
+        "text": "13th Amendment"
+      },
+      {
+        "id": "usa_q114_o2",
+        "label": "2",
+        "text": "14th Amendment"
+      },
+      {
+        "id": "usa_q114_o3",
+        "label": "3",
+        "text": "15th Amendment"
+      },
+      {
+        "id": "usa_q114_o4",
+        "label": "4",
+        "text": "16th Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q114_o2",
+    "explanation": "The 14th Amendment, ratified in 1868, defined citizenship and required states to provide equal protection and due process.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-14/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q115",
+    "question": "What was the primary purpose of the Lewis and Clark Expedition (1804–1806)?",
+    "options": [
+      {
+        "id": "usa_q115_o1",
+        "label": "1",
+        "text": "To map the Oregon Trail"
+      },
+      {
+        "id": "usa_q115_o2",
+        "label": "2",
+        "text": "To explore the Louisiana Purchase and seek a route to the Pacific"
+      },
+      {
+        "id": "usa_q115_o3",
+        "label": "3",
+        "text": "To find gold in California"
+      },
+      {
+        "id": "usa_q115_o4",
+        "label": "4",
+        "text": "To negotiate with Spain"
+      }
+    ],
+    "correct_option_id": "usa_q115_o2",
+    "explanation": "President Jefferson sent Lewis and Clark to explore the newly acquired Louisiana Territory and find a practical route to the Pacific.",
+    "source_url": [
+      "https://www.nps.gov/lecl/learn/historyculture/index.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q116",
+    "question": "Which conflict from 1917 to 1918 involved major U.S. participation overseas?",
+    "options": [
+      {
+        "id": "usa_q116_o1",
+        "label": "1",
+        "text": "World War I"
+      },
+      {
+        "id": "usa_q116_o2",
+        "label": "2",
+        "text": "World War II"
+      },
+      {
+        "id": "usa_q116_o3",
+        "label": "3",
+        "text": "Korean War"
+      },
+      {
+        "id": "usa_q116_o4",
+        "label": "4",
+        "text": "Vietnam War"
+      }
+    ],
+    "correct_option_id": "usa_q116_o1",
+    "explanation": "The U.S. joined the Allies in World War I in 1917, contributing to the war’s conclusion in 1918.",
+    "source_url": [
+      "https://www.archives.gov/research/military/ww1"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q117",
+    "question": "Which global conflict from 1941 to 1945 saw significant U.S. involvement after Pearl Harbor?",
+    "options": [
+      {
+        "id": "usa_q117_o1",
+        "label": "1",
+        "text": "World War I"
+      },
+      {
+        "id": "usa_q117_o2",
+        "label": "2",
+        "text": "World War II"
+      },
+      {
+        "id": "usa_q117_o3",
+        "label": "3",
+        "text": "Korean War"
+      },
+      {
+        "id": "usa_q117_o4",
+        "label": "4",
+        "text": "Vietnam War"
+      }
+    ],
+    "correct_option_id": "usa_q117_o2",
+    "explanation": "After the attack on Pearl Harbor in 1941, the U.S. entered World War II and fought until 1945.",
+    "source_url": [
+      "https://www.archives.gov/research/military/ww2"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q118",
+    "question": "Which 1954 Supreme Court case ended legal segregation in public schools?",
+    "options": [
+      {
+        "id": "usa_q118_o1",
+        "label": "1",
+        "text": "Plessy v. Ferguson"
+      },
+      {
+        "id": "usa_q118_o2",
+        "label": "2",
+        "text": "Brown v. Board of Education"
+      },
+      {
+        "id": "usa_q118_o3",
+        "label": "3",
+        "text": "Roe v. Wade"
+      },
+      {
+        "id": "usa_q118_o4",
+        "label": "4",
+        "text": "Marbury v. Madison"
+      }
+    ],
+    "correct_option_id": "usa_q118_o2",
+    "explanation": "Brown v. Board of Education held that segregated schools are inherently unequal, overturning Plessy’s ‘separate but equal’.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/brown-v-board-of-education"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q119",
+    "question": "Which movement used nonviolent protest to end racial discrimination and secure equal rights in the 1950s–1960s?",
+    "options": [
+      {
+        "id": "usa_q119_o1",
+        "label": "1",
+        "text": "Progressive Movement"
+      },
+      {
+        "id": "usa_q119_o2",
+        "label": "2",
+        "text": "Civil Rights Movement"
+      },
+      {
+        "id": "usa_q119_o3",
+        "label": "3",
+        "text": "Populist Movement"
+      },
+      {
+        "id": "usa_q119_o4",
+        "label": "4",
+        "text": "Temperance Movement"
+      }
+    ],
+    "correct_option_id": "usa_q119_o2",
+    "explanation": "The Civil Rights Movement sought to end segregation and ensure voting and civil rights for African Americans.",
+    "source_url": [
+      "https://www.archives.gov/research/african-americans/civil-rights"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q120",
+    "question": "Which 1965 law outlawed discriminatory voting practices like literacy tests?",
+    "options": [
+      {
+        "id": "usa_q120_o1",
+        "label": "1",
+        "text": "Voting Rights Act"
+      },
+      {
+        "id": "usa_q120_o2",
+        "label": "2",
+        "text": "Civil Rights Act of 1964"
+      },
+      {
+        "id": "usa_q120_o3",
+        "label": "3",
+        "text": "Fair Housing Act"
+      },
+      {
+        "id": "usa_q120_o4",
+        "label": "4",
+        "text": "National Voter Registration Act"
+      }
+    ],
+    "correct_option_id": "usa_q120_o1",
+    "explanation": "The Voting Rights Act of 1965 enforced the 15th Amendment by prohibiting racial discrimination in voting.",
+    "source_url": [
+      "https://www.justice.gov/crt/history-federal-voting-rights-laws"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q121",
+    "question": "Who was the principal author of the Declaration of Independence?",
+    "options": [
+      {
+        "id": "usa_q121_o1",
+        "label": "1",
+        "text": "George Washington"
+      },
+      {
+        "id": "usa_q121_o2",
+        "label": "2",
+        "text": "Benjamin Franklin"
+      },
+      {
+        "id": "usa_q121_o3",
+        "label": "3",
+        "text": "Thomas Jefferson"
+      },
+      {
+        "id": "usa_q121_o4",
+        "label": "4",
+        "text": "John Adams"
+      }
+    ],
+    "correct_option_id": "usa_q121_o3",
+    "explanation": "Thomas Jefferson drafted the Declaration, with revisions by the Continental Congress.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/declaration"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q122",
+    "question": "What was the main U.S. objective of the Marshall Plan after World War II?",
+    "options": [
+      {
+        "id": "usa_q122_o1",
+        "label": "1",
+        "text": "Rebuild Western European economies"
+      },
+      {
+        "id": "usa_q122_o2",
+        "label": "2",
+        "text": "Annex German territories"
+      },
+      {
+        "id": "usa_q122_o3",
+        "label": "3",
+        "text": "Punish former Axis countries"
+      },
+      {
+        "id": "usa_q122_o4",
+        "label": "4",
+        "text": "Create a single European currency"
+      }
+    ],
+    "correct_option_id": "usa_q122_o1",
+    "explanation": "The Marshall Plan provided economic aid to rebuild Western Europe and prevent instability after WWII.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/marshall-plan"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q123",
+    "question": "Which event on December 7, 1941, led the United States to enter World War II?",
+    "options": [
+      {
+        "id": "usa_q123_o1",
+        "label": "1",
+        "text": "D‑Day landings"
+      },
+      {
+        "id": "usa_q123_o2",
+        "label": "2",
+        "text": "Attack on Pearl Harbor"
+      },
+      {
+        "id": "usa_q123_o3",
+        "label": "3",
+        "text": "Battle of Midway"
+      },
+      {
+        "id": "usa_q123_o4",
+        "label": "4",
+        "text": "German invasion of Poland"
+      }
+    ],
+    "correct_option_id": "usa_q123_o2",
+    "explanation": "Japan’s surprise attack on Pearl Harbor prompted a U.S. declaration of war and entry into WWII.",
+    "source_url": [
+      "https://www.archives.gov/research/military/ww2/pearl-harbor"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q124",
+    "question": "Which document begins with the words “We the People”?",
+    "options": [
+      {
+        "id": "usa_q124_o1",
+        "label": "1",
+        "text": "Declaration of Independence"
+      },
+      {
+        "id": "usa_q124_o2",
+        "label": "2",
+        "text": "Articles of Confederation"
+      },
+      {
+        "id": "usa_q124_o3",
+        "label": "3",
+        "text": "U.S. Constitution"
+      },
+      {
+        "id": "usa_q124_o4",
+        "label": "4",
+        "text": "Bill of Rights"
+      }
+    ],
+    "correct_option_id": "usa_q124_o3",
+    "explanation": "The Constitution’s Preamble starts with “We the People,” emphasizing popular sovereignty.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q125",
+    "question": "Which territory was purchased from Russia in 1867?",
+    "options": [
+      {
+        "id": "usa_q125_o1",
+        "label": "1",
+        "text": "Hawaii"
+      },
+      {
+        "id": "usa_q125_o2",
+        "label": "2",
+        "text": "Alaska"
+      },
+      {
+        "id": "usa_q125_o3",
+        "label": "3",
+        "text": "Puerto Rico"
+      },
+      {
+        "id": "usa_q125_o4",
+        "label": "4",
+        "text": "Guam"
+      }
+    ],
+    "correct_option_id": "usa_q125_o2",
+    "explanation": "The U.S. purchased Alaska from Russia in 1867, expanding its territory in the north Pacific.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/alaska-purchase-treaty"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q126",
+    "question": "Which 1804–1807 legal case established judicial review?",
+    "options": [
+      {
+        "id": "usa_q126_o1",
+        "label": "1",
+        "text": "Dred Scott v. Sandford"
+      },
+      {
+        "id": "usa_q126_o2",
+        "label": "2",
+        "text": "Marbury v. Madison"
+      },
+      {
+        "id": "usa_q126_o3",
+        "label": "3",
+        "text": "McCulloch v. Maryland"
+      },
+      {
+        "id": "usa_q126_o4",
+        "label": "4",
+        "text": "Gibbons v. Ogden"
+      }
+    ],
+    "correct_option_id": "usa_q126_o2",
+    "explanation": "Marbury v. Madison confirmed the Supreme Court’s authority to nullify laws that violate the Constitution.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/marbury-v-madison"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q127",
+    "question": "Which U.S. holiday commemorates the adoption of the Declaration of Independence?",
+    "options": [
+      {
+        "id": "usa_q127_o1",
+        "label": "1",
+        "text": "Memorial Day"
+      },
+      {
+        "id": "usa_q127_o2",
+        "label": "2",
+        "text": "Veterans Day"
+      },
+      {
+        "id": "usa_q127_o3",
+        "label": "3",
+        "text": "Independence Day"
+      },
+      {
+        "id": "usa_q127_o4",
+        "label": "4",
+        "text": "Constitution Day"
+      }
+    ],
+    "correct_option_id": "usa_q127_o3",
+    "explanation": "Independence Day on July 4 celebrates the Declaration’s adoption in 1776.",
+    "source_url": [
+      "https://www.archives.gov/founding-docs/declaration"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q128",
+    "question": "Which 1787 compromise created a bicameral Congress with proportional representation in one house and equal representation in the other?",
+    "options": [
+      {
+        "id": "usa_q128_o1",
+        "label": "1",
+        "text": "Three‑Fifths Compromise"
+      },
+      {
+        "id": "usa_q128_o2",
+        "label": "2",
+        "text": "Great Compromise"
+      },
+      {
+        "id": "usa_q128_o3",
+        "label": "3",
+        "text": "Missouri Compromise"
+      },
+      {
+        "id": "usa_q128_o4",
+        "label": "4",
+        "text": "Compromise of 1850"
+      }
+    ],
+    "correct_option_id": "usa_q128_o2",
+    "explanation": "The Great (Connecticut) Compromise combined the Virginia and New Jersey Plans to form the House and Senate.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/connecticut-compromise"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q129",
+    "question": "Which 1803 case held that Congress has implied powers under the Necessary and Proper Clause?",
+    "options": [
+      {
+        "id": "usa_q129_o1",
+        "label": "1",
+        "text": "Gibbons v. Ogden"
+      },
+      {
+        "id": "usa_q129_o2",
+        "label": "2",
+        "text": "McCulloch v. Maryland"
+      },
+      {
+        "id": "usa_q129_o3",
+        "label": "3",
+        "text": "Marbury v. Madison"
+      },
+      {
+        "id": "usa_q129_o4",
+        "label": "4",
+        "text": "Dred Scott v. Sandford"
+      }
+    ],
+    "correct_option_id": "usa_q129_o2",
+    "explanation": "In McCulloch v. Maryland the Court recognized implied powers, upholding Congress’s authority to create a national bank.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/mcculloch-v-maryland"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q130",
+    "question": "Which war between 1846 and 1848 expanded U.S. territory in the Southwest?",
+    "options": [
+      {
+        "id": "usa_q130_o1",
+        "label": "1",
+        "text": "Spanish–American War"
+      },
+      {
+        "id": "usa_q130_o2",
+        "label": "2",
+        "text": "Mexican–American War"
+      },
+      {
+        "id": "usa_q130_o3",
+        "label": "3",
+        "text": "War of 1812"
+      },
+      {
+        "id": "usa_q130_o4",
+        "label": "4",
+        "text": "Civil War"
+      }
+    ],
+    "correct_option_id": "usa_q130_o2",
+    "explanation": "The Mexican–American War led to the Mexican Cession, adding vast lands to the United States.",
+    "source_url": [
+      "https://www.archives.gov/research/alic/reference/military/mexican-war"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q131",
+    "question": "Which 1898 war resulted in U.S. control of Puerto Rico and Guam?",
+    "options": [
+      {
+        "id": "usa_q131_o1",
+        "label": "1",
+        "text": "World War I"
+      },
+      {
+        "id": "usa_q131_o2",
+        "label": "2",
+        "text": "Spanish–American War"
+      },
+      {
+        "id": "usa_q131_o3",
+        "label": "3",
+        "text": "Philippine–American War"
+      },
+      {
+        "id": "usa_q131_o4",
+        "label": "4",
+        "text": "Boxer Rebellion"
+      }
+    ],
+    "correct_option_id": "usa_q131_o2",
+    "explanation": "The Spanish–American War ended with the Treaty of Paris, transferring Puerto Rico and Guam to the U.S.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/treaty-of-paris-1898"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q132",
+    "question": "What is celebrated on Constitution Day (September 17)?",
+    "options": [
+      {
+        "id": "usa_q132_o1",
+        "label": "1",
+        "text": "Ratification of the Bill of Rights"
+      },
+      {
+        "id": "usa_q132_o2",
+        "label": "2",
+        "text": "Signing of the U.S. Constitution"
+      },
+      {
+        "id": "usa_q132_o3",
+        "label": "3",
+        "text": "End of the Civil War"
+      },
+      {
+        "id": "usa_q132_o4",
+        "label": "4",
+        "text": "Adoption of the Declaration"
+      }
+    ],
+    "correct_option_id": "usa_q132_o2",
+    "explanation": "Constitution Day marks the signing of the Constitution in Philadelphia on September 17, 1787.",
+    "source_url": [
+      "https://www.archives.gov/news/topics/constitution-day"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q133",
+    "question": "Which President issued the Emancipation Proclamation?",
+    "options": [
+      {
+        "id": "usa_q133_o1",
+        "label": "1",
+        "text": "George Washington"
+      },
+      {
+        "id": "usa_q133_o2",
+        "label": "2",
+        "text": "Abraham Lincoln"
+      },
+      {
+        "id": "usa_q133_o3",
+        "label": "3",
+        "text": "Theodore Roosevelt"
+      },
+      {
+        "id": "usa_q133_o4",
+        "label": "4",
+        "text": "Woodrow Wilson"
+      }
+    ],
+    "correct_option_id": "usa_q133_o2",
+    "explanation": "Lincoln’s 1863 proclamation declared freedom for enslaved people in rebelling states.",
+    "source_url": [
+      "https://www.archives.gov/exhibits/featured-documents/emancipation-proclamation"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q134",
+    "question": "Which reform movement achieved passage of the 18th Amendment (Prohibition)?",
+    "options": [
+      {
+        "id": "usa_q134_o1",
+        "label": "1",
+        "text": "Abolition"
+      },
+      {
+        "id": "usa_q134_o2",
+        "label": "2",
+        "text": "Temperance"
+      },
+      {
+        "id": "usa_q134_o3",
+        "label": "3",
+        "text": "Populism"
+      },
+      {
+        "id": "usa_q134_o4",
+        "label": "4",
+        "text": "Progressivism"
+      }
+    ],
+    "correct_option_id": "usa_q134_o2",
+    "explanation": "The temperance movement’s advocacy led to the 18th Amendment banning the manufacture, sale, and transportation of intoxicating liquors.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-18/"
+    ],
+    "category": "History",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q135",
+    "question": "Which 1964 law outlawed segregation in public accommodations and employment discrimination?",
+    "options": [
+      {
+        "id": "usa_q135_o1",
+        "label": "1",
+        "text": "Civil Rights Act of 1964"
+      },
+      {
+        "id": "usa_q135_o2",
+        "label": "2",
+        "text": "Voting Rights Act of 1965"
+      },
+      {
+        "id": "usa_q135_o3",
+        "label": "3",
+        "text": "Fair Housing Act"
+      },
+      {
+        "id": "usa_q135_o4",
+        "label": "4",
+        "text": "Equal Pay Act"
+      }
+    ],
+    "correct_option_id": "usa_q135_o1",
+    "explanation": "The Civil Rights Act of 1964 prohibited discrimination on the basis of race, color, religion, sex, or national origin.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/civil-rights-act"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q136",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      {
+        "id": "usa_q136_o1",
+        "label": "1",
+        "text": "Thomas Jefferson"
+      },
+      {
+        "id": "usa_q136_o2",
+        "label": "2",
+        "text": "George Washington"
+      },
+      {
+        "id": "usa_q136_o3",
+        "label": "3",
+        "text": "John Adams"
+      },
+      {
+        "id": "usa_q136_o4",
+        "label": "4",
+        "text": "James Madison"
+      }
+    ],
+    "correct_option_id": "usa_q136_o2",
+    "explanation": "George Washington took office in 1789 as the nation’s first President under the new Constitution.",
+    "source_url": [
+      "https://www.whitehouse.gov/about-the-white-house/presidents/george-washington/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q137",
+    "question": "Which President signed the Social Security Act into law in 1935?",
+    "options": [
+      {
+        "id": "usa_q137_o1",
+        "label": "1",
+        "text": "Herbert Hoover"
+      },
+      {
+        "id": "usa_q137_o2",
+        "label": "2",
+        "text": "Franklin D. Roosevelt"
+      },
+      {
+        "id": "usa_q137_o3",
+        "label": "3",
+        "text": "Harry S. Truman"
+      },
+      {
+        "id": "usa_q137_o4",
+        "label": "4",
+        "text": "Dwight D. Eisenhower"
+      }
+    ],
+    "correct_option_id": "usa_q137_o2",
+    "explanation": "Franklin D. Roosevelt enacted Social Security to provide economic security for retirees and others.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/social-security-act"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q138",
+    "question": "What was the purpose of the Lewis and Clark expedition regarding the Pacific?",
+    "options": [
+      {
+        "id": "usa_q138_o1",
+        "label": "1",
+        "text": "Plant U.S. forts"
+      },
+      {
+        "id": "usa_q138_o2",
+        "label": "2",
+        "text": "Locate a water route to the Pacific"
+      },
+      {
+        "id": "usa_q138_o3",
+        "label": "3",
+        "text": "Settle Oregon immediately"
+      },
+      {
+        "id": "usa_q138_o4",
+        "label": "4",
+        "text": "Claim Alaska"
+      }
+    ],
+    "correct_option_id": "usa_q138_o2",
+    "explanation": "A key goal was to explore a practical route to the Pacific following the Louisiana Purchase.",
+    "source_url": [
+      "https://www.nps.gov/lecl/learn/historyculture/index.htm"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q139",
+    "question": "Which 1823 policy warned European powers against further colonization in the Americas?",
+    "options": [
+      {
+        "id": "usa_q139_o1",
+        "label": "1",
+        "text": "Roosevelt Corollary"
+      },
+      {
+        "id": "usa_q139_o2",
+        "label": "2",
+        "text": "Monroe Doctrine"
+      },
+      {
+        "id": "usa_q139_o3",
+        "label": "3",
+        "text": "Open Door Policy"
+      },
+      {
+        "id": "usa_q139_o4",
+        "label": "4",
+        "text": "Truman Doctrine"
+      }
+    ],
+    "correct_option_id": "usa_q139_o2",
+    "explanation": "The Monroe Doctrine asserted U.S. opposition to European interference in the Western Hemisphere.",
+    "source_url": [
+      "https://www.archives.gov/milestone-documents/monroe-doctrine"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q140",
+    "question": "Which 1957 event marked the start of the space race?",
+    "options": [
+      {
+        "id": "usa_q140_o1",
+        "label": "1",
+        "text": "Apollo 11 landing"
+      },
+      {
+        "id": "usa_q140_o2",
+        "label": "2",
+        "text": "Launch of Sputnik"
+      },
+      {
+        "id": "usa_q140_o3",
+        "label": "3",
+        "text": "First U.S. satellite Explorer 1"
+      },
+      {
+        "id": "usa_q140_o4",
+        "label": "4",
+        "text": "Mercury program"
+      }
+    ],
+    "correct_option_id": "usa_q140_o2",
+    "explanation": "The Soviet launch of Sputnik spurred U.S. investment in space, leading to NASA’s creation in 1958.",
+    "source_url": [
+      "https://history.nasa.gov/sputnik.html",
+      "https://history.nasa.gov/nasa_hist.pdf"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q141",
+    "question": "How many stripes are on the U.S. flag and what do they represent?",
+    "options": [
+      {
+        "id": "usa_q141_o1",
+        "label": "1",
+        "text": "13 for original colonies"
+      },
+      {
+        "id": "usa_q141_o2",
+        "label": "2",
+        "text": "15 for original states"
+      },
+      {
+        "id": "usa_q141_o3",
+        "label": "3",
+        "text": "12 for founding months"
+      },
+      {
+        "id": "usa_q141_o4",
+        "label": "4",
+        "text": "10 for Bill of Rights"
+      }
+    ],
+    "correct_option_id": "usa_q141_o1",
+    "explanation": "The flag has 13 stripes representing the original 13 colonies that declared independence.",
+    "source_url": [
+      "https://www.usa.gov/flag"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q142",
+    "question": "How many stars are on the U.S. flag and what do they represent?",
+    "options": [
+      {
+        "id": "usa_q142_o1",
+        "label": "1",
+        "text": "50 for the states"
+      },
+      {
+        "id": "usa_q142_o2",
+        "label": "2",
+        "text": "48 for the continental states"
+      },
+      {
+        "id": "usa_q142_o3",
+        "label": "3",
+        "text": "13 for the colonies"
+      },
+      {
+        "id": "usa_q142_o4",
+        "label": "4",
+        "text": "51 including D.C."
+      }
+    ],
+    "correct_option_id": "usa_q142_o1",
+    "explanation": "The 50 stars each represent one of the 50 states.",
+    "source_url": [
+      "https://www.usa.gov/flag"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q143",
+    "question": "What is the national motto of the United States found on currency?",
+    "options": [
+      {
+        "id": "usa_q143_o1",
+        "label": "1",
+        "text": "E Pluribus Unum"
+      },
+      {
+        "id": "usa_q143_o2",
+        "label": "2",
+        "text": "In God We Trust"
+      },
+      {
+        "id": "usa_q143_o3",
+        "label": "3",
+        "text": "Liberty and Justice for All"
+      },
+      {
+        "id": "usa_q143_o4",
+        "label": "4",
+        "text": "We the People"
+      }
+    ],
+    "correct_option_id": "usa_q143_o2",
+    "explanation": "Federal law and Treasury practice recognize “In God We Trust” as the national motto on U.S. currency.",
+    "source_url": [
+      "https://www.treasury.gov/about/education/Pages/in-god-we-trust.aspx"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q144",
+    "question": "Which song is the U.S. national anthem?",
+    "options": [
+      {
+        "id": "usa_q144_o1",
+        "label": "1",
+        "text": "America the Beautiful"
+      },
+      {
+        "id": "usa_q144_o2",
+        "label": "2",
+        "text": "My Country, ’Tis of Thee"
+      },
+      {
+        "id": "usa_q144_o3",
+        "label": "3",
+        "text": "The Star‑Spangled Banner"
+      },
+      {
+        "id": "usa_q144_o4",
+        "label": "4",
+        "text": "God Bless America"
+      }
+    ],
+    "correct_option_id": "usa_q144_o3",
+    "explanation": "Congress designated “The Star‑Spangled Banner” as the national anthem in 1931.",
+    "source_url": [
+      "https://www.usa.gov/national-anthem"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q145",
+    "question": "What is the national bird of the United States?",
+    "options": [
+      {
+        "id": "usa_q145_o1",
+        "label": "1",
+        "text": "Bald Eagle"
+      },
+      {
+        "id": "usa_q145_o2",
+        "label": "2",
+        "text": "Golden Eagle"
+      },
+      {
+        "id": "usa_q145_o3",
+        "label": "3",
+        "text": "American Robin"
+      },
+      {
+        "id": "usa_q145_o4",
+        "label": "4",
+        "text": "Wild Turkey"
+      }
+    ],
+    "correct_option_id": "usa_q145_o1",
+    "explanation": "The Bald Eagle was adopted as the national emblem of the United States in 1782.",
+    "source_url": [
+      "https://www.fws.gov/species/bald-eagle-haliaeetus-leucocephalus"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q146",
+    "question": "Which landmark contains the inscription “Give me your tired, your poor…” on a bronze plaque?",
+    "options": [
+      {
+        "id": "usa_q146_o1",
+        "label": "1",
+        "text": "Mount Rushmore"
+      },
+      {
+        "id": "usa_q146_o2",
+        "label": "2",
+        "text": "Statue of Liberty"
+      },
+      {
+        "id": "usa_q146_o3",
+        "label": "3",
+        "text": "Lincoln Memorial"
+      },
+      {
+        "id": "usa_q146_o4",
+        "label": "4",
+        "text": "Liberty Bell"
+      }
+    ],
+    "correct_option_id": "usa_q146_o2",
+    "explanation": "A plaque at the Statue of Liberty displays Emma Lazarus’s poem welcoming immigrants.",
+    "source_url": [
+      "https://www.nps.gov/stli/learn/historyculture/emma-lazarus.htm"
+    ],
+    "category": "Symbols",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q147",
+    "question": "What is one promise you make when you become a U.S. citizen?",
+    "options": [
+      {
+        "id": "usa_q147_o1",
+        "label": "1",
+        "text": "To hold dual citizenship"
+      },
+      {
+        "id": "usa_q147_o2",
+        "label": "2",
+        "text": "To give up your right to vote"
+      },
+      {
+        "id": "usa_q147_o3",
+        "label": "3",
+        "text": "To obey the laws of the United States"
+      },
+      {
+        "id": "usa_q147_o4",
+        "label": "4",
+        "text": "To serve only in state elections"
+      }
+    ],
+    "correct_option_id": "usa_q147_o3",
+    "explanation": "The Oath of Allegiance includes a promise to support and defend the Constitution and laws of the United States.",
+    "source_url": [
+      "https://www.uscis.gov/citizenship/learn-about-citizenship/the-naturalization-ceremony"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q148",
+    "question": "What is one civic duty required of U.S. citizens at the federal level?",
+    "options": [
+      {
+        "id": "usa_q148_o1",
+        "label": "1",
+        "text": "Vote in every election"
+      },
+      {
+        "id": "usa_q148_o2",
+        "label": "2",
+        "text": "Serve on a jury when called"
+      },
+      {
+        "id": "usa_q148_o3",
+        "label": "3",
+        "text": "Run for public office"
+      },
+      {
+        "id": "usa_q148_o4",
+        "label": "4",
+        "text": "Own property"
+      }
+    ],
+    "correct_option_id": "usa_q148_o2",
+    "explanation": "Citizens must serve on juries when summoned; voting is a right but not legally required.",
+    "source_url": [
+      "https://www.uscis.gov/citizenship/learn-about-citizenship/responsibilities-and-rights"
+    ],
+    "category": "Civics",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q149",
+    "question": "When must all men register for Selective Service (with limited legal exceptions)?",
+    "options": [
+      {
+        "id": "usa_q149_o1",
+        "label": "1",
+        "text": "At age 16"
+      },
+      {
+        "id": "usa_q149_o2",
+        "label": "2",
+        "text": "At age 18"
+      },
+      {
+        "id": "usa_q149_o3",
+        "label": "3",
+        "text": "At age 21"
+      },
+      {
+        "id": "usa_q149_o4",
+        "label": "4",
+        "text": "There is no registration"
+      }
+    ],
+    "correct_option_id": "usa_q149_o2",
+    "explanation": "Males ages 18 through 25 are required to register with Selective Service under federal law.",
+    "source_url": [
+      "https://www.sss.gov/register/who-needs-to-register/"
+    ],
+    "category": "Civics",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q150",
+    "question": "Which tax must most workers file annually with the federal government?",
+    "options": [
+      {
+        "id": "usa_q150_o1",
+        "label": "1",
+        "text": "Property tax"
+      },
+      {
+        "id": "usa_q150_o2",
+        "label": "2",
+        "text": "Sales tax"
+      },
+      {
+        "id": "usa_q150_o3",
+        "label": "3",
+        "text": "Income tax"
+      },
+      {
+        "id": "usa_q150_o4",
+        "label": "4",
+        "text": "Excise tax"
+      }
+    ],
+    "correct_option_id": "usa_q150_o3",
+    "explanation": "Individuals generally file annual federal income tax returns with the IRS.",
+    "source_url": [
+      "https://www.irs.gov/filing"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q151",
+    "question": "What is the rule of law?",
+    "options": [
+      {
+        "id": "usa_q151_o1",
+        "label": "1",
+        "text": "Everyone must follow the law, including leaders"
+      },
+      {
+        "id": "usa_q151_o2",
+        "label": "2",
+        "text": "Only citizens must follow the law"
+      },
+      {
+        "id": "usa_q151_o3",
+        "label": "3",
+        "text": "The President decides the law"
+      },
+      {
+        "id": "usa_q151_o4",
+        "label": "4",
+        "text": "States can ignore federal law"
+      }
+    ],
+    "correct_option_id": "usa_q151_o1",
+    "explanation": "Rule of law means government and private actors are bound by law that is publicly promulgated, equally enforced, and independently adjudicated.",
+    "source_url": [
+      "https://www.uscis.gov/sites/default/files/document/flash-cards/M-623_red_slides.pdf"
+    ],
+    "category": "Civics",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q152",
+    "question": "What is one way Americans can participate in their democracy?",
+    "options": [
+      {
+        "id": "usa_q152_o1",
+        "label": "1",
+        "text": "Only by voting"
+      },
+      {
+        "id": "usa_q152_o2",
+        "label": "2",
+        "text": "Serve on a jury only"
+      },
+      {
+        "id": "usa_q152_o3",
+        "label": "3",
+        "text": "Join a political party, help with a campaign, or contact elected officials"
+      },
+      {
+        "id": "usa_q152_o4",
+        "label": "4",
+        "text": "Only by running for office"
+      }
+    ],
+    "correct_option_id": "usa_q152_o3",
+    "explanation": "Civic participation includes voting, campaigning, contacting representatives, and engaging in community or public meetings.",
+    "source_url": [
+      "https://www.usa.gov/voting"
+    ],
+    "category": "Civics",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q153",
+    "question": "How many states are in the United States?",
+    "options": [
+      {
+        "id": "usa_q153_o1",
+        "label": "1",
+        "text": "48"
+      },
+      {
+        "id": "usa_q153_o2",
+        "label": "2",
+        "text": "49"
+      },
+      {
+        "id": "usa_q153_o3",
+        "label": "3",
+        "text": "50"
+      },
+      {
+        "id": "usa_q153_o4",
+        "label": "4",
+        "text": "52"
+      }
+    ],
+    "correct_option_id": "usa_q153_o3",
+    "explanation": "The Union consists of 50 states represented by 50 stars on the flag.",
+    "source_url": [
+      "https://www.usa.gov/flag"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q154",
+    "question": "What is the capital of the United States?",
+    "options": [
+      {
+        "id": "usa_q154_o1",
+        "label": "1",
+        "text": "New York, NY"
+      },
+      {
+        "id": "usa_q154_o2",
+        "label": "2",
+        "text": "Philadelphia, PA"
+      },
+      {
+        "id": "usa_q154_o3",
+        "label": "3",
+        "text": "Washington, DC"
+      },
+      {
+        "id": "usa_q154_o4",
+        "label": "4",
+        "text": "Boston, MA"
+      }
+    ],
+    "correct_option_id": "usa_q154_o3",
+    "explanation": "The federal capital is Washington, DC, the seat of the national government.",
+    "source_url": [
+      "https://www.usa.gov/federal-capital"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q155",
+    "question": "Name one U.S. territory.",
+    "options": [
+      {
+        "id": "usa_q155_o1",
+        "label": "1",
+        "text": "Ontario"
+      },
+      {
+        "id": "usa_q155_o2",
+        "label": "2",
+        "text": "Bermuda"
+      },
+      {
+        "id": "usa_q155_o3",
+        "label": "3",
+        "text": "Guam"
+      },
+      {
+        "id": "usa_q155_o4",
+        "label": "4",
+        "text": "Greenland"
+      }
+    ],
+    "correct_option_id": "usa_q155_o3",
+    "explanation": "Guam is an unincorporated territory of the United States.",
+    "source_url": [
+      "https://www.usa.gov/visit-territories"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q156",
+    "question": "Which two oceans border the United States?",
+    "options": [
+      {
+        "id": "usa_q156_o1",
+        "label": "1",
+        "text": "Atlantic and Indian"
+      },
+      {
+        "id": "usa_q156_o2",
+        "label": "2",
+        "text": "Pacific and Indian"
+      },
+      {
+        "id": "usa_q156_o3",
+        "label": "3",
+        "text": "Arctic and Southern"
+      },
+      {
+        "id": "usa_q156_o4",
+        "label": "4",
+        "text": "Atlantic and Pacific"
+      }
+    ],
+    "correct_option_id": "usa_q156_o4",
+    "explanation": "The U.S. has coastlines on both the Atlantic and Pacific Oceans.",
+    "source_url": [
+      "https://oceanservice.noaa.gov/facts/us-shoreline.html"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q157",
+    "question": "Which amendment prohibits unreasonable searches and seizures?",
+    "options": [
+      {
+        "id": "usa_q157_o1",
+        "label": "1",
+        "text": "First Amendment"
+      },
+      {
+        "id": "usa_q157_o2",
+        "label": "2",
+        "text": "Fourth Amendment"
+      },
+      {
+        "id": "usa_q157_o3",
+        "label": "3",
+        "text": "Fifth Amendment"
+      },
+      {
+        "id": "usa_q157_o4",
+        "label": "4",
+        "text": "Eighth Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q157_o2",
+    "explanation": "The Fourth Amendment protects people against unreasonable searches and seizures by requiring warrants based on probable cause.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-4/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q158",
+    "question": "Which amendment prohibits unreasonable searches and seizures?",
+    "options": [
+      {
+        "id": "usa_q158_o1",
+        "label": "1",
+        "text": "First Amendment"
+      },
+      {
+        "id": "usa_q158_o2",
+        "label": "2",
+        "text": "Fourth Amendment"
+      },
+      {
+        "id": "usa_q158_o3",
+        "label": "3",
+        "text": "Fifth Amendment"
+      },
+      {
+        "id": "usa_q158_o4",
+        "label": "4",
+        "text": "Eighth Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q158_o2",
+    "explanation": "The Fourth Amendment protects people against unreasonable searches and seizures by requiring warrants based on probable cause.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-4/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q159",
+    "question": "Which amendment prohibits unreasonable searches and seizures?",
+    "options": [
+      {
+        "id": "usa_q159_o1",
+        "label": "1",
+        "text": "First Amendment"
+      },
+      {
+        "id": "usa_q159_o2",
+        "label": "2",
+        "text": "Fourth Amendment"
+      },
+      {
+        "id": "usa_q159_o3",
+        "label": "3",
+        "text": "Fifth Amendment"
+      },
+      {
+        "id": "usa_q159_o4",
+        "label": "4",
+        "text": "Eighth Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q159_o2",
+    "explanation": "The Fourth Amendment protects people against unreasonable searches and seizures by requiring warrants based on probable cause.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-4/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  },
+  {
+    "id": "usa_q160",
+    "question": "Which amendment prohibits unreasonable searches and seizures?",
+    "options": [
+      {
+        "id": "usa_q160_o1",
+        "label": "1",
+        "text": "First Amendment"
+      },
+      {
+        "id": "usa_q160_o2",
+        "label": "2",
+        "text": "Fourth Amendment"
+      },
+      {
+        "id": "usa_q160_o3",
+        "label": "3",
+        "text": "Fifth Amendment"
+      },
+      {
+        "id": "usa_q160_o4",
+        "label": "4",
+        "text": "Eighth Amendment"
+      }
+    ],
+    "correct_option_id": "usa_q160_o2",
+    "explanation": "The Fourth Amendment protects people against unreasonable searches and seizures by requiring warrants based on probable cause.",
+    "source_url": [
+      "https://constitution.congress.gov/constitution/amendment-4/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "USA"
+  }
+]

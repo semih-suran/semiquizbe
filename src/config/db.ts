@@ -1,12 +1,15 @@
 import { Pool } from 'pg';
+import dotenv from 'dotenv';
 
-const pgPool = new Pool({
+dotenv.config();
+
+const pool = new Pool({
   connectionString: process.env.DATABASE_URL,
 });
 
-pgPool.on('error', (err: Error) => {
-  console.error('Unexpected PG idle client error', err);
+pool.on('error', (err: Error) => {
+  console.error('Unexpected PG pool error:', err);
   process.exit(-1);
 });
 
-export default pgPool;
+export default pool;

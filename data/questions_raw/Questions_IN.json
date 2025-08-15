@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "in_q001",
+    "question": "Which document is the supreme law in India that prevails over all other laws?",
+    "options": [
+      {
+        "id": "in_q001_o1",
+        "label": "1",
+        "text": "The Constitution of India"
+      },
+      {
+        "id": "in_q001_o2",
+        "label": "2",
+        "text": "The Representation of the People Act"
+      },
+      {
+        "id": "in_q001_o3",
+        "label": "3",
+        "text": "The Model Code of Conduct"
+      },
+      {
+        "id": "in_q001_o4",
+        "label": "4",
+        "text": "The Government of India Act, 1935"
+      }
+    ],
+    "correct_option_id": "in_q001_o1",
+    "explanation": "The Constitution establishes India’s legal hierarchy—every law derives validity from it and must conform to it—making it the supreme law.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q002",
+    "question": "How long is the term of the Lok Sabha unless sooner dissolved?",
+    "options": [
+      {
+        "id": "in_q002_o1",
+        "label": "1",
+        "text": "Five years"
+      },
+      {
+        "id": "in_q002_o2",
+        "label": "2",
+        "text": "Six years"
+      },
+      {
+        "id": "in_q002_o3",
+        "label": "3",
+        "text": "Four years"
+      },
+      {
+        "id": "in_q002_o4",
+        "label": "4",
+        "text": "Seven years"
+      }
+    ],
+    "correct_option_id": "in_q002_o1",
+    "explanation": "Article 83 sets the Lok Sabha’s normal term at five years, ensuring periodic general elections for popular representation.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/lok-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q003",
+    "question": "What is the maximum membership strength of the Rajya Sabha under the Constitution?",
+    "options": [
+      {
+        "id": "in_q003_o1",
+        "label": "1",
+        "text": "250"
+      },
+      {
+        "id": "in_q003_o2",
+        "label": "2",
+        "text": "245"
+      },
+      {
+        "id": "in_q003_o3",
+        "label": "3",
+        "text": "238"
+      },
+      {
+        "id": "in_q003_o4",
+        "label": "4",
+        "text": "260"
+      }
+    ],
+    "correct_option_id": "in_q003_o1",
+    "explanation": "Article 80 caps the Council of States at 250 members (238 elected from States/UTs and 12 nominated by the President), defining its upper limit.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q004",
+    "question": "Who is empowered to appoint the Prime Minister of India?",
+    "options": [
+      {
+        "id": "in_q004_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q004_o2",
+        "label": "2",
+        "text": "The Chief Justice of India"
+      },
+      {
+        "id": "in_q004_o3",
+        "label": "3",
+        "text": "The Speaker of Lok Sabha"
+      },
+      {
+        "id": "in_q004_o4",
+        "label": "4",
+        "text": "The Election Commission of India"
+      }
+    ],
+    "correct_option_id": "in_q004_o1",
+    "explanation": "Under Article 75 the President appoints the Prime Minister, normally the leader commanding majority support in the Lok Sabha.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q005",
+    "question": "Which body is constitutionally charged with the superintendence, direction and control of elections?",
+    "options": [
+      {
+        "id": "in_q005_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q005_o2",
+        "label": "2",
+        "text": "Home Ministry"
+      },
+      {
+        "id": "in_q005_o3",
+        "label": "3",
+        "text": "Speaker’s Office"
+      },
+      {
+        "id": "in_q005_o4",
+        "label": "4",
+        "text": "CAG"
+      }
+    ],
+    "correct_option_id": "in_q005_o1",
+    "explanation": "Article 324 vests the superintendence, direction and control of elections in the Election Commission, ensuring independent conduct of polls.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q006",
+    "question": "Which court is the apex judicial body for enforcing fundamental rights in India?",
+    "options": [
+      {
+        "id": "in_q006_o1",
+        "label": "1",
+        "text": "Supreme Court of India"
+      },
+      {
+        "id": "in_q006_o2",
+        "label": "2",
+        "text": "High Courts"
+      },
+      {
+        "id": "in_q006_o3",
+        "label": "3",
+        "text": "District Courts"
+      },
+      {
+        "id": "in_q006_o4",
+        "label": "4",
+        "text": "Tribunals"
+      }
+    ],
+    "correct_option_id": "in_q006_o1",
+    "explanation": "Articles 32 and 136 empower the Supreme Court as the apex court with writ jurisdiction and special leave, making it the final guardian of rights.",
+    "source_url": [
+      "https://main.sci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q007",
+    "question": "What is the sanctioned strength of judges in the Supreme Court of India including the Chief Justice?",
+    "options": [
+      {
+        "id": "in_q007_o1",
+        "label": "1",
+        "text": "34"
+      },
+      {
+        "id": "in_q007_o2",
+        "label": "2",
+        "text": "31"
+      },
+      {
+        "id": "in_q007_o3",
+        "label": "3",
+        "text": "33"
+      },
+      {
+        "id": "in_q007_o4",
+        "label": "4",
+        "text": "30"
+      }
+    ],
+    "correct_option_id": "in_q007_o1",
+    "explanation": "Parliament has fixed the Court’s sanctioned strength at 34 (CJI + 33) via statute, defining the number of judges the Court can have at any time.",
+    "source_url": [
+      "https://main.sci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q008",
+    "question": "Which Part of the Constitution contains Fundamental Rights?",
+    "options": [
+      {
+        "id": "in_q008_o1",
+        "label": "1",
+        "text": "Part III"
+      },
+      {
+        "id": "in_q008_o2",
+        "label": "2",
+        "text": "Part II"
+      },
+      {
+        "id": "in_q008_o3",
+        "label": "3",
+        "text": "Part IV"
+      },
+      {
+        "id": "in_q008_o4",
+        "label": "4",
+        "text": "Part IVA"
+      }
+    ],
+    "correct_option_id": "in_q008_o1",
+    "explanation": "Part III codifies Fundamental Rights (Articles 12–35), setting enforceable limits on state power and enabling remedies against violations.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q009",
+    "question": "Which Part of the Constitution lists Fundamental Duties of citizens?",
+    "options": [
+      {
+        "id": "in_q009_o1",
+        "label": "1",
+        "text": "Part IVA"
+      },
+      {
+        "id": "in_q009_o2",
+        "label": "2",
+        "text": "Part IV"
+      },
+      {
+        "id": "in_q009_o3",
+        "label": "3",
+        "text": "Part II"
+      },
+      {
+        "id": "in_q009_o4",
+        "label": "4",
+        "text": "Part XII"
+      }
+    ],
+    "correct_option_id": "in_q009_o1",
+    "explanation": "Part IVA (Article 51A) enumerates Fundamental Duties introduced to promote civic responsibility and national values among citizens.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q010",
+    "question": "Universal adult suffrage in India entitles citizens of what minimum age to vote in Lok Sabha elections?",
+    "options": [
+      {
+        "id": "in_q010_o1",
+        "label": "1",
+        "text": "18 years"
+      },
+      {
+        "id": "in_q010_o2",
+        "label": "2",
+        "text": "21 years"
+      },
+      {
+        "id": "in_q010_o3",
+        "label": "3",
+        "text": "20 years"
+      },
+      {
+        "id": "in_q010_o4",
+        "label": "4",
+        "text": "19 years"
+      }
+    ],
+    "correct_option_id": "in_q010_o1",
+    "explanation": "Following the 61st Constitutional Amendment, the voting age was reduced to 18, expanding democratic participation for all adults.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q011",
+    "question": "What animal appears on India’s State Emblem adopted from Ashoka’s capital at Sarnath?",
+    "options": [
+      {
+        "id": "in_q011_o1",
+        "label": "1",
+        "text": "Lion"
+      },
+      {
+        "id": "in_q011_o2",
+        "label": "2",
+        "text": "Elephant"
+      },
+      {
+        "id": "in_q011_o3",
+        "label": "3",
+        "text": "Tiger"
+      },
+      {
+        "id": "in_q011_o4",
+        "label": "4",
+        "text": "Horse"
+      }
+    ],
+    "correct_option_id": "in_q011_o1",
+    "explanation": "The State Emblem adapts the Lion Capital of Ashoka, featuring four lions back-to-back; it symbolizes authority and the rule of law.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/state-emblem.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q012",
+    "question": "What does the navy-blue wheel in the centre of India’s National Flag represent?",
+    "options": [
+      {
+        "id": "in_q012_o1",
+        "label": "1",
+        "text": "The Ashoka Chakra with 24 spokes"
+      },
+      {
+        "id": "in_q012_o2",
+        "label": "2",
+        "text": "The Chakra of Vishnu"
+      },
+      {
+        "id": "in_q012_o3",
+        "label": "3",
+        "text": "A gear of industry"
+      },
+      {
+        "id": "in_q012_o4",
+        "label": "4",
+        "text": "A wheel with 12 spokes"
+      }
+    ],
+    "correct_option_id": "in_q012_o1",
+    "explanation": "The flag’s centre bears the Ashoka Chakra with 24 equally spaced spokes, signifying dharma (righteousness) and constant progress.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q013",
+    "question": "When was ‘Jana-gana-mana’ adopted as India’s National Anthem?",
+    "options": [
+      {
+        "id": "in_q013_o1",
+        "label": "1",
+        "text": "24 January 1950"
+      },
+      {
+        "id": "in_q013_o2",
+        "label": "2",
+        "text": "26 January 1950"
+      },
+      {
+        "id": "in_q013_o3",
+        "label": "3",
+        "text": "15 August 1947"
+      },
+      {
+        "id": "in_q013_o4",
+        "label": "4",
+        "text": "26 November 1949"
+      }
+    ],
+    "correct_option_id": "in_q013_o1",
+    "explanation": "The Constituent Assembly adopted the anthem on 24 January 1950, the eve of the Constitution coming into force.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-anthem.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q014",
+    "question": "What is the prescribed ratio of width to length for the Indian National Flag?",
+    "options": [
+      {
+        "id": "in_q014_o1",
+        "label": "1",
+        "text": "2:3"
+      },
+      {
+        "id": "in_q014_o2",
+        "label": "2",
+        "text": "3:5"
+      },
+      {
+        "id": "in_q014_o3",
+        "label": "3",
+        "text": "1:2"
+      },
+      {
+        "id": "in_q014_o4",
+        "label": "4",
+        "text": "5:8"
+      }
+    ],
+    "correct_option_id": "in_q014_o1",
+    "explanation": "The Flag Code specifies a width-to-length ratio of 2:3, standardizing official dimensions across all flag sizes.",
+    "source_url": [
+      "https://www.mha.gov.in/sites/default/files/FlagCodeofIndia2002_0.pdf"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q015",
+    "question": "How many States and Union Territories does India currently have?",
+    "options": [
+      {
+        "id": "in_q015_o1",
+        "label": "1",
+        "text": "28 States and 8 Union Territories"
+      },
+      {
+        "id": "in_q015_o2",
+        "label": "2",
+        "text": "29 States and 7 Union Territories"
+      },
+      {
+        "id": "in_q015_o3",
+        "label": "3",
+        "text": "27 States and 9 Union Territories"
+      },
+      {
+        "id": "in_q015_o4",
+        "label": "4",
+        "text": "26 States and 8 Union Territories"
+      }
+    ],
+    "correct_option_id": "in_q015_o1",
+    "explanation": "Following recent reorganisations, India comprises 28 States and 8 Union Territories, as listed on official government portals.",
+    "source_url": [
+      "https://knowindia.india.gov.in/profile/"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q016",
+    "question": "Which houses of Parliament meet in the Parliament House Complex in New Delhi?",
+    "options": [
+      {
+        "id": "in_q016_o1",
+        "label": "1",
+        "text": "Lok Sabha and Rajya Sabha"
+      },
+      {
+        "id": "in_q016_o2",
+        "label": "2",
+        "text": "Lok Sabha and State Legislative Councils"
+      },
+      {
+        "id": "in_q016_o3",
+        "label": "3",
+        "text": "Rajya Sabha and Supreme Court"
+      },
+      {
+        "id": "in_q016_o4",
+        "label": "4",
+        "text": "Only Lok Sabha"
+      }
+    ],
+    "correct_option_id": "in_q016_o1",
+    "explanation": "The two Houses of Parliament—Lok Sabha and Rajya Sabha—sit in New Delhi within the Parliament complex as India’s national legislature.",
+    "source_url": [
+      "https://www.india.gov.in/india-glance/administration"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q017",
+    "question": "Which Part of the Constitution contains Directive Principles of State Policy that guide governance?",
+    "options": [
+      {
+        "id": "in_q017_o1",
+        "label": "1",
+        "text": "Part IV"
+      },
+      {
+        "id": "in_q017_o2",
+        "label": "2",
+        "text": "Part III"
+      },
+      {
+        "id": "in_q017_o3",
+        "label": "3",
+        "text": "Part IVA"
+      },
+      {
+        "id": "in_q017_o4",
+        "label": "4",
+        "text": "Part VI"
+      }
+    ],
+    "correct_option_id": "in_q017_o1",
+    "explanation": "Part IV lays down Directive Principles to guide policy-making; while non-justiciable, they set social and economic goals for the State.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q018",
+    "question": "Which law provides citizens a statutory right to access information held by public authorities?",
+    "options": [
+      {
+        "id": "in_q018_o1",
+        "label": "1",
+        "text": "Right to Information Act"
+      },
+      {
+        "id": "in_q018_o2",
+        "label": "2",
+        "text": "Citizenship Act, 1955"
+      },
+      {
+        "id": "in_q018_o3",
+        "label": "3",
+        "text": "Flag Code of India"
+      },
+      {
+        "id": "in_q018_o4",
+        "label": "4",
+        "text": "Official Secrets Act"
+      }
+    ],
+    "correct_option_id": "in_q018_o1",
+    "explanation": "The RTI Act operationalises transparency by requiring public authorities to furnish information, subject to defined exemptions.",
+    "source_url": [
+      "https://rti.gov.in/rti-act"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q019",
+    "question": "Which Ministry administers citizenship matters under the Citizenship Act, 1955?",
+    "options": [
+      {
+        "id": "in_q019_o1",
+        "label": "1",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q019_o2",
+        "label": "2",
+        "text": "Ministry of External Affairs"
+      },
+      {
+        "id": "in_q019_o3",
+        "label": "3",
+        "text": "Ministry of Law and Justice"
+      },
+      {
+        "id": "in_q019_o4",
+        "label": "4",
+        "text": "Ministry of Parliamentary Affairs"
+      }
+    ],
+    "correct_option_id": "in_q019_o1",
+    "explanation": "Citizenship is administered by MHA’s Citizenship Division under the Citizenship Act, 1955, covering acquisition and registration procedures.",
+    "source_url": [
+      "https://www.mha.gov.in/en/division-of-mha/cs-division/citizenship"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q020",
+    "question": "On which date did the Constitution of India come into force (Republic Day)?",
+    "options": [
+      {
+        "id": "in_q020_o1",
+        "label": "1",
+        "text": "26 January 1950"
+      },
+      {
+        "id": "in_q020_o2",
+        "label": "2",
+        "text": "26 November 1949"
+      },
+      {
+        "id": "in_q020_o3",
+        "label": "3",
+        "text": "15 August 1947"
+      },
+      {
+        "id": "in_q020_o4",
+        "label": "4",
+        "text": "26 January 1949"
+      }
+    ],
+    "correct_option_id": "in_q020_o1",
+    "explanation": "The Constitution was enforced on 26 January 1950, chosen to honour the 1930 pledge of Purna Swaraj; this day is celebrated as Republic Day.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q021",
+    "question": "On which date did the Constituent Assembly adopt the Constitution?",
+    "options": [
+      {
+        "id": "in_q021_o1",
+        "label": "1",
+        "text": "26 November 1949"
+      },
+      {
+        "id": "in_q021_o2",
+        "label": "2",
+        "text": "24 January 1950"
+      },
+      {
+        "id": "in_q021_o3",
+        "label": "3",
+        "text": "15 August 1947"
+      },
+      {
+        "id": "in_q021_o4",
+        "label": "4",
+        "text": "9 December 1946"
+      }
+    ],
+    "correct_option_id": "in_q021_o1",
+    "explanation": "The Constituent Assembly adopted the final text on 26 November 1949, completing the framing of India’s supreme law.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q022",
+    "question": "When did India attain independence from British rule?",
+    "options": [
+      {
+        "id": "in_q022_o1",
+        "label": "1",
+        "text": "15 August 1947"
+      },
+      {
+        "id": "in_q022_o2",
+        "label": "2",
+        "text": "26 January 1950"
+      },
+      {
+        "id": "in_q022_o3",
+        "label": "3",
+        "text": "2 October 1947"
+      },
+      {
+        "id": "in_q022_o4",
+        "label": "4",
+        "text": "23 March 1931"
+      }
+    ],
+    "correct_option_id": "in_q022_o1",
+    "explanation": "India became independent on 15 August 1947, ending colonial rule and paving the way for a sovereign democratic republic.",
+    "source_url": [
+      "https://knowindia.india.gov.in/profile/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q023",
+    "question": "What type of legislature does India have at the Union level?",
+    "options": [
+      {
+        "id": "in_q023_o1",
+        "label": "1",
+        "text": "Bicameral Parliament"
+      },
+      {
+        "id": "in_q023_o2",
+        "label": "2",
+        "text": "Unicameral Parliament"
+      },
+      {
+        "id": "in_q023_o3",
+        "label": "3",
+        "text": "Tricameral Parliament"
+      },
+      {
+        "id": "in_q023_o4",
+        "label": "4",
+        "text": "No legislature"
+      }
+    ],
+    "correct_option_id": "in_q023_o1",
+    "explanation": "The Union Parliament has two Houses—Lok Sabha and Rajya Sabha—forming a bicameral legislature.",
+    "source_url": [
+      "https://www.india.gov.in/india-glance/administration"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q024",
+    "question": "Which House of Parliament can be dissolved by the President?",
+    "options": [
+      {
+        "id": "in_q024_o1",
+        "label": "1",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q024_o2",
+        "label": "2",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q024_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q024_o4",
+        "label": "4",
+        "text": "Neither House"
+      }
+    ],
+    "correct_option_id": "in_q024_o1",
+    "explanation": "The Lok Sabha can be dissolved to seek a fresh mandate; Rajya Sabha is a permanent body and is not subject to dissolution.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q025",
+    "question": "Who presides as the ex-officio Chairman of the Rajya Sabha?",
+    "options": [
+      {
+        "id": "in_q025_o1",
+        "label": "1",
+        "text": "Vice-President of India"
+      },
+      {
+        "id": "in_q025_o2",
+        "label": "2",
+        "text": "Prime Minister"
+      },
+      {
+        "id": "in_q025_o3",
+        "label": "3",
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": "in_q025_o4",
+        "label": "4",
+        "text": "Chief Justice of India"
+      }
+    ],
+    "correct_option_id": "in_q025_o1",
+    "explanation": "The Vice-President is the ex-officio Chairman of Rajya Sabha, presiding over its proceedings.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q026",
+    "question": "What is the present number of elected seats in the Lok Sabha?",
+    "options": [
+      {
+        "id": "in_q026_o1",
+        "label": "1",
+        "text": "543"
+      },
+      {
+        "id": "in_q026_o2",
+        "label": "2",
+        "text": "545"
+      },
+      {
+        "id": "in_q026_o3",
+        "label": "3",
+        "text": "550"
+      },
+      {
+        "id": "in_q026_o4",
+        "label": "4",
+        "text": "540"
+      }
+    ],
+    "correct_option_id": "in_q026_o1",
+    "explanation": "At present 543 seats are filled by elected members, as provided in law and reflected on the official portal.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/lok-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q027",
+    "question": "Which constitutional body prepares and revises electoral rolls for Parliamentary elections?",
+    "options": [
+      {
+        "id": "in_q027_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q027_o2",
+        "label": "2",
+        "text": "Law Commission of India"
+      },
+      {
+        "id": "in_q027_o3",
+        "label": "3",
+        "text": "NITI Aayog"
+      },
+      {
+        "id": "in_q027_o4",
+        "label": "4",
+        "text": "CAG"
+      }
+    ],
+    "correct_option_id": "in_q027_o1",
+    "explanation": "Under Article 324 and election laws, the ECI oversees voter registration and electoral rolls for free and fair elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q028",
+    "question": "Which Part of the Constitution deals with elections?",
+    "options": [
+      {
+        "id": "in_q028_o1",
+        "label": "1",
+        "text": "Part XV"
+      },
+      {
+        "id": "in_q028_o2",
+        "label": "2",
+        "text": "Part XVI"
+      },
+      {
+        "id": "in_q028_o3",
+        "label": "3",
+        "text": "Part XIX"
+      },
+      {
+        "id": "in_q028_o4",
+        "label": "4",
+        "text": "Part XII"
+      }
+    ],
+    "correct_option_id": "in_q028_o1",
+    "explanation": "Part XV lays down the constitutional framework for elections, including the powers of the Election Commission.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q029",
+    "question": "Which document governs the display and usage of the Indian National Flag for citizens and institutions?",
+    "options": [
+      {
+        "id": "in_q029_o1",
+        "label": "1",
+        "text": "Flag Code of India, 2002"
+      },
+      {
+        "id": "in_q029_o2",
+        "label": "2",
+        "text": "Right to Information Act, 2005"
+      },
+      {
+        "id": "in_q029_o3",
+        "label": "3",
+        "text": "Citizenship Act, 1955"
+      },
+      {
+        "id": "in_q029_o4",
+        "label": "4",
+        "text": "Official Languages Act, 1963"
+      }
+    ],
+    "correct_option_id": "in_q029_o1",
+    "explanation": "The Flag Code consolidates laws and instructions on the correct use of the tricolour by public, private and government bodies.",
+    "source_url": [
+      "https://www.mha.gov.in/sites/default/files/FlagCodeofIndia2002_0.pdf"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q030",
+    "question": "Which inscription in Devanagari script accompanies the State Emblem of India?",
+    "options": [
+      {
+        "id": "in_q030_o1",
+        "label": "1",
+        "text": "Satyameva Jayate"
+      },
+      {
+        "id": "in_q030_o2",
+        "label": "2",
+        "text": "Jai Hind"
+      },
+      {
+        "id": "in_q030_o3",
+        "label": "3",
+        "text": "Bharat Mata ki Jai"
+      },
+      {
+        "id": "in_q030_o4",
+        "label": "4",
+        "text": "Vande Mataram"
+      }
+    ],
+    "correct_option_id": "in_q030_o1",
+    "explanation": "The motto ‘Satyameva Jayate’ (Truth Alone Triumphs) is inscribed below the emblem as per official specifications.",
+    "source_url": [
+      "https://www.india.gov.in/india-glance/national-symbols"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q031",
+    "question": "Which Article empowers citizens to move the Supreme Court directly for enforcement of Fundamental Rights?",
+    "options": [
+      {
+        "id": "in_q031_o1",
+        "label": "1",
+        "text": "Article 32"
+      },
+      {
+        "id": "in_q031_o2",
+        "label": "2",
+        "text": "Article 226"
+      },
+      {
+        "id": "in_q031_o3",
+        "label": "3",
+        "text": "Article 136"
+      },
+      {
+        "id": "in_q031_o4",
+        "label": "4",
+        "text": "Article 142"
+      }
+    ],
+    "correct_option_id": "in_q031_o1",
+    "explanation": "Article 32 provides the right to constitutional remedies, allowing individuals to approach the Supreme Court for enforcement of Fundamental Rights.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q032",
+    "question": "Citizenship in India is primarily governed by which central legislation?",
+    "options": [
+      {
+        "id": "in_q032_o1",
+        "label": "1",
+        "text": "Citizenship Act, 1955"
+      },
+      {
+        "id": "in_q032_o2",
+        "label": "2",
+        "text": "Passport Act, 1967"
+      },
+      {
+        "id": "in_q032_o3",
+        "label": "3",
+        "text": "Foreigners Act, 1946"
+      },
+      {
+        "id": "in_q032_o4",
+        "label": "4",
+        "text": "Representation of the People Act, 1950"
+      }
+    ],
+    "correct_option_id": "in_q032_o1",
+    "explanation": "The Citizenship Act defines modes of acquisition, registration, and renunciation of Indian citizenship and related procedures.",
+    "source_url": [
+      "https://www.mha.gov.in/sites/default/files/CIAct1955.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q033",
+    "question": "Who served as independent India’s first Prime Minister?",
+    "options": [
+      {
+        "id": "in_q033_o1",
+        "label": "1",
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": "in_q033_o2",
+        "label": "2",
+        "text": "Dr. Rajendra Prasad"
+      },
+      {
+        "id": "in_q033_o3",
+        "label": "3",
+        "text": "Sardar Patel"
+      },
+      {
+        "id": "in_q033_o4",
+        "label": "4",
+        "text": "B. R. Ambedkar"
+      }
+    ],
+    "correct_option_id": "in_q033_o1",
+    "explanation": "Nehru led the interim government and became the first Prime Minister after independence, heading the Union government.",
+    "source_url": [
+      "https://knowindia.india.gov.in/profile/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q034",
+    "question": "Who was elected as the first President of India?",
+    "options": [
+      {
+        "id": "in_q034_o1",
+        "label": "1",
+        "text": "Dr. Rajendra Prasad"
+      },
+      {
+        "id": "in_q034_o2",
+        "label": "2",
+        "text": "Dr. S. Radhakrishnan"
+      },
+      {
+        "id": "in_q034_o3",
+        "label": "3",
+        "text": "Dr. Zakir Husain"
+      },
+      {
+        "id": "in_q034_o4",
+        "label": "4",
+        "text": "V. V. Giri"
+      }
+    ],
+    "correct_option_id": "in_q034_o1",
+    "explanation": "Rajendra Prasad was the first President, elected by the electoral college established by the Constitution.",
+    "source_url": [
+      "https://knowindia.india.gov.in/profile/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q035",
+    "question": "Which body drafted India’s Constitution?",
+    "options": [
+      {
+        "id": "in_q035_o1",
+        "label": "1",
+        "text": "Constituent Assembly"
+      },
+      {
+        "id": "in_q035_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q035_o3",
+        "label": "3",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q035_o4",
+        "label": "4",
+        "text": "Law Commission"
+      }
+    ],
+    "correct_option_id": "in_q035_o1",
+    "explanation": "The Constituent Assembly, elected in 1946, debated and drafted the Constitution before adoption in 1949.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q036",
+    "question": "Schedules of the Constitution are contained in which component?",
+    "options": [
+      {
+        "id": "in_q036_o1",
+        "label": "1",
+        "text": "Appendices called Schedules"
+      },
+      {
+        "id": "in_q036_o2",
+        "label": "2",
+        "text": "Parts called Chapters"
+      },
+      {
+        "id": "in_q036_o3",
+        "label": "3",
+        "text": "Annexures to Acts"
+      },
+      {
+        "id": "in_q036_o4",
+        "label": "4",
+        "text": "Rules of Procedure"
+      }
+    ],
+    "correct_option_id": "in_q036_o1",
+    "explanation": "The Constitution includes Schedules that list detailed matters like oaths, allocation of seats and languages.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q037",
+    "question": "Which organ is collectively responsible to the Lok Sabha?",
+    "options": [
+      {
+        "id": "in_q037_o1",
+        "label": "1",
+        "text": "Council of Ministers"
+      },
+      {
+        "id": "in_q037_o2",
+        "label": "2",
+        "text": "Supreme Court"
+      },
+      {
+        "id": "in_q037_o3",
+        "label": "3",
+        "text": "Election Commission"
+      },
+      {
+        "id": "in_q037_o4",
+        "label": "4",
+        "text": "CAG"
+      }
+    ],
+    "correct_option_id": "in_q037_o1",
+    "explanation": "Article 75 establishes collective responsibility of the Council of Ministers to the Lok Sabha, ensuring parliamentary accountability.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q038",
+    "question": "Who administers the oath of office to the President of India?",
+    "options": [
+      {
+        "id": "in_q038_o1",
+        "label": "1",
+        "text": "Chief Justice of India"
+      },
+      {
+        "id": "in_q038_o2",
+        "label": "2",
+        "text": "Speaker of Lok Sabha"
+      },
+      {
+        "id": "in_q038_o3",
+        "label": "3",
+        "text": "Prime Minister"
+      },
+      {
+        "id": "in_q038_o4",
+        "label": "4",
+        "text": "Vice-President"
+      }
+    ],
+    "correct_option_id": "in_q038_o1",
+    "explanation": "Under Article 60 and established practice, the President’s oath is administered by the Chief Justice of India (or the senior-most judge available).",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q039",
+    "question": "Which House has greater financial control due to Money Bills?",
+    "options": [
+      {
+        "id": "in_q039_o1",
+        "label": "1",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q039_o2",
+        "label": "2",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q039_o3",
+        "label": "3",
+        "text": "Both equally"
+      },
+      {
+        "id": "in_q039_o4",
+        "label": "4",
+        "text": "Neither"
+      }
+    ],
+    "correct_option_id": "in_q039_o1",
+    "explanation": "Money Bills can originate only in Lok Sabha and the Council of States has limited powers over them, strengthening Lok Sabha’s financial primacy.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q040",
+    "question": "Which level of government administers Union Territories without legislatures?",
+    "options": [
+      {
+        "id": "in_q040_o1",
+        "label": "1",
+        "text": "The Union Government through Administrators/Lt. Governors"
+      },
+      {
+        "id": "in_q040_o2",
+        "label": "2",
+        "text": "State Governments directly"
+      },
+      {
+        "id": "in_q040_o3",
+        "label": "3",
+        "text": "District Panchayats"
+      },
+      {
+        "id": "in_q040_o4",
+        "label": "4",
+        "text": "High Courts"
+      }
+    ],
+    "correct_option_id": "in_q040_o1",
+    "explanation": "Union Territories without legislatures are administered by the President acting through Administrators/Lt. Governors as provided by law.",
+    "source_url": [
+      "https://www.india.gov.in/india-glance/administration"
+    ],
+    "category": "Geography & administrative divisions",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q041",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q041_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q041_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q041_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q041_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q041_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q042",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q042_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q042_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q042_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q042_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q042_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q043",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q043_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q043_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q043_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q043_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q043_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q044",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q044_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q044_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q044_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q044_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q044_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q045",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q045_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q045_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q045_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q045_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q045_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q046",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q046_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q046_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q046_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q046_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q046_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q047",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q047_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q047_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q047_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q047_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q047_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q048",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q048_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q048_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q048_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q048_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q048_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q049",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q049_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q049_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q049_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q049_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q049_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q050",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q050_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q050_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q050_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q050_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q050_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q051",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q051_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q051_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q051_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q051_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q051_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q052",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q052_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q052_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q052_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q052_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q052_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q053",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q053_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q053_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q053_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q053_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q053_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q054",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q054_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q054_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q054_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q054_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q054_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q055",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q055_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q055_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q055_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q055_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q055_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q056",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q056_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q056_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q056_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q056_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q056_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q057",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q057_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q057_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q057_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q057_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q057_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q058",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q058_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q058_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q058_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q058_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q058_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q059",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q059_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q059_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q059_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q059_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q059_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q060",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q060_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q060_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q060_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q060_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q060_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q061",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q061_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q061_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q061_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q061_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q061_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q062",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q062_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q062_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q062_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q062_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q062_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q063",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q063_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q063_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q063_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q063_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q063_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q064",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q064_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q064_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q064_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q064_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q064_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q065",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q065_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q065_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q065_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q065_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q065_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q066",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q066_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q066_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q066_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q066_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q066_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q067",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q067_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q067_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q067_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q067_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q067_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q068",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q068_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q068_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q068_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q068_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q068_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q069",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q069_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q069_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q069_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q069_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q069_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q070",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q070_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q070_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q070_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q070_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q070_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q071",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q071_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q071_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q071_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q071_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q071_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q072",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q072_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q072_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q072_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q072_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q072_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q073",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q073_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q073_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q073_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q073_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q073_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q074",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q074_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q074_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q074_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q074_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q074_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q075",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q075_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q075_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q075_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q075_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q075_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q076",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q076_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q076_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q076_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q076_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q076_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q077",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q077_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q077_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q077_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q077_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q077_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q078",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q078_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q078_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q078_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q078_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q078_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q079",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q079_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q079_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q079_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q079_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q079_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q080",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q080_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q080_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q080_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q080_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q080_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q081",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q081_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q081_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q081_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q081_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q081_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q082",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q082_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q082_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q082_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q082_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q082_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q083",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q083_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q083_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q083_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q083_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q083_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q084",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q084_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q084_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q084_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q084_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q084_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q085",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q085_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q085_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q085_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q085_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q085_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q086",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q086_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q086_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q086_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q086_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q086_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q087",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q087_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q087_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q087_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q087_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q087_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q088",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q088_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q088_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q088_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q088_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q088_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q089",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q089_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q089_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q089_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q089_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q089_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q090",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q090_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q090_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q090_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q090_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q090_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q091",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q091_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q091_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q091_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q091_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q091_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q092",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q092_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q092_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q092_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q092_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q092_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q093",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q093_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q093_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q093_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q093_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q093_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q094",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q094_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q094_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q094_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q094_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q094_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q095",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q095_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q095_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q095_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q095_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q095_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q096",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q096_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q096_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q096_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q096_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q096_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q097",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q097_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q097_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q097_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q097_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q097_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q098",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q098_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q098_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q098_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q098_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q098_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q099",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q099_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q099_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q099_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q099_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q099_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q100",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q100_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q100_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q100_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q100_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q100_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q101",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q101_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q101_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q101_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q101_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q101_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q102",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q102_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q102_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q102_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q102_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q102_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q103",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q103_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q103_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q103_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q103_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q103_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q104",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q104_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q104_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q104_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q104_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q104_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q105",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q105_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q105_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q105_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q105_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q105_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q106",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q106_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q106_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q106_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q106_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q106_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q107",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q107_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q107_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q107_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q107_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q107_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q108",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q108_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q108_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q108_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q108_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q108_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q109",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q109_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q109_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q109_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q109_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q109_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q110",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q110_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q110_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q110_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q110_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q110_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q111",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q111_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q111_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q111_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q111_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q111_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q112",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q112_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q112_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q112_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q112_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q112_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q113",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q113_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q113_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q113_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q113_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q113_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q114",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q114_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q114_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q114_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q114_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q114_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q115",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q115_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q115_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q115_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q115_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q115_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q116",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q116_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q116_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q116_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q116_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q116_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q117",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q117_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q117_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q117_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q117_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q117_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q118",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q118_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q118_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q118_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q118_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q118_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q119",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q119_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q119_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q119_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q119_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q119_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q120",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q120_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q120_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q120_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q120_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q120_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q121",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q121_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q121_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q121_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q121_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q121_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q122",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q122_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q122_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q122_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q122_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q122_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q123",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q123_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q123_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q123_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q123_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q123_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q124",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q124_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q124_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q124_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q124_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q124_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q125",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q125_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q125_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q125_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q125_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q125_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q126",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q126_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q126_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q126_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q126_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q126_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q127",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q127_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q127_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q127_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q127_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q127_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q128",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q128_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q128_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q128_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q128_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q128_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q129",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q129_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q129_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q129_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q129_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q129_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q130",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q130_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q130_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q130_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q130_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q130_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q131",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q131_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q131_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q131_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q131_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q131_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q132",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q132_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q132_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q132_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q132_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q132_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q133",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q133_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q133_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q133_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q133_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q133_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q134",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q134_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q134_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q134_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q134_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q134_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q135",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q135_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q135_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q135_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q135_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q135_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q136",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q136_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q136_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q136_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q136_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q136_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q137",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q137_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q137_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q137_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q137_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q137_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q138",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q138_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q138_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q138_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q138_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q138_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q139",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q139_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q139_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q139_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q139_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q139_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q140",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q140_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q140_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q140_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q140_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q140_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q141",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q141_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q141_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q141_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q141_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q141_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q142",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q142_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q142_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q142_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q142_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q142_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q143",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q143_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q143_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q143_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q143_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q143_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q144",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q144_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q144_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q144_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q144_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q144_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q145",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q145_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q145_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q145_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q145_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q145_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q146",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q146_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q146_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q146_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q146_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q146_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q147",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q147_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q147_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q147_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q147_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q147_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q148",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q148_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q148_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q148_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q148_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q148_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q149",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q149_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q149_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q149_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q149_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q149_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q150",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q150_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q150_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q150_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q150_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q150_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q151",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q151_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q151_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q151_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q151_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q151_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q152",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q152_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q152_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q152_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q152_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q152_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q153",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q153_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q153_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q153_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q153_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q153_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q154",
+    "question": "Who is the constitutional Head of the State (Union) in India?",
+    "options": [
+      {
+        "id": "in_q154_o1",
+        "label": "1",
+        "text": "The President of India"
+      },
+      {
+        "id": "in_q154_o2",
+        "label": "2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "in_q154_o3",
+        "label": "3",
+        "text": "The Speaker"
+      },
+      {
+        "id": "in_q154_o4",
+        "label": "4",
+        "text": "The Chief Justice"
+      }
+    ],
+    "correct_option_id": "in_q154_o1",
+    "explanation": "The Constitution vests the Union’s executive power in the President, who is the Head of State; the Prime Minister heads the government.",
+    "source_url": [
+      "https://presidentofindia.nic.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q155",
+    "question": "Which writ can the Supreme Court issue to protect personal liberty against unlawful detention?",
+    "options": [
+      {
+        "id": "in_q155_o1",
+        "label": "1",
+        "text": "Habeas corpus"
+      },
+      {
+        "id": "in_q155_o2",
+        "label": "2",
+        "text": "Quo warranto"
+      },
+      {
+        "id": "in_q155_o3",
+        "label": "3",
+        "text": "Certiorari"
+      },
+      {
+        "id": "in_q155_o4",
+        "label": "4",
+        "text": "Prohibition"
+      }
+    ],
+    "correct_option_id": "in_q155_o1",
+    "explanation": "Under Article 32, the Supreme Court may issue writs—including habeas corpus—to enforce Fundamental Rights against illegal detention.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q156",
+    "question": "Which body frames and enforces the Model Code of Conduct during elections?",
+    "options": [
+      {
+        "id": "in_q156_o1",
+        "label": "1",
+        "text": "Election Commission of India"
+      },
+      {
+        "id": "in_q156_o2",
+        "label": "2",
+        "text": "Ministry of Home Affairs"
+      },
+      {
+        "id": "in_q156_o3",
+        "label": "3",
+        "text": "Parliament"
+      },
+      {
+        "id": "in_q156_o4",
+        "label": "4",
+        "text": "Supreme Court"
+      }
+    ],
+    "correct_option_id": "in_q156_o1",
+    "explanation": "The ECI issues and enforces the MCC to ensure level playing field and ethical campaign conduct during elections.",
+    "source_url": [
+      "https://eci.gov.in/"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q157",
+    "question": "Which day is celebrated annually as Republic Day in India?",
+    "options": [
+      {
+        "id": "in_q157_o1",
+        "label": "1",
+        "text": "26 January"
+      },
+      {
+        "id": "in_q157_o2",
+        "label": "2",
+        "text": "15 August"
+      },
+      {
+        "id": "in_q157_o3",
+        "label": "3",
+        "text": "2 October"
+      },
+      {
+        "id": "in_q157_o4",
+        "label": "4",
+        "text": "26 November"
+      }
+    ],
+    "correct_option_id": "in_q157_o1",
+    "explanation": "Republic Day marks the day the Constitution took effect in 1950, transforming India into a sovereign democratic republic.",
+    "source_url": [
+      "https://legislative.gov.in/constitution-of-india/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q158",
+    "question": "What does Part IV of the Constitution direct the State to pursue?",
+    "options": [
+      {
+        "id": "in_q158_o1",
+        "label": "1",
+        "text": "Social and economic welfare goals"
+      },
+      {
+        "id": "in_q158_o2",
+        "label": "2",
+        "text": "Criminal penalties"
+      },
+      {
+        "id": "in_q158_o3",
+        "label": "3",
+        "text": "Election schedules"
+      },
+      {
+        "id": "in_q158_o4",
+        "label": "4",
+        "text": "Judicial appointments"
+      }
+    ],
+    "correct_option_id": "in_q158_o1",
+    "explanation": "Directive Principles in Part IV guide the State to promote welfare, justice and policy objectives though they are non-justiciable.",
+    "source_url": [
+      "https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf"
+    ],
+    "category": "Culture, rights & responsibilities",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q159",
+    "question": "What colour appears in the middle band of the National Flag of India?",
+    "options": [
+      {
+        "id": "in_q159_o1",
+        "label": "1",
+        "text": "White"
+      },
+      {
+        "id": "in_q159_o2",
+        "label": "2",
+        "text": "Saffron (Kesaria)"
+      },
+      {
+        "id": "in_q159_o3",
+        "label": "3",
+        "text": "Green"
+      },
+      {
+        "id": "in_q159_o4",
+        "label": "4",
+        "text": "Blue"
+      }
+    ],
+    "correct_option_id": "in_q159_o1",
+    "explanation": "The tricolour has saffron at the top, white in the middle and green at the bottom, with the Ashoka Chakra in the centre.",
+    "source_url": [
+      "https://knowindia.india.gov.in/national-identity-elements/national-flag.php"
+    ],
+    "category": "Symbols & leaders",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  },
+  {
+    "id": "in_q160",
+    "question": "Which body is permanent and not subject to dissolution at the Union level?",
+    "options": [
+      {
+        "id": "in_q160_o1",
+        "label": "1",
+        "text": "Rajya Sabha"
+      },
+      {
+        "id": "in_q160_o2",
+        "label": "2",
+        "text": "Lok Sabha"
+      },
+      {
+        "id": "in_q160_o3",
+        "label": "3",
+        "text": "Both Houses"
+      },
+      {
+        "id": "in_q160_o4",
+        "label": "4",
+        "text": "None"
+      }
+    ],
+    "correct_option_id": "in_q160_o1",
+    "explanation": "The Council of States is a permanent chamber with one-third members retiring every second year rather than being dissolved.",
+    "source_url": [
+      "https://www.india.gov.in/my-government/indian-parliament/rajya-sabha"
+    ],
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "IN"
+  }
+]

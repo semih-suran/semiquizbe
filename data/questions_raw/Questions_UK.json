@@ -1,0 +1,5202 @@
+[
+  {
+    "id": "uk_q001",
+    "question": "How many Members of Parliament (MPs) sit in the UK House of Commons?",
+    "options": [
+      {
+        "id": "uk_q001_o1",
+        "text": "650"
+      },
+      {
+        "id": "uk_q001_o2",
+        "text": "600"
+      },
+      {
+        "id": "uk_q001_o3",
+        "text": "500"
+      },
+      {
+        "id": "uk_q001_o4",
+        "text": "700"
+      }
+    ],
+    "correct_option_id": "uk_q001_o1",
+    "explanation": "The House of Commons is made up of 650 seats, each representing a single constituency.",
+    "source_url": [
+      "https://members.parliament.uk/parties/commons"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q002",
+    "question": "Which charter, agreed in 1215, is seen as limiting the monarch’s power and paving the way for Parliament?",
+    "options": [
+      {
+        "id": "uk_q002_o1",
+        "text": "Magna Carta"
+      },
+      {
+        "id": "uk_q002_o2",
+        "text": "Bill of Rights"
+      },
+      {
+        "id": "uk_q002_o3",
+        "text": "Petition of Right"
+      },
+      {
+        "id": "uk_q002_o4",
+        "text": "Act of Settlement"
+      }
+    ],
+    "correct_option_id": "uk_q002_o1",
+    "explanation": "Parliament notes Magna Carta’s legacy in establishing principles that paved the way for Parliament.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartalegacy/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q003",
+    "question": "The Acts of Union passed in 1707 united which two countries to form Great Britain?",
+    "options": [
+      {
+        "id": "uk_q003_o1",
+        "text": "England and Scotland"
+      },
+      {
+        "id": "uk_q003_o2",
+        "text": "England and Ireland"
+      },
+      {
+        "id": "uk_q003_o3",
+        "text": "Scotland and Ireland"
+      },
+      {
+        "id": "uk_q003_o4",
+        "text": "England and Wales"
+      }
+    ],
+    "correct_option_id": "uk_q003_o1",
+    "explanation": "Parliament’s ‘Key dates’ records the 1707 Acts of Union joining England and Scotland.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/keydates/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q004",
+    "question": "Who appoints the UK Prime Minister according to the Cabinet Manual?",
+    "options": [
+      {
+        "id": "uk_q004_o1",
+        "text": "The Sovereign"
+      },
+      {
+        "id": "uk_q004_o2",
+        "text": "The Speaker of the House of Commons"
+      },
+      {
+        "id": "uk_q004_o3",
+        "text": "The Cabinet Secretary"
+      },
+      {
+        "id": "uk_q004_o4",
+        "text": "The Lord Chancellor"
+      }
+    ],
+    "correct_option_id": "uk_q004_o1",
+    "explanation": "The Cabinet Manual states the Sovereign appoints the Prime Minister.",
+    "source_url": [
+      "https://assets.publishing.service.gov.uk/media/5a79d5d7e5274a18ba50f2b6/cabinet-manual.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q005",
+    "question": "What is the minimum voting age for UK parliamentary elections as established by the Representation of the People Act 1969?",
+    "options": [
+      {
+        "id": "uk_q005_o1",
+        "text": "18"
+      },
+      {
+        "id": "uk_q005_o2",
+        "text": "16"
+      },
+      {
+        "id": "uk_q005_o3",
+        "text": "21"
+      },
+      {
+        "id": "uk_q005_o4",
+        "text": "20"
+      }
+    ],
+    "correct_option_id": "uk_q005_o1",
+    "explanation": "Parliamentary sources explain the 1969 Act lowered the voting age to 18.",
+    "source_url": [
+      "https://archives.blog.parliament.uk/2019/03/12/rock-the-vote-election-70/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q006",
+    "question": "In 1918, which Act first allowed some women (over 30 meeting property qualifications) to vote in UK parliamentary elections?",
+    "options": [
+      {
+        "id": "uk_q006_o1",
+        "text": "Representation of the People Act 1918"
+      },
+      {
+        "id": "uk_q006_o2",
+        "text": "Equal Franchise Act 1928"
+      },
+      {
+        "id": "uk_q006_o3",
+        "text": "Reform Act 1832"
+      },
+      {
+        "id": "uk_q006_o4",
+        "text": "Parliament Act 1911"
+      }
+    ],
+    "correct_option_id": "uk_q006_o1",
+    "explanation": "Parliament’s history pages confirm the 1918 Act extended the vote to some women over 30 with property qualifications.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/overview/thevote/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q007",
+    "question": "Which Act gave women electoral equality with men by granting the vote to all women aged 21 and over?",
+    "options": [
+      {
+        "id": "uk_q007_o1",
+        "text": "Equal Franchise Act 1928"
+      },
+      {
+        "id": "uk_q007_o2",
+        "text": "Representation of the People Act 1948"
+      },
+      {
+        "id": "uk_q007_o3",
+        "text": "Parliament Act 1911"
+      },
+      {
+        "id": "uk_q007_o4",
+        "text": "Reform Act 1867"
+      }
+    ],
+    "correct_option_id": "uk_q007_o1",
+    "explanation": "Parliament’s ‘Key dates’ for women and the vote include the 1928 Equal Franchise Act granting equal voting rights.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/keydates/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q008",
+    "question": "What does the UK Government’s devolution guidance describe devolution as?",
+    "options": [
+      {
+        "id": "uk_q008_o1",
+        "text": "A process of decentralisation"
+      },
+      {
+        "id": "uk_q008_o2",
+        "text": "A temporary constitutional experiment"
+      },
+      {
+        "id": "uk_q008_o3",
+        "text": "A replacement for local government"
+      },
+      {
+        "id": "uk_q008_o4",
+        "text": "A federalisation programme"
+      }
+    ],
+    "correct_option_id": "uk_q008_o1",
+    "explanation": "GOV.UK describes devolution as a process of decentralisation that brings power closer to citizens.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q009",
+    "question": "Which body elects the Members of Parliament who sit in the House of Commons?",
+    "options": [
+      {
+        "id": "uk_q009_o1",
+        "text": "The UK public (electorate) in constituencies"
+      },
+      {
+        "id": "uk_q009_o2",
+        "text": "The House of Lords"
+      },
+      {
+        "id": "uk_q009_o3",
+        "text": "The Cabinet"
+      },
+      {
+        "id": "uk_q009_o4",
+        "text": "Local councils"
+      }
+    ],
+    "correct_option_id": "uk_q009_o1",
+    "explanation": "The Commons page states that the UK public elects 650 MPs to represent constituencies.",
+    "source_url": [
+      "https://www.parliament.uk/business/commons/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q010",
+    "question": "According to the Cabinet Manual, who is the UK’s Head of State?",
+    "options": [
+      {
+        "id": "uk_q010_o1",
+        "text": "The Sovereign (the Monarch)"
+      },
+      {
+        "id": "uk_q010_o2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "uk_q010_o3",
+        "text": "The Speaker of the House of Commons"
+      },
+      {
+        "id": "uk_q010_o4",
+        "text": "The Lord Chief Justice"
+      }
+    ],
+    "correct_option_id": "uk_q010_o1",
+    "explanation": "The Cabinet Manual states the UK is a parliamentary democracy with a constitutional sovereign as Head of State.",
+    "source_url": [
+      "https://assets.publishing.service.gov.uk/media/5a790bfced915d0422067601/cabinetdraftmanual.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q011",
+    "question": "What is the UK’s national flag commonly called in official briefings?",
+    "options": [
+      {
+        "id": "uk_q011_o1",
+        "text": "The Union Flag (also known as the Union Jack)"
+      },
+      {
+        "id": "uk_q011_o2",
+        "text": "St George’s Cross"
+      },
+      {
+        "id": "uk_q011_o3",
+        "text": "The Saltire"
+      },
+      {
+        "id": "uk_q011_o4",
+        "text": "The Red Ensign"
+      }
+    ],
+    "correct_option_id": "uk_q011_o1",
+    "explanation": "The Commons Library briefing describes the national flag as the Union Flag, commonly known as the Union Jack.",
+    "source_url": [
+      "https://commonslibrary.parliament.uk/research-briefings/sn04474/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q012",
+    "question": "On designated days, UK government buildings are instructed to fly which flag by command of the King?",
+    "options": [
+      {
+        "id": "uk_q012_o1",
+        "text": "The Union Flag"
+      },
+      {
+        "id": "uk_q012_o2",
+        "text": "The Royal Standard"
+      },
+      {
+        "id": "uk_q012_o3",
+        "text": "The White Ensign"
+      },
+      {
+        "id": "uk_q012_o4",
+        "text": "The European Union flag"
+      }
+    ],
+    "correct_option_id": "uk_q012_o1",
+    "explanation": "GOV.UK guidance lists designated days when the Union Flag must be flown on UK government buildings.",
+    "source_url": [
+      "https://www.gov.uk/guidance/designated-days-for-union-flag-flying"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q013",
+    "question": "Which principle did Magna Carta help establish regarding taxation?",
+    "options": [
+      {
+        "id": "uk_q013_o1",
+        "text": "Grants of taxation require consent, paving the way for Parliament"
+      },
+      {
+        "id": "uk_q013_o2",
+        "text": "Only the monarch may levy taxes without consent"
+      },
+      {
+        "id": "uk_q013_o3",
+        "text": "Taxes must be equal across all counties"
+      },
+      {
+        "id": "uk_q013_o4",
+        "text": "Only the Church can approve taxes"
+      }
+    ],
+    "correct_option_id": "uk_q013_o1",
+    "explanation": "Parliament explains Magna Carta emphasised taxation requiring consent, paving the way for Parliament.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartalegacy/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q014",
+    "question": "How many parliamentary constituencies are there in the UK, each represented by one MP?",
+    "options": [
+      {
+        "id": "uk_q014_o1",
+        "text": "650"
+      },
+      {
+        "id": "uk_q014_o2",
+        "text": "632"
+      },
+      {
+        "id": "uk_q014_o3",
+        "text": "700"
+      },
+      {
+        "id": "uk_q014_o4",
+        "text": "500"
+      }
+    ],
+    "correct_option_id": "uk_q014_o1",
+    "explanation": "A Commons Library briefing states the UK is divided into 650 constituencies, each represented by one MP.",
+    "source_url": [
+      "https://commonslibrary.parliament.uk/research-briefings/sn02384/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q015",
+    "question": "Which House of Parliament is primarily responsible for scrutinising government and proposing new laws alongside the Lords?",
+    "options": [
+      {
+        "id": "uk_q015_o1",
+        "text": "The House of Commons"
+      },
+      {
+        "id": "uk_q015_o2",
+        "text": "The Privy Council"
+      },
+      {
+        "id": "uk_q015_o3",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "uk_q015_o4",
+        "text": "The General Synod"
+      }
+    ],
+    "correct_option_id": "uk_q015_o1",
+    "explanation": "The Commons page says MPs consider and propose new laws and scrutinise government policy.",
+    "source_url": [
+      "https://www.parliament.uk/business/commons/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q016",
+    "question": "Which statement best reflects the UK Government’s description of devolution settlements?",
+    "options": [
+      {
+        "id": "uk_q016_o1",
+        "text": "They differ for Scotland, Wales and Northern Ireland and have evolved over time"
+      },
+      {
+        "id": "uk_q016_o2",
+        "text": "They are identical in all parts of the UK"
+      },
+      {
+        "id": "uk_q016_o3",
+        "text": "They abolished the UK Parliament’s powers entirely in devolved areas"
+      },
+      {
+        "id": "uk_q016_o4",
+        "text": "They created a federal constitution"
+      }
+    ],
+    "correct_option_id": "uk_q016_o1",
+    "explanation": "GOV.UK devolution guidance summarises how powers differ across Scotland, Wales and Northern Ireland and have changed over time.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q017",
+    "question": "Who is described in official guidance as the ‘Supreme Governor’ of the Church of England?",
+    "options": [
+      {
+        "id": "uk_q017_o1",
+        "text": "The Monarch"
+      },
+      {
+        "id": "uk_q017_o2",
+        "text": "The Archbishop of Canterbury"
+      },
+      {
+        "id": "uk_q017_o3",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "uk_q017_o4",
+        "text": "The Lord Chancellor"
+      }
+    ],
+    "correct_option_id": "uk_q017_o1",
+    "explanation": "The Cabinet Manual explains the Sovereign is the Supreme Governor of the Church of England.",
+    "source_url": [
+      "https://assets.publishing.service.gov.uk/media/5a79d5d7e5274a18ba50f2b6/cabinet-manual.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q018",
+    "question": "What does the Devolution Guidance Notes on GOV.UK provide?",
+    "options": [
+      {
+        "id": "uk_q018_o1",
+        "text": "Advice on working arrangements between the UK Government and devolved administrations"
+      },
+      {
+        "id": "uk_q018_o2",
+        "text": "A replacement for the UK constitution"
+      },
+      {
+        "id": "uk_q018_o3",
+        "text": "Statutory law on taxation"
+      },
+      {
+        "id": "uk_q018_o4",
+        "text": "Instructions for local planning applications"
+      }
+    ],
+    "correct_option_id": "uk_q018_o1",
+    "explanation": "GOV.UK’s devolution guidance notes set out advice on working arrangements with devolved administrations.",
+    "source_url": [
+      "https://www.gov.uk/guidance/guidance-on-devolution"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q019",
+    "question": "Which document on GOV.UK provides plain English guidance encouraging year‑round flying of the Union Flag on UK government buildings?",
+    "options": [
+      {
+        "id": "uk_q019_o1",
+        "text": "“Flying flags: a plain English guide”"
+      },
+      {
+        "id": "uk_q019_o2",
+        "text": "The Highway Code"
+      },
+      {
+        "id": "uk_q019_o3",
+        "text": "The Building Regulations"
+      },
+      {
+        "id": "uk_q019_o4",
+        "text": "The Immigration Rules"
+      }
+    ],
+    "correct_option_id": "uk_q019_o1",
+    "explanation": "The guide explains policy encouraging more flags—particularly the Union Flag—on government buildings throughout the year.",
+    "source_url": [
+      "https://www.gov.uk/government/publications/flying-flags-a-plain-english-guide/flying-flags-a-plain-english-guide"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q020",
+    "question": "According to Parliament’s overview, with whom was Magna Carta negotiated in 1215?",
+    "options": [
+      {
+        "id": "uk_q020_o1",
+        "text": "Between King John and the rebel barons"
+      },
+      {
+        "id": "uk_q020_o2",
+        "text": "Between Parliament and the bishops"
+      },
+      {
+        "id": "uk_q020_o3",
+        "text": "Between the Prime Minister and the Lords"
+      },
+      {
+        "id": "uk_q020_o4",
+        "text": "Between sheriffs and towns"
+      }
+    ],
+    "correct_option_id": "uk_q020_o1",
+    "explanation": "Parliament states Magna Carta was negotiated between the king and the rebel barons.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/magnacartahow/"
+    ],
+    "category": "History",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q021",
+    "question": "Which Act limited the powers of the House of Lords by allowing most bills to become law without its consent after certain delays?",
+    "options": [
+      {
+        "id": "uk_q021_o1",
+        "text": "Parliament Act 1911"
+      },
+      {
+        "id": "uk_q021_o2",
+        "text": "Reform Act 1832"
+      },
+      {
+        "id": "uk_q021_o3",
+        "text": "Parliament Act 1949"
+      },
+      {
+        "id": "uk_q021_o4",
+        "text": "Act of Settlement 1701"
+      }
+    ],
+    "correct_option_id": "uk_q021_o1",
+    "explanation": "The Parliament Act 1911 curtailed the Lords’ power to veto and substituted a suspensory veto.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/overview/parliamentacts/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q022",
+    "question": "Which later Act further reduced the House of Lords’ delaying power from two sessions to one?",
+    "options": [
+      {
+        "id": "uk_q022_o1",
+        "text": "Parliament Act 1949"
+      },
+      {
+        "id": "uk_q022_o2",
+        "text": "Life Peerages Act 1958"
+      },
+      {
+        "id": "uk_q022_o3",
+        "text": "House of Lords Act 1999"
+      },
+      {
+        "id": "uk_q022_o4",
+        "text": "Parliamentary Voting System and Constituencies Act 2011"
+      }
+    ],
+    "correct_option_id": "uk_q022_o1",
+    "explanation": "Parliament explains that the 1949 Act reduced the Lords’ delaying power on public bills.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/overview/parliamentacts/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q023",
+    "question": "Which Act created the UK Supreme Court, separating the highest court from the House of Lords’ judicial functions?",
+    "options": [
+      {
+        "id": "uk_q023_o1",
+        "text": "Constitutional Reform Act 2005"
+      },
+      {
+        "id": "uk_q023_o2",
+        "text": "Courts Act 1971"
+      },
+      {
+        "id": "uk_q023_o3",
+        "text": "Judicature Acts 1873–75"
+      },
+      {
+        "id": "uk_q023_o4",
+        "text": "European Communities Act 1972"
+      }
+    ],
+    "correct_option_id": "uk_q023_o1",
+    "explanation": "The Constitutional Reform Act 2005 established the Supreme Court and removed judicial functions from the Lords.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/overview/judicial-committee/role/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q024",
+    "question": "In what year did the UK Supreme Court assume its full powers, replacing the Appellate Committee of the House of Lords?",
+    "options": [
+      {
+        "id": "uk_q024_o1",
+        "text": "2009"
+      },
+      {
+        "id": "uk_q024_o2",
+        "text": "2005"
+      },
+      {
+        "id": "uk_q024_o3",
+        "text": "2012"
+      },
+      {
+        "id": "uk_q024_o4",
+        "text": "1999"
+      }
+    ],
+    "correct_option_id": "uk_q024_o1",
+    "explanation": "The Supreme Court opened in October 2009, taking over the judicial functions from the House of Lords.",
+    "source_url": [
+      "https://www.supremecourt.uk/about/history.html"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q025",
+    "question": "What voting system is used to elect MPs to the House of Commons in UK general elections?",
+    "options": [
+      {
+        "id": "uk_q025_o1",
+        "text": "First Past the Post"
+      },
+      {
+        "id": "uk_q025_o2",
+        "text": "Single Transferable Vote"
+      },
+      {
+        "id": "uk_q025_o3",
+        "text": "Additional Member System"
+      },
+      {
+        "id": "uk_q025_o4",
+        "text": "Alternative Vote"
+      }
+    ],
+    "correct_option_id": "uk_q025_o1",
+    "explanation": "The Commons Library states First Past the Post is used for UK general elections.",
+    "source_url": [
+      "https://commonslibrary.parliament.uk/research-briefings/cbp-234/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q026",
+    "question": "Which House scrutinises draft laws, questions ministers, and represents constituencies?",
+    "options": [
+      {
+        "id": "uk_q026_o1",
+        "text": "House of Commons"
+      },
+      {
+        "id": "uk_q026_o2",
+        "text": "House of Lords"
+      },
+      {
+        "id": "uk_q026_o3",
+        "text": "Privy Council"
+      },
+      {
+        "id": "uk_q026_o4",
+        "text": "General Synod"
+      }
+    ],
+    "correct_option_id": "uk_q026_o1",
+    "explanation": "Parliament explains MPs in the Commons consider and propose new laws and scrutinise government policy.",
+    "source_url": [
+      "https://www.parliament.uk/business/commons/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q027",
+    "question": "Which House is largely appointed and provides expertise and revision to legislation?",
+    "options": [
+      {
+        "id": "uk_q027_o1",
+        "text": "House of Lords"
+      },
+      {
+        "id": "uk_q027_o2",
+        "text": "House of Commons"
+      },
+      {
+        "id": "uk_q027_o3",
+        "text": "Northern Ireland Assembly"
+      },
+      {
+        "id": "uk_q027_o4",
+        "text": "Scottish Parliament"
+      }
+    ],
+    "correct_option_id": "uk_q027_o1",
+    "explanation": "Parliament’s description of the House of Lords highlights its revising and scrutinising role with appointed members.",
+    "source_url": [
+      "https://www.parliament.uk/business/lords/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q028",
+    "question": "Which Act established the Scottish Parliament and the Scottish Government?",
+    "options": [
+      {
+        "id": "uk_q028_o1",
+        "text": "Scotland Act 1998"
+      },
+      {
+        "id": "uk_q028_o2",
+        "text": "Government of Wales Act 1998"
+      },
+      {
+        "id": "uk_q028_o3",
+        "text": "Northern Ireland Act 1998"
+      },
+      {
+        "id": "uk_q028_o4",
+        "text": "Wales Act 2017"
+      }
+    ],
+    "correct_option_id": "uk_q028_o1",
+    "explanation": "GOV.UK devolution pages reference the Scotland Act 1998 as establishing devolution to Scotland.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q029",
+    "question": "Which Act created the National Assembly for Wales (now Senedd Cymru/Welsh Parliament)?",
+    "options": [
+      {
+        "id": "uk_q029_o1",
+        "text": "Government of Wales Act 1998"
+      },
+      {
+        "id": "uk_q029_o2",
+        "text": "Wales Act 2017"
+      },
+      {
+        "id": "uk_q029_o3",
+        "text": "Scotland Act 1998"
+      },
+      {
+        "id": "uk_q029_o4",
+        "text": "Northern Ireland Act 1998"
+      }
+    ],
+    "correct_option_id": "uk_q029_o1",
+    "explanation": "The Government of Wales Act 1998 set up the National Assembly for Wales.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q030",
+    "question": "Which Act implemented the current devolution settlement for Northern Ireland following the Good Friday Agreement?",
+    "options": [
+      {
+        "id": "uk_q030_o1",
+        "text": "Northern Ireland Act 1998"
+      },
+      {
+        "id": "uk_q030_o2",
+        "text": "Northern Ireland Act 1974"
+      },
+      {
+        "id": "uk_q030_o3",
+        "text": "Ireland Act 1949"
+      },
+      {
+        "id": "uk_q030_o4",
+        "text": "Belfast Act 2006"
+      }
+    ],
+    "correct_option_id": "uk_q030_o1",
+    "explanation": "The Northern Ireland Act 1998 implemented institutions arising from the Belfast (Good Friday) Agreement.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q031",
+    "question": "Which Act reduced most hereditary peers from sitting in the House of Lords?",
+    "options": [
+      {
+        "id": "uk_q031_o1",
+        "text": "House of Lords Act 1999"
+      },
+      {
+        "id": "uk_q031_o2",
+        "text": "Parliament Act 1911"
+      },
+      {
+        "id": "uk_q031_o3",
+        "text": "Life Peerages Act 1958"
+      },
+      {
+        "id": "uk_q031_o4",
+        "text": "Constitutional Reform Act 2005"
+      }
+    ],
+    "correct_option_id": "uk_q031_o1",
+    "explanation": "Parliament states the 1999 Act removed most hereditary peers from the Lords.",
+    "source_url": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseoflords/overview/lords-reform/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q032",
+    "question": "Which Act allows the Prime Minister to request dissolution of Parliament, replacing the Fixed-term Parliaments Act 2011?",
+    "options": [
+      {
+        "id": "uk_q032_o1",
+        "text": "Dissolution and Calling of Parliament Act 2022"
+      },
+      {
+        "id": "uk_q032_o2",
+        "text": "Parliament Act 1949"
+      },
+      {
+        "id": "uk_q032_o3",
+        "text": "House of Commons Disqualification Act 1975"
+      },
+      {
+        "id": "uk_q032_o4",
+        "text": "Recall of MPs Act 2015"
+      }
+    ],
+    "correct_option_id": "uk_q032_o1",
+    "explanation": "The 2022 Act repealed the Fixed-term Parliaments Act and revived prerogative powers over dissolution.",
+    "source_url": [
+      "https://www.legislation.gov.uk/ukpga/2022/11/contents/enacted"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q033",
+    "question": "What is the term for the monarch’s formal approval required for a bill to become an Act of Parliament?",
+    "options": [
+      {
+        "id": "uk_q033_o1",
+        "text": "Royal Assent"
+      },
+      {
+        "id": "uk_q033_o2",
+        "text": "Royal Charter"
+      },
+      {
+        "id": "uk_q033_o3",
+        "text": "Letters Patent"
+      },
+      {
+        "id": "uk_q033_o4",
+        "text": "Order in Council"
+      }
+    ],
+    "correct_option_id": "uk_q033_o1",
+    "explanation": "Parliament explains that a bill becomes law after receiving Royal Assent.",
+    "source_url": [
+      "https://www.parliament.uk/about/how/laws/passage-bill/commons/third-reading/royal-assent/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q034",
+    "question": "Which document sets out the roles of the Prime Minister and Cabinet and key constitutional practices?",
+    "options": [
+      {
+        "id": "uk_q034_o1",
+        "text": "The Cabinet Manual"
+      },
+      {
+        "id": "uk_q034_o2",
+        "text": "The Highway Code"
+      },
+      {
+        "id": "uk_q034_o3",
+        "text": "The Ministerial Code"
+      },
+      {
+        "id": "uk_q034_o4",
+        "text": "Standing Orders of the House of Commons"
+      }
+    ],
+    "correct_option_id": "uk_q034_o1",
+    "explanation": "The Cabinet Manual provides authoritative guidance on the operation of government.",
+    "source_url": [
+      "https://assets.publishing.service.gov.uk/media/5a79d5d7e5274a18ba50f2b6/cabinet-manual.pdf"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q035",
+    "question": "According to GOV.UK, what is the minimum age to serve on a jury in England and Wales?",
+    "options": [
+      {
+        "id": "uk_q035_o1",
+        "text": "18"
+      },
+      {
+        "id": "uk_q035_o2",
+        "text": "16"
+      },
+      {
+        "id": "uk_q035_o3",
+        "text": "21"
+      },
+      {
+        "id": "uk_q035_o4",
+        "text": "17"
+      }
+    ],
+    "correct_option_id": "uk_q035_o1",
+    "explanation": "GOV.UK states you can be called for jury service if you are 18 to 75 and meet eligibility rules.",
+    "source_url": [
+      "https://www.gov.uk/jury-service"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q036",
+    "question": "Which body runs the National Health Service in England according to its official site?",
+    "options": [
+      {
+        "id": "uk_q036_o1",
+        "text": "The National Health Service (NHS) is a publicly funded health service founded in 1948"
+      },
+      {
+        "id": "uk_q036_o2",
+        "text": "A private insurance pool created in 1973"
+      },
+      {
+        "id": "uk_q036_o3",
+        "text": "A charity established in 1999"
+      },
+      {
+        "id": "uk_q036_o4",
+        "text": "A devolved function run only by local councils"
+      }
+    ],
+    "correct_option_id": "uk_q036_o1",
+    "explanation": "The NHS is the publicly funded healthcare system established in 1948.",
+    "source_url": [
+      "https://www.nhs.uk/using-the-nhs/nhs-services/what-is-the-nhs/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q037",
+    "question": "What is the common official name for the UK’s national anthem as noted by Parliament’s research briefing?",
+    "options": [
+      {
+        "id": "uk_q037_o1",
+        "text": "‘God Save the King’"
+      },
+      {
+        "id": "uk_q037_o2",
+        "text": "‘Rule, Britannia!’"
+      },
+      {
+        "id": "uk_q037_o3",
+        "text": "‘Land of Hope and Glory’"
+      },
+      {
+        "id": "uk_q037_o4",
+        "text": "‘Jerusalem’"
+      }
+    ],
+    "correct_option_id": "uk_q037_o1",
+    "explanation": "The Commons Library briefing discusses the national anthem ‘God Save the King’.",
+    "source_url": [
+      "https://commonslibrary.parliament.uk/research-briefings/sn00868/"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q038",
+    "question": "Which four nations make up the United Kingdom as stated in GOV.UK devolution guidance?",
+    "options": [
+      {
+        "id": "uk_q038_o1",
+        "text": "England, Scotland, Wales and Northern Ireland"
+      },
+      {
+        "id": "uk_q038_o2",
+        "text": "England, Scotland, Wales and Republic of Ireland"
+      },
+      {
+        "id": "uk_q038_o3",
+        "text": "England, Scotland, Cornwall and Northern Ireland"
+      },
+      {
+        "id": "uk_q038_o4",
+        "text": "Great Britain and Northern Ireland only"
+      }
+    ],
+    "correct_option_id": "uk_q038_o1",
+    "explanation": "GOV.UK explains the UK comprises England, Scotland, Wales and Northern Ireland.",
+    "source_url": [
+      "https://www.gov.uk/guidance/devolution-of-powers-to-scotland-wales-and-northern-ireland"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q039",
+    "question": "In England, up to what age must young people stay in education or training?",
+    "options": [
+      {
+        "id": "uk_q039_o1",
+        "text": "Until 18"
+      },
+      {
+        "id": "uk_q039_o2",
+        "text": "Until 16"
+      },
+      {
+        "id": "uk_q039_o3",
+        "text": "Until 21"
+      },
+      {
+        "id": "uk_q039_o4",
+        "text": "There is no requirement"
+      }
+    ],
+    "correct_option_id": "uk_q039_o1",
+    "explanation": "GOV.UK states you must stay in some form of education or training until age 18 (England).",
+    "source_url": [
+      "https://www.gov.uk/know-when-you-can-leave-school"
+    ],
+    "category": "Everyday life (England)",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q040",
+    "question": "What is the minimum age at which most people can drive a car in Great Britain?",
+    "options": [
+      {
+        "id": "uk_q040_o1",
+        "text": "17"
+      },
+      {
+        "id": "uk_q040_o2",
+        "text": "16"
+      },
+      {
+        "id": "uk_q040_o3",
+        "text": "18"
+      },
+      {
+        "id": "uk_q040_o4",
+        "text": "19"
+      }
+    ],
+    "correct_option_id": "uk_q040_o1",
+    "explanation": "DVLA guidance on GOV.UK explains you can drive a car at 17 once you have a provisional licence and meet conditions.",
+    "source_url": [
+      "https://www.gov.uk/driving-licence-categories"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q041",
+    "question": "In which year was William the Conqueror crowned King of England?",
+    "options": [
+      {
+        "id": "uk_q041_o1",
+        "text": "1066"
+      },
+      {
+        "id": "uk_q041_o2",
+        "text": "1485"
+      },
+      {
+        "id": "uk_q041_o3",
+        "text": "1215"
+      },
+      {
+        "id": "uk_q041_o4",
+        "text": "1603"
+      }
+    ],
+    "correct_option_id": "uk_q041_o1",
+    "explanation": "William, Duke of Normandy, was crowned King of England on Christmas Day 1066.",
+    "source_url": "https://www.nationalarchives.gov.uk/education/resources/domesday-book/",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q042",
+    "question": "In what year did the UK vote to leave the European Union in a national referendum?",
+    "options": [
+      {
+        "id": "uk_q042_o1",
+        "text": "1975"
+      },
+      {
+        "id": "uk_q042_o2",
+        "text": "2016"
+      },
+      {
+        "id": "uk_q042_o3",
+        "text": "2010"
+      },
+      {
+        "id": "uk_q042_o4",
+        "text": "1997"
+      }
+    ],
+    "correct_option_id": "uk_q042_o2",
+    "explanation": "The UK held an EU membership referendum on 23 June 2016 and voted to leave the EU.",
+    "source_url": "https://www.gov.uk/government/news/25-years-of-the-eu-referendum",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q043",
+    "question": "The first Union Flag (Union Jack) was created in 1606 by combining the flags of which two kingdoms?",
+    "options": [
+      {
+        "id": "uk_q043_o1",
+        "text": "England and Scotland"
+      },
+      {
+        "id": "uk_q043_o2",
+        "text": "Scotland and Ireland"
+      },
+      {
+        "id": "uk_q043_o3",
+        "text": "England and Wales"
+      },
+      {
+        "id": "uk_q043_o4",
+        "text": "Scotland and Wales"
+      }
+    ],
+    "correct_option_id": "uk_q043_o1",
+    "explanation": "The original Union Flag (1606) combined the flags of England and Scotland.",
+    "source_url": "https://www.gov.uk/government/publications/flag-flying-guidance",
+    "category": "Symbols and identity",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q044",
+    "question": "Who is the leader of His Majesty’s Government and ultimately responsible for all policy decisions?",
+    "options": [
+      {
+        "id": "uk_q044_o1",
+        "text": "Prime Minister"
+      },
+      {
+        "id": "uk_q044_o2",
+        "text": "Monarch"
+      },
+      {
+        "id": "uk_q044_o3",
+        "text": "Speaker of the House of Commons"
+      },
+      {
+        "id": "uk_q044_o4",
+        "text": "Home Secretary"
+      }
+    ],
+    "correct_option_id": "uk_q044_o1",
+    "explanation": "The Prime Minister is the leader of His Majesty’s Government and is ultimately responsible for all policy and decisions.",
+    "source_url": "https://www.gov.uk/government/how-government-works",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q045",
+    "question": "Which two houses make up the Parliament of the United Kingdom?",
+    "options": [
+      {
+        "id": "uk_q045_o1",
+        "text": "House of Commons and House of Lords"
+      },
+      {
+        "id": "uk_q045_o2",
+        "text": "House of Representatives and Senate"
+      },
+      {
+        "id": "uk_q045_o3",
+        "text": "National Assembly and Senate"
+      },
+      {
+        "id": "uk_q045_o4",
+        "text": "Council of State and Council of Deputies"
+      }
+    ],
+    "correct_option_id": "uk_q045_o1",
+    "explanation": "The UK Parliament is made up of the House of Commons and the House of Lords.",
+    "source_url": "https://www.gov.uk/government/how-government-works",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q046",
+    "question": "After both Houses of Parliament approve a bill, who must approve it before it becomes law?",
+    "options": [
+      {
+        "id": "uk_q046_o1",
+        "text": "The King"
+      },
+      {
+        "id": "uk_q046_o2",
+        "text": "The Speaker of the House of Commons"
+      },
+      {
+        "id": "uk_q046_o3",
+        "text": "The Supreme Court"
+      },
+      {
+        "id": "uk_q046_o4",
+        "text": "The Prime Minister"
+      }
+    ],
+    "correct_option_id": "uk_q046_o1",
+    "explanation": "A bill passed by both Houses must be approved by the King (Royal Assent) before it becomes law.",
+    "source_url": "https://www.gov.uk/government/how-government-works",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q047",
+    "question": "Which Act gives the public the right to request information from UK public sector organisations?",
+    "options": [
+      {
+        "id": "uk_q047_o1",
+        "text": "Freedom of Information Act (2000)"
+      },
+      {
+        "id": "uk_q047_o2",
+        "text": "Data Protection Act (2018)"
+      },
+      {
+        "id": "uk_q047_o3",
+        "text": "Official Secrets Act (1989)"
+      },
+      {
+        "id": "uk_q047_o4",
+        "text": "Human Rights Act (1998)"
+      }
+    ],
+    "correct_option_id": "uk_q047_o1",
+    "explanation": "The Freedom of Information Act gives everyone the right to ask public sector organisations for recorded information they hold.",
+    "source_url": "https://www.gov.uk/government/how-government-works",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q048",
+    "question": "Which law legally protects people from discrimination in the UK?",
+    "options": [
+      {
+        "id": "uk_q048_o1",
+        "text": "Equality Act 2010"
+      },
+      {
+        "id": "uk_q048_o2",
+        "text": "Representation of the People Act 1918"
+      },
+      {
+        "id": "uk_q048_o3",
+        "text": "Human Rights Act 1998"
+      },
+      {
+        "id": "uk_q048_o4",
+        "text": "Government of Wales Act 2006"
+      }
+    ],
+    "correct_option_id": "uk_q048_o1",
+    "explanation": "The Equality Act 2010 legally protects people from discrimination in the workplace and wider society.",
+    "source_url": "https://www.gov.uk/guidance/equality-act-2010-guidance",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q049",
+    "question": "How are services provided by the National Health Service (NHS) paid for by patients?",
+    "options": [
+      {
+        "id": "uk_q049_o1",
+        "text": "Free at the point of use (via taxation)"
+      },
+      {
+        "id": "uk_q049_o2",
+        "text": "Paid through private insurance only"
+      },
+      {
+        "id": "uk_q049_o3",
+        "text": "Only free for people over 65"
+      },
+      {
+        "id": "uk_q049_o4",
+        "text": "Covered by European health insurance cards"
+      }
+    ],
+    "correct_option_id": "uk_q049_o1",
+    "explanation": "The NHS is funded by taxation and provides services free of charge except in limited circumstances.",
+    "source_url": "https://www.gov.uk/government/publications/the-nhs-constitution-for-england",
+    "category": "Culture and everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q050",
+    "question": "In England, at what age can a student legally leave full-time schooling (without further study or training)?",
+    "options": [
+      {
+        "id": "uk_q050_o1",
+        "text": "16"
+      },
+      {
+        "id": "uk_q050_o2",
+        "text": "18"
+      },
+      {
+        "id": "uk_q050_o3",
+        "text": "21"
+      },
+      {
+        "id": "uk_q050_o4",
+        "text": "14"
+      }
+    ],
+    "correct_option_id": "uk_q050_o1",
+    "explanation": "Students can leave school at age 16 (at the end of the school year in which they turn 16).",
+    "source_url": "https://www.gov.uk/know-when-you-can-leave-school",
+    "category": "Culture and everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q051",
+    "question": "Which part of the UK does not have a devolved parliament or assembly?",
+    "options": [
+      {
+        "id": "uk_q051_o1",
+        "text": "England"
+      },
+      {
+        "id": "uk_q051_o2",
+        "text": "Scotland"
+      },
+      {
+        "id": "uk_q051_o3",
+        "text": "Wales"
+      },
+      {
+        "id": "uk_q051_o4",
+        "text": "Northern Ireland"
+      }
+    ],
+    "correct_option_id": "uk_q051_o1",
+    "explanation": "Scotland, Wales and Northern Ireland have devolved parliaments/assemblies; England does not.",
+    "source_url": "https://www.gov.uk/government/publications/devolution-at-20",
+    "category": "Geography and devolution",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q052",
+    "question": "Who is the Head of State of the United Kingdom?",
+    "options": [
+      {
+        "id": "uk_q052_o1",
+        "text": "The Monarch (King Charles III)"
+      },
+      {
+        "id": "uk_q052_o2",
+        "text": "The Prime Minister"
+      },
+      {
+        "id": "uk_q052_o3",
+        "text": "The President"
+      },
+      {
+        "id": "uk_q052_o4",
+        "text": "The Speaker of the House"
+      }
+    ],
+    "correct_option_id": "uk_q052_o1",
+    "explanation": "The UK is a constitutional monarchy; the Sovereign (currently King Charles III) is the Head of State.",
+    "source_url": "https://www.gov.uk/government/topical-events/coronation",
+    "category": "Symbols and identity",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q053",
+    "question": "In the UK, drivers must normally keep to which side of the road?",
+    "options": [
+      {
+        "id": "uk_q053_o1",
+        "text": "Left"
+      },
+      {
+        "id": "uk_q053_o2",
+        "text": "Right"
+      },
+      {
+        "id": "uk_q053_o3",
+        "text": "Centre"
+      },
+      {
+        "id": "uk_q053_o4",
+        "text": "No fixed side"
+      }
+    ],
+    "correct_option_id": "uk_q053_o1",
+    "explanation": "The Highway Code states that drivers in the UK must keep to the left.",
+    "source_url": "https://www.gov.uk/guidance/the-highway-code",
+    "category": "Culture and everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q054",
+    "question": "In what year was the Battle of Trafalgar, Admiral Nelson’s decisive victory?",
+    "options": [
+      {
+        "id": "uk_q054_o1",
+        "text": "1805"
+      },
+      {
+        "id": "uk_q054_o2",
+        "text": "1798"
+      },
+      {
+        "id": "uk_q054_o3",
+        "text": "1940"
+      },
+      {
+        "id": "uk_q054_o4",
+        "text": "1918"
+      }
+    ],
+    "correct_option_id": "uk_q054_o1",
+    "explanation": "The Battle of Trafalgar took place in 1805.",
+    "source_url": "https://www.gov.uk/government/news/navy-commemorates-trafalgar-day",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q055",
+    "question": "What is the standard rate of Value Added Tax (VAT) on most goods and services in the UK?",
+    "options": [
+      {
+        "id": "uk_q055_o1",
+        "text": "20%"
+      },
+      {
+        "id": "uk_q055_o2",
+        "text": "5%"
+      },
+      {
+        "id": "uk_q055_o3",
+        "text": "10%"
+      },
+      {
+        "id": "uk_q055_o4",
+        "text": "25%"
+      }
+    ],
+    "correct_option_id": "uk_q055_o1",
+    "explanation": "Most goods and services in the UK are charged at the standard VAT rate of 20%.",
+    "source_url": "https://www.gov.uk/guidance/rates-of-vat-on-different-goods-and-services",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q056",
+    "question": "Is the UK Parliament unicameral or bicameral?",
+    "options": [
+      {
+        "id": "uk_q056_o1",
+        "text": "Bicameral (two houses)"
+      },
+      {
+        "id": "uk_q056_o2",
+        "text": "Unicameral (one house)"
+      },
+      {
+        "id": "uk_q056_o3",
+        "text": "Tricameral (three bodies)"
+      },
+      {
+        "id": "uk_q056_o4",
+        "text": "Quadricameral (four bodies)"
+      }
+    ],
+    "correct_option_id": "uk_q056_o1",
+    "explanation": "The UK Parliament is bicameral, consisting of the House of Commons and the House of Lords.",
+    "source_url": "https://www.gov.uk/government/how-government-works",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q057",
+    "question": "What is the legal status of forced marriage in the UK?",
+    "options": [
+      {
+        "id": "uk_q057_o1",
+        "text": "It is illegal."
+      },
+      {
+        "id": "uk_q057_o2",
+        "text": "It is allowed with parental consent."
+      },
+      {
+        "id": "uk_q057_o3",
+        "text": "It is only for adults over 25."
+      },
+      {
+        "id": "uk_q057_o4",
+        "text": "It is protected by tradition."
+      }
+    ],
+    "correct_option_id": "uk_q057_o1",
+    "explanation": "UK law makes forced marriage illegal.",
+    "source_url": "https://www.gov.uk/guidance/forced-marriage-unit-guidance",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q058",
+    "question": "St David’s Day (1 March) is the national day of which UK country?",
+    "options": [
+      {
+        "id": "uk_q058_o1",
+        "text": "Wales"
+      },
+      {
+        "id": "uk_q058_o2",
+        "text": "Scotland"
+      },
+      {
+        "id": "uk_q058_o3",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "uk_q058_o4",
+        "text": "England"
+      }
+    ],
+    "correct_option_id": "uk_q058_o1",
+    "explanation": "1 March (St David’s Day) is celebrated as the national day of Wales.",
+    "source_url": "https://www.gov.uk/government/publications/flag-flying-guidance",
+    "category": "Culture and traditions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q059",
+    "question": "St George’s Day (23 April) is the national day of which UK country?",
+    "options": [
+      {
+        "id": "uk_q059_o1",
+        "text": "England"
+      },
+      {
+        "id": "uk_q059_o2",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "uk_q059_o3",
+        "text": "Scotland"
+      },
+      {
+        "id": "uk_q059_o4",
+        "text": "Wales"
+      }
+    ],
+    "correct_option_id": "uk_q059_o1",
+    "explanation": "23 April (St George’s Day) is observed as England’s national day.",
+    "source_url": "https://www.gov.uk/government/publications/flag-flying-guidance",
+    "category": "Culture and traditions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q060",
+    "question": "St Andrew’s Day (30 November) is the national day of which UK country?",
+    "options": [
+      {
+        "id": "uk_q060_o1",
+        "text": "Scotland"
+      },
+      {
+        "id": "uk_q060_o2",
+        "text": "Wales"
+      },
+      {
+        "id": "uk_q060_o3",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "uk_q060_o4",
+        "text": "England"
+      }
+    ],
+    "correct_option_id": "uk_q060_o1",
+    "explanation": "30 November (St Andrew’s Day) is the national day of Scotland.",
+    "source_url": "https://www.gov.uk/government/publications/flag-flying-guidance",
+    "category": "Culture and traditions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q061",
+    "question": "St Patrick’s Day (17 March) is the national day of which UK country?",
+    "options": [
+      {
+        "id": "uk_q061_o1",
+        "text": "Northern Ireland"
+      },
+      {
+        "id": "uk_q061_o2",
+        "text": "Wales"
+      },
+      {
+        "id": "uk_q061_o3",
+        "text": "Scotland"
+      },
+      {
+        "id": "uk_q061_o4",
+        "text": "England"
+      }
+    ],
+    "correct_option_id": "uk_q061_o1",
+    "explanation": "17 March (St Patrick’s Day) is designated as Northern Ireland’s national day.",
+    "source_url": "https://www.gov.uk/government/publications/flag-flying-guidance",
+    "category": "Culture and traditions",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q062",
+    "question": "What licence do you need to watch live television broadcasts or BBC iPlayer in the UK?",
+    "options": [
+      {
+        "id": "uk_q062_o1",
+        "text": "TV Licence"
+      },
+      {
+        "id": "uk_q062_o2",
+        "text": "Radio Licence"
+      },
+      {
+        "id": "uk_q062_o3",
+        "text": "Cable Licence"
+      },
+      {
+        "id": "uk_q062_o4",
+        "text": "Entertainment Licence"
+      }
+    ],
+    "correct_option_id": "uk_q062_o1",
+    "explanation": "You must have a TV Licence to watch or record live TV or use BBC iPlayer.",
+    "source_url": "https://www.gov.uk/tv-licence",
+    "category": "Culture and everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q063",
+    "question": "Winston Churchill was the Prime Minister of the UK during which major conflict?",
+    "options": [
+      {
+        "id": "uk_q063_o1",
+        "text": "World War II"
+      },
+      {
+        "id": "uk_q063_o2",
+        "text": "World War I"
+      },
+      {
+        "id": "uk_q063_o3",
+        "text": "The Falklands War"
+      },
+      {
+        "id": "uk_q063_o4",
+        "text": "The Napoleonic Wars"
+      }
+    ],
+    "correct_option_id": "uk_q063_o1",
+    "explanation": "Winston Churchill led Britain as Prime Minister during the Second World War.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q064",
+    "question": "Victory in Europe Day (VE Day), marking the end of WWII in Europe, occurred in which year?",
+    "options": [
+      {
+        "id": "uk_q064_o1",
+        "text": "1945"
+      },
+      {
+        "id": "uk_q064_o2",
+        "text": "1918"
+      },
+      {
+        "id": "uk_q064_o3",
+        "text": "2001"
+      },
+      {
+        "id": "uk_q064_o4",
+        "text": "1939"
+      }
+    ],
+    "correct_option_id": "uk_q064_o1",
+    "explanation": "VE Day was in 1945, marking the end of the Second World War in Europe.",
+    "source_url": "https://www.gov.uk/government/topical-events/ve-day-and-vj-day-80th-anniversaries",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q065",
+    "question": "Which Prime Minister’s government created the National Health Service (NHS)?",
+    "options": [
+      {
+        "id": "uk_q065_o1",
+        "text": "Clement Attlee"
+      },
+      {
+        "id": "uk_q065_o2",
+        "text": "Winston Churchill"
+      },
+      {
+        "id": "uk_q065_o3",
+        "text": "Margaret Thatcher"
+      },
+      {
+        "id": "uk_q065_o4",
+        "text": "David Lloyd George"
+      }
+    ],
+    "correct_option_id": "uk_q065_o1",
+    "explanation": "Clement Attlee’s post-war government created the National Health Service.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q066",
+    "question": "Since what year has 10 Downing Street been the official residence of the British Prime Minister?",
+    "options": [
+      {
+        "id": "uk_q066_o1",
+        "text": "1735"
+      },
+      {
+        "id": "uk_q066_o2",
+        "text": "1707"
+      },
+      {
+        "id": "uk_q066_o3",
+        "text": "1801"
+      },
+      {
+        "id": "uk_q066_o4",
+        "text": "1900"
+      }
+    ],
+    "correct_option_id": "uk_q066_o1",
+    "explanation": "10 Downing Street has been the Prime Minister’s official residence since 1735.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "category": "Government, constitution and law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q067",
+    "question": "Under UK law, cannabis is classified as which class of controlled drug?",
+    "options": [
+      {
+        "id": "uk_q067_o1",
+        "text": "Class B"
+      },
+      {
+        "id": "uk_q067_o2",
+        "text": "Class A"
+      },
+      {
+        "id": "uk_q067_o3",
+        "text": "Class C"
+      },
+      {
+        "id": "uk_q067_o4",
+        "text": "Not controlled"
+      }
+    ],
+    "correct_option_id": "uk_q067_o1",
+    "explanation": "The UK controlled drugs list classifies cannabis as a Class B drug.",
+    "source_url": "https://www.gov.uk/government/publications/controlled-drugs-list--2",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q068",
+    "question": "The coronation of King Charles III took place in which year?",
+    "options": [
+      {
+        "id": "uk_q068_o1",
+        "text": "2023"
+      },
+      {
+        "id": "uk_q068_o2",
+        "text": "2013"
+      },
+      {
+        "id": "uk_q068_o3",
+        "text": "2008"
+      },
+      {
+        "id": "uk_q068_o4",
+        "text": "2000"
+      }
+    ],
+    "correct_option_id": "uk_q068_o1",
+    "explanation": "King Charles III’s coronation took place in 2023.",
+    "source_url": "https://www.gov.uk/government/topical-events/coronation",
+    "category": "Symbols and identity",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q069",
+    "question": "In what year did referendums in Scotland and Wales approve the creation of their new Parliaments/Assemblies?",
+    "options": [
+      {
+        "id": "uk_q069_o1",
+        "text": "1997"
+      },
+      {
+        "id": "uk_q069_o2",
+        "text": "1999"
+      },
+      {
+        "id": "uk_q069_o3",
+        "text": "1980"
+      },
+      {
+        "id": "uk_q069_o4",
+        "text": "2005"
+      }
+    ],
+    "correct_option_id": "uk_q069_o1",
+    "explanation": "Referendums in Scotland and Wales in 1997 voted to establish a Scottish Parliament and Welsh Assembly.",
+    "source_url": "https://www.gov.uk/government/publications/devolution-at-20",
+    "category": "Geography and devolution",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q070",
+    "question": "In which year did the UK Parliament pass the Acts establishing devolved legislatures for Scotland, Wales, and Northern Ireland?",
+    "options": [
+      {
+        "id": "uk_q070_o1",
+        "text": "1998"
+      },
+      {
+        "id": "uk_q070_o2",
+        "text": "1997"
+      },
+      {
+        "id": "uk_q070_o3",
+        "text": "2006"
+      },
+      {
+        "id": "uk_q070_o4",
+        "text": "2012"
+      }
+    ],
+    "correct_option_id": "uk_q070_o1",
+    "explanation": "In 1998 Parliament passed Acts (Scotland Act, Northern Ireland Act, Government of Wales Act) to set up devolved governments.",
+    "source_url": "https://www.gov.uk/government/publications/devolution-at-20",
+    "category": "Geography and devolution",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q071",
+    "question": "How many Members of Parliament (MPs) sit in the House of Commons?",
+    "options": [
+      {
+        "id": "uk_q071_o1",
+        "text": "650"
+      },
+      {
+        "id": "uk_q071_o2",
+        "text": "600"
+      },
+      {
+        "id": "uk_q071_o3",
+        "text": "700"
+      },
+      {
+        "id": "uk_q071_o4",
+        "text": "500"
+      }
+    ],
+    "correct_option_id": "uk_q071_o1",
+    "explanation": "There are 650 Members of Parliament in the UK House of Commons.",
+    "source_url": "https://www.gov.uk/government/elections-in-the-uk",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q072",
+    "question": "What is the maximum interval between UK general elections (under current law)?",
+    "options": [
+      {
+        "id": "uk_q072_o1",
+        "text": "Five years"
+      },
+      {
+        "id": "uk_q072_o2",
+        "text": "Four years"
+      },
+      {
+        "id": "uk_q072_o3",
+        "text": "Three years"
+      },
+      {
+        "id": "uk_q072_o4",
+        "text": "Ten years"
+      }
+    ],
+    "correct_option_id": "uk_q072_o1",
+    "explanation": "General elections are held at least every five years in the UK.",
+    "source_url": "https://www.gov.uk/government/elections-in-the-uk",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q073",
+    "question": "What did the National Insurance Act 1946 introduce in the UK?",
+    "options": [
+      {
+        "id": "uk_q073_o1",
+        "text": "Mandatory national insurance contributions for workers (social security)"
+      },
+      {
+        "id": "uk_q073_o2",
+        "text": "The National Health Service"
+      },
+      {
+        "id": "uk_q073_o3",
+        "text": "Television licence fees"
+      },
+      {
+        "id": "uk_q073_o4",
+        "text": "Road tax"
+      }
+    ],
+    "correct_option_id": "uk_q073_o1",
+    "explanation": "The National Insurance Act 1946 established a contribution-based social security system requiring working-age people to pay contributions.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q074",
+    "question": "Which industry did the UK government nationalize in 1947 under Clement Attlee?",
+    "options": [
+      {
+        "id": "uk_q074_o1",
+        "text": "Electricity"
+      },
+      {
+        "id": "uk_q074_o2",
+        "text": "Railways"
+      },
+      {
+        "id": "uk_q074_o3",
+        "text": "Banking"
+      },
+      {
+        "id": "uk_q074_o4",
+        "text": "Fishing"
+      }
+    ],
+    "correct_option_id": "uk_q074_o1",
+    "explanation": "The Electricity Act 1947 nationalised the electricity industry in England and Wales.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q075",
+    "question": "In 1947, which two countries gained independence from the UK?",
+    "options": [
+      {
+        "id": "uk_q075_o1",
+        "text": "India and Pakistan"
+      },
+      {
+        "id": "uk_q075_o2",
+        "text": "Ireland and Afghanistan"
+      },
+      {
+        "id": "uk_q075_o3",
+        "text": "USA and Canada"
+      },
+      {
+        "id": "uk_q075_o4",
+        "text": "Australia and New Zealand"
+      }
+    ],
+    "correct_option_id": "uk_q075_o1",
+    "explanation": "India and Pakistan became independent in 1947 during the decolonisation overseen by the UK government.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/clement-attlee",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q076",
+    "question": "Winston Churchill first became Prime Minister in which year?",
+    "options": [
+      {
+        "id": "uk_q076_o1",
+        "text": "1940"
+      },
+      {
+        "id": "uk_q076_o2",
+        "text": "1939"
+      },
+      {
+        "id": "uk_q076_o3",
+        "text": "1945"
+      },
+      {
+        "id": "uk_q076_o4",
+        "text": "1920"
+      }
+    ],
+    "correct_option_id": "uk_q076_o1",
+    "explanation": "Sir Winston Churchill first became Prime Minister in 1940, leading a wartime coalition government.",
+    "source_url": "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill",
+    "category": "British history",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q077",
+    "question": "In the UK, drivers do NOT have to wear a seat belt in which situation?",
+    "options": [
+      {
+        "id": "uk_q077_o1",
+        "text": "When reversing the vehicle"
+      },
+      {
+        "id": "uk_q077_o2",
+        "text": "When driving on a motorway"
+      },
+      {
+        "id": "uk_q077_o3",
+        "text": "When driving on a roundabout"
+      },
+      {
+        "id": "uk_q077_o4",
+        "text": "When stopped at a traffic light"
+      }
+    ],
+    "correct_option_id": "uk_q077_o1",
+    "explanation": "By law, drivers do not have to wear a seat belt when reversing (there are other specific exemptions too).",
+    "source_url": "https://www.gov.uk/seat-belts-law/when-you-dont-need-to-wear-a-seat-belt",
+    "category": "Culture and everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q078",
+    "question": "To vote in a UK general election, one must be a citizen of which of the following?",
+    "options": [
+      {
+        "id": "uk_q078_o1",
+        "text": "British, Irish or qualifying Commonwealth"
+      },
+      {
+        "id": "uk_q078_o2",
+        "text": "Any European Union country"
+      },
+      {
+        "id": "uk_q078_o3",
+        "text": "Only British"
+      },
+      {
+        "id": "uk_q078_o4",
+        "text": "Only Commonwealth"
+      }
+    ],
+    "correct_option_id": "uk_q078_o1",
+    "explanation": "Voters must be 18+ and either British, Irish, or a qualifying Commonwealth citizen to vote in UK general elections.",
+    "source_url": "https://www.gov.uk/government/elections-in-the-uk",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q079",
+    "question": "Which UK Act was passed in 1998 to establish a devolved legislature in Wales?",
+    "options": [
+      {
+        "id": "uk_q079_o1",
+        "text": "Government of Wales Act 1998"
+      },
+      {
+        "id": "uk_q079_o2",
+        "text": "Representation of the People Act 1969"
+      },
+      {
+        "id": "uk_q079_o3",
+        "text": "Magna Carta 1215"
+      },
+      {
+        "id": "uk_q079_o4",
+        "text": "European Communities Act 1972"
+      }
+    ],
+    "correct_option_id": "uk_q079_o1",
+    "explanation": "The Government of Wales Act 1998 established the Welsh Assembly (now Senedd Cymru) as part of devolution.",
+    "source_url": "https://www.gov.uk/government/publications/devolution-at-20",
+    "category": "Government, constitution and law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q080",
+    "question": "What does \"devolution\" mean in the context of UK government?",
+    "options": [
+      {
+        "id": "uk_q080_o1",
+        "text": "Transfer of power from central to regional governments"
+      },
+      {
+        "id": "uk_q080_o2",
+        "text": "Complete independence of a country"
+      },
+      {
+        "id": "uk_q080_o3",
+        "text": "Merging of two countries’ governments"
+      },
+      {
+        "id": "uk_q080_o4",
+        "text": "Repeal of all old laws"
+      }
+    ],
+    "correct_option_id": "uk_q080_o1",
+    "explanation": "Devolution is the decentralisation of power — transferring authority from central government to regional governments such as Scotland, Wales and Northern Ireland.",
+    "source_url": "https://www.gov.uk/government/publications/devolution-at-20",
+    "category": "Government, constitution and law",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q081",
+    "question": "What is the UK government department responsible for setting the national curriculum in England?",
+    "options": [
+      {
+        "id": "uk_q081_o1",
+        "text": "Department for Education",
+        "label": "1"
+      },
+      {
+        "id": "uk_q081_o2",
+        "text": "Ministry of Justice",
+        "label": "2"
+      },
+      {
+        "id": "uk_q081_o3",
+        "text": "Home Office",
+        "label": "3"
+      },
+      {
+        "id": "uk_q081_o4",
+        "text": "Department of Health and Social Care",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q081_o1",
+    "explanation": "The Department for Education has responsibility for children’s services and education including the national curriculum in England.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/department-for-education"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q082",
+    "question": "Which UK body is responsible for publishing legislation (the official record of Acts of Parliament)?",
+    "options": [
+      {
+        "id": "uk_q082_o1",
+        "text": "The National Archives (legislation.gov.uk)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q082_o2",
+        "text": "Parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q082_o3",
+        "text": "Crown Prosecution Service",
+        "label": "3"
+      },
+      {
+        "id": "uk_q082_o4",
+        "text": "Cabinet Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q082_o1",
+    "explanation": "The National Archives hosts legislation.gov.uk, the official home of UK legislation, publishing Acts and statutory instruments.",
+    "source_url": [
+      "https://www.legislation.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q083",
+    "question": "Which office publishes the annual Budget and financial statements for the UK government?",
+    "options": [
+      {
+        "id": "uk_q083_o1",
+        "text": "HM Treasury",
+        "label": "1"
+      },
+      {
+        "id": "uk_q083_o2",
+        "text": "Bank of England",
+        "label": "2"
+      },
+      {
+        "id": "uk_q083_o3",
+        "text": "Office for National Statistics",
+        "label": "3"
+      },
+      {
+        "id": "uk_q083_o4",
+        "text": "Cabinet Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q083_o1",
+    "explanation": "HM Treasury is the government department responsible for economic and financial matters, including the annual Budget.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/hm-treasury"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q084",
+    "question": "What is the minimum age to stand for election as an MP to the UK House of Commons?",
+    "options": [
+      {
+        "id": "uk_q084_o1",
+        "text": "18",
+        "label": "1"
+      },
+      {
+        "id": "uk_q084_o2",
+        "text": "21",
+        "label": "2"
+      },
+      {
+        "id": "uk_q084_o3",
+        "text": "25",
+        "label": "3"
+      },
+      {
+        "id": "uk_q084_o4",
+        "text": "30",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q084_o1",
+    "explanation": "Under current law, any UK citizen aged 18 or over is eligible to stand for election to the House of Commons.",
+    "source_url": [
+      "https://www.parliament.uk/about/how/elections-and-voting/elections/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q085",
+    "question": "Which independent body reviews and proposes changes to parliamentary constituency boundaries in the UK?",
+    "options": [
+      {
+        "id": "uk_q085_o1",
+        "text": "Boundary Commission",
+        "label": "1"
+      },
+      {
+        "id": "uk_q085_o2",
+        "text": "Electoral Commission",
+        "label": "2"
+      },
+      {
+        "id": "uk_q085_o3",
+        "text": "Cabinet Office",
+        "label": "3"
+      },
+      {
+        "id": "uk_q085_o4",
+        "text": "Privy Council",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q085_o1",
+    "explanation": "The Boundary Commissions for each part of the UK review and recommend constituency boundary changes to ensure fair representation.",
+    "source_url": [
+      "https://www.boundarycommission.org.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q086",
+    "question": "What does the UK Electoral Commission regulate?",
+    "options": [
+      {
+        "id": "uk_q086_o1",
+        "text": "Political parties, campaign finance and elections",
+        "label": "1"
+      },
+      {
+        "id": "uk_q086_o2",
+        "text": "Tax policy",
+        "label": "2"
+      },
+      {
+        "id": "uk_q086_o3",
+        "text": "Immigration applications",
+        "label": "3"
+      },
+      {
+        "id": "uk_q086_o4",
+        "text": "Local council planning",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q086_o1",
+    "explanation": "The Electoral Commission oversees elections, regulates political finance and provides guidance to voters and bodies involved in democratic processes.",
+    "source_url": [
+      "https://www.electoralcommission.org.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q087",
+    "question": "Which act defines the principle that Parliament is sovereign in the UK constitution (no single written constitution)?",
+    "options": [
+      {
+        "id": "uk_q087_o1",
+        "text": "There is no single act; parliamentary sovereignty is a constitutional principle",
+        "label": "1"
+      },
+      {
+        "id": "uk_q087_o2",
+        "text": "Magna Carta",
+        "label": "2"
+      },
+      {
+        "id": "uk_q087_o3",
+        "text": "Human Rights Act 1998",
+        "label": "3"
+      },
+      {
+        "id": "uk_q087_o4",
+        "text": "Parliament Act 1911",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q087_o1",
+    "explanation": "Parliamentary sovereignty is a fundamental constitutional principle in the UK constitutional framework rather than the product of a single statute.",
+    "source_url": [
+      "https://www.parliament.uk/site-information/glossary/parliamentary-sovereignty/"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q088",
+    "question": "Which UK body produces research briefings and supports MPs and Peers in their parliamentary duties?",
+    "options": [
+      {
+        "id": "uk_q088_o1",
+        "text": "House of Commons Library",
+        "label": "1"
+      },
+      {
+        "id": "uk_q088_o2",
+        "text": "National Audit Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q088_o3",
+        "text": "Cabinet Office",
+        "label": "3"
+      },
+      {
+        "id": "uk_q088_o4",
+        "text": "Crown Prosecution Service",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q088_o1",
+    "explanation": "The House of Commons Library provides impartial research briefings and analysis to support parliamentary work.",
+    "source_url": [
+      "https://commonslibrary.parliament.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q089",
+    "question": "Which UK institution has final appellate jurisdiction over most UK civil cases since 2009?",
+    "options": [
+      {
+        "id": "uk_q089_o1",
+        "text": "The Supreme Court",
+        "label": "1"
+      },
+      {
+        "id": "uk_q089_o2",
+        "text": "House of Lords",
+        "label": "2"
+      },
+      {
+        "id": "uk_q089_o3",
+        "text": "European Court of Human Rights",
+        "label": "3"
+      },
+      {
+        "id": "uk_q089_o4",
+        "text": "Privy Council",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q089_o1",
+    "explanation": "Since the Supreme Court opened in 2009 it is the highest appellate court for civil cases in the UK (excluding some Commonwealth appeals to the Privy Council).",
+    "source_url": [
+      "https://www.supremecourt.uk/about/role.html"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q090",
+    "question": "Which organisation in the UK is responsible for broadcasting regulation (for TV and radio)?",
+    "options": [
+      {
+        "id": "uk_q090_o1",
+        "text": "Ofcom",
+        "label": "1"
+      },
+      {
+        "id": "uk_q090_o2",
+        "text": "BBC Trust",
+        "label": "2"
+      },
+      {
+        "id": "uk_q090_o3",
+        "text": "Electoral Commission",
+        "label": "3"
+      },
+      {
+        "id": "uk_q090_o4",
+        "text": "Advertising Standards Authority",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q090_o1",
+    "explanation": "Ofcom is the regulator for the TV and radio sectors and sets rules for broadcasting content and standards.",
+    "source_url": [
+      "https://www.ofcom.org.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q091",
+    "question": "Which UK department leads on national defence policy?",
+    "options": [
+      {
+        "id": "uk_q091_o1",
+        "text": "Ministry of Defence",
+        "label": "1"
+      },
+      {
+        "id": "uk_q091_o2",
+        "text": "Home Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q091_o3",
+        "text": "Foreign, Commonwealth & Development Office",
+        "label": "3"
+      },
+      {
+        "id": "uk_q091_o4",
+        "text": "Department for Transport",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q091_o1",
+    "explanation": "The Ministry of Defence is responsible for implementing defence policy and managing the armed forces.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/ministry-of-defence"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q092",
+    "question": "What is the role of His Majesty’s Revenue & Customs (HMRC)?",
+    "options": [
+      {
+        "id": "uk_q092_o1",
+        "text": "Collect taxes and administer some benefits",
+        "label": "1"
+      },
+      {
+        "id": "uk_q092_o2",
+        "text": "Run the NHS",
+        "label": "2"
+      },
+      {
+        "id": "uk_q092_o3",
+        "text": "Oversee criminal prosecutions",
+        "label": "3"
+      },
+      {
+        "id": "uk_q092_o4",
+        "text": "Manage the civil service",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q092_o1",
+    "explanation": "HMRC collects taxes, enforces tax law and administers some tax credits and benefits.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/hm-revenue-customs"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q093",
+    "question": "Which UK authority is responsible for workplace health and safety enforcement?",
+    "options": [
+      {
+        "id": "uk_q093_o1",
+        "text": "Health and Safety Executive (HSE)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q093_o2",
+        "text": "NHS England",
+        "label": "2"
+      },
+      {
+        "id": "uk_q093_o3",
+        "text": "Food Standards Agency",
+        "label": "3"
+      },
+      {
+        "id": "uk_q093_o4",
+        "text": "Home Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q093_o1",
+    "explanation": "The HSE enforces health and safety at work and provides guidance to employers and employees.",
+    "source_url": [
+      "https://www.hse.gov.uk/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q094",
+    "question": "Which law provides the UK with its primary framework for data protection in line with GDPR?",
+    "options": [
+      {
+        "id": "uk_q094_o1",
+        "text": "Data Protection Act 2018",
+        "label": "1"
+      },
+      {
+        "id": "uk_q094_o2",
+        "text": "Freedom of Information Act 2000",
+        "label": "2"
+      },
+      {
+        "id": "uk_q094_o3",
+        "text": "Equality Act 2010",
+        "label": "3"
+      },
+      {
+        "id": "uk_q094_o4",
+        "text": "Human Rights Act 1998",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q094_o1",
+    "explanation": "The Data Protection Act 2018 implements data protection rules including those derived from the EU GDPR into UK law.",
+    "source_url": [
+      "https://www.legislation.gov.uk/ukpga/2018/12/contents"
+    ],
+    "category": "Government, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q095",
+    "question": "Which government department is responsible for immigration, passports and nationality in the UK?",
+    "options": [
+      {
+        "id": "uk_q095_o1",
+        "text": "Home Office",
+        "label": "1"
+      },
+      {
+        "id": "uk_q095_o2",
+        "text": "Foreign Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q095_o3",
+        "text": "Department for Transport",
+        "label": "3"
+      },
+      {
+        "id": "uk_q095_o4",
+        "text": "Ministry of Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q095_o1",
+    "explanation": "The Home Office handles immigration policy, passports, nationality and security matters.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/home-office"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q096",
+    "question": "What is the official age at which someone can get a National Insurance number and start paying NICs for work in the UK?",
+    "options": [
+      {
+        "id": "uk_q096_o1",
+        "text": "16 and over when they start work",
+        "label": "1"
+      },
+      {
+        "id": "uk_q096_o2",
+        "text": "14 and over",
+        "label": "2"
+      },
+      {
+        "id": "uk_q096_o3",
+        "text": "18 and over",
+        "label": "3"
+      },
+      {
+        "id": "uk_q096_o4",
+        "text": "21 and over",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q096_o1",
+    "explanation": "Most people who work in the UK need a National Insurance number and typically apply when they start paid work, often from age 16.",
+    "source_url": [
+      "https://www.gov.uk/apply-national-insurance-number"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q097",
+    "question": "Which UK public body maintains the register of company information and filings?",
+    "options": [
+      {
+        "id": "uk_q097_o1",
+        "text": "Companies House",
+        "label": "1"
+      },
+      {
+        "id": "uk_q097_o2",
+        "text": "Companies Registry",
+        "label": "2"
+      },
+      {
+        "id": "uk_q097_o3",
+        "text": "National Archives",
+        "label": "3"
+      },
+      {
+        "id": "uk_q097_o4",
+        "text": "HMRC",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q097_o1",
+    "explanation": "Companies House registers and maintains records for UK companies including filings and director details.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/companies-house"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q098",
+    "question": "Which official source records Acts and Orders that relate to devolution arrangements for Scotland, Wales and Northern Ireland?",
+    "options": [
+      {
+        "id": "uk_q098_o1",
+        "text": "legislation.gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q098_o2",
+        "text": "gov.uk/news",
+        "label": "2"
+      },
+      {
+        "id": "uk_q098_o3",
+        "text": "parliament.uk/votes",
+        "label": "3"
+      },
+      {
+        "id": "uk_q098_o4",
+        "text": "supremecourt.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q098_o1",
+    "explanation": "Legislation.gov.uk contains the statutes and orders implementing devolution arrangements such as the Scotland Act 1998.",
+    "source_url": [
+      "https://www.legislation.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q099",
+    "question": "Which UK court handles most criminal trials in England and Wales on indictment?",
+    "options": [
+      {
+        "id": "uk_q099_o1",
+        "text": "Crown Court",
+        "label": "1"
+      },
+      {
+        "id": "uk_q099_o2",
+        "text": "Magistrates' Court",
+        "label": "2"
+      },
+      {
+        "id": "uk_q099_o3",
+        "text": "County Court",
+        "label": "3"
+      },
+      {
+        "id": "uk_q099_o4",
+        "text": "Supreme Court",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q099_o1",
+    "explanation": "The Crown Court conducts serious criminal trials on indictment, while Magistrates' Courts handle less serious summary matters.",
+    "source_url": [
+      "https://www.gov.uk/courts"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q100",
+    "question": "Which UK government body is responsible for public health leadership in England?",
+    "options": [
+      {
+        "id": "uk_q100_o1",
+        "text": "UK Health Security Agency (UKHSA)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q100_o2",
+        "text": "NHS England",
+        "label": "2"
+      },
+      {
+        "id": "uk_q100_o3",
+        "text": "Department for Education",
+        "label": "3"
+      },
+      {
+        "id": "uk_q100_o4",
+        "text": "MHRA",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q100_o1",
+    "explanation": "The UK Health Security Agency leads on health protection and public health emergency response in England.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/uk-health-security-agency"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q101",
+    "question": "What is the official independent body that audits government accounts in the UK?",
+    "options": [
+      {
+        "id": "uk_q101_o1",
+        "text": "National Audit Office (NAO)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q101_o2",
+        "text": "Treasury",
+        "label": "2"
+      },
+      {
+        "id": "uk_q101_o3",
+        "text": "Comptroller of the Currency",
+        "label": "3"
+      },
+      {
+        "id": "uk_q101_o4",
+        "text": "Electoral Commission",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q101_o1",
+    "explanation": "The NAO audits government departments and reports to Parliament on value for money and financial management.",
+    "source_url": [
+      "https://www.nao.org.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q102",
+    "question": "Which UK law guarantees rights under the European Convention on Human Rights into UK law?",
+    "options": [
+      {
+        "id": "uk_q102_o1",
+        "text": "Human Rights Act 1998",
+        "label": "1"
+      },
+      {
+        "id": "uk_q102_o2",
+        "text": "Equality Act 2010",
+        "label": "2"
+      },
+      {
+        "id": "uk_q102_o3",
+        "text": "Data Protection Act 2018",
+        "label": "3"
+      },
+      {
+        "id": "uk_q102_o4",
+        "text": "Freedom of Information Act 2000",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q102_o1",
+    "explanation": "The Human Rights Act 1998 incorporates Convention rights into UK law, allowing domestic courts to hear human rights claims.",
+    "source_url": [
+      "https://www.legislation.gov.uk/ukpga/1998/42/contents"
+    ],
+    "category": "Government, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q103",
+    "question": "Which UK government website provides official travel advice for British nationals abroad?",
+    "options": [
+      {
+        "id": "uk_q103_o1",
+        "text": "GOV.UK - Foreign travel advice",
+        "label": "1"
+      },
+      {
+        "id": "uk_q103_o2",
+        "text": "Foreign Office blog",
+        "label": "2"
+      },
+      {
+        "id": "uk_q103_o3",
+        "text": "BBC Travel",
+        "label": "3"
+      },
+      {
+        "id": "uk_q103_o4",
+        "text": "TripAdvisor",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q103_o1",
+    "explanation": "GOV.UK hosts the official 'Foreign travel advice' pages providing safety and entry requirements guidance for UK nationals.",
+    "source_url": [
+      "https://www.gov.uk/foreign-travel-advice"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q104",
+    "question": "What is the name of the UK national weather forecasting service run by the Met Office?",
+    "options": [
+      {
+        "id": "uk_q104_o1",
+        "text": "Met Office",
+        "label": "1"
+      },
+      {
+        "id": "uk_q104_o2",
+        "text": "BBC Weather",
+        "label": "2"
+      },
+      {
+        "id": "uk_q104_o3",
+        "text": "Weather Channel",
+        "label": "3"
+      },
+      {
+        "id": "uk_q104_o4",
+        "text": "NOAA",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q104_o1",
+    "explanation": "The Met Office is the UK’s national meteorological service providing weather forecasts and warnings.",
+    "source_url": [
+      "https://www.metoffice.gov.uk/"
+    ],
+    "category": "Geography",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q105",
+    "question": "Which UK body appoints permanent civil servants and sets standards for the civil service?",
+    "options": [
+      {
+        "id": "uk_q105_o1",
+        "text": "Civil Service Commission",
+        "label": "1"
+      },
+      {
+        "id": "uk_q105_o2",
+        "text": "Cabinet Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q105_o3",
+        "text": "Prime Minister's Office",
+        "label": "3"
+      },
+      {
+        "id": "uk_q105_o4",
+        "text": "Home Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q105_o1",
+    "explanation": "The Civil Service Commission upholds recruitment principles and handles appointments to the civil service.",
+    "source_url": [
+      "https://civilservicecommission.independent.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q106",
+    "question": "Which UK statute made provision for equal pay and equal treatment at work on the basis of sex?",
+    "options": [
+      {
+        "id": "uk_q106_o1",
+        "text": "Equality Act 2010 (consolidating prior laws)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q106_o2",
+        "text": "Representation of the People Act 1918",
+        "label": "2"
+      },
+      {
+        "id": "uk_q106_o3",
+        "text": "Parliament Act 1911",
+        "label": "3"
+      },
+      {
+        "id": "uk_q106_o4",
+        "text": "Employment Rights Act 1996",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q106_o1",
+    "explanation": "The Equality Act 2010 brings together and strengthens equality legislation, including provisions on equal pay and treatment.",
+    "source_url": [
+      "https://www.legislation.gov.uk/ukpga/2010/15/contents"
+    ],
+    "category": "Government, law",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q107",
+    "question": "Which official service provides guidance on starting a business in the UK?",
+    "options": [
+      {
+        "id": "uk_q107_o1",
+        "text": "GOV.UK - Set up a business",
+        "label": "1"
+      },
+      {
+        "id": "uk_q107_o2",
+        "text": "Companies House only",
+        "label": "2"
+      },
+      {
+        "id": "uk_q107_o3",
+        "text": "HMRC only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q107_o4",
+        "text": "Local council guidance only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q107_o1",
+    "explanation": "GOV.UK centralises guidance on how to set up and run a business, including registration and tax obligations.",
+    "source_url": [
+      "https://www.gov.uk/set-up-business"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q108",
+    "question": "Who issues guidance on national flag flying days and protocols in the UK?",
+    "options": [
+      {
+        "id": "uk_q108_o1",
+        "text": "Cabinet Office / GOV.UK guidance",
+        "label": "1"
+      },
+      {
+        "id": "uk_q108_o2",
+        "text": "Parliamentary Archives",
+        "label": "2"
+      },
+      {
+        "id": "uk_q108_o3",
+        "text": "Ministry of Defence",
+        "label": "3"
+      },
+      {
+        "id": "uk_q108_o4",
+        "text": "Home Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q108_o1",
+    "explanation": "Cabinet Office and GOV.UK publish guidance on designated flag flying days and flag protocols for government buildings.",
+    "source_url": [
+      "https://www.gov.uk/government/publications/flying-flags-a-plain-english-guide"
+    ],
+    "category": "Symbols",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q109",
+    "question": "Which UK organisation holds the register of births, marriages and deaths in England and Wales?",
+    "options": [
+      {
+        "id": "uk_q109_o1",
+        "text": "General Register Office (GRO)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q109_o2",
+        "text": "HMRC",
+        "label": "2"
+      },
+      {
+        "id": "uk_q109_o3",
+        "text": "NHS",
+        "label": "3"
+      },
+      {
+        "id": "uk_q109_o4",
+        "text": "Companies House",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q109_o1",
+    "explanation": "The General Register Office maintains civil registration records including births, marriages and deaths in England and Wales.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/general-register-office"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q110",
+    "question": "Which UK authority publishes official statistics like GDP, employment and population estimates?",
+    "options": [
+      {
+        "id": "uk_q110_o1",
+        "text": "Office for National Statistics (ONS)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q110_o2",
+        "text": "National Audit Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q110_o3",
+        "text": "Bank of England",
+        "label": "3"
+      },
+      {
+        "id": "uk_q110_o4",
+        "text": "HM Treasury",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q110_o1",
+    "explanation": "The ONS is the UK’s national statistics institute producing official statistics on the economy and population.",
+    "source_url": [
+      "https://www.ons.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q111",
+    "question": "What is the statutory instrument that underpins the UK's planned approach to net-zero greenhouse gas emissions by 2050?",
+    "options": [
+      {
+        "id": "uk_q111_o1",
+        "text": "Climate Change Act 2008 (as amended)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q111_o2",
+        "text": "Clean Air Act 1956",
+        "label": "2"
+      },
+      {
+        "id": "uk_q111_o3",
+        "text": "Energy Act 2013",
+        "label": "3"
+      },
+      {
+        "id": "uk_q111_o4",
+        "text": "Environment Act 2021",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q111_o1",
+    "explanation": "The Climate Change Act 2008 set a legally binding target for reducing greenhouse gas emissions and was amended to set net-zero by 2050.",
+    "source_url": [
+      "https://www.legislation.gov.uk/ukpga/2008/27/contents"
+    ],
+    "category": "Government, law",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q112",
+    "question": "Which organisation regulates medicines and medical devices in the UK?",
+    "options": [
+      {
+        "id": "uk_q112_o1",
+        "text": "Medicines and Healthcare products Regulatory Agency (MHRA)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q112_o2",
+        "text": "NHS England",
+        "label": "2"
+      },
+      {
+        "id": "uk_q112_o3",
+        "text": "Health and Safety Executive",
+        "label": "3"
+      },
+      {
+        "id": "uk_q112_o4",
+        "text": "Public Health England",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q112_o1",
+    "explanation": "The MHRA is the UK regulator responsible for ensuring medicines and medical devices meet applicable standards of safety and efficacy.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q113",
+    "question": "Which public body in the UK recommends the national curriculum and checks school standards through inspections?",
+    "options": [
+      {
+        "id": "uk_q113_o1",
+        "text": "Ofsted",
+        "label": "1"
+      },
+      {
+        "id": "uk_q113_o2",
+        "text": "Ofcom",
+        "label": "2"
+      },
+      {
+        "id": "uk_q113_o3",
+        "text": "NHS England",
+        "label": "3"
+      },
+      {
+        "id": "uk_q113_o4",
+        "text": "Electoral Commission",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q113_o1",
+    "explanation": "Ofsted inspects schools and publishes judgments on school performance, helping ensure educational standards.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/ofsted"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q114",
+    "question": "Which UK agency oversees the planning and operation of transport infrastructure like rail and roads?",
+    "options": [
+      {
+        "id": "uk_q114_o1",
+        "text": "Department for Transport",
+        "label": "1"
+      },
+      {
+        "id": "uk_q114_o2",
+        "text": "Department for Education",
+        "label": "2"
+      },
+      {
+        "id": "uk_q114_o3",
+        "text": "Ministry of Justice",
+        "label": "3"
+      },
+      {
+        "id": "uk_q114_o4",
+        "text": "Cabinet Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q114_o1",
+    "explanation": "The Department for Transport is responsible for transport policy and infrastructure, including roads and rail.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/department-for-transport"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q115",
+    "question": "Which UK institution is responsible for ensuring official legal advice to the government and representing it in court (Attorney General's role)?",
+    "options": [
+      {
+        "id": "uk_q115_o1",
+        "text": "Attorney General’s Office",
+        "label": "1"
+      },
+      {
+        "id": "uk_q115_o2",
+        "text": "Crown Prosecution Service",
+        "label": "2"
+      },
+      {
+        "id": "uk_q115_o3",
+        "text": "Ministry of Justice",
+        "label": "3"
+      },
+      {
+        "id": "uk_q115_o4",
+        "text": "Cabinet Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q115_o1",
+    "explanation": "The Attorney General’s Office provides legal advice to the government and oversees public prosecutions and legal matters.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/attorney-generals-office"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q116",
+    "question": "Which UK register lists designated public landing sites for sea and air safety?",
+    "options": [
+      {
+        "id": "uk_q116_o1",
+        "text": "Maritime and Coastguard Agency (MCA) publications",
+        "label": "1"
+      },
+      {
+        "id": "uk_q116_o2",
+        "text": "Civil Aviation Authority registry",
+        "label": "2"
+      },
+      {
+        "id": "uk_q116_o3",
+        "text": "Companies House",
+        "label": "3"
+      },
+      {
+        "id": "uk_q116_o4",
+        "text": "NHS registers",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q116_o1",
+    "explanation": "The Maritime and Coastguard Agency oversees maritime safety and records relevant safety guidance and designated sites.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
+    ],
+    "category": "Geography",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q117",
+    "question": "Which official UK site provides guidance about voting, registration, and postal voting?",
+    "options": [
+      {
+        "id": "uk_q117_o1",
+        "text": "GOV.UK - Vote and elections guidance",
+        "label": "1"
+      },
+      {
+        "id": "uk_q117_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q117_o3",
+        "text": "electoralcommission.org.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q117_o4",
+        "text": "hmrc.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q117_o1",
+    "explanation": "GOV.UK collates official information on how to register to vote, how to vote and applying for postal ballots.",
+    "source_url": [
+      "https://www.gov.uk/register-to-vote"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q118",
+    "question": "Which UK body is responsible for licensing and oversight of social care services in England?",
+    "options": [
+      {
+        "id": "uk_q118_o1",
+        "text": "Care Quality Commission (CQC)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q118_o2",
+        "text": "NHS England",
+        "label": "2"
+      },
+      {
+        "id": "uk_q118_o3",
+        "text": "Ofsted",
+        "label": "3"
+      },
+      {
+        "id": "uk_q118_o4",
+        "text": "Local councils",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q118_o1",
+    "explanation": "The CQC regulates health and social care services in England, inspecting and rating providers for safety and quality.",
+    "source_url": [
+      "https://www.cqc.org.uk/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q119",
+    "question": "Which UK body issues guidance on household waste and recycling for local authorities?",
+    "options": [
+      {
+        "id": "uk_q119_o1",
+        "text": "Department for Environment, Food & Rural Affairs (DEFRA) guidance",
+        "label": "1"
+      },
+      {
+        "id": "uk_q119_o2",
+        "text": "Environment Agency only",
+        "label": "2"
+      },
+      {
+        "id": "uk_q119_o3",
+        "text": "Local councils only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q119_o4",
+        "text": "Ofcom",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q119_o1",
+    "explanation": "DEFRA issues national waste and recycling guidance and policy for local authorities in England.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q120",
+    "question": "Which UK department leads on business regulation and industrial strategy?",
+    "options": [
+      {
+        "id": "uk_q120_o1",
+        "text": "Department for Business and Trade (formerly BEIS)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q120_o2",
+        "text": "Department for Education",
+        "label": "2"
+      },
+      {
+        "id": "uk_q120_o3",
+        "text": "HM Treasury",
+        "label": "3"
+      },
+      {
+        "id": "uk_q120_o4",
+        "text": "Cabinet Office",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q120_o1",
+    "explanation": "The Department for Business and Trade supports businesses, trade policy and industrial strategy at the national level.",
+    "source_url": [
+      "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q121",
+    "question": "Which UK agency maintains the list of protected war memorials and historic places?",
+    "options": [
+      {
+        "id": "uk_q121_o1",
+        "text": "Historic England (and similar bodies)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q121_o2",
+        "text": "National Audit Office",
+        "label": "2"
+      },
+      {
+        "id": "uk_q121_o3",
+        "text": "MHRA",
+        "label": "3"
+      },
+      {
+        "id": "uk_q121_o4",
+        "text": "Ofsted",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q121_o1",
+    "explanation": "Historic England advises on and maintains records of listed buildings and protected historic sites in England.",
+    "source_url": [
+      "https://historicengland.org.uk/"
+    ],
+    "category": "History",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q122",
+    "question": "Which official UK website explains the rules on statutory sick pay for employees?",
+    "options": [
+      {
+        "id": "uk_q122_o1",
+        "text": "GOV.UK - Statutory sick pay guidance",
+        "label": "1"
+      },
+      {
+        "id": "uk_q122_o2",
+        "text": "ACAS site only",
+        "label": "2"
+      },
+      {
+        "id": "uk_q122_o3",
+        "text": "NHS site only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q122_o4",
+        "text": "HMRC site only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q122_o1",
+    "explanation": "GOV.UK provides the official guidance on statutory sick pay entitlements and employer obligations.",
+    "source_url": [
+      "https://www.gov.uk/statutory-sick-pay"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q123",
+    "question": "Which UK government body is responsible for the national curriculum in Wales (Welsh Parliament area)?",
+    "options": [
+      {
+        "id": "uk_q123_o1",
+        "text": "Welsh Government",
+        "label": "1"
+      },
+      {
+        "id": "uk_q123_o2",
+        "text": "Department for Education (England)",
+        "label": "2"
+      },
+      {
+        "id": "uk_q123_o3",
+        "text": "Scottish Government",
+        "label": "3"
+      },
+      {
+        "id": "uk_q123_o4",
+        "text": "Northern Ireland Executive",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q123_o1",
+    "explanation": "Education is devolved; the Welsh Government is responsible for curriculum and education policy in Wales.",
+    "source_url": [
+      "https://gov.wales/education-skills-and-learning"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q124",
+    "question": "Which UK statutory body is responsible for maintaining standards in legal practice (Solicitors Regulation Authority)?",
+    "options": [
+      {
+        "id": "uk_q124_o1",
+        "text": "Solicitors Regulation Authority (SRA)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q124_o2",
+        "text": "Bar Standards Board",
+        "label": "2"
+      },
+      {
+        "id": "uk_q124_o3",
+        "text": "Law Society only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q124_o4",
+        "text": "Ministry of Justice",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q124_o1",
+    "explanation": "The SRA regulates solicitors in England and Wales, setting professional standards and enforcing compliance.",
+    "source_url": [
+      "https://www.sra.org.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Hard",
+    "time_limit_seconds": 45,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q125",
+    "question": "Which official UK page explains the rights tenants have and the responsibilities of landlords?",
+    "options": [
+      {
+        "id": "uk_q125_o1",
+        "text": "GOV.UK - Renting in England guidance",
+        "label": "1"
+      },
+      {
+        "id": "uk_q125_o2",
+        "text": "Citizens Advice only",
+        "label": "2"
+      },
+      {
+        "id": "uk_q125_o3",
+        "text": "Local council pages only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q125_o4",
+        "text": "Shelter only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q125_o1",
+    "explanation": "GOV.UK publishes official guidance on renting rules, tenant rights and landlord responsibilities for England.",
+    "source_url": [
+      "https://www.gov.uk/private-renting"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q126",
+    "question": "Which UK public body oversees rail regulation and passenger rights?",
+    "options": [
+      {
+        "id": "uk_q126_o1",
+        "text": "Office of Rail and Road (ORR)",
+        "label": "1"
+      },
+      {
+        "id": "uk_q126_o2",
+        "text": "Department for Transport only",
+        "label": "2"
+      },
+      {
+        "id": "uk_q126_o3",
+        "text": "Network Rail",
+        "label": "3"
+      },
+      {
+        "id": "uk_q126_o4",
+        "text": "Ofcom",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q126_o1",
+    "explanation": "The ORR regulates railways and enforces passenger rights and industry standards.",
+    "source_url": [
+      "https://orr.gov.uk/"
+    ],
+    "category": "Everyday life",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q127",
+    "question": "Which UK agency is responsible for collecting and publishing crime statistics?",
+    "options": [
+      {
+        "id": "uk_q127_o1",
+        "text": "Office for National Statistics (ONS) and police-data publications",
+        "label": "1"
+      },
+      {
+        "id": "uk_q127_o2",
+        "text": "Home Office/ONS jointly",
+        "label": "2"
+      },
+      {
+        "id": "uk_q127_o3",
+        "text": "CPS only",
+        "label": "3"
+      },
+      {
+        "id": "uk_q127_o4",
+        "text": "NAO only",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q127_o1",
+    "explanation": "ONS, often using police and Home Office data, publishes the official crime statistics and analyses.",
+    "source_url": [
+      "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice"
+    ],
+    "category": "Government",
+    "difficulty": "Medium",
+    "time_limit_seconds": 30,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q128",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q128_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q128_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q128_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q128_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q128_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q129",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q129_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q129_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q129_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q129_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q129_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q130",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q130_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q130_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q130_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q130_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q130_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q131",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q131_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q131_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q131_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q131_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q131_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q132",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q132_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q132_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q132_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q132_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q132_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q133",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q133_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q133_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q133_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q133_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q133_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q134",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q134_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q134_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q134_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q134_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q134_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q135",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q135_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q135_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q135_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q135_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q135_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q136",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q136_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q136_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q136_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q136_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q136_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q137",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q137_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q137_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q137_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q137_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q137_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q138",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q138_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q138_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q138_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q138_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q138_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q139",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q139_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q139_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q139_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q139_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q139_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q140",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q140_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q140_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q140_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q140_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q140_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q141",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q141_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q141_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q141_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q141_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q141_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q142",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q142_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q142_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q142_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q142_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q142_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q143",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q143_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q143_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q143_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q143_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q143_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q144",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q144_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q144_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q144_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q144_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q144_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q145",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q145_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q145_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q145_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q145_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q145_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q146",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q146_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q146_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q146_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q146_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q146_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q147",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q147_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q147_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q147_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q147_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q147_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q148",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q148_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q148_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q148_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q148_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q148_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q149",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q149_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q149_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q149_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q149_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q149_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q150",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q150_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q150_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q150_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q150_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q150_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q151",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q151_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q151_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q151_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q151_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q151_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q152",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q152_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q152_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q152_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q152_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q152_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q153",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q153_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q153_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q153_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q153_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q153_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q154",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q154_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q154_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q154_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q154_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q154_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q155",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q155_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q155_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q155_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q155_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q155_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q156",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q156_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q156_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q156_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q156_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q156_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q157",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q157_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q157_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q157_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q157_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q157_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q158",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q158_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q158_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q158_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q158_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q158_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q159",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q159_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q159_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q159_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q159_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q159_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  },
+  {
+    "id": "uk_q160",
+    "question": "What is the official website for UK government services and information?",
+    "options": [
+      {
+        "id": "uk_q160_o1",
+        "text": "gov.uk",
+        "label": "1"
+      },
+      {
+        "id": "uk_q160_o2",
+        "text": "parliament.uk",
+        "label": "2"
+      },
+      {
+        "id": "uk_q160_o3",
+        "text": "nhs.uk",
+        "label": "3"
+      },
+      {
+        "id": "uk_q160_o4",
+        "text": "legislation.gov.uk",
+        "label": "4"
+      }
+    ],
+    "correct_option_id": "uk_q160_o1",
+    "explanation": "GOV.UK is the central official website for UK government services and public information.",
+    "source_url": [
+      "https://www.gov.uk/"
+    ],
+    "category": "Government",
+    "difficulty": "Easy",
+    "time_limit_seconds": 20,
+    "country_code": "UK"
+  }
+]
